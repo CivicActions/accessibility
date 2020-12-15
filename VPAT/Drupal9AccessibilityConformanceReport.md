@@ -51,9 +51,7 @@ This report covers the degree of conformance for the following accessibility sta
 
 | Standard/Guideline | Included In Report            |
 |--------------------|-------------------------------|
-|  [Web Content Accessibility Guidelines 2.0](https://www.google.com/url?q=http://www.w3.org/TR/2008/REC-WCAG20-20081211&sa=D&ust=1607973994149000&usg=AOvVaw3-0gHe7v6ATtZlroyhloWx)  | Level A (Yes) 
-Level AA (Yes)
-Level AAA (No)  |
+|  [Web Content Accessibility Guidelines 2.0](https://www.google.com/url?q=http://www.w3.org/TR/2008/REC-WCAG20-20081211&sa=D&ust=1607973994149000&usg=AOvVaw3-0gHe7v6ATtZlroyhloWx)  | Level A (Yes) <br />Level AA (Yes) <br />Level AAA (No)  |
 | [Revised Section 508 standards published January 18, 2017 and corrected January 22, 2018](https://www.google.com/url?q=https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines&sa=D&ust=1607973994151000&usg=AOvVaw0XOEd3xy37OohdwzhT1Tpa)   | (Yes) |
 
 Terms
