@@ -138,324 +138,84 @@ Note: When reporting on conformance with the WCAG 2.0 Success Criteria, they are
 
 **Notes:**
 
-Criteria
 
-Conformance Level
+||||
+|--- |--- |--- |
+|Criteria|Conformance Level|Remarks and Explanations|
+|1.2.6 Sign Language (Prerecorded) (Level AAA)Revised Section 508 – Does not apply|Web: Not Applicable|Web: Not Applicable|
+|1.2.7 Extended Audio Description (Prerecorded) (Level AAA)Revised Section 508 – Does not apply|Web: Not Applicable|Web: Not Applicable|
+|1.2.8 Media Alternative (Prerecorded) (Level AAA)Revised Section 508 – Does not apply|Web: Not Applicable|Web: Not Applicable|
+|1.2.9 Audio-only (Live) (Level AAA)Revised Section 508 – Does not apply|Web: Not Applicable|Web: Not Applicable|
+|1.4.6 Contrast (Enhanced)  (Level AAA)Revised Section 508 – Does not apply|Web: Supports|Web: A front-end and back-end theme could be configured to allow this to comply.|
+|1.4.7 Low or No Background Audio (Level AAA)Revised Section 508 – Does not apply|Web: Not Applicable|Web: Not Applicable|
+|1.4.8 Visual Presentation (Level AAA)Revised Section 508 – Does not apply|Web: Not Applicable|Web: Not Applicable|
+|1.4.9 Images of Text (No Exception) (Level AAA)Revised Section 508 – Does not apply|Web: Supports|Web: Text images are all supplied by the author.|
+|2.1.3 Keyboard (No Exception) (Level AAA)Revised Section 508 – Does not apply|Web: Supports|Web: The web front-end is not a barrier to keyboard only users.|
+|2.2.3 No Timing (Level AAA)Revised Section 508 – Does not apply|Web: Supports|Web: There are no timeouts in Drupal Core that would affect people with disabilities.|
+|2.2.4 Interruptions (Level AAA)Revised Section 508 – Does not apply|Web: Not Applicable|Web: Not Applicable|
+|2.2.5 Re-authenticating (Level AAA)Revised Section 508 – Does not apply|Web: Not Applicable|Web: Not Applicable|
+|2.3.2 Three Flashes (Level AAA)Revised Section 508 – Does not apply|Web: Supports|Web: There is no flashing content.|
+|2.4.8 Location (Level AAA)Revised Section 508 – Does not apply|Web: Supports|Web: Breadcrumbs are available and sitemap modules can be added to provide additional means for navigation.|
+|2.4.9 Link Purpose (Link Only) (Level AAA)Revised Section 508 – Does not apply|Web: Supports|Web: Link text is provided with related information for assistive technology.|
+|2.4.10 Section Headings (Level AAA)Revised Section 508 – Does not apply|Web: Supports|Web: Drupal provides heading elements at the beginning of each section of content.|
+|3.1.3 Unusual Words (Level AAA)Revised Section 508 – Does not apply|Web: Not Applicable|Web: Not Applicable|
+|3.1.4 Abbreviations (Level AAA)Revised Section 508 – Does not apply|Web: Not Applicable|Web: Not Applicable|
+|3.1.5 Reading Level (Level AAA)Revised Section 508 – Does not apply|Web: Not Applicable|Web: Not Applicable|
+|3.1.6 Pronunciation (Level AAA)Revised Section 508 – Does not apply|Web: Not Applicable|Web: Not Applicable|
+|3.2.5 Change on Request (Level AAA)Revised Section 508 – Does not apply|Web: Not Applicable|Web: Not Applicable|
+|3.3.5 Help (Level AAA)Revised Section 508 – Does not apply|Web: Not Applicable|Web: Not Applicable|
+|3.3.6 Error Prevention (All) (Level AAA)Revised Section 508 – Does not apply|Web: Not Applicable|Web: Not Applicable|
 
-Remarks and Explanations
 
-[1.2.6 Sign Language (Prerecorded)](https://www.google.com/url?q=http://www.w3.org/TR/WCAG20/%23media-equiv-sign&sa=D&ust=1607973994376000&usg=AOvVaw13IlILcxc1Bg10VBl1eaZR) (Level AAA)
 
-Revised Section 508 – Does not apply
-
-Web: Not Applicable
-
-Web: Not Applicable
-
-[1.2.7 Extended Audio Description (Prerecorded)](https://www.google.com/url?q=http://www.w3.org/TR/WCAG20/%23media-equiv-extended-ad&sa=D&ust=1607973994379000&usg=AOvVaw1qe5K2TO11yYakQpwORZ_S) (Level AAA)
-
-Revised Section 508 – Does not apply
-
-Web: Not Applicable
-
-Web: Not Applicable
-
-[1.2.8 Media Alternative (Prerecorded)](https://www.google.com/url?q=http://www.w3.org/TR/WCAG20/%23media-equiv-text-doc&sa=D&ust=1607973994383000&usg=AOvVaw3mAGbJC2pZGmnBGyQCv1_T) (Level AAA)
-
-Revised Section 508 – Does not apply
-
-Web: Not Applicable
-
-Web: Not Applicable
-
-[1.2.9 Audio-only (Live)](https://www.google.com/url?q=http://www.w3.org/TR/WCAG20/%23media-equiv-live-audio-only&sa=D&ust=1607973994387000&usg=AOvVaw3NRc6n_pplhyMHM1Hi6pl0) (Level AAA)
-
-Revised Section 508 – Does not apply
-
-Web: Not Applicable
-
-Web: Not Applicable
-
-[1.4.6 Contrast (Enhanced](https://www.google.com/url?q=http://www.w3.org/TR/WCAG20/%23visual-audio-contrast7&sa=D&ust=1607973994390000&usg=AOvVaw3Lq-mr8moWYgLoMpLtdKre))  (Level AAA)
-
-Revised Section 508 – Does not apply
-
-Web: Supports
-
-Web: A front\-end and back-end theme could be configured to allow this to comply.
-
-[1.4.7 Low or No Background Audio](https://www.google.com/url?q=http://www.w3.org/TR/WCAG20/%23visual-audio-contrast-noaudio&sa=D&ust=1607973994392000&usg=AOvVaw3ZOwVwGnj_HUH-7jgGSVUg) (Level AAA)
-
-Revised Section 508 – Does not apply
-
-Web: Not Applicable
-
-Web: Not Applicable
-
-[1.4.8 Visual Presentation](https://www.google.com/url?q=http://www.w3.org/TR/WCAG20/%23visual-audio-contrast-visual-presentation&sa=D&ust=1607973994396000&usg=AOvVaw1glGHvCbtP8RrGuDQ2VBRS) (Level AAA)
-
-Revised Section 508 – Does not apply
-
-Web: Not Applicable
-
-Web: Not Applicable
-
-[1.4.9 Images of Text (No Exception)](https://www.google.com/url?q=http://www.w3.org/TR/WCAG20/%23http://www.w3.org/TR/WCAG20/&sa=D&ust=1607973994399000&usg=AOvVaw3NK7ZO5E0lTi7m13ATMZGd) (Level AAA)
-
-Revised Section 508 – Does not apply
-
-Web: Supports
-
-Web: Text images are all supplied by the author.
-
-[2.1.3 Keyboard (No Exception)](https://www.google.com/url?q=http://www.w3.org/TR/WCAG20/%23keyboard-operation-all-funcs&sa=D&ust=1607973994403000&usg=AOvVaw1TB7drCdJx5XjNrx8dex0_) (Level AAA)
-
-Revised Section 508 – Does not apply
-
-Web: Supports
-
-Web: The web front-end is not a barrier to keyboard only users.
-
-[2.2.3 No Timing](https://www.google.com/url?q=http://www.w3.org/TR/WCAG20/%23time-limits-no-exceptions&sa=D&ust=1607973994407000&usg=AOvVaw1prF7_umJmg6vJsWJsT0Vn) (Level AAA)
-
-Revised Section 508 – Does not apply
-
-Web: Supports
-
-Web: There are no timeouts in Drupal Core that would affect people with disabilities.
-
-[2.2.4 Interruptions](https://www.google.com/url?q=http://www.w3.org/TR/WCAG20/%23time-limits-postponed&sa=D&ust=1607973994411000&usg=AOvVaw2IhXi1BRKXRCxXvN22q1vW) (Level AAA)
-
-Revised Section 508 – Does not apply
-
-Web: Not Applicable
-
-Web: Not Applicable
-
-[2.2.5 Re-authenticating](https://www.google.com/url?q=http://www.w3.org/TR/WCAG20/%23time-limits-server-timeout&sa=D&ust=1607973994415000&usg=AOvVaw0qXEV0gEibnfWDoD54RpOB) (Level AAA)
-
-Revised Section 508 – Does not apply
-
-Web: Not Applicable
-
-Web: Not Applicable
-
-[2.3.2 Three Flashes](https://www.google.com/url?q=http://www.w3.org/TR/WCAG20/%23seizure-three-times&sa=D&ust=1607973994419000&usg=AOvVaw2eml4c_S21UsN0lflg9El3) (Level AAA)
-
-Revised Section 508 – Does not apply
-
-Web: Supports
-
-Web: There is no flashing content.
-
-[2.4.8 Location](https://www.google.com/url?q=http://www.w3.org/TR/WCAG20/%23navigation-mechanisms-location&sa=D&ust=1607973994422000&usg=AOvVaw1NQLfl6ow75xr1ykbIAzf6) (Level AAA)
-
-Revised Section 508 – Does not apply
-
-Web: Supports
-
-Web: Breadcrumbs are available and sitemap modules can be added to provide additional means for navigation.
-
-[2.4.9 Link Purpose (Link Only)](https://www.google.com/url?q=http://www.w3.org/TR/WCAG20/%23navigation-mechanisms-link&sa=D&ust=1607973994425000&usg=AOvVaw1gZjY2rjS4IgGrb3SLIulQ) (Level AAA)
-
-Revised Section 508 – Does not apply
-
-Web: Supports
-
-Web: Link text is provided with related information for assistive technology.
-
-[2.4.10 Section Headings](https://www.google.com/url?q=http://www.w3.org/TR/WCAG20/%23navigation-mechanisms-headings&sa=D&ust=1607973994429000&usg=AOvVaw1UvFUBvKDorgitdls52ewf) (Level AAA)
-
-Revised Section 508 – Does not apply
-
-Web: Supports
-
-Web: Drupal provides heading elements at the beginning of each section of content.
-
-[3.1.3 Unusual Words](https://www.google.com/url?q=http://www.w3.org/TR/WCAG20/%23meaning-idioms&sa=D&ust=1607973994433000&usg=AOvVaw32KAI7qqptHdOOzUXMXM50) (Level AAA)
-
-Revised Section 508 – Does not apply
-
-Web: Not Applicable
-
-Web: Not Applicable
-
-[3.1.4 Abbreviations](https://www.google.com/url?q=http://www.w3.org/TR/WCAG20/%23meaning-located&sa=D&ust=1607973994437000&usg=AOvVaw0XD2WhitoMXXqFjHzGp8Gq) (Level AAA)
-
-Revised Section 508 – Does not apply
-
-Web: Not Applicable
-
-Web: Not Applicable
-
-[3.1.5 Reading Level](https://www.google.com/url?q=http://www.w3.org/TR/WCAG20/%23meaning-supplements&sa=D&ust=1607973994440000&usg=AOvVaw0ovcBOI2dC_swFeb_s8aNe) (Level AAA)
-
-Revised Section 508 – Does not apply
-
-Web: Not Applicable
-
-Web: Not Applicable
-
-[3.1.6 Pronunciation](https://www.google.com/url?q=http://www.w3.org/TR/WCAG20/%23meaning-pronunciation&sa=D&ust=1607973994443000&usg=AOvVaw1Tk7_90HxRUSPiKRz3hTFv) (Level AAA)
-
-Revised Section 508 – Does not apply
-
-Web: Not Applicable
-
-Web: Not Applicable
-
-[3.2.5 Change on Request](https://www.google.com/url?q=http://www.w3.org/TR/WCAG20/%23consistent-behavior-no-extreme-changes-context&sa=D&ust=1607973994447000&usg=AOvVaw2Xll1TpIQ0-ffALiyW57a_) (Level AAA)
-
-Revised Section 508 – Does not apply
-
-Web: Not Applicable
-
-Web: Not Applicable
-
-[3.3.5 Help](https://www.google.com/url?q=http://www.w3.org/TR/WCAG20/%23minimize-error-context-help&sa=D&ust=1607973994450000&usg=AOvVaw3Lx85u8iMXJbwgzbD_sHZR) (Level AAA)
-
-Revised Section 508 – Does not apply
-
-Web: Not Applicable
-
-Web: Not Applicable
-
-[3.3.6 Error Prevention (All)](https://www.google.com/url?q=http://www.w3.org/TR/WCAG20/%23minimize-error-reversible-all&sa=D&ust=1607973994453000&usg=AOvVaw36CcyyYaZGqyNH9b4rSfSQ) (Level AAA)
-
-Revised Section 508 – Does not apply
-
-Web: Not Applicable
-
-Web: Not Applicable
-
-* * *
 
 Revised Section 508 Report
 --------------------------
 
-Notes:
+**Notes:**
 
 ### Chapter 3: [Functional Performance Criteria](https://www.google.com/url?q=https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines%23302-functional-performance-criteria&sa=D&ust=1607973994456000&usg=AOvVaw2KEQJ3FoiGBoF6akb_cG9O) (FPC)
 
-Notes:
+**Notes:**
 
-Criteria
+||||
+|--- |--- |--- |
+|Criteria|Conformance Level|Remarks and Explanations|
+|302.1 Without Vision|Supports|Testing has been done with JAWS, NVDA and VoiceOver|
+|302.2 With Limited Vision|Supports|Testing has been done with browser zoom and ZoomText.|
+|302.3 Without Perception of Color|Supports|The interface has been reviewed for use of color.|
+|302.4 Without Hearing|Not Applicable||
+|302.5 With Limited Hearing|Not Applicable||
+|302.6 Without Speech|Not Applicable||
+|302.7 With Limited Manipulation|Supports|Drupal’s interface does not restrict users with limited manipulation.|
+|302.8 With Limited Reach and Strength|Supports|Drupal’s interface does not restrict users with limited reach or strength.|
+|302.9 With Limited Language, Cognitive, and Learning Abilities|Not Applicable||
 
-Conformance Level
-
-Remarks and Explanations
-
-302.1 Without Vision
-
-Supports
-
-Testing has been done with JAWS, NVDA and VoiceOver
-
-302.2 With Limited Vision
-
-Supports
-
-Testing has been done with browser zoom and ZoomText.
-
-302.3 Without Perception of Color
-
-Supports
-
-The interface has been reviewed for use of color.
-
-302.4 Without Hearing
-
-Not Applicable
-
-302.5 With Limited Hearing
-
-Not Applicable
-
-302.6 Without Speech
-
-Not Applicable
-
-302.7 With Limited Manipulation
-
-Supports
-
-Drupal’s interface does not restrict users with limited manipulation.
-
-302.8 With Limited Reach and Strength
-
-Supports
-
-Drupal’s interface does not restrict users with limited reach or strength.
-
-302.9 With Limited Language, Cognitive, and Learning Abilities
-
-Not Applicable
 
 ### Chapter 4: [Hardware](https://www.google.com/url?q=https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines%23401-general&sa=D&ust=1607973994470000&usg=AOvVaw3gWN-mMYK_IwO62YbZ-Uwi)
 
-Notes: Drupal is a web application. Hardware accessibility criteria is not applicable.
+**Notes:** Drupal is a web application. Hardware accessibility criteria is not applicable.
 
 ### Chapter 5: [Software](https://www.google.com/url?q=https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines%23501-general&sa=D&ust=1607973994471000&usg=AOvVaw1jeoXrXLFsjD0wbpSeTSNE)
 
-Notes: Drupal is a web application.
+**Notes:** Drupal is a web application.
 
 ### Chapter 6: [Support Documentation and Services](https://www.google.com/url?q=https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines%23601-general&sa=D&ust=1607973994472000&usg=AOvVaw2_S_DhLqpLaJuCht7o_Jfn)
 
-Notes:
+**Notes:**
 
-Criteria
+||||
+|--- |--- |--- |
+|Criteria|Conformance Level|Remarks and Explanations|
+|601.1 Scope|Heading cell – no response required|Heading cell – no response required|
+|602 Support Documentation|Heading cell – no response required|Heading cell – no response required|
+|602.2 Accessibility and Compatibility Features|Supports|Documentation is hosted on Drupal.org which works to support WCAG 2.1 AA compliance.|
+|602.3 Electronic Support Documentation|See WCAG 2.0 section|See information in WCAG 2.0 section|
+|602.4 Alternate Formats for Non-Electronic Support Documentation|Not Applicable|Not Applicable|
+|603 Support Services|Heading cell – no response required|Heading cell – no response required|
+|603.2 Information on Accessibility and Compatibility Features|Supports|Drupal.org’s accessibility features are documented.|
+|603.3 Accommodation of Communication Needs|Not Applicable|Not Applicable|
 
-Conformance Level
-
-Remarks and Explanations
-
-601.1 Scope
-
-Heading cell – no response required
-
-Heading cell – no response required
-
-[602 Support Documentation](https://www.google.com/url?q=https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines%23602-support-documentation&sa=D&ust=1607973994476000&usg=AOvVaw16nSH_ya5yLfiPrr-4HYER)
-
-Heading cell – no response required
-
-Heading cell – no response required
-
-602.2 Accessibility and Compatibility Features
-
-Supports
-
-Documentation is hosted on Drupal.org which works to support WCAG 2.1 AA compliance.
-
-602.3 Electronic Support Documentation
-
-See [WCAG 2.0](#id.ihv636) section
-
-See information in WCAG 2.0 section
-
-602.4 Alternate Formats for Non-Electronic Support Documentation
-
-Not Applicable
-
-Not Applicable
-
-[603 Support Services](https://www.google.com/url?q=https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines%23603-support-services&sa=D&ust=1607973994482000&usg=AOvVaw0xEbjMEZi8cuDvWVw9iwEd)
-
-Heading cell – no response required
-
-Heading cell – no response required
-
-603.2 Information on Accessibility and Compatibility Features
-
-Supports
-
-Drupal.org’s accessibility features are documented.
-
-603.3 Accommodation of Communication Needs
-
-Not Applicable
-
-Not Applicable
 
 Legal Disclaimer (CivicActions)
 -------------------------------
