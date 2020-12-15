@@ -12,7 +12,7 @@ Name of Product/Version: Drupal 9.2
 Report Date: 14 December, 2020
 ------------------------------
 
-Report Version: 1.0.0
+Report Version: 1.0.1
 ---------------------
 
 Product Description: Content Management System
