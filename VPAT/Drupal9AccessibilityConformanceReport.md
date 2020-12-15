@@ -81,6 +81,9 @@ Note: When reporting on conformance with the WCAG 2.0 Success Criteria, they are
 ### Table 1: Success Criteria, Level A
 
 **Notes:** 
+Drupal doesn't make a strong distinction between the front-end & back-end accessibility. Many administration interfaces can be exposed to users in a more interactive site. Generally this report focuses the Conformance Level / Remarks and Explainations so that **Web** comments are about elements that are typically public, while **Authoring Tool** is typically for authors and administrators. The goal of the authoring interface is to support ATAG 2.0 AA (Part A and B). 
+
+The Drupal community strives to beek up with the latest WCAG recommendation. 
 
 ||||
 |--- |--- |--- |
@@ -115,6 +118,7 @@ Note: When reporting on conformance with the WCAG 2.0 Success Criteria, they are
 
 **Notes:** 
 
+See notes in **Table 1**.
 
 ||||
 |--- |--- |--- |
@@ -138,6 +142,7 @@ Note: When reporting on conformance with the WCAG 2.0 Success Criteria, they are
 
 **Notes:**
 
+Where possible the Drupal community strives to exceed AA compliance. 
 
 ||||
 |--- |--- |--- |
