@@ -78,7 +78,9 @@ Note: When reporting on conformance with the WCAG 2.0 Success Criteria, they are
 * * *
 
 
+### Table 1: Success Criteria, Level A
 
+**Notes:** 
 
 ||||
 |--- |--- |--- |
@@ -111,332 +113,30 @@ Note: When reporting on conformance with the WCAG 2.0 Success Criteria, they are
 
 ### Table 2: Success Criteria, Level AA
 
-Notes:
+**Notes:** 
+
+
+||||
+|--- |--- |--- |
+|Criteria|Conformance Level|Remarks and Explanations|
+|1.2.4 Captions (Live) (Level AA)Also applies to:Revised Section 508501 (Web)(Software)504.2 (Authoring Tool)602.3 (Support Docs)|Web: Not ApplicableElectronic Docs: Not ApplicableSoftware: Not ApplicableAuthoring Tool:Not Applicable||
+|1.2.5 Audio Description (Prerecorded) (Level AA)Also applies to:Revised Section 508501 (Web)(Software)504.2 (Authoring Tool)602.3 (Support Docs)|Web: Not ApplicableElectronic Docs: Not ApplicableSoftware: Not ApplicableAuthoring Tool:Not Applicable||
+|1.4.3 Contrast (Minimum) (Level AA)Also applies to:Revised Section 508501 (Web)(Software)504.2 (Authoring Tool)602.3 (Support Docs)|Web: Partially SupportsElectronic Docs: SupportsSoftware: Not ApplicableAuthoring Tool: Partially Supports|Web: Generally meets. Some contrast failures around grey backgrounds - Drupal  issue #3040673.Electronic Docs: The docs have sufficient contrast.Software: Not ApplicableAuthoring Tool: Generally meets requirements. Some challenges with Core admin themes - Drupal issue #930508 and #3080100.|
+|1.4.4 Resize text (Level AA)Also applies to:Revised Section 508501 (Web)(Software)504.2 (Authoring Tool)602.3 (Support Docs)|Web: Partially SupportsElectronic Docs: SupportsSoftware: Not ApplicableAuthoring Tool: Partially Supports|Web: Generally support with some minor exceptions - Drupal issue #3129257.Electronic Docs: The docs are accessible up to 200%Software: Not ApplicableAuthoring Tool: Generally good with some exceptions - Drupal issue #3164587.|
+|1.4.5 Images of Text (Level AA)Also applies to:Revised Section 508501 (Web)(Software)504.2 (Authoring Tool)602.3 (Support Docs)|Web: Not ApplicableElectronic Docs: Not ApplicableSoftware: Not ApplicableAuthoring Tool: Supports|Web: Not ApplicableElectronic Docs: Not ApplicableSoftware: Not ApplicableAuthoring Tool: Text is generally styled with CSS in the authoring tool. Should images of text be uploaded by the user, they will be required to add alternative text.|
+|2.4.5 Multiple Ways (Level AA)Also applies to:Revised Section 508501 (Web)(Software) – Does not apply to non-web software504.2 (Authoring Tool)602.3 (Support Docs) – Does not apply to non-web docs|Web: SupportsElectronic Docs: SupportsAuthoring Tool: Supports|Web: There is more than one way to locate a Web page within the CMS. Electronic Docs: See Web comment above.Authoring Tool: See Web comment above.|
+|2.4.6 Headings and Labels (Level AA)Also applies to:Revised Section 508501 (Web)(Software)504.2 (Authoring Tool)602.3 (Support Docs)|Web: Partially SupportsElectronic Docs: SupportsSoftware: Not ApplicableAuthoring Tool: Partially Supports|Web: Generally there is very good support. Some heading levels may be missed in some unique contexts - Drupal issue #1768732. Better support could be provided for threaded comments - Drupal issue #2290043. Electronic Docs: Software: Not ApplicableAuthoring Tool: Generally good, but for dynamic elements like the Layout Builder need a plan for a dynamic heading structure - Drupal issue #3007978.|
+|2.4.7 Focus Visible (Level AA)Also applies to:Revised Section 508501 (Web)(Software)504.2 (Authoring Tool)602.3 (Support Docs)|Web: SupportsElectronic Docs: SupportsSoftware: Not ApplicableAuthoring Tool: Partially Supports|Web: Focus elements are well established for the front-end. Further enhancements are being developed to make it more obvious for keyboard only users. Electronic Docs: Software: Not ApplicableAuthoring Tool: There are places where we are seeking to improve the focus for authors and administrators - Drupal issue #3048785.|
+|3.1.2 Language of Parts (Level AA)Also applies to:Revised Section 508501 (Web)(Software)504.2 (Authoring Tool)602.3 (Support Docs)|Web: SupportsElectronic Docs: Not ApplicableSoftware: Not ApplicableAuthoring Tool: Supports|Web: Multilingual sites have language switchers with proper semantics.  Electronic Docs: Not ApplicableSoftware: Not ApplicableAuthoring Tool: Drupal has good support for multilingual content and accessibility. To support the Language of Parts for authors, a button can be added to simplify the process of adding language specific phrases.|
+|3.2.3 Consistent Navigation (Level AA)Also applies to:Revised Section 508501 (Web)(Software) – Does not apply to non-web software504.2 (Authoring Tool)602.3 (Support Docs) – Does not apply to non-web docs|Web: SupportsElectronic Docs: SupportsAuthoring Tool Supports|Web: Drupal’s menu structure allows for consistent navigation across the site. Electronic Docs: See Web comment above.Authoring Tool: See Web comment above.|
+|3.2.4 Consistent Identification (Level AA)Also applies to:Revised Section 508501 (Web)(Software) – Does not apply to non-web software504.2 (Authoring Tool)602.3 (Support Docs) – Does not apply to non-web docs|Web: SupportsElectronic Docs: SupportsAuthoring Tool: Supports|Web: Components in Drupal that have the same functionality are identified consistently. Electronic Docs: See Web comment above.Authoring Tool: See Web comment above.|
+|3.3.3 Error Suggestion (Level AA)Also applies to:Revised Section 508501 (Web)(Software)504.2 (Authoring Tool)602.3 (Support Docs)|Web: SupportsElectronic Docs: Not ApplicableSoftware: Not ApplicableAuthoring Tool: Supports|Web: The Inline Form Error Module is provided in Core and needs to be enabled to allow for this functionality. Electronic Docs: Not ApplicableSoftware: Not ApplicableAuthoring Tool: See Web comment above.|
+|3.3.4 Error Prevention (Legal, Financial, Data) (Level AA)Also applies to:Revised Section 508501 (Web)(Software)504.2 (Authoring Tool)602.3 (Support Docs)|Web: Not ApplicableElectronic Docs: Not ApplicableSoftware: Not ApplicableAuthoring Tool: Not Applicable||
 
-Criteria
-
-Conformance Level
-
-Remarks and Explanations
-
-[1.2.4 Captions (Live)](https://www.google.com/url?q=http://www.w3.org/TR/WCAG20/%23media-equiv-real-time-captions&sa=D&ust=1607973994307000&usg=AOvVaw14goFQiD3vCJDlLoGhDqvN) (Level AA)
-
-Also applies to:
-
-Revised Section 508
-
-*   501 (Web)(Software)
-*   504.2 (Authoring Tool)
-
-*   602.3 (Support Docs)
-
-Web: Not Applicable
-
-Electronic Docs: Not Applicable
-
-Software: Not Applicable
-
-Authoring Tool:Not Applicable
-
-[1.2.5 Audio Description (Prerecorded)](https://www.google.com/url?q=http://www.w3.org/TR/WCAG20/%23media-equiv-audio-desc-only&sa=D&ust=1607973994312000&usg=AOvVaw01XyBalUohDcl4v82m0t9A) (Level AA)
-
-Also applies to:
-
-Revised Section 508
-
-*   501 (Web)(Software)
-*   504.2 (Authoring Tool)
-
-*   602.3 (Support Docs)
-
-Web: Not Applicable
-
-Electronic Docs: Not Applicable
-
-Software: Not Applicable
-
-Authoring Tool:Not Applicable
-
-[1.4.3 Contrast (Minimum)](https://www.google.com/url?q=http://www.w3.org/TR/WCAG20/%23visual-audio-contrast-contrast&sa=D&ust=1607973994316000&usg=AOvVaw0g_0t7Yb5-xjr4Mmn1IHTU) (Level AA)
-
-Also applies to:
-
-Revised Section 508
-
-*   501 (Web)(Software)
-*   504.2 (Authoring Tool)
-
-*   602.3 (Support Docs)
-
-Web: Partially Supports
-
-Electronic Docs: Supports
-
-Software: Not Applicable
-
-Authoring Tool: Partially Supports
-
-Web: Generally meets. Some contrast failures around grey backgrounds - [Drupal  issue #3040673](https://www.google.com/url?q=https://www.drupal.org/project/drupal/issues/3040673&sa=D&ust=1607973994319000&usg=AOvVaw1Xd0dPll7dqGEa6XL-8DkU).
-
-Electronic Docs: The docs have sufficient contrast.
-
-Software: Not Applicable
-
-Authoring Tool: Generally meets requirements. Some challenges with Core admin themes - [Drupal issue #930508](https://www.google.com/url?q=https://www.drupal.org/project/drupal/issues/2930508&sa=D&ust=1607973994320000&usg=AOvVaw2g5CEkunStsVzcgPEiR4E4) and [#3080100](https://www.google.com/url?q=https://www.drupal.org/project/drupal/issues/3080100&sa=D&ust=1607973994321000&usg=AOvVaw0arYeM_-fAAAkaIJuMQo5U).
-
-[1.4.4 Resize text](https://www.google.com/url?q=http://www.w3.org/TR/WCAG20/%23visual-audio-contrast-scale&sa=D&ust=1607973994322000&usg=AOvVaw3IuYUe_7Ehs5Ink_gnHZU7) (Level AA)
-
-Also applies to:
-
-Revised Section 508
-
-*   501 (Web)(Software)
-*   504.2 (Authoring Tool)
-
-*   602.3 (Support Docs)
-
-Web: Partially Supports
-
-Electronic Docs: Supports
-
-Software: Not Applicable
-
-Authoring Tool: Partially Supports
-
-Web: Generally support with some minor exceptions - [Drupal issue #3129257](https://www.google.com/url?q=https://www.drupal.org/project/drupal/issues/3129257&sa=D&ust=1607973994325000&usg=AOvVaw1a77i9wm7aMPAtWSwxGcIx).
-
-Electronic Docs: The docs are accessible up to 200%
-
-Software: Not Applicable
-
-Authoring Tool: Generally good with some exceptions - [Drupal issue #3164587](https://www.google.com/url?q=https://www.drupal.org/project/drupal/issues/3164587&sa=D&ust=1607973994326000&usg=AOvVaw0Cluj3J3j1D96JzSFLQtHL).
-
-[1.4.5 Images of Text](https://www.google.com/url?q=http://www.w3.org/TR/WCAG20/%23visual-audio-contrast-text-presentation&sa=D&ust=1607973994327000&usg=AOvVaw10Mk3EkKQV03qjC9_gns0F) (Level AA)
-
-Also applies to:
-
-Revised Section 508
-
-*   501 (Web)(Software)
-*   504.2 (Authoring Tool)
-
-*   602.3 (Support Docs)
-
-Web: Not Applicable
-
-Electronic Docs: Not Applicable
-
-Software: Not Applicable
-
-Authoring Tool: Supports
-
-Web: Not Applicable
-
-Electronic Docs: Not Applicable
-
-Software: Not Applicable
-
-Authoring Tool: Text is generally styled with CSS in the authoring tool. Should images of text be uploaded by the user, they will be required to add alternative text.
-
-[2.4.5 Multiple Ways](https://www.google.com/url?q=http://www.w3.org/TR/WCAG20/%23navigation-mechanisms-mult-loc&sa=D&ust=1607973994331000&usg=AOvVaw13U2k9hdMyqGIfkENPezhT) (Level AA)
-
-Also applies to:
-
-Revised Section 508
-
-*   501 (Web)(Software) – Does not apply to non-web software
-*   504.2 (Authoring Tool)
-
-*   602.3 (Support Docs) – Does not apply to non-web docs
-
-Web: Supports
-
-Electronic Docs: Supports
-
-Authoring Tool: Supports
-
-Web: There is more than one way to locate a Web page within the CMS.
-
-Electronic Docs: See Web comment above.
-
-Authoring Tool: See Web comment above.
-
-[2.4.6 Headings and Labels](https://www.google.com/url?q=http://www.w3.org/TR/WCAG20/%23navigation-mechanisms-descriptive&sa=D&ust=1607973994336000&usg=AOvVaw3xfgFZbavjP3yl_TcjbHdg) (Level AA)
-
-Also applies to:
-
-Revised Section 508
-
-*   501 (Web)(Software)
-*   504.2 (Authoring Tool)
-
-*   602.3 (Support Docs)
-
-Web: Partially Supports
-
-Electronic Docs: Supports
-
-Software: Not Applicable
-
-Authoring Tool: Partially Supports
-
-Web: Generally there is very good support. Some heading levels may be missed in some unique contexts - [Drupal issue #1768732](https://www.google.com/url?q=https://www.drupal.org/project/drupal/issues/1768732&sa=D&ust=1607973994340000&usg=AOvVaw3LAFTechM9a3WtDohp7f7I). Better support could be provided for threaded comments - [Drupal issue #2290043](https://www.google.com/url?q=https://www.drupal.org/project/drupal/issues/2290043&sa=D&ust=1607973994340000&usg=AOvVaw0d3MRDTQnBggMhcfF4xiYj).
-
-Electronic Docs:
-
-Software: Not Applicable
-
-Authoring Tool: Generally good, but for dynamic elements like the Layout Builder need a plan for a dynamic heading structure - [Drupal issue #3007978](https://www.google.com/url?q=https://www.drupal.org/project/drupal/issues/3007978&sa=D&ust=1607973994341000&usg=AOvVaw105bnLYLmmXHMjOQE6GvW7).
-
-[2.4.7 Focus Visible](https://www.google.com/url?q=http://www.w3.org/TR/WCAG20/%23navigation-mechanisms-focus-visible&sa=D&ust=1607973994343000&usg=AOvVaw14WEf1t44k0Qx9hjUoRjX9) (Level AA)
-
-Also applies to:
-
-Revised Section 508
-
-*   501 (Web)(Software)
-*   504.2 (Authoring Tool)
-
-*   602.3 (Support Docs)
-
-Web: Supports
-
-Electronic Docs: Supports
-
-Software: Not Applicable
-
-Authoring Tool: Partially Supports
-
-Web: Focus elements are well established for the front-end. [Further enhancements are being developed](https://www.google.com/url?q=https://www.drupal.org/project/issues/search/drupal?text%3Dfocus%26assigned%3D%26submitted%3D%26project_issue_followers%3D%26status%255B%255D%3DOpen%26version%255B%255D%3Dany_10.%26version%255B%255D%3Dany_9.%26version%255B%255D%3Dany_8.%26issue_tags_op%3D%253D%26issue_tags%3Daccessibility&sa=D&ust=1607973994347000&usg=AOvVaw0W2myUE1PCjMGsMj7ZMWEa) to make it more obvious for keyboard only users.
-
-Electronic Docs:
-
-Software: Not Applicable
-
-Authoring Tool: There are places where we are seeking to improve the focus for authors and administrators - [Drupal issue #3048785](https://www.google.com/url?q=https://www.drupal.org/project/drupal/issues/3048785&sa=D&ust=1607973994348000&usg=AOvVaw1Xi3uMcmqV2gpCiUDMbgG4).
-
-[3.1.2 Language of Parts](https://www.google.com/url?q=http://www.w3.org/TR/WCAG20/%23meaning-other-lang-id&sa=D&ust=1607973994350000&usg=AOvVaw3DvIwcMNQFpNu8XguVbwTJ) (Level AA)
-
-Also applies to:
-
-Revised Section 508
-
-*   501 (Web)(Software)
-*   504.2 (Authoring Tool)
-
-*   602.3 (Support Docs)
-
-Web: Supports
-
-Electronic Docs: Not Applicable
-
-Software: Not Applicable
-
-Authoring Tool: Supports
-
-Web: Multilingual sites have language switchers with proper semantics. 
-
-Electronic Docs: Not Applicable
-
-Software: Not Applicable
-
-Authoring Tool: Drupal has good support for multilingual content and accessibility. To support the Language of Parts for authors, a button can be added to simplify the process of adding language specific phrases.
-
-[3.2.3 Consistent Navigation](https://www.google.com/url?q=http://www.w3.org/TR/WCAG20/%23consistent-behavior-consistent-locations&sa=D&ust=1607973994355000&usg=AOvVaw0LrCTp1DVs6VPY084xzjtr) (Level AA)
-
-Also applies to:
-
-Revised Section 508
-
-*   501 (Web)(Software) – Does not apply to non-web software
-*   504.2 (Authoring Tool)
-
-*   602.3 (Support Docs) – Does not apply to non-web docs
-
-Web: Supports
-
-Electronic Docs: Supports
-
-Authoring Tool Supports
-
-Web: Drupal’s menu structure allows for consistent navigation across the site.
-
-Electronic Docs: See Web comment above.
-
-Authoring Tool: See Web comment above.
-
-[3.2.4 Consistent Identification](https://www.google.com/url?q=http://www.w3.org/TR/WCAG20/%23consistent-behavior-consistent-functionality&sa=D&ust=1607973994360000&usg=AOvVaw1aG8NeXlbzKh0dGYFnKOEA) (Level AA)
-
-Also applies to:
-
-Revised Section 508
-
-*   501 (Web)(Software) – Does not apply to non-web software
-*   504.2 (Authoring Tool)
-
-*   602.3 (Support Docs) – Does not apply to non-web docs
-
-Web: Supports
-
-Electronic Docs: Supports
-
-Authoring Tool: Supports
-
-Web: Components in Drupal that have the same functionality are identified consistently.
-
-Electronic Docs: See Web comment above.
-
-Authoring Tool: See Web comment above.
-
-[3.3.3 Error Suggestion](https://www.google.com/url?q=http://www.w3.org/TR/WCAG20/%23minimize-error-suggestions&sa=D&ust=1607973994364000&usg=AOvVaw0oVC_3mxmcVP1g4ku8DDi6) (Level AA)
-
-Also applies to:
-
-Revised Section 508
-
-*   501 (Web)(Software)
-*   504.2 (Authoring Tool)
-
-*   602.3 (Support Docs)
-
-Web: Supports
-
-Electronic Docs: Not Applicable
-
-Software: Not Applicable
-
-Authoring Tool: Supports
-
-Web: The Inline Form Error Module is provided in Core and needs to be enabled to allow for this functionality.
-
-Electronic Docs: Not Applicable
-
-Software: Not Applicable
-
-Authoring Tool: See Web comment above.
-
-[3.3.4 Error Prevention (Legal, Financial, Data)](https://www.google.com/url?q=http://www.w3.org/TR/WCAG20/%23minimize-error-reversible&sa=D&ust=1607973994369000&usg=AOvVaw3WkRaTO5mI2dbIM1NY2DcP) (Level AA)
-
-Also applies to:
-
-Revised Section 508
-
-*   501 (Web)(Software)
-*   504.2 (Authoring Tool)
-
-*   602.3 (Support Docs)
-
-Web: Not Applicable
-
-Electronic Docs: Not Applicable
-
-Software: Not Applicable
-
-Authoring Tool: Not Applicable
 
 ### Table 3: Success Criteria, Level AAA
 
-Notes:
+**Notes:**
 
 Criteria
 
