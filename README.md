@@ -1,6 +1,10 @@
-# accessibility
+# Accessibility
 
 This aims to be the single source of truth for work on digital accessibility at CivicActions. This work is being done in the open so that we can have people outside of CivicActions collaborate and so that we can more easily keep up with the work that other accessibility experts are doing. This is not a duplication of the [CivicActions Handbook Accessibility Section](https://handbook.civicactions.com/en/latest/060-engineering/accessibility/#accessibility) but more of a working 
+
+## Why do this work?
+
+Diversity equity and inclusion are key to any effective team, and CivicActions is no exception. Accessibility is a key part of this, as over 26% of Americans identify as having a disability. Our team is excited about finding new ways to build better products, and this includes removing barriers for people with disabilities. 
 
 ## Future pages may include:
 
