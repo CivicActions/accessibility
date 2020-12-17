@@ -28,6 +28,6 @@ This aims to be the single source of truth for work on digital accessibility at 
 
 ## Point of contact:
 
-Slack: #Slack
+Slack: #accessibility
 
 Email: mike.gifford@civicvactions.com
