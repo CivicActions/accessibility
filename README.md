@@ -22,6 +22,7 @@ This aims to be the single source of truth for work on digital accessibility at 
     - [CA Only: Depreciated Engineering Framework Project Board](https://trello.com/b/LVtWTgkS/engineering-framework)
 - People (The team)
     - **Mike Gifford** - Completed the [DHS Section 508 Standards for Web](https://www.dhs.gov/trusted-tester)
+- Accessibility Meetings - [Meeting Notes Not Public](https://docs.google.com/document/d/1y2yGcxsjEmmr4627nf3O2aGqmIkJrkgcbjRKAz9jSMI/edit#heading=h.9jti0zaeqark)
 - Calendar
 - Roadmap (Milestones)
 
