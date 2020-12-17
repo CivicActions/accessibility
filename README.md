@@ -7,7 +7,10 @@ This aims to be the single source of truth for work on digital accessibility at 
 - Objectives and Key Results (OKRs) for CivicActions - [Draft OKRSs, Not Public](https://docs.google.com/document/d/17SA1mNcVtTH7daKThZDN_QIdoRyYXhEjNmqkSEAJRTE/edit#)
 - [Public: CivicActions Handbook Accessibility Section](https://handbook.civicactions.com/en/latest/060-engineering/accessibility/#accessibility)
 - Accessibility Handbook - [Draft Handbook, Not Public](https://docs.google.com/document/d/1_zbP87VHT_XMOAyER0gNhNFSvYfcsnR13lMxOo8nEi4/edit#heading=h.9jti0zaeqark)
+- FE KR:Content for Accessibility Page - [Draft Accessibility Page](https://docs.google.com/document/d/16OV6_zjvP43nSCsEEyLA9OZJbjjF9vaM_kAH3JAFhC0/edit)
 - Guide - Documentation
+- [Drupal VPAT](https://github.com/CivicActions/accessibility/tree/main/VPAT)
+- Accessibility Strategy - [Draft Strategy, Not Public](https://docs.google.com/document/d/1WRs6YQhErTRJQOm8j6PPN0gyykslDqpOMwpBC1ZptpM/edit#)
 - Staff Accessibility Onboarding
 - Client Accessibility Onboarding
 - Testing Best Practices
