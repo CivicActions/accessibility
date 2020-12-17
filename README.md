@@ -21,7 +21,7 @@ This aims to be the single source of truth for work on digital accessibility at 
     - [CA Only: Old Trello Project Board](https://trello.com/b/XjQhpgEF/civicactions-accessibility)
     - [CA Only: Depreciated Engineering Framework Project Board](https://trello.com/b/LVtWTgkS/engineering-framework)
 - People (The team)
-    - Mike Gifford
+    - **Mike Gifford** - Completed the [DHS Section 508 Standards for Web](https://www.dhs.gov/trusted-tester)
 - Calendar
 - Roadmap (Milestones)
 
