@@ -8,6 +8,7 @@ This aims to be the single source of truth for work on digital accessibility at 
 - [Public: CivicActions Handbook Accessibility Section](https://handbook.civicactions.com/en/latest/060-engineering/accessibility/#accessibility)
 - Accessibility Handbook - [Draft Handbook, Not Public](https://docs.google.com/document/d/1_zbP87VHT_XMOAyER0gNhNFSvYfcsnR13lMxOo8nEi4/edit#heading=h.9jti0zaeqark)
 - FE KR:Content for Accessibility Page - [Draft Accessibility Page](https://docs.google.com/document/d/16OV6_zjvP43nSCsEEyLA9OZJbjjF9vaM_kAH3JAFhC0/edit)
+- [Draft Front End Accessibility Knowledge Base](https://civicactions.github.io/FE-knowledgebase/accessibility/)
 - Guide - Documentation
 - [Drupal VPAT](https://github.com/CivicActions/accessibility/tree/main/VPAT)
 - Accessibility Strategy - [Draft Strategy, Not Public](https://docs.google.com/document/d/1WRs6YQhErTRJQOm8j6PPN0gyykslDqpOMwpBC1ZptpM/edit#)
