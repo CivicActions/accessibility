@@ -148,28 +148,27 @@ Where possible the Drupal community strives to exceed AA compliance.
 |--- |--- |--- |
 |Criteria|Conformance Level|Remarks and Explanations|
 |[1.2.6 Sign Language (Prerecorded)](http://www.w3.org/TR/WCAG20/#media-equiv-sign) (Level AAA) <br />&nbsp;&nbsp;Revised Section 508 – Does not apply|**Web:** Not Applicable|**Web:** Not Applicable|
-|[1.2.7 Extended Audio Description (Prerecorded)](url) (Level AAA) <br />&nbsp;&nbsp;Revised Section 508 – Does not apply|**Web:** Not Applicable|**Web:** Not Applicable|
-|[1.2.8 Media Alternative (Prerecorded)](url) (Level AAA) <br />&nbsp;&nbsp;Revised Section 508 – Does not apply|**Web:** Not Applicable|**Web:** Not Applicable|
-|[1.2.9 Audio-only (Live)](url) (Level AAA) <br />&nbsp;&nbsp;Revised Section 508 – Does not apply|**Web:** Not Applicable|**Web:** Not Applicable|
-|[1.4.6 Contrast (Enhanced)](url) (Level AAA) <br />&nbsp;&nbsp;Revised Section 508 – Does not apply|**Web:** Supports <br />s|**Web:** A front-end and back-end theme could be configured to allow this to comply.|
-|[1.4.7 Low or No Background Audio](url) (Level AAA) <br />&nbsp;&nbsp;Revised Section 508 – Does not apply|**Web:** Not Applicable|**Web:** Not Applicable|
-|[1.4.8 Visual Presentation](url) (Level AAA) <br />&nbsp;&nbsp;Revised Section 508 – Does not apply|**Web:** Not Applicable|**Web:** Not Applicable|
-|[1.4.9 Images of Text (No Exception)](url) (Level AAA) <br />&nbsp;&nbsp;Revised Section 508 – Does not apply|**Web:** Supports <br />s|**Web:** Text images are all supplied by the author.|
-|[2.1.3 Keyboard (No Exception)](url) (Level AAA) <br />&nbsp;&nbsp;Revised Section 508 – Does not apply|Web: Supports|**Web:** The web front-end is not a barrier to keyboard only users.|
-|[2.2.3 No Timing](url) (Level AAA) <br />&nbsp;&nbsp;Revised Section 508 – Does not apply|**Web:** Supports <br />s|**Web:** There are no timeouts in Drupal Core that would affect people with disabilities.|
-|[2.2.4 Interruptions](url) (Level AAA) <br />&nbsp;&nbsp;Revised Section 508 – Does not apply|**Web:** Not Applicable|**Web:** Not Applicable|
-|[2.2.5 Re-authenticating](url) (Level AAA) <br />&nbsp;&nbsp;Revised Section 508 – Does not apply|**Web:** Not Applicable|**Web:** Not Applicable|
-|[2.3.2 Three Flashes](url) (Level AAA) <br />&nbsp;&nbsp;Revised Section 508 – Does not apply|**Web:** Supports <br />s|**Web:** There is no flashing content.|
-|[2.4.8 Location](url) (Level AAA) <br />&nbsp;&nbsp;Revised Section 508 – Does not apply|**Web:** Supports <br />s|**Web:** Breadcrumbs are available and sitemap modules can be added to provide additional means for navigation.|
-|[2.4.9 Link Purpose (Link Only)](url) (Level AAA) <br />&nbsp;&nbsp;Revised Section 508 – Does not apply|**Web:** Supports <br />s|**Web:** Link text is provided with related information for assistive technology.|
-|[2.4.10 Section Headings](url) (Level AAA) <br />&nbsp;&nbsp;Revised Section 508 – Does not apply|Web: Supports|**Web:** Drupal provides heading elements at the beginning of each section of content.|
-|[3.1.3 Unusual Words](url) (Level AAA) <br />&nbsp;&nbsp;Revised Section 508 – Does not apply|**Web:** Not Applicable|**Web:** Not Applicable|
-|[3.1.4 Abbreviations](url) (Level AAA) <br />&nbsp;&nbsp;Revised Section 508 – Does not apply|**Web:** Not Applicable|**Web:** Not Applicable|
-|[3.1.5 Reading Level](url) (Level AAA) <br />&nbsp;&nbsp;Revised Section 508 – Does not apply|**Web:** Not Applicable|**Web:** Not Applicable|
-|[3.1.6 Pronunciation](url) (Level AAA) <br />&nbsp;&nbsp;Revised Section 508 – Does not apply|**Web:** Not Applicable|**Web:** Not Applicable|
-|[3.2.5 Change on Request](url) (Level AAA) <br />&nbsp;&nbsp;Revised Section 508 – Does not apply|**Web:** Not Applicable|**Web:** Not Applicable|
-|[3.3.5 Help](url) (Level AAA) <br />&nbsp;&nbsp;Revised Section 508 – Does not apply|**Web:** Not Applicable|**Web:** Not Applicable|
-|[3.3.6 Error Prevention (All)](url) (Level AAA) <br />&nbsp;&nbsp;Revised Section 508 – Does not apply|**Web:** Not Applicable|**Web:** Not Applicable|
+|[1.2.7 Extended Audio Description (Prerecorded)](http://www.w3.org/TR/WCAG20/#media-equiv-extended-ad) (Level AAA) <br />&nbsp;&nbsp;Revised Section 508 – Does not apply|**Web:** Not Applicable|**Web:** Not Applicable|
+|[1.2.8 Media Alternative (Prerecorded)](http://www.w3.org/TR/WCAG20/#media-equiv-text-doc) (Level AAA) <br />&nbsp;&nbsp;Revised Section 508 – Does not apply|**Web:** Not Applicable|**Web:** Not Applicable|
+|[1.2.9 Audio-only (Live)](http://www.w3.org/TR/WCAG20/#media-equiv-live-audio-only) (Level AAA) <br />&nbsp;&nbsp;Revised Section 508 – Does not apply|**Web:** Not Applicable|**Web:** Not Applicable|
+|[1.4.6 Contrast (Enhanced)](http://www.w3.org/TR/WCAG20/#visual-audio-contrast7) (Level AAA) <br />&nbsp;&nbsp;Revised Section 508 – Does not apply|**Web:** Supports <br />s|**Web:** A front-end and back-end theme could be configured to allow this to comply.|
+|[1.4.7 Low or No Background Audio](http://www.w3.org/TR/WCAG20/#visual-audio-contrast-noaudio) (Level AAA) <br />&nbsp;&nbsp;Revised Section 508 – Does not apply|**Web:** Not Applicable|**Web:** Not Applicable|
+|[1.4.8 Visual Presentation](http://www.w3.org/TR/WCAG20/#visual-audio-contrast-visual-presentation) (Level AAA) <br />&nbsp;&nbsp;Revised Section 508 – Does not apply|**Web:** Not Applicable|**Web:** Not Applicable|
+|[1.4.9 Images of Text (No Exception)](http://www.w3.org/TR/WCAG20/#http://www.w3.org/TR/WCAG20/) (Level AAA) <br />&nbsp;&nbsp;Revised Section 508 – Does not apply|**Web:** Supports <br />s|**Web:** Text images are all supplied by the author.|
+|[2.1.3 Keyboard (No Exception)](http://www.w3.org/TR/WCAG20/#keyboard-operation-all-funcs) (Level AAA) <br />&nbsp;&nbsp;Revised Section 508 – Does not apply|Web: Supports|**Web:** The web front-end is not a barrier to keyboard only users.|
+|[2.2.3 No Timing](http://www.w3.org/TR/WCAG20/#time-limits-no-exceptions) (Level AAA) <br />&nbsp;&nbsp;Revised Section 508 – Does not apply|**Web:** Supports <br />s|**Web:** There are no timeouts in Drupal Core that would affect people with disabilities.|
+|[2.2.4 Interruptions](http://www.w3.org/TR/WCAG20/#time-limits-postponed) (Level AAA) <br />&nbsp;&nbsp;Revised Section 508 – Does not apply|**Web:** Not Applicable|**Web:** Not Applicable|
+|[2.2.5 Re-authenticating](http://www.w3.org/TR/WCAG20/#time-limits-server-timeout) (Level AAA) <br />&nbsp;&nbsp;Revised Section 508 – Does not apply|**Web:** Not Applicable|**Web:** Not Applicable|
+|[2.3.2 Three Flashes](http://www.w3.org/TR/WCAG20/#seizure-three-times) (Level AAA) <br />&nbsp;&nbsp;Revised Section 508 – Does not apply|**Web:** Supports <br />s|**Web:** There is no flashing content.|
+|[2.4.8 Location](http://www.w3.org/TR/WCAG20/#navigation-mechanisms-location) (Level AAA) <br />&nbsp;&nbsp;Revised Section 508 – Does not apply|**Web:** Supports <br />s|**Web:** Breadcrumbs are available and sitemap modules can be added to provide additional means for navigation.|
+|[2.4.10 Section Headings](http://www.w3.org/TR/WCAG20/#navigation-mechanisms-headings) (Level AAA) <br />&nbsp;&nbsp;Revised Section 508 – Does not apply|Web: Supports|**Web:** Drupal provides heading elements at the beginning of each section of content.|
+|[3.1.3 Unusual Words](http://www.w3.org/TR/WCAG20/#meaning-idioms) (Level AAA) <br />&nbsp;&nbsp;Revised Section 508 – Does not apply|**Web:** Not Applicable|**Web:** Not Applicable|
+|[3.1.4 Abbreviations](http://www.w3.org/TR/WCAG20/#meaning-located) (Level AAA) <br />&nbsp;&nbsp;Revised Section 508 – Does not apply|**Web:** Not Applicable|**Web:** Not Applicable|
+|[3.1.5 Reading Level](http://www.w3.org/TR/WCAG20/#meaning-supplements) (Level AAA) <br />&nbsp;&nbsp;Revised Section 508 – Does not apply|**Web:** Not Applicable|**Web:** Not Applicable|
+|[3.1.6 Pronunciation](http://www.w3.org/TR/WCAG20/#meaning-pronunciation) (Level AAA) <br />&nbsp;&nbsp;Revised Section 508 – Does not apply|**Web:** Not Applicable|**Web:** Not Applicable|
+|[3.2.5 Change on Request](http://www.w3.org/TR/WCAG20/#consistent-behavior-no-extreme-changes-context) (Level AAA) <br />&nbsp;&nbsp;Revised Section 508 – Does not apply|**Web:** Not Applicable|**Web:** Not Applicable|
+|[3.3.5 Help](http://www.w3.org/TR/WCAG20/#minimize-error-context-help) (Level AAA) <br />&nbsp;&nbsp;Revised Section 508 – Does not apply|**Web:** Not Applicable|**Web:** Not Applicable|
+|[3.3.6 Error Prevention (All)](http://www.w3.org/TR/WCAG20/#minimize-error-reversible-all) (Level AAA) <br />&nbsp;&nbsp;Revised Section 508 – Does not apply|**Web:** Not Applicable|**Web:** Not Applicable|
 
 
 
