@@ -12,7 +12,7 @@ Name of Product/Version: Drupal 9.2
 Report Date: 14 December, 2020
 ------------------------------
 
-Report Version: 1.1.0
+Report Version: 1.1.1
 ---------------------
 
 Product Description: Content Management System
@@ -135,7 +135,7 @@ See notes in **Table 1**.
 |[3.2.3 Consistent Navigation](http://www.w3.org/TR/WCAG20/#consistent-behavior-consistent-locations) (Level AA)<br />&nbsp;&nbsp;Also applies to: <br />&nbsp;&nbsp;Revised Section 508 <ul><li>501 (Web)(Software) – Does not apply to non-web software</li><li>504.2 (Authoring Tool)602.3 (Support Docs) – Does not apply to non-web docs</li></ul>|**Web:** Supports <br />**Electronic Docs:** Supports <br />**Authoring Tool:** Supports|**Web:** Drupal’s menu structure allows for consistent navigation across the site. <br />**Electronic Docs:** See **Web** comment above. <br />**Authoring Tool:** See **Web** comment above.|
 |[3.2.4 Consistent Identification](http://www.w3.org/TR/WCAG20/#consistent-behavior-consistent-functionality) (Level AA)<br />&nbsp;&nbsp;Also applies to: <br />&nbsp;&nbsp;Revised Section 508 <ul><li>501 (Web)(Software) – Does not apply to non-web software</li><li>504.2 (Authoring Tool)</li><li>602.3 (Support Docs) – Does not apply to non-web docs</li></ul>|**Web:** Supports <br />**Electronic Docs:** Supports <br />**Authoring Tool:** Supports|**Web:** Components in Drupal that have the same functionality are identified consistently. <br />**Electronic Docs:** See **Web** comment above. <br />**Authoring Tool:** See **Web** comment above.|
 |[3.3.3 Error Suggestion](http://www.w3.org/TR/WCAG20/#minimize-error-suggestions) (Level AA)<br />&nbsp;&nbsp;Also applies to: <br />&nbsp;&nbsp;Revised Section 508<ul><li>501 (Web)(Software)</li><li>504.2 (Authoring Tool)</li><li>602.3 (Support Docs)</li></ul>|**Web:** Supports <br />**Electronic Docs:** Not Applicable**Software:** Not Applicable<br />**Authoring Tool:** Supports|**Web:** The Inline Form Error Module is provided in Core and needs to be enabled to allow for this functionality. <br />**Electronic Docs:** Not Applicable**Software:** Not Applicable<br />**Authoring Tool:** See **Web** comment above.|
-|[3.3.4 Error Prevention (Legal, Financial, Data)](http://www.w3.org/TR/WCAG20/#minimize-error-reversible) (Level AA)<br />&nbsp;&nbsp;Also applies to: <br />&nbsp;&nbsp;Revised Section 508<ul><li>501 (Web)(Software)</li><li>504.2 (Authoring Tool)</li><li>602.3 (Support Docs)</li></ul>|**Web:** Not Applicable <br />**Electronic Docs:** Not Applicable <br />**Software:** Not Applicable<br />**Authoring Tool:** Not Applicable||
+|[3.3.4 Error Prevention (Legal, Financial, Data)](http://www.w3.org/TR/WCAG20/#minimize-error-reversible) (Level AA)<br />&nbsp;&nbsp;Also applies to: <br />&nbsp;&nbsp;Revised Section 508<ul><li>501 (Web)(Software)</li><li>504.2 (Authoring Tool)</li><li>602.3 (Support Docs)</li></ul>|**Web:** Supports <br />**Electronic Docs:** Supports <br />**Software:** Not Applicable<br />**Authoring Tool:** Partially Supports|**Web:** By default users can editing content which they own. <br />**Electronic Docs:** Documentation could be improved. <br />**Software:** Not Applicable<br />**Authoring Tool:** There is nothing to differentiate editing financial or legal data from any other data managed by Drupal.|
 
 
 ### Table 3: Success Criteria, Level AAA
