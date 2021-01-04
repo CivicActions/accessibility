@@ -6,7 +6,7 @@ Revised Section 508 Edition
 
 (Based on VPAT® Version 2.4)
 
-Name of Product/Version: Drupal 9.2
+Name of Product/Version: Drupal 9.1
 -----------------------------------
 
 Report Date: 14 December, 2020
