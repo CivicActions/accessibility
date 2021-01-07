@@ -34,4 +34,4 @@ Diversity equity and inclusion are key to any effective team, and CivicActions i
 
 CivicActions Slack: #accessibility
 
-Email: mike.gifford@civicvactions.com
+Email: mike.gifford@civicactions.com
