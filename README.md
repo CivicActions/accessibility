@@ -8,14 +8,14 @@ Diversity equity and inclusion are key to any effective team, and CivicActions i
 
 ## Future pages may include:
 
-- Objectives and Key Results (OKRs) for CivicActions - *[Draft OKRSs, Not Public](https://docs.google.com/document/d/17SA1mNcVtTH7daKThZDN_QIdoRyYXhEjNmqkSEAJRTE/edit#)*
+- Objectives and Key Results (OKRs) for CivicActions - *[Draft OKRSs - Not Public](https://docs.google.com/document/d/17SA1mNcVtTH7daKThZDN_QIdoRyYXhEjNmqkSEAJRTE/edit#)*
 - [Public: CivicActions Handbook Accessibility Section](https://handbook.civicactions.com/en/latest/060-engineering/accessibility/#accessibility)
 - Accessibility Handbook - *[Draft Handbook - Not Public](https://docs.google.com/document/d/1_zbP87VHT_XMOAyER0gNhNFSvYfcsnR13lMxOo8nEi4/edit#heading=h.9jti0zaeqark)*
-- FE KR:Content for Accessibility Page - *[Draft Accessibility Page](https://docs.google.com/document/d/16OV6_zjvP43nSCsEEyLA9OZJbjjF9vaM_kAH3JAFhC0/edit)
+- FE KR:Content for Accessibility Page - *[Draft Accessibility Page - Not Public](https://docs.google.com/document/d/16OV6_zjvP43nSCsEEyLA9OZJbjjF9vaM_kAH3JAFhC0/edit)*
 - [Draft Front End Accessibility Knowledge Base](https://civicactions.github.io/FE-knowledgebase/accessibility/)*
 - Guide - Documentation
 - [Drupal VPAT](https://github.com/CivicActions/accessibility/tree/main/VPAT)
-- Accessibility Strategy - *[Draft Strategy, Not Public](https://docs.google.com/document/d/1WRs6YQhErTRJQOm8j6PPN0gyykslDqpOMwpBC1ZptpM/edit#)*
+- Accessibility Strategy - *[Draft Strategy - Not Public](https://docs.google.com/document/d/1WRs6YQhErTRJQOm8j6PPN0gyykslDqpOMwpBC1ZptpM/edit#)*
 - Staff Accessibility Onboarding
 - Client Accessibility Onboarding
 - Testing Best Practices
@@ -26,7 +26,7 @@ Diversity equity and inclusion are key to any effective team, and CivicActions i
     - *[CA Only: Depreciated Engineering Framework Project Board](https://trello.com/b/LVtWTgkS/engineering-framework)*
 - People (The team)
     - **Mike Gifford** - Completed the [DHS Section 508 Standards for Web](https://www.dhs.gov/trusted-tester)
-- Accessibility Meetings - *[Meeting Notes Not Public](https://docs.google.com/document/d/1y2yGcxsjEmmr4627nf3O2aGqmIkJrkgcbjRKAz9jSMI/edit#heading=h.9jti0zaeqark)*
+- Accessibility Meetings - *[Meeting Notes - Not Public](https://docs.google.com/document/d/1y2yGcxsjEmmr4627nf3O2aGqmIkJrkgcbjRKAz9jSMI/edit#heading=h.9jti0zaeqark)*
 - Calendar
 - Roadmap (Milestones)
 
