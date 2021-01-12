@@ -10,7 +10,7 @@ Diversity equity and inclusion are key to any effective team, and CivicActions i
 
 CivicActions has deep experience with open source software and agile development - both lend themselves to great accessibility practices. It is by working with a global community that Drupal has become an accessibility leader in the Content Management Systems. Our team has extensive experience working leveraging open source communities to help our clients accomplish their needs. The core of agile software development is to be itterative and obsessively focused on user needs. The earlier you are able to bring accessibility into your software development process, the cheaper and more flexible it will be. We build accessibility into our process so that there aren't compliance suprises at the end of the project. 
 
-We are ultimately a design/development agency, so we would love to build your next digital project. We also have experienced educators who can provide training for your team, particularly in government. Finally, we bring a systems approach to accessibility, so can help your team identify the accessibility barriers in your site today, as well as to avoid the ones that will be introduced tomorrow. 
+We are ultimately a design/development agency, so we would love to build your next digital project. We also have experienced educators who can provide training for your team, particularly in government. Finally, we bring a systems approach to accessibility, so can help your team identify the accessibility barriers in your site today, as well as to avoid the ones that will be introduced tomorrow.
 
 ## Future pages may include:
 
