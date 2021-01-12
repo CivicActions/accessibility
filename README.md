@@ -10,7 +10,7 @@ Diversity equity and inclusion are key to any effective team, and CivicActions i
 
 - Objectives and Key Results (OKRs) for CivicActions - *[Draft OKRSs, Not Public](https://docs.google.com/document/d/17SA1mNcVtTH7daKThZDN_QIdoRyYXhEjNmqkSEAJRTE/edit#)*
 - [Public: CivicActions Handbook Accessibility Section](https://handbook.civicactions.com/en/latest/060-engineering/accessibility/#accessibility)
-- Accessibility Handbook - *[Draft Handbook, Not Public](https://docs.google.com/document/d/1_zbP87VHT_XMOAyER0gNhNFSvYfcsnR13lMxOo8nEi4/edit#heading=h.9jti0zaeqark)*
+- Accessibility Handbook - *[Draft Handbook - Not Public](https://docs.google.com/document/d/1_zbP87VHT_XMOAyER0gNhNFSvYfcsnR13lMxOo8nEi4/edit#heading=h.9jti0zaeqark)*
 - FE KR:Content for Accessibility Page - *[Draft Accessibility Page](https://docs.google.com/document/d/16OV6_zjvP43nSCsEEyLA9OZJbjjF9vaM_kAH3JAFhC0/edit)
 - [Draft Front End Accessibility Knowledge Base](https://civicactions.github.io/FE-knowledgebase/accessibility/)*
 - Guide - Documentation
