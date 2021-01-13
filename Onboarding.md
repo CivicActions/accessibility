@@ -48,6 +48,8 @@ Each role in a company may need additional support in how they can best do their
 * Product Manager
 * QA Tester
 * Software Engineer or Frontend Developer
+    * Drupal Developer
+    * Drupal Site Builder
 * User Researcher
 
 ## Additional Resources/Examples
