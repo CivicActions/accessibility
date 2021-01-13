@@ -50,6 +50,7 @@ Each role in a company may need additional support in how they can best do their
 * Software Engineer or Frontend Developer
     * Drupal Developer
     * Drupal Site Builder
+    * Front-end Engineer (headless)
 * User Researcher
 
 ## Additional Resources/Examples
