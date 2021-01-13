@@ -1,5 +1,7 @@
 # Onboarding in an Accessibility Positive Workplace - DRAFT
 
+To ensure that there is committment throughout the organization is accessibility, we need to ensure that team members are educated on accessibility, because this cannot be assumed. As a digital agency, our focus is on web accessibility. Making our content accessible is a key part of customer centred design. A basic understanding of accessibility issues is important for all staff because it allows our team to work more effectively together. 1/5 people have a disability, so there is a good chance that in an organization our size that not everyone percieves, operates or understands content the same way. 
+
 ## Pre-workshop
 
 ### Ask new hires to watch 2 short videos from this list:
@@ -51,3 +53,4 @@ Each role in a company may need additional support in how they can best do their
 ## Additional Resources/Examples
 
 * Microsoft Fundimentals Workshop - https://docs.microsoft.com/en-us/learn/paths/accessibility-fundamentals/
+* CivicActions related OKR - https://github.com/CivicActions/accessibility/issues/3
