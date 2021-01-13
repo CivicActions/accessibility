@@ -18,7 +18,7 @@
 
 ### Get new staff to install a web accessibility tool like [WebAim's WAVE Toolbar extension/plugin](https://wave.webaim.org/extension/)
 
-## Workshop (1hr)
+## Basic Workshop (1hr)
 
 5 - Introduction
 
@@ -33,3 +33,17 @@
 10 - Basic accessibility testing of sites with WAVE
 
 5 - Questions
+
+## Role Specific Workshops
+
+Each role in a company may need additional support in how they can best do their job. The UK's [DWP Accessibility Manual](https://accessibility-manual.dwp.gov.uk/) does a great job in [Guidance for your job role](https://accessibility-manual.dwp.gov.uk/guidance-for-your-job-role) as does the USA's [Accessibility for Teams](https://accessibility.digital.gov/). You may need additional training materials for roles like:
+
+* Business Analyst
+* Content Designer
+* Delivery Manager
+* Digital Performance Analyst
+* Interaction Designer
+* Product Manager
+* QA Tester
+* Software Engineer or Frontend Developer
+* User Researcher
