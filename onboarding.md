@@ -47,3 +47,7 @@ Each role in a company may need additional support in how they can best do their
 * QA Tester
 * Software Engineer or Frontend Developer
 * User Researcher
+
+## Additional Resources/Examples
+
+* Microsoft Fundimentals Workshop - https://docs.microsoft.com/en-us/learn/paths/accessibility-fundamentals/
