@@ -56,6 +56,9 @@ Each role in a company may need additional support in how they can best do their
 
 ## Additional Resources/Examples
 
-* Microsoft Fundimentals Workshop - https://docs.microsoft.com/en-us/learn/paths/accessibility-fundamentals/
-* Disability:In - https://disabilityin.org/resource/disability-fundamentals-training-for-managers/
-* CivicActions related OKR - https://github.com/CivicActions/accessibility/issues/3
+* [Microsoft Fundimentals Workshop](https://docs.microsoft.com/en-us/learn/paths/accessibility-fundamentals/)
+* [Disability:In](https://disabilityin.org/resource/disability-fundamentals-training-for-managers/)
+* [CivicActions related OKR](https://github.com/CivicActions/accessibility/issues/3)
+
+## Supporting people with disabilities in virtual meetings
+* [Accessibility Strategies for Deaf / Hard of Hearing People in Remote Meetings](https://medium.com/cmcnally/accessibility-strategies-for-deaf-hard-of-hearing-people-in-remote-meetings-e19781b3bc4)
