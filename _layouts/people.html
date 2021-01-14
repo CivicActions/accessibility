@@ -1,0 +1,29 @@
+---
+layout: default
+main:
+class:
+---
+<div class="usa-section">
+    <div class="grid-container">
+        <div class="usa-width-three-fourths usa-layout-docs-team-member">
+            <main class="usa-layout-docs usa-layout-docs__main usa-prose{% if sidenav %} desktop:grid-col-9{% endif %}" id="main-content">
+                <h1>{{ page.name }}</h1>
+                <div class="grid-row grid-gap">
+                    <div class="grid-col-2 people">
+                        <img src="{{ site.baseurl }}/assets/img/people/{{ page.image }}" alt="photo of {{ page.name }} ">
+                    </div>
+                    <div class="grid-col-10">
+                        <h2>Bio</h2>
+                        {{ content }}
+                        <h2>Connect</h2>
+                        <ul>
+                            {% if page.github %}
+                            <li><a href="{{ page.github }}">GitHub</a></li>
+                            {% endif %}
+                        </ul>
+                    </div>
+                </div>
+            </main>
+        </div>
+    </div>
+</div>

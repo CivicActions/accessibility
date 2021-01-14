@@ -1,0 +1,118 @@
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    letter-spacing: -.01em;
+}
+
+h2 {
+    font-size: 2.5rem;
+}
+.usa-hero {
+    background: #f0f0f0;
+    font-size: 1.5rem;
+}
+
+.usa-footer__logo img,
+.usa-logo img {
+    border: 1px solid #ffffff;
+    border-radius: 3px;
+}
+
+.usa-current {
+    background: #ffffff;
+}
+
+.usa-nav__link,
+.usa-footer__primary-link {
+    font-size: 1.1rem;
+}
+
+.usa-hero__callout {
+    max-width: 40rem;
+}
+
+.usa-hero__heading {
+    font-size: 3.5rem;
+    line-height: 3.2rem;
+}
+
+.usa-button a {
+    background-color: #1b1b1b;
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.usa-hero__callout {
+    padding: 2rem 0;
+}
+
+.usa-hero .usa-hero__callout h1,
+.usa-hero .usa-hero__callout h2,
+.usa-hero .usa-hero__callout h3,
+.usa-hero .usa-hero__callout h4,
+.usa-hero .usa-hero__callout h5,
+.usa-hero .usa-hero__callout h6 {
+    color: #1b1b1b;
+}
+
+.usa-header--extended .usa-logo {
+    font-size: 1.6rem;
+}
+
+.usa-card-group {
+    padding-top: 1rem;
+}
+
+.guide-breadcrumb {
+    border-bottom: 1px solid #f0f0f0;
+    margin-bottom: 2rem;
+}
+
+.guide-main {
+    margin-bottom: 1rem;
+}
+
+.usa-card__img {
+    background: #1b1b1b;
+}
+
+.usa-sidenav {
+    border: 1px solid #f0f0f0;
+    margin-bottom: 2rem;
+}
+
+a.list-group-item {
+    border-bottom: 1px solid #f0f0f0;
+}
+
+.usa-footer {
+    border-top: 1px solid #f0f0f0;
+    margin-top: 2rem;
+}
+
+img.usa-media-block__img {
+    max-width: 124px;
+}
+
+.font-heading-xl {
+}
+
+.usa-graphic-list {
+    margin-bottom: 2rem;
+}
+
+.people img {
+    border-radius: 50%;
+}
+
+.guide-main blockquote {
+    border-left: 5px solid #f0f0f0;
+    padding-left: 1rem;
+}
+
+.usa-button, .usa-button:hover, .usa-hero .usa-hero__callout .usa-button {
+    background-color: #1b1b1b;
+}

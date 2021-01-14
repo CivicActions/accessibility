@@ -1,0 +1,21 @@
+{% for post in site.posts limit:3 %}
+<div class="grid-container">
+    <div class="grid-row">
+        <div class="tablet:grid-col">
+            <h2>News</h2>
+        </div>
+    </div>
+    <div class="grid-row">
+        <div class="tablet:grid-col">
+            <a href="{{ site.baseurl }}{{ post.url }}"><img src="{{ site.baseurl }}/img/posts/{{ post.feat-img }}"></a>
+            <h3><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
+            <p class="card-text">{{ post.date | date: "%B %-d, %Y"}}</p>
+        </div>
+    </div>
+    <div class="grid-row">
+        <div class="tablet:grid-col">
+            <p><a href="{{ site.baseurl }}/news/">News</a></p>
+        </div>
+    </div>
+</div>
+{% endfor %}
