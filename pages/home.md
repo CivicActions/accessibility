@@ -23,15 +23,25 @@ intro: |
 
 graphics:
   - image:
+      src: /assets/img/circles/circle-aperture.png
+      alt: "Project board"
+    title: Project board
+    description: What we're [working on](https://github.com/CivicActions/accessibility/projects/1).
+  - image:
+      src: /assets/img/circles/circle-aperture.png
+      alt: "OKRs"
+    title: OKRs
+    description: Measuring what matters. Our [objectives and key results](okrs).
+  - image:
       src: /assets/img/circles/circle-lightbulb.png
       alt: "Contribute"
-    title: Contribute.
+    title: Contribute
     description: Everyone is welcome. [Learn how you can contribute](join) to CivicActions Accessibility.
   - image:
       src: /assets/img/circles/circle-aperture.png
       alt: "Learn"
-    title: Learn.
-    description: The [CivicActions Accessibility Handbook](handbook) help you learn more about making government digital services more accessible.
+    title: Learn
+    description: The [CivicActions Accessibility Handbook](handbook) helps you learn more about making government digital services more accessible.
 ---
 
 ## Get started
