@@ -5,7 +5,7 @@ description: We work in the open.
 permalink: /open
 ---
 
-We work in the open.
+CivicActions Accessibility is an open, agile project and community. We work iteratively, in public.
 
 * [Project board](https://github.com/CivicActions/accessibility/projects/1)
 * [Issues](https://github.com/CivicActions/accessibility/issues)
