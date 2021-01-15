@@ -1,7 +1,7 @@
 ---
 title: Home
 permalink: /
-
+descriptions: CivicActions Accessibility is where CivicActions team members and our partners learn from and support one another to make digital government services more accessible for everyone.
 layout: home
 
 hero:
@@ -31,7 +31,7 @@ graphics:
       src: /assets/img/circles/circle-aperture.png
       alt: "Learn"
     title: Learn.
-    description: The [CivicActions Guide to Government Web Accessibility](guide) help you learn more about making government digital services more accessible.
+    description: The [CivicActions Accessibility Handbook](handbook) help you learn more about making government digital services more accessible.
 ---
 
 ## Get started

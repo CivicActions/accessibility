@@ -1,0 +1,17 @@
+docs_list_title: handbook
+docs:
+
+- title: Introduction
+  url: /introduction
+  description: Get started
+  image: card-sliders.png
+
+- title: Organizations
+  url: /organizations
+  description: 
+  image: card-orgs.png
+
+- title: Resources
+  url: /resources
+  description: 
+  image: card-book.png

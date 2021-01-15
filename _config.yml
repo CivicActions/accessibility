@@ -67,9 +67,9 @@ collections:
   people:
     output: true
     permalink: people/:title
-  guide:
+  handbook:
     output: true
-    permalink: guide/:title
+    permalink: handbook/:title
   talks:
     output: true
     permalink: talks/:title
