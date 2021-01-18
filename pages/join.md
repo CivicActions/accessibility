@@ -6,7 +6,7 @@ layout: post
 
 ---
 
-Meet us where you are:
+# Meet us where you are:
 
-* CivicActions Accessibility on Slack: #accessibility
+* CivicActions Accessibility on Slack: #accessibility  - <i>(CivicActions Internal)</i>
 * [CivicActions Accessibility on GitHub](https://github.com/civicactions/accessibility)
