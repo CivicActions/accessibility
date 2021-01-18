@@ -9,6 +9,7 @@ CivicActions Accessibility is an open, agile project and community. We work iter
 
 * [Project board](https://github.com/CivicActions/accessibility/projects/1)
 * [Issues](https://github.com/CivicActions/accessibility/issues)
-* [Meeting notes](https://docs.google.com/document/d/1y2yGcxsjEmmr4627nf3O2aGqmIkJrkgcbjRKAz9jSMI/edit?usp=sharing)
 * [Repo](https://github.com/civicactions/accessibility)
-* [Calendar](calendar)
+
+* [Meeting notes](https://docs.google.com/document/d/1y2yGcxsjEmmr4627nf3O2aGqmIkJrkgcbjRKAz9jSMI/edit?usp=sharing) - <i>(CivicActions Internal)</i>
+* [Calendar](calendar) - <i>(CivicActions Internal)</i>
