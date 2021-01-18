@@ -1,8 +1,8 @@
 # This is the configuration for the site favicons.
 
-#- rel: shortcut icon
-#  type: image/ico
-#  href: /assets/uswds/img/favicons/favicon.ico
+- rel: shortcut icon
+  type: image/ico
+  href: /assets/img/logos/civicaction-square.ico
 #- rel: icon
 #  type: image/png
 #  href: /assets/uswds/img/favicons/favicon.png
