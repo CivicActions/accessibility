@@ -23,9 +23,11 @@ CivicActions Accessibility is an open, agile project and community. We work iter
 ## Open Source Accessibilitiy Tools
 * [Contrast-Ratio.com](https://contrast-Ratio.com) - [Contrast-Ratio GitHub Page](https://github.com/LeaVerou/contrast-ratio)
 * [Contrast Finder](https://contrast-finder.tanaguru.com/) - [Contrast Finder GitHub Page](https://github.com/Tanaguru/Contrast-Finder)
-* [axe](https://www.deque.com/axe/) [axe GitHub Page](https://github.com/dequelabs/axe-core)
+* [axe](https://www.deque.com/axe/) - [axe GitHub Page](https://github.com/dequelabs/axe-core)
 * [Accessibility Insights](https://accessibilityinsights.io/) - [Accessibility Insights GitHub Page](https://github.com/microsoft/accessibility-insights-web)
 * [Pa11y](https://pa11y.org/) - [Pa11y on GitHub](https://github.com/pa11y)
+* [NVDA](https://www.nvaccess.org/) - [NVDA on GitHub](https://github.com/nvaccess/nvda/)
+* [Accessible color combinations](https://toolness.github.io/accessible-color-matrix/) - [Color combinations on GitHub](https://github.com/toolness/accessible-color-matrix)
 
 ## Open Content That Inspires Us
 * [18F Accessibility Guide](https://accessibility.18f.gov/) - [18F Guide on GitHub](https://github.com/18F/accessibility)
