@@ -32,4 +32,5 @@ CivicActions Accessibility is an open, agile project and community. We work iter
 ## Open Content That Inspires Us
 * [18F Accessibility Guide](https://accessibility.18f.gov/) - [18F Guide on GitHub](https://github.com/18F/accessibility)
 * [Government of Canada Digital Accessibility Toolkit](https://canada-ca.github.io/a11y/index.html) - [Digital Accessibility Toolkit on GitHub](https://github.com/canada-ca/a11y/)
-* [UK Home Office Digital Posters](https://accessibility.blog.gov.uk/2016/09/02/dos-and-donts-on-designing-for-accessibility/) - [Posters on GitHub](https://github.com/UKHomeOffice/posters)
+* [UK's Home Office Digital Posters](https://accessibility.blog.gov.uk/2016/09/02/dos-and-donts-on-designing-for-accessibility/) - [Posters on GitHub](https://github.com/UKHomeOffice/posters)
+* [UK's DWP  Accessibility Manual](https://accessibility-manual.dwp.gov.uk/) - [Accessibility Manual on GitHub](https://github.com/dwp/accessibility-manual)
