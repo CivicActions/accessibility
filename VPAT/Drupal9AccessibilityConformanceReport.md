@@ -9,10 +9,10 @@ Revised Section 508 Edition
 Name of Product/Version: Drupal 9.1
 -----------------------------------
 
-Report Date: 3 January, 2021
+Report Date: 18 January, 2021
 ------------------------------
 
-Report Version: 1.2.1
+Report Version: 1.2.2
 ---------------------
 
 Product Description: Content Management System
