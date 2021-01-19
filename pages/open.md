@@ -21,6 +21,7 @@ CivicActions Accessibility is an open, agile project and community. We work iter
 * [USWDS Color Tool](https://github.com/CivicActions/uswds-color-tool) - CivicActions Project
 
 ## Open Source Accessibilitiy Tools
+* [A11yFirst for CKEditor](http://a11yfirst.web.illinois.edu/) - [Accessibility First on GitHub](https://github.com/a11yfirst/distribution)
 * [Accessibility Insights by Microsoft](https://accessibilityinsights.io/) - [Accessibility Insights GitHub Page](https://github.com/microsoft/accessibility-insights-web)
 * [Accessible color combinations](https://toolness.github.io/accessible-color-matrix/) - [Color combinations on GitHub](https://github.com/toolness/accessible-color-matrix)
 * [axe by Deque](https://www.deque.com/axe/) - [axe GitHub Page](https://github.com/dequelabs/axe-core)
