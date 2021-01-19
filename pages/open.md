@@ -21,23 +21,24 @@ CivicActions Accessibility is an open, agile project and community. We work iter
 * [USWDS Color Tool](https://github.com/CivicActions/uswds-color-tool) - CivicActions Project
 
 ## Open Source Accessibilitiy Tools
-* [Contrast-Ratio.com](https://contrast-Ratio.com) - [Contrast-Ratio GitHub Page](https://github.com/LeaVerou/contrast-ratio)
-* [Contrast Finder](https://contrast-finder.tanaguru.com/) - [Contrast Finder GitHub Page](https://github.com/Tanaguru/Contrast-Finder)
-* [axe](https://www.deque.com/axe/) - [axe GitHub Page](https://github.com/dequelabs/axe-core)
-* [Accessibility Insights](https://accessibilityinsights.io/) - [Accessibility Insights GitHub Page](https://github.com/microsoft/accessibility-insights-web)
-* [Pa11y](https://pa11y.org/) - [Pa11y on GitHub](https://github.com/pa11y)
-* [NVDA](https://www.nvaccess.org/) - [NVDA on GitHub](https://github.com/nvaccess/nvda/)
+* [Accessibility Insights by Microsoft](https://accessibilityinsights.io/) - [Accessibility Insights GitHub Page](https://github.com/microsoft/accessibility-insights-web)
 * [Accessible color combinations](https://toolness.github.io/accessible-color-matrix/) - [Color combinations on GitHub](https://github.com/toolness/accessible-color-matrix)
+* [axe by Deque](https://www.deque.com/axe/) - [axe GitHub Page](https://github.com/dequelabs/axe-core)
+* [ANDI by SSA.gov](https://www.ssa.gov/accessibility/andi/) - [ANDI on GitHub](https://github.com/SSAgov/ANDI)
 * [ButtonBuddy](https://buttonbuddy.dev/) - [ButtonBuddy on GitHub](https://github.com/5t3ph/buttonbuddy)
-* [Tota11y](https://khan.github.io/tota11y/) - [Tota11y on GitHub](https://github.com/Khan/tota11y)
+* [Contrast Finder by Tanaguru](https://contrast-finder.tanaguru.com/) - [Contrast Finder GitHub Page](https://github.com/Tanaguru/Contrast-Finder)
+* [Contrast-Ratio.com](https://contrast-Ratio.com) - [Contrast-Ratio GitHub Page](https://github.com/LeaVerou/contrast-ratio)
 * [Google Lighthouse](https://developers.google.com/web/tools/lighthouse/) - [Lighthouse on GitHub](https://github.com/GoogleChrome/lighthouse)
-* [SSA.gov's ANDI](https://www.ssa.gov/accessibility/andi/) - [ANDI on GitHub](https://github.com/SSAgov/ANDI)
+* [NVDA](https://www.nvaccess.org/) - [NVDA on GitHub](https://github.com/nvaccess/nvda/)
+* [Pa11y](https://pa11y.org/) - [Pa11y on GitHub](https://github.com/pa11y)
+* [Tota11y](https://khan.github.io/tota11y/) - [Tota11y on GitHub](https://github.com/Khan/tota11y)
+
 
 ## Open Content That Inspires Us
-* [18F Accessibility Guide](https://accessibility.18f.gov/) - [18F Guide on GitHub](https://github.com/18F/accessibility)
-* [Government of Canada Digital Accessibility Toolkit](https://canada-ca.github.io/a11y/index.html) - [Digital Accessibility Toolkit on GitHub](https://github.com/canada-ca/a11y/)
-* [UK's Home Office Digital Posters](https://accessibility.blog.gov.uk/2016/09/02/dos-and-donts-on-designing-for-accessibility/) - [Posters on GitHub](https://github.com/UKHomeOffice/posters)
-* [UK's DWP  Accessibility Manual](https://accessibility-manual.dwp.gov.uk/) - [Accessibility Manual on GitHub](https://github.com/dwp/accessibility-manual)
-* [USA's Accessibility for Teams](https://accessibility.digital.gov/) - [Accessibility for Teams on GitHub](https://github.com/GSA/accessibility-for-teams)
-* [HTML5 Accessibility](HTML5accessibility.com) - [HTML5 Accessibility on GitHub](https://github.com/stevefaulkner/HTML5accessibility)
+* [Accessibility Guide by 18F](https://accessibility.18f.gov/) - [18F Guide on GitHub](https://github.com/18F/accessibility)
+* [Digital Accessibility Toolkit by Government of Canada](https://canada-ca.github.io/a11y/index.html) - [Digital Accessibility Toolkit on GitHub](https://github.com/canada-ca/a11y/)
+* [Accessibility Posters by UK's Home Office Digital](https://accessibility.blog.gov.uk/2016/09/02/dos-and-donts-on-designing-for-accessibility/) - [Posters on GitHub](https://github.com/UKHomeOffice/posters)
+* [Accessibility Manual by UK's DWP](https://accessibility-manual.dwp.gov.uk/) - [Accessibility Manual on GitHub](https://github.com/dwp/accessibility-manual)
+* [Accessibility for Teams USA Gov](https://accessibility.digital.gov/) - [Accessibility for Teams on GitHub](https://github.com/GSA/accessibility-for-teams)
+* [HTML5 Accessibility by STeve Faulkner](HTML5accessibility.com) - [HTML5 Accessibility on GitHub](https://github.com/stevefaulkner/HTML5accessibility)
 * [A11yProject.com](https://www.a11yproject.com/) - [A11yProject.com on GitHub](https://github.com/a11yproject/a11yproject.com)
