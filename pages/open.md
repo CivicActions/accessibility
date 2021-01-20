@@ -30,8 +30,10 @@ CivicActions Accessibility is an open, agile project and community. We work iter
 * [Contrast Finder by Tanaguru](https://contrast-finder.tanaguru.com/) - [Contrast Finder GitHub Page](https://github.com/Tanaguru/Contrast-Finder)
 * [Contrast-Ratio.com](https://contrast-Ratio.com) - [Contrast-Ratio GitHub Page](https://github.com/LeaVerou/contrast-ratio)
 * [Google Lighthouse](https://developers.google.com/web/tools/lighthouse/) - [Lighthouse on GitHub](https://github.com/GoogleChrome/lighthouse)
+* [Domain Accessibility Audit by MSU College of Natural Science](https://github.com/MSU-NatSci/DomainAccessibilityAudit) on GitHub
 * [NVDA](https://www.nvaccess.org/) - [NVDA on GitHub](https://github.com/nvaccess/nvda/)
 * [Pa11y](https://pa11y.org/) - [Pa11y on GitHub](https://github.com/pa11y)
+* [purple-hats by Government Digital Services, Singapore](https://github.com/GovTechSG/purple-hats) on GitHub
 * [Tota11y](https://khan.github.io/tota11y/) - [Tota11y on GitHub](https://github.com/Khan/tota11y)
 
 
