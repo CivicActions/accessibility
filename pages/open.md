@@ -29,6 +29,8 @@ CivicActions Accessibility is an open, agile project and community. We work iter
 * [axe by Deque](https://www.deque.com/axe/) - [axe GitHub Page](https://github.com/dequelabs/axe-core)
 * [ANDI by SSA.gov](https://www.ssa.gov/accessibility/andi/) - [ANDI on GitHub](https://github.com/SSAgov/ANDI)
 * [ButtonBuddy](https://buttonbuddy.dev/) - [ButtonBuddy on GitHub](https://github.com/5t3ph/buttonbuddy)
+* [Colour Contrast Analyser (CCA) by TPG](https://developer.paciellogroup.com/resources/contrastanalyser/) - [CCAe on GitHub](https://github.com/ThePacielloGroup/CCAe)
+* [Color Oracle](http://colororacle.org/) - [Oracle-Mac on GitHub](https://github.com/nvkelso/color-oracle) & [Oracle-Windows on GitHub](https://github.com/nvkelso/color-oracle-java)
 * [Contrast Finder by Tanaguru](https://contrast-finder.tanaguru.com/) - [Contrast Finder GitHub Page](https://github.com/Tanaguru/Contrast-Finder)
 * [Contrast-Ratio.com](https://contrast-Ratio.com) - [Contrast-Ratio GitHub Page](https://github.com/LeaVerou/contrast-ratio)
 * [Google Lighthouse](https://developers.google.com/web/tools/lighthouse/) - [Lighthouse on GitHub](https://github.com/GoogleChrome/lighthouse)
@@ -38,7 +40,9 @@ CivicActions Accessibility is an open, agile project and community. We work iter
 * [Pa11y](https://pa11y.org/) - [Pa11y on GitHub](https://github.com/pa11y)
 * [purple-hats by Government Digital Services, Singapore](https://github.com/GovTechSG/purple-hats) on GitHub
 * [Sa11y Ryerson Digital Media Projects](https://ryersondmp.github.io/sa11y/#install) - [Sa11y on GitHub](https://github.com/ryersondmp/sa11y)
+* [Sim Daltonism](https://michelf.ca/projects/sim-daltonism/) - [sim-daltonism on GitHub](https://github.com/michelf/sim-daltonism/)
 * [Tota11y](https://khan.github.io/tota11y/) - [Tota11y on GitHub](https://github.com/Khan/tota11y)
+* [Web Accessibility Toolbar (WAT) by TPG](https://developer.paciellogroup.com/resources/wat/) - [WAT on GitHub](https://github.com/ThePacielloGroup/WebAccessibilityToolbar)
 
 
 ## Open Content That Inspires Us
