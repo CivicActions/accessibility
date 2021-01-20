@@ -43,7 +43,7 @@ CivicActions Accessibility is an open, agile project and community. We work iter
 
 ## Open Content That Inspires Us
 * [A11ysupport.io](https://a11ysupport.io/) - [A11ysupport on GitHub](https://github.com/accessibilitysupported/a11ysupport.io)
-* [a11y.css](https://ffoodd.github.io/a11y.css/) = [a11y.css on GitHub](https://github.com/ffoodd/a11y.css)
+* [a11y.css](https://ffoodd.github.io/a11y.css/) - [a11y.css on GitHub](https://github.com/ffoodd/a11y.css)
 * [Accessibility Guide by 18F](https://accessibility.18f.gov/) - [18F Guide on GitHub](https://github.com/18F/accessibility)
 * [Accessibility Guidelines by Voxmedia](https://accessibility.voxmedia.com/) - [Accessibility Guidelines Checklist on GitHub](https://github.com/voxmedia/accessibility/)
 * [Digital Accessibility Toolkit by Government of Canada](https://canada-ca.github.io/a11y/index.html) - [Digital Accessibility Toolkit on GitHub](https://github.com/canada-ca/a11y/)
@@ -52,3 +52,8 @@ CivicActions Accessibility is an open, agile project and community. We work iter
 * [Accessibility for Teams USA Gov](https://accessibility.digital.gov/) - [Accessibility for Teams on GitHub](https://github.com/GSA/accessibility-for-teams)
 * [HTML5 Accessibility by Steve Faulkner](HTML5accessibility.com) - [HTML5 Accessibility on GitHub](https://github.com/stevefaulkner/HTML5accessibility)
 * [A11yProject.com](https://www.a11yproject.com/) - [A11yProject.com on GitHub](https://github.com/a11yproject/a11yproject.com)
+
+## Open Design Systems
+* [GOV.UK - Design System](https://design-system.service.gov.uk/) - [GOV.UK  Design System on GitHub](https://github.com/alphagov/govuk-design-system)
+* [U.S. Web Design System (USWDS)](https://designsystem.digital.gov/) - [USWDS on GitHub](https://github.com/uswds/uswds)
+* [Canada - Web Experience Toolkit (WET)](https://wet-boew.github.io/wet-boew/index.html) - [WET on GitHub](https://github.com/wet-boew/wet-boew)
