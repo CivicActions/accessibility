@@ -57,3 +57,5 @@ CivicActions Accessibility is an open, agile project and community. We work iter
 * [GOV.UK - Design System](https://design-system.service.gov.uk/) - [GOV.UK  Design System on GitHub](https://github.com/alphagov/govuk-design-system)
 * [U.S. Web Design System (USWDS)](https://designsystem.digital.gov/) - [USWDS on GitHub](https://github.com/uswds/uswds)
 * [Canada - Web Experience Toolkit (WET)](https://wet-boew.github.io/wet-boew/index.html) - [WET on GitHub](https://github.com/wet-boew/wet-boew)
+* [NZ - Design System](https://design-system-alpha.digital.govt.nz/) - [govtnz-design-system on GitHub](https://github.com/GOVTNZ/govtnz-design-system)
+* [Australia.- Design System](https://designsystem.gov.au/) - [Design System Components on GitHub](https://github.com/govau/design-system-components/)
