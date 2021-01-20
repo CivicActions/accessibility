@@ -24,6 +24,7 @@ CivicActions Accessibility is an open, agile project and community. We work iter
 * [A11yFirst for CKEditor](http://a11yfirst.web.illinois.edu/) - [Accessibility First on GitHub](https://github.com/a11yfirst/distribution)
 * [A11ygator](https://a11ygator.chialab.io/) - [A11ygator on GitHub](https://github.com/chialab/a11ygator-app)
 * [Accessibility Insights by Microsoft](https://accessibilityinsights.io/) - [Accessibility Insights GitHub Page](https://github.com/microsoft/accessibility-insights-web)
+* [Accessibility Toolbar Plugin](https://webworks.ga/acc_toolbar/) - [ACC Toolbar on GitHub](https://github.com/mickidum/acc_toolbar)
 * [Accessible color combinations](https://toolness.github.io/accessible-color-matrix/) - [Color combinations on GitHub](https://github.com/toolness/accessible-color-matrix)
 * [axe by Deque](https://www.deque.com/axe/) - [axe GitHub Page](https://github.com/dequelabs/axe-core)
 * [ANDI by SSA.gov](https://www.ssa.gov/accessibility/andi/) - [ANDI on GitHub](https://github.com/SSAgov/ANDI)
@@ -32,9 +33,11 @@ CivicActions Accessibility is an open, agile project and community. We work iter
 * [Contrast-Ratio.com](https://contrast-Ratio.com) - [Contrast-Ratio GitHub Page](https://github.com/LeaVerou/contrast-ratio)
 * [Google Lighthouse](https://developers.google.com/web/tools/lighthouse/) - [Lighthouse on GitHub](https://github.com/GoogleChrome/lighthouse)
 * [Domain Accessibility Audit by MSU College of Natural Science](https://github.com/MSU-NatSci/DomainAccessibilityAudit) on GitHub
+* [IBM Equal Access Toolkit](https://www.ibm.com/able/toolkit/) - [equal-access on GitHub](https://github.com/IBMa/equal-access)
 * [NVDA](https://www.nvaccess.org/) - [NVDA on GitHub](https://github.com/nvaccess/nvda/)
 * [Pa11y](https://pa11y.org/) - [Pa11y on GitHub](https://github.com/pa11y)
 * [purple-hats by Government Digital Services, Singapore](https://github.com/GovTechSG/purple-hats) on GitHub
+* [Sa11y Ryerson Digital Media Projects](https://ryersondmp.github.io/sa11y/#install) - [Sa11y on GitHub](https://github.com/ryersondmp/sa11y)
 * [Tota11y](https://khan.github.io/tota11y/) - [Tota11y on GitHub](https://github.com/Khan/tota11y)
 
 
@@ -42,9 +45,10 @@ CivicActions Accessibility is an open, agile project and community. We work iter
 * [A11ysupport.io](https://a11ysupport.io/) - [A11ysupport on GitHub](https://github.com/accessibilitysupported/a11ysupport.io)
 * [a11y.css](https://ffoodd.github.io/a11y.css/) = [a11y.css on GitHub](https://github.com/ffoodd/a11y.css)
 * [Accessibility Guide by 18F](https://accessibility.18f.gov/) - [18F Guide on GitHub](https://github.com/18F/accessibility)
+* [Accessibility Guidelines by Voxmedia](https://accessibility.voxmedia.com/) - [Accessibility Guidelines Checklist on GitHub](https://github.com/voxmedia/accessibility/)
 * [Digital Accessibility Toolkit by Government of Canada](https://canada-ca.github.io/a11y/index.html) - [Digital Accessibility Toolkit on GitHub](https://github.com/canada-ca/a11y/)
 * [Accessibility Posters by UK's Home Office Digital](https://accessibility.blog.gov.uk/2016/09/02/dos-and-donts-on-designing-for-accessibility/) - [Posters on GitHub](https://github.com/UKHomeOffice/posters)
 * [Accessibility Manual by UK's DWP](https://accessibility-manual.dwp.gov.uk/) - [Accessibility Manual on GitHub](https://github.com/dwp/accessibility-manual)
 * [Accessibility for Teams USA Gov](https://accessibility.digital.gov/) - [Accessibility for Teams on GitHub](https://github.com/GSA/accessibility-for-teams)
-* [HTML5 Accessibility by STeve Faulkner](HTML5accessibility.com) - [HTML5 Accessibility on GitHub](https://github.com/stevefaulkner/HTML5accessibility)
+* [HTML5 Accessibility by Steve Faulkner](HTML5accessibility.com) - [HTML5 Accessibility on GitHub](https://github.com/stevefaulkner/HTML5accessibility)
 * [A11yProject.com](https://www.a11yproject.com/) - [A11yProject.com on GitHub](https://github.com/a11yproject/a11yproject.com)
