@@ -27,18 +27,18 @@ class:
         </li>
         {% endfor %}
     </ul>
-    <p><a href="/people">People</a>
+    <p><a href="{{ site.baseurl }}/people">People</a>
 </div>
 <div class="grid-container">
     <h2>CivicActions Accessibility Handbook</h2>
     {% include handbook.html %}
-    <p><a href="/handbook">Handbook</a>
+    <p><a href="{{ site.baseurl }}/handbook">Handbook</a>
 </div>
 <div class="grid-container">
     <h2>Projects</h2>
     <p>Open source accessibility projects we contribute to.</p>
     {% include projects.html %}
-    <p><a href="/projects">Projects</a>
+    <p><a href="{{ site.baseurl }}/projects">Projects</a>
 </div>
 <div class="grid-container">
     <h2>News</h2>
@@ -64,7 +64,7 @@ class:
         </li>
         {% endfor %}
     </ul>
-    <p><a href="/news">News</a></p>
+    <p><a href="{{ site.baseurl }}/news">News</a></p>
 </div>
 <div class="grid-container">
     {{ content }}
