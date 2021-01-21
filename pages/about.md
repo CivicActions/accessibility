@@ -12,6 +12,7 @@ CivicActions Accessibility is an open project and community for CivicActions tea
 * [Issues](https://github.com/CivicActions/accessibility/issues)
 * [Meeting notes](https://docs.google.com/document/d/1y2yGcxsjEmmr4627nf3O2aGqmIkJrkgcbjRKAz9jSMI/edit?usp=sharing)
 * [Repo](https://github.com/civicactions/accessibility)
+* [OKRs](okrs)
 * [Calendar](calendar)
 * [News](news)
 * [People](people)

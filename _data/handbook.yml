@@ -3,8 +3,18 @@ docs:
 
 - title: Introduction
   url: /introduction
-  description: Get started
+  description: 
   image: card-sliders.png
+
+- title: Tools
+  url: /tools
+  description: 
+  image: card-octagon.png
+
+- title: Design systems
+  url: /design
+  description: 
+  image: card-pen-tool.png
 
 - title: Organizations
   url: /organizations

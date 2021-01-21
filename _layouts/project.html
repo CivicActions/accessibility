@@ -1,23 +1,42 @@
 ---
-layout: page
+layout: default
+main:
+class:
 ---
-
-<aside class="usa-layout-docs-sidenav sidenav {% if page.sticky_sidenav %}usa-sticky-sidenav{% endif %}">
-  <ul class="usa-sidenav-list">
-    {% for item in site.projects %}
-      <li>
-        {% if page.permalink == item.permalink %}
-          <a class="usa-current" href="{{ item.permalink | prepend: site.baseurl }}">{{ item.title }}</a>
-        {% else %}
-          <a href="{{ item.permalink | prepend: site.baseurl }}">{{ item.title }}</a>
-        {% endif %}
-      </li>
-    {% endfor %}
-  </ul>
-</aside>
-
-<div class="usa-width-three-fourths usa-layout-docs-main_content">
-  <h1>{{ page.title }}</h1>
-  <img src="{{ site.baseurl }}{{ page.large_image }}" alt="{{ page.image_alt }} ">
-  {{ content }}
+<div class="handbook-breadcrumb">
+    <div class="grid-container">
+        <nav class="usa-breadcrumb" aria-label="Breadcrumbs">
+            <ol class="usa-breadcrumb__list">
+                <li class="usa-breadcrumb__list-item">
+                    <a href="{{ site.baseurl }}/projects" class="usa-breadcrumb__link">
+                        <span>CivicActions Accessibility projects</span>
+                    </a>
+                </li>
+                <li class="usa-breadcrumb__list-item usa-current" aria-current="page">
+                    <span>{{ page.title }}</span>
+                </li>
+            </ol>
+        </nav>
+    </div>
+</div>
+<div class="handbook-main">
+    <div class="">
+        <div class="grid-container">
+            <div class="grid-row grid-gap flex-align-start">
+                {% assign sidenav = site.data.navigation[page.sidenav] | default: page.sidenav %}
+                {% if sidenav %}
+                <div class="usa-layout-docs__sidenav desktop:grid-col-3{% if page.sticky_sidenav %} usa-sticky-sidenav{% endif %}">
+                    {% include sidenav-projects.html links=sidenav %}
+                </div>
+                {% endif %}
+                <main class="usa-layout-docs usa-layout-docs__main usa-prose{% if sidenav %} desktop:grid-col-9{% endif %}" id="main-content">
+                    {% if page.title %}
+                    <h1>{{ page.title }}</h1>
+                    {% endif %}
+                    {{ content }}
+                    <p>Visit <a href="{{ page.external-url }}">{{ page.title }}</a></p>
+                </main>
+            </div>
+        </div>
+    </div>
 </div>
