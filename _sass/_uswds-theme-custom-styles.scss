@@ -15,7 +15,8 @@ sup {
     font-weight: 400;
 }
 
-main p, main li {
+main p,
+main li {
     font-size: 1.3rem;
 }
 
@@ -106,8 +107,7 @@ img.usa-media-block__img {
     max-width: 124px;
 }
 
-.font-heading-xl {
-}
+.font-heading-xl {}
 
 .usa-graphic-list {
     margin-bottom: 2rem;
@@ -122,6 +122,13 @@ img.usa-media-block__img {
     padding-left: 1rem;
 }
 
-.usa-button, .usa-button:hover, .usa-hero .usa-hero__callout .usa-button {
+.usa-button,
+.usa-button:hover,
+.usa-hero .usa-hero__callout .usa-button {
     background-color: #1b1b1b;
+}
+
+.usa-social-link--linkedin {
+    background-image: url("../uswds/img/social-icons/linkedin25.svg"), linear-gradient(transparent, transparent);
+    background-repeat: no-repeat;
 }
