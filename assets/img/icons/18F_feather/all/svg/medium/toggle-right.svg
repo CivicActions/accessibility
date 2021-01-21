@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="27px" viewBox="0 0 40 27" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.1 (89650) - https://sketch.com -->
+    <title>svg/medium/toggle-right</title>
+    <desc>Created with Sketch.</desc>
+    <g id="**-Sticker-Sheets" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="sticker-sheet--all--page-6" transform="translate(-565.000000, -1218.000000)" stroke="#046B99" stroke-width="2">
+            <g id="icon-preview-row-copy-252" transform="translate(0.000000, 1189.000000)">
+                <g id="Icon-Row">
+                    <g id="toggle-right" transform="translate(561.000000, 18.214286)">
+                        <path d="M12,12 L36,12 C39.8659932,12 43,15.1340068 43,19 L43,29 C43,32.8659932 39.8659932,36 36,36 L12,36 C8.13400675,36 5,32.8659932 5,29 L5,19 C5,15.1340068 8.13400675,12 12,12 Z M30.9090909,29.2727273 C33.7709301,29.2727273 36.0909091,26.9527482 36.0909091,24.0909091 C36.0909091,21.2290699 33.7709301,18.9090909 30.9090909,18.9090909 C28.0472518,18.9090909 25.7272727,21.2290699 25.7272727,24.0909091 C25.7272727,26.9527482 28.0472518,29.2727273 30.9090909,29.2727273 Z"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

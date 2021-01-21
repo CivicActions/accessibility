@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="35px" viewBox="0 0 30 35" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.1 (89650) - https://sketch.com -->
+    <title>svg/white/box</title>
+    <desc>Created with Sketch.</desc>
+    <g id="**-Sticker-Sheets" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="sticker-sheet--all--page-1" transform="translate(-866.000000, -3339.000000)" stroke="#FFFFFF" stroke-width="2">
+            <g id="icon-preview-row-copy-34" transform="translate(0.000000, 3315.000000)">
+                <g id="Icon-Row">
+                    <g id="box" transform="translate(857.000000, 18.214286)">
+                        <path d="M38,28.7012718 L38,16.2987282 C37.9988611,15.1921138 37.4060392,14.1699851 36.4444444,13.6166782 L25.5555556,7.41540644 C24.5929744,6.86153119 23.4070256,6.86153119 22.4444444,7.41540644 L11.5555556,13.6166782 C10.5939608,14.1699851 10.0011389,15.1921138 10,16.2987282 L10,28.7012718 C10.0011389,29.8078862 10.5939608,30.8300149 11.5555556,31.3833218 L22.4444444,37.5845936 C23.4070256,38.1384688 24.5929744,38.1384688 25.5555556,37.5845936 L36.4444444,31.3833218 C37.4060392,30.8300149 37.9988611,29.8078862 38,28.7012718 Z M11,15 L24.5,23 L38,15 M24,39 L24,23"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

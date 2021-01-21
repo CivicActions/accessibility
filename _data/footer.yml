@@ -54,6 +54,11 @@ contact:
       href: https://twitter.com/civicactions
       external: true
       type: twitter
+    - text: LinkedIn
+      href: https://www.linkedin.com/company/civicactions/
+      external: true
+      type: linkedin
+
 #     - text: YouTube
 #       href: https://youtube.com
 #       external: true
