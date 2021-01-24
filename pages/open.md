@@ -25,6 +25,7 @@ Open source accessibility projects we contribute to:
 
 ## Drupal Modules for Accessibility
 * [Accessibility Scanner](https://www.drupal.org/project/accessibility_scanner) - Sitewide Drupal Scan (Achecker)
+* [A11Y: Form helpers](https://www.drupal.org/project/a11y_form_helpers) - Fixing form issues like the HTML5 validation.
 * [Block ARIA Landmark Roles](https://www.drupal.org/project/block_aria_landmark_roles) - Adding semantics to blocks
 * [CKEditor Abbreviation](https://www.drupal.org/project/ckeditor_abbreviation) - CKEditor Plugin
 * [CKEditor Accessibility Auditor](https://www.drupal.org/project/ckeditor_accessibility_auditor) - WYSIWYG Scanner (HTML CodeSniffer)
