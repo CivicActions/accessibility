@@ -24,12 +24,12 @@ Open source accessibility projects we contribute to:
 * [Drupal](https://www.drupal.org/project/issues/search/drupal?issue_tags=accessibility)
 
 ## Drupal Modules for Accessibility
-* [CKEditor Accessibility Auditor](https://www.drupal.org/project/ckeditor_accessibility_auditor)
-* [Block ARIA Landmark Roles](https://www.drupal.org/project/block_aria_landmark_roles)
-* [CKEditor Abbreviation](https://www.drupal.org/project/ckeditor_abbreviation)
-* [Fluidproject UI Options](https://www.drupal.org/project/fluidui)
-* [High contrast](https://www.drupal.org/project/high_contrast)
-* [htmLawed](https://www.drupal.org/project/htmlawed)
-* [HTML Purifier](https://www.drupal.org/project/htmlpurifier)
-* [Accessibility Scanner](https://www.drupal.org/project/accessibility_scanner)
-* [Editoria11y](https://www.drupal.org/project/editoria11y)
+* [Accessibility Scanner](https://www.drupal.org/project/accessibility_scanner) - Sitewide Drupal Scan (Achecker)
+* [Block ARIA Landmark Roles](https://www.drupal.org/project/block_aria_landmark_roles) - Adding semantics to blocks
+* [CKEditor Abbreviation](https://www.drupal.org/project/ckeditor_abbreviation) - CKEditor Plugin
+* [CKEditor Accessibility Auditor](https://www.drupal.org/project/ckeditor_accessibility_auditor) - WYSIWYG Scanner (HTML CodeSniffer)
+* [Editoria11y](https://www.drupal.org/project/editoria11y) - WYSIWYG Scanner (Tota11y)
+* [Fluidproject UI Options](https://www.drupal.org/project/fluidui) - Preference Editor Widget
+* [High contrast](https://www.drupal.org/project/high_contrast) - High Contrast Module
+* [htmLawed](https://www.drupal.org/project/htmlawed) - HTML Validity Filter
+* [HTML Purifier](https://www.drupal.org/project/htmlpurifier) - HTML Validity Filter
