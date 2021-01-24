@@ -32,3 +32,4 @@ Open source accessibility projects we contribute to:
 * [htmLawed](https://www.drupal.org/project/htmlawed)
 * [HTML Purifier](https://www.drupal.org/project/htmlpurifier)
 * [Accessibility Scanner](https://www.drupal.org/project/accessibility_scanner)
+* [Editoria11y](https://www.drupal.org/project/editoria11y)
