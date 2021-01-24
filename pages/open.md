@@ -6,7 +6,7 @@ permalink: /open
 ---
 
 ## We work in the open
-CivicActions Accessibility is an open, agile project and community. We work iteratively, in public. Making the digital world accessible by default is a wicked problem, where the only way we will be able to keep up with the rate of change is if we collaborate together. 
+CivicActions Accessibility is an open, agile project and community. We work iteratively, in public. Making the digital world accessible by default is a wicked problem, where the only way we will be able to keep up with the rate of change is if we collaborate together. See lists of our open source [resources](/accessibility/handbook/resources), [tools](/accessibility/handbook/tools) and [design systems](/accessibility/handbook/design).
 
 ## Our work
 * [Project board](https://github.com/CivicActions/accessibility/projects/1)
