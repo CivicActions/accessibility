@@ -15,3 +15,5 @@ speakerdeck:
 website: https://www.danielmundra.com/
 
 ---
+
+Daniel Mundra is a team member of CivicActions Accessibility.
