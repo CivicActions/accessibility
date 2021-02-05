@@ -16,6 +16,11 @@ docs:
   description: 
   image: card-pen-tool.png
 
+- title: Discovery
+  url: /discovery
+  description: 
+  image:
+
 - title: Organizations
   url: /organizations
   description: 
