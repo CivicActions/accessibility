@@ -19,7 +19,7 @@ docs:
 - title: Discovery
   url: /discovery
   description: 
-  image:
+  image: card-magnify.png
 
 - title: Organizations
   url: /organizations
