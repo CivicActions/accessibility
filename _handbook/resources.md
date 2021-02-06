@@ -9,7 +9,7 @@ categories:
 
 ---
 
-Open content that inspires us:
+## Open content that inspires us:
 
 * [A11ysupport.io](https://a11ysupport.io/) - [A11ysupport on GitHub](https://github.com/accessibilitysupported/a11ysupport.io)
 * [a11y.css](https://ffoodd.github.io/a11y.css/) - [a11y.css on GitHub](https://github.com/ffoodd/a11y.css)
@@ -35,3 +35,24 @@ Open content that inspires us:
 * [High contrast](https://www.drupal.org/project/high_contrast) - High Contrast Module
 * [htmLawed](https://www.drupal.org/project/htmlawed) - HTML Validity Filter
 * [HTML Purifier](https://www.drupal.org/project/htmlpurifier) - HTML Validity Filter
+
+## Pocasts
+- https://a11yrules.com/
+- https://interactiveaccessibility.com/iap-podcasts
+- https://www.ruhglobal.com/podcasthuman-potential-work/
+- https://www.bemyeyes.com/podcasts-show/13-letters
+- https://www.bemyeyes.com/podcasts-show/the-be-my-eyes-podcast
+- https://atbanter.com/
+
+## Videos
+- Heydon's Webbed Briefs - https://briefs.video/
+- Erik Kroes - https://www.youtube.com/channel/UCwrpGO76k2HyUQspl-rG2eQ/videos
+- Eric Eggert - https://www.youtube.com/c/EricEggert
+
+
+## Twitch
+- erikKroes - https://www.twitch.tv/erikKroes
+- Ruh Global Impact - https://www.twitch.tv/ruh_global_impact
+
+## Newsletters
+- http://www.webaxe.org/digital-accessibility-newsletters/
