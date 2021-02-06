@@ -46,6 +46,10 @@ contact:
   # Configuration for social media links
   # Comment out links you don't want to use (RSS is an example)
   social_links:
+    - text: GitHub
+      href: https://github.com/civicactions/accessibility
+      external: true
+      type: github
     - text: Facebook
       href: https://facebook.com/civicactions
       external: true

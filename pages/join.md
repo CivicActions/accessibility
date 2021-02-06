@@ -1,12 +1,11 @@
 ---
 title: Join us
-description: Contribute to CivicActions Accessibility.
+description: How to get involved with CivicActions Accessibility.
 permalink: /join
 layout: post
 
 ---
 
-# Meet us where you are:
-
-* CivicActions Accessibility on Slack: #accessibility  - <i>(CivicActions Internal)</i>
-* [CivicActions Accessibility on GitHub](https://github.com/civicactions/accessibility)
+* Join the #accessibility CivicActions Slack channel <em>(CivicActions Internal)</em>
+* [Submit an 'Add new team member' issue](https://github.com/CivicActions/accessibility/issues/new/choose) (Join [GitHub](https://github.com) if you haven't already)
+* [Join the meetings](/calendar) (check-ins + prioritization + practice area calls)

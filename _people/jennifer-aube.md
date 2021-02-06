@@ -16,3 +16,4 @@ website:
 
 ---
 
+Jennifer Aube is a team member of CivicActions Accessibility.

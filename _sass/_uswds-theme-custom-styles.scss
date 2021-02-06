@@ -15,6 +15,11 @@ sup {
     font-weight: 400;
 }
 
+p.lead {
+    font-size: 2rem;
+    color: #454545;
+}
+
 main p,
 main li {
     font-size: 1.3rem;
@@ -130,5 +135,10 @@ img.usa-media-block__img {
 
 .usa-social-link--linkedin {
     background-image: url("../uswds/img/social-icons/linkedin25.svg"), linear-gradient(transparent, transparent);
+    background-repeat: no-repeat;
+}
+
+.usa-social-link--github {
+    background-image: url("../uswds/img/social-icons/github25.svg"), linear-gradient(transparent, transparent);
     background-repeat: no-repeat;
 }

@@ -16,3 +16,4 @@ website:
 
 ---
 
+Alanna Casey is a team member of CivicActions Accessibility.

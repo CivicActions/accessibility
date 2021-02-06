@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Accessibility
-description: Website accessibility statement
+description: Our website accessibility statement.
 permalink: /accessibility
 ---
         

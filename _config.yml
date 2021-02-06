@@ -9,6 +9,10 @@ github_info:
   organization: civicactions
   repository: accessibility
 
+url: "https://civicactions.github.io/accessibility" # the base hostname & protocol for your site
+plugins:
+  - jekyll-sitemap
+
 # Configuration for setting the site width to 100%
 # To enable, uncomment the following line
 # site_width: wide

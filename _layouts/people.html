@@ -13,7 +13,7 @@ class:
                         <img src="{{ site.baseurl }}/assets/img/people/{{ page.image }}" alt="photo of {{ page.name }} ">
                     </div>
                     <div class="grid-col-10">
-                        <h2>Bio</h2>
+                        <h2>About</h2>
                         {{ content }}
                         <h2>Connect</h2>
                         <ul>
@@ -26,6 +26,16 @@ class:
                             {% if page.twitter %}
                             <li><a href="{{ page.twitter }}">Twitter</a></li>
                             {% endif %}
+                            {% if page.gitlab %}
+                            <li><a href="{{ page.gitlab }}">GitLab</a></li>
+                            {% endif %}
+                            {% if page.drupal %}
+                            <li><a href="{{ page.gitlab }}">Drupal</a></li>
+                            {% endif %}
+                            {% if page.website %}
+                            <li><a href="{{ page.website }}">Website</a></li>
+                            {% endif %}
+
                         </ul>
                     </div>
                 </div>

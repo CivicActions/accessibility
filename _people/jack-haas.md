@@ -16,3 +16,4 @@ website:
 
 ---
 
+Jack Haas is a team member of CivicActions Accessibility.

@@ -17,7 +17,7 @@ hero:
     href: /link/
   content: CivicActions Accessibility is where CivicActions team members and our partners learn from and support one another to make digital government services more accessible for everyone.
 
-tagline: We're open and agile.
+tagline: We're open.
 intro: |
   CivicActions Accessibility is an open, agile project and community. We work iteratively, in public. [Learn more.](open)
 

@@ -22,3 +22,16 @@ Open content that inspires us:
 * [HTML5 Accessibility by Steve Faulkner](HTML5accessibility.com) - [HTML5 Accessibility on GitHub](https://github.com/stevefaulkner/HTML5accessibility)
 * [A11yProject.com](https://www.a11yproject.com/) - [A11yProject.com on GitHub](https://github.com/a11yproject/a11yproject.com)
 * [A11y.coffee](https://a11y.coffee/) - [A11y Coffee on GitHub](https://github.com/amberleyromo/a11y-coffee)
+
+## Drupal Modules for Accessibility
+
+* [Accessibility Scanner](https://www.drupal.org/project/accessibility_scanner) - Sitewide Drupal Scan (Achecker)
+* [A11Y: Form helpers](https://www.drupal.org/project/a11y_form_helpers) - Fixing form issues like the HTML5 validation.
+* [Block ARIA Landmark Roles](https://www.drupal.org/project/block_aria_landmark_roles) - Adding semantics to blocks
+* [CKEditor Abbreviation](https://www.drupal.org/project/ckeditor_abbreviation) - CKEditor Plugin
+* [CKEditor Accessibility Auditor](https://www.drupal.org/project/ckeditor_accessibility_auditor) - WYSIWYG Scanner (HTML CodeSniffer)
+* [Editoria11y](https://www.drupal.org/project/editoria11y) - WYSIWYG Scanner (Tota11y)
+* [Fluidproject UI Options](https://www.drupal.org/project/fluidui) - Preference Editor Widget
+* [High contrast](https://www.drupal.org/project/high_contrast) - High Contrast Module
+* [htmLawed](https://www.drupal.org/project/htmlawed) - HTML Validity Filter
+* [HTML Purifier](https://www.drupal.org/project/htmlpurifier) - HTML Validity Filter

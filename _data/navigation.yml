@@ -14,10 +14,6 @@
 primary:
   - text: About
     href: /about
-  - text: OKRs
-    href: /okrs
-  - text: Open
-    href: /open
   - text: Join us
     href: /join
   - text: Calendar
@@ -26,8 +22,6 @@ primary:
     href: /news
   - text: People
     href: /people
-  - text: Projects
-    href: /projects
   - text: Handbook
     href: /handbook
   - text: Contact

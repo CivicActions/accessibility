@@ -1,4 +1,4 @@
-I"^<p>Open content that inspires us:</p>
+I"	<p>Open content that inspires us:</p>
 
 <ul>
   <li><a href="https://a11ysupport.io/">A11ysupport.io</a> - <a href="https://github.com/accessibilitysupported/a11ysupport.io">A11ysupport on GitHub</a></li>
@@ -11,5 +11,21 @@
   <li><a href="https://accessibility.digital.gov/">Accessibility for Teams USA Gov</a> - <a href="https://github.com/GSA/accessibility-for-teams">Accessibility for Teams on GitHub</a></li>
   <li><a href="HTML5accessibility.com">HTML5 Accessibility by Steve Faulkner</a> - <a href="https://github.com/stevefaulkner/HTML5accessibility">HTML5 Accessibility on GitHub</a></li>
   <li><a href="https://www.a11yproject.com/">A11yProject.com</a> - <a href="https://github.com/a11yproject/a11yproject.com">A11yProject.com on GitHub</a></li>
+  <li><a href="https://a11y.coffee/">A11y.coffee</a> - <a href="https://github.com/amberleyromo/a11y-coffee">A11y Coffee on GitHub</a></li>
+</ul>
+
+<h2 id="drupal-modules-for-accessibility">Drupal Modules for Accessibility</h2>
+
+<ul>
+  <li><a href="https://www.drupal.org/project/accessibility_scanner">Accessibility Scanner</a> - Sitewide Drupal Scan (Achecker)</li>
+  <li><a href="https://www.drupal.org/project/a11y_form_helpers">A11Y: Form helpers</a> - Fixing form issues like the HTML5 validation.</li>
+  <li><a href="https://www.drupal.org/project/block_aria_landmark_roles">Block ARIA Landmark Roles</a> - Adding semantics to blocks</li>
+  <li><a href="https://www.drupal.org/project/ckeditor_abbreviation">CKEditor Abbreviation</a> - CKEditor Plugin</li>
+  <li><a href="https://www.drupal.org/project/ckeditor_accessibility_auditor">CKEditor Accessibility Auditor</a> - WYSIWYG Scanner (HTML CodeSniffer)</li>
+  <li><a href="https://www.drupal.org/project/editoria11y">Editoria11y</a> - WYSIWYG Scanner (Tota11y)</li>
+  <li><a href="https://www.drupal.org/project/fluidui">Fluidproject UI Options</a> - Preference Editor Widget</li>
+  <li><a href="https://www.drupal.org/project/high_contrast">High contrast</a> - High Contrast Module</li>
+  <li><a href="https://www.drupal.org/project/htmlawed">htmLawed</a> - HTML Validity Filter</li>
+  <li><a href="https://www.drupal.org/project/htmlpurifier">HTML Purifier</a> - HTML Validity Filter</li>
 </ul>
 :ET
