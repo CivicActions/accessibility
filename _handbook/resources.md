@@ -37,12 +37,12 @@ categories:
 * [HTML Purifier](https://www.drupal.org/project/htmlpurifier) - HTML Validity Filter
 
 ## Pocasts
-- [A11yrules](https://a11yrules.com/)
-- [IAP Podcast](https://interactiveaccessibility.com/iap-podcasts)
-- [Human Potential at Work](https://www.ruhglobal.com/podcasthuman-potential-work/)
 - [13 letters](https://www.bemyeyes.com/podcasts-show/13-letters)
-- [Be My Eyes Podcast](https://www.bemyeyes.com/podcasts-show/the-be-my-eyes-podcast)
+- [A11yrules](https://a11yrules.com/)
 - [AT Banter](https://atbanter.com/)
+- [Be My Eyes Podcast](https://www.bemyeyes.com/podcasts-show/the-be-my-eyes-podcast)
+- [Human Potential at Work](https://www.ruhglobal.com/podcasthuman-potential-work/)
+- [IAP Podcast](https://interactiveaccessibility.com/iap-podcasts)
 
 ## Videos
 - [Heydon's Webbed Briefs](https://briefs.video/)
