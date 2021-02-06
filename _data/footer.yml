@@ -16,7 +16,7 @@ top:
 # Customize with 'text' property.
 # Uncomment the following lines to show.
 edit_page:
-  text: Edit this page
+  text: Help improve this page
 
 # Configuration for "Last updated" date and time.
 # Uncomment the following line to show.
