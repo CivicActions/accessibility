@@ -37,22 +37,22 @@ categories:
 * [HTML Purifier](https://www.drupal.org/project/htmlpurifier) - HTML Validity Filter
 
 ## Pocasts
-- https://a11yrules.com/
-- https://interactiveaccessibility.com/iap-podcasts
-- https://www.ruhglobal.com/podcasthuman-potential-work/
-- https://www.bemyeyes.com/podcasts-show/13-letters
-- https://www.bemyeyes.com/podcasts-show/the-be-my-eyes-podcast
-- https://atbanter.com/
+- [A11yrules](https://a11yrules.com/)
+- [IAP Podcast](https://interactiveaccessibility.com/iap-podcasts)
+- [Human Potential at Work](https://www.ruhglobal.com/podcasthuman-potential-work/)
+- [13 letters](https://www.bemyeyes.com/podcasts-show/13-letters)
+- [Be My Eyes Podcast](https://www.bemyeyes.com/podcasts-show/the-be-my-eyes-podcast)
+- [AT Banter](https://atbanter.com/)
 
 ## Videos
-- Heydon's Webbed Briefs - https://briefs.video/
-- Erik Kroes - https://www.youtube.com/channel/UCwrpGO76k2HyUQspl-rG2eQ/videos
-- Eric Eggert - https://www.youtube.com/c/EricEggert
+- [Heydon's Webbed Briefs](https://briefs.video/)
+- [Erik Kroes](https://www.youtube.com/channel/UCwrpGO76k2HyUQspl-rG2eQ/videos)
+- [Eric Eggert](https://www.youtube.com/c/EricEggert)
 
 
 ## Twitch
-- erikKroes - https://www.twitch.tv/erikKroes
-- Ruh Global Impact - https://www.twitch.tv/ruh_global_impact
+- [erikKroes](https://www.twitch.tv/erikKroes)
+- [Ruh Global Impact](https://www.twitch.tv/ruh_global_impact)
 
 ## Newsletters
-- http://www.webaxe.org/digital-accessibility-newsletters/
+- [WebAxe maintains a terrific list of newsletters](http://www.webaxe.org/digital-accessibility-newsletters/)
