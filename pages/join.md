@@ -13,6 +13,6 @@ layout: post
 
 ## Not yet working for CivicActions
 * Add to the [issue queue](https://github.com/CivicActions/accessibility/issues)
-* Submit pull requests
+* Help us edit pages and submit pull requests
 * Follow us on [Twitter](https://twitter.com/CivicActions)
 * Keep watching for [opportunities](https://civicactions.com/careers)! 
