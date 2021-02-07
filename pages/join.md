@@ -12,7 +12,7 @@ layout: post
 * [Join the meetings](/calendar) (check-ins + prioritization + practice area calls)
 
 ## Not yet working for CivicActions
-* Add to the issue queue
+* Add to the [issue queue](https://github.com/CivicActions/accessibility/issues)
 * Submit pull requests
 * Follow us on [Twitter](https://twitter.com/CivicActions)
 * Keep watching for [opportunities](https://civicactions.com/careers)! 
