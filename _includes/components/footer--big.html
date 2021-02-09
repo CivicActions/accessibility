@@ -6,10 +6,10 @@
       <p>
       {% if footer.edit_page %}
         {% include components/github-edit.html footer=footer path=page.path %}
-      {% endif %} &middot;
+      {% endif %} 
 
 <!--  // Date not working
-      Last updated: {{ page.last_modified_at | date: '%B %d, %Y at %I:%M %p' }} 
+     &nbsp; &middot; &nbsp; Last updated: {{ page.last_modified_at | date: '%B %d, %Y at %I:%M %p' }} 
 -->
         
       </p>
