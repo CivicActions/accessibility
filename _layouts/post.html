@@ -17,8 +17,8 @@ main:
             {% comment %}"where" creates an array, so using "first" we can pop the first item off of the array of 1.{% endcomment %}
             {% assign author_data = site.people | where:"author", author | first %}
             <div class="author">
-                <p><a href="{{ author_data.baseurl }}"><img src="{{ site.baseurl }}/assets/img/people/{{ author_data.image }}" alt="{{ author_data.name }}" title="{{ author_data.name }}"></a> 
-                By <a href="{{ author_data.url }}"> {{ author_data.name }}</a> &middot; {{ page.date | date: "%B %-d, %Y"}}</p>
+                <p><a href="{{ site.baseurl }}{{ author_data.url }}"><img src="{{ site.baseurl }}/assets/img/people/{{ author_data.image }}" alt="{{ author_data.name }}" title="{{ author_data.name }}"></a> 
+                By <a href="{{ site.baseurl }}{{ author_data.url }}"> {{ author_data.name }}</a> &middot; {{ page.date | date: "%B %-d, %Y"}}</p>
             </div>
 
             {% endfor %}
