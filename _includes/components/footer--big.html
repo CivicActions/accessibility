@@ -7,7 +7,20 @@
       {% if footer.edit_page %}
         {% include components/github-edit.html footer=footer path=page.path %}
       {% endif %} &middot;
-      Last updated: {{ page.last_modified_at | date: '%B %d, %Y at %I:%M %p' }}</p>
+<!-- 
+      Last updated: {{ page.last_modified_at | date: '%B %d, %Y at %I:%M %p' }} 
+     <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+        {%- assign date_format = site.minima.date_format | default: '%b %-d, %Y' -%}
+
+        {%- if page.last_modified_at -%}
+            Last updated: {{ page.last_modified_at | date: date_format }}
+        {%- else -%}
+            Last updated: {{ page.date | date: date_format }}
+        {%- endif -%}
+      </time>
+-->
+        
+      </p>
     </div>
   {% endif %}
 
