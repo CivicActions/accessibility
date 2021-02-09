@@ -1,7 +1,47 @@
 ---
-layout: page
+layout: default
 main:
   class: usa-grid usa-section usa-content usa-layout-docs
 ---
 
-{{ content }}
+<div class="usa-section">
+  <div class="grid-container">
+    <div class="grid-row grid-gap flex-align-start">
+      <main class="usa-layout-docs usa-layout-docs__main usa-prose{% if sidenav %} desktop:grid-col-9{% endif %}" id="main-content">
+        {% if page.title %}
+          <h1>{{ page.title }}</h1>
+        {% endif %}
+            {% if page.author %}
+            {% comment %}Loop through all of the authors of the page.{% endcomment %}
+            {% for author in page.author %}
+            {% comment %}"where" creates an array, so using "first" we can pop the first item off of the array of 1.{% endcomment %}
+            {% assign author_data = site.people | where:"author", author | first %}
+            <div class="author">
+                <p><a href="{{ author_data.baseurl }}"><img src="{{ site.baseurl }}/assets/img/people/{{ author_data.image }}" alt="{{ author_data.name }}" title="{{ author_data.name }}"></a> 
+                By <a href="{{ author_data.url }}"> {{ author_data.name }}</a> &middot; {{ page.date | date: "%B %-d, %Y"}}</p>
+            </div>
+
+            {% endfor %}
+            {% endif %}
+
+        {{ content }}
+
+            {% if page.author %}
+            {% comment %}Loop through all of the authors of the page.{% endcomment %}
+            {% for author in page.author %}
+            {% comment %}"where" creates an array, so using "first" we can pop the first item off of the array of 1.{% endcomment %}
+            {% assign author_data = site.people | where:"author", author | first %}
+            {% if author_data.content.size > 1 %}
+            <div class="post-bio">
+                <p>
+                    <em>{{ author_data.content }}</em>
+                </p>
+            </div>
+            {% endif %}
+            {% endfor %}
+            {% endif %}
+
+      </main>
+    </div>
+  </div>
+</div>

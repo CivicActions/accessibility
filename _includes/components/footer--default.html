@@ -2,8 +2,12 @@
 <footer class="usa-footer">
 
   {% if footer.last_updated %}
-    <div class="grid-container ">
-      <p>Last updated: {{ page.last_modified_at | date: '%B %d, %Y at %I:%M %p' }}</p>
+    <div class="grid-container">
+      <p>
+      {% if footer.edit_page %}
+        {% include components/github-edit.html footer=footer path=page.path %}
+      {% endif %} &middot;
+      Last updated: {{ page.last_modified_at | date: '%B %d, %Y at %I:%M %p' }}</p>
     </div>
   {% endif %}
 
@@ -92,9 +96,6 @@
           {% endif %}
         {% endif %}
       </div>
-      {% if footer.edit_page %}
-        {% include components/github-edit.html footer=footer path=page.path %}
-      {% endif %}
       </div>
     </div>
   </div>

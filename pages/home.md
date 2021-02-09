@@ -1,7 +1,7 @@
 ---
 title: Home
 permalink: /
-descriptions: CivicActions Accessibility is where CivicActions team members and our partners learn from and support one another to make digital government services more accessible for everyone.
+description: CivicActions Accessibility is an open project and community for CivicActions team members and the community.
 layout: home
 
 hero:
@@ -15,7 +15,7 @@ hero:
   link:
     text: Link to more about that priority
     href: /link/
-  content: CivicActions Accessibility is where CivicActions team members and our partners learn from and support one another to make digital government services more accessible for everyone.
+  content: CivicActions Accessibility is an open project and community for CivicActions team members and the community. We want this resource to be useful to our team, our clients, our partners, but also people who want to improving accessibility on the web.
 
 tagline: We're open.
 intro: |

@@ -3,6 +3,20 @@ layout: default
 main:
 class:
 ---
+
+{% comment %}
+Assign all of the related content here.
+{% endcomment %}
+{% assign training = site.training | sort: 'date' | reverse | where: 'author', page.author %}
+{% assign coaching = site.coaching | sort: 'date' | reverse | where: 'author', page.author %}
+{% assign consulting = site.consulting | sort: 'date' | reverse | where: 'author', page.author %}
+{% assign help = site.help | sort: 'date' | reverse | where: 'author', page.author %}
+{% assign filtered_posts = site.posts | where: 'author', page.author %}
+{% comment %}
+Next check for related content and only add container if there is something to put in it.
+{% endcomment %}
+{% if training != empty or coaching != empty or consulting != empty or help != empty or filtered_posts != empty %}
+
 <div class="usa-section">
     <div class="grid-container">
         <div class="usa-width-three-fourths usa-layout-docs-team-member">
@@ -35,11 +49,20 @@ class:
                             {% if page.website %}
                             <li><a href="{{ page.website }}">Website</a></li>
                             {% endif %}
-
                         </ul>
+                        {% if filtered_posts != empty %}
+                        <h2>Posts</h2>
+                        <ul>
+                        {% for post in filtered_posts %}
+                        <li><a href="{{ post.url }}">{{ post.title }}</a>, {{ post.date | date: "%B %-d, %Y" }}</li>
+                        {% endfor %}
+                        </ul>
+                        {% endif %}
                     </div>
                 </div>
             </main>
         </div>
     </div>
 </div>
+
+{% endif %}

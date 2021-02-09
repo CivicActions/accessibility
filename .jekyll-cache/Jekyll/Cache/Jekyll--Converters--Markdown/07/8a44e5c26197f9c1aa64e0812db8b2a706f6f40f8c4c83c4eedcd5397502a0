@@ -1,0 +1,61 @@
+I"-<h2 id="great-government-open-resources">Great Government Open Resources</h2>
+<ul>
+  <li><a href="https://accessibility.18f.gov/">Accessibility Guide by 18F</a> - <a href="https://github.com/18F/accessibility">18F Guide on GitHub</a></li>
+  <li><a href="https://accessibility-manual.dwp.gov.uk/">Accessibility Manual by UK’s DWP</a> - <a href="https://github.com/dwp/accessibility-manual">Accessibility Manual on GitHub</a></li>
+  <li><a href="https://accessibility.blog.gov.uk/2016/09/02/dos-and-donts-on-designing-for-accessibility/">Accessibility Posters by UK’s Home Office Digital</a> - <a href="https://github.com/UKHomeOffice/posters">Posters on GitHub</a></li>
+  <li><a href="https://accessibility.digital.gov/">Accessibility for Teams USA Gov</a> - <a href="https://github.com/GSA/accessibility-for-teams">Accessibility for Teams on GitHub</a></li>
+  <li><a href="https://canada-ca.github.io/a11y/index.html">Digital Accessibility Toolkit by Government of Canada</a> - <a href="https://github.com/canada-ca/a11y/">Digital Accessibility Toolkit on GitHub</a></li>
+</ul>
+
+<h2 id="more-inspiring-open-content">More Inspiring Open Content</h2>
+<ul>
+  <li><a href="https://ffoodd.github.io/a11y.css/">a11y.css</a> - <a href="https://github.com/ffoodd/a11y.css">a11y.css on GitHub</a></li>
+  <li><a href="https://www.a11yproject.com/">A11yProject.com</a> - <a href="https://github.com/a11yproject/a11yproject.com">A11yProject.com on GitHub</a></li>
+  <li><a href="https://a11ysupport.io/">A11ysupport.io</a> - <a href="https://github.com/accessibilitysupported/a11ysupport.io">A11ysupport on GitHub</a></li>
+  <li><a href="https://a11y.coffee/">A11y.coffee</a> - <a href="https://github.com/amberleyromo/a11y-coffee">A11y Coffee on GitHub</a></li>
+  <li><a href="https://accessibility.voxmedia.com/">Accessibility Guidelines by Voxmedia</a> - <a href="https://github.com/voxmedia/accessibility/">Accessibility Guidelines Checklist on GitHub</a></li>
+  <li><a href="HTML5accessibility.com">HTML5 Accessibility by Steve Faulkner</a> - <a href="https://github.com/stevefaulkner/HTML5accessibility">HTML5 Accessibility on GitHub</a></li>
+</ul>
+
+<h2 id="drupal-modules-for-accessibility">Drupal Modules for Accessibility</h2>
+<ul>
+  <li><a href="https://www.drupal.org/project/accessibility_scanner">Accessibility Scanner</a> - Sitewide Drupal Scan (Achecker)</li>
+  <li><a href="https://www.drupal.org/project/a11y_form_helpers">A11Y: Form helpers</a> - Fixing form issues like the HTML5 validation.</li>
+  <li><a href="https://www.drupal.org/project/block_aria_landmark_roles">Block ARIA Landmark Roles</a> - Adding semantics to blocks</li>
+  <li><a href="https://www.drupal.org/project/ckeditor_abbreviation">CKEditor Abbreviation</a> - CKEditor Plugin</li>
+  <li><a href="https://www.drupal.org/project/ckeditor_accessibility_auditor">CKEditor Accessibility Auditor</a> - WYSIWYG Scanner (HTML CodeSniffer)</li>
+  <li><a href="https://www.drupal.org/project/editoria11y">Editoria11y</a> - WYSIWYG Scanner (Tota11y)</li>
+  <li><a href="https://www.drupal.org/project/fluidui">Fluidproject UI Options</a> - Preference Editor Widget</li>
+  <li><a href="https://www.drupal.org/project/high_contrast">High contrast</a> - High Contrast Module</li>
+  <li><a href="https://www.drupal.org/project/htmlawed">htmLawed</a> - HTML Validity Filter</li>
+  <li><a href="https://www.drupal.org/project/htmlpurifier">HTML Purifier</a> - HTML Validity Filter</li>
+</ul>
+
+<h2 id="pocasts">Pocasts</h2>
+<ul>
+  <li><a href="https://www.bemyeyes.com/podcasts-show/13-letters">13 letters</a></li>
+  <li><a href="https://a11yrules.com/">A11yrules</a></li>
+  <li><a href="https://atbanter.com/">AT Banter</a></li>
+  <li><a href="https://www.bemyeyes.com/podcasts-show/the-be-my-eyes-podcast">Be My Eyes Podcast</a></li>
+  <li><a href="https://www.ruhglobal.com/podcasthuman-potential-work/">Human Potential at Work</a></li>
+  <li><a href="https://interactiveaccessibility.com/iap-podcasts">IAP Podcast</a></li>
+</ul>
+
+<h2 id="videos">Videos</h2>
+<ul>
+  <li><a href="https://briefs.video/">Heydon’s Webbed Briefs</a></li>
+  <li><a href="https://www.youtube.com/channel/UCwrpGO76k2HyUQspl-rG2eQ/videos">Erik Kroes</a></li>
+  <li><a href="https://www.youtube.com/c/EricEggert">Eric Eggert</a></li>
+</ul>
+
+<h2 id="twitch">Twitch</h2>
+<ul>
+  <li><a href="https://www.twitch.tv/erikKroes">erikKroes</a></li>
+  <li><a href="https://www.twitch.tv/ruh_global_impact">Ruh Global Impact</a></li>
+</ul>
+
+<h2 id="newsletters">Newsletters</h2>
+<ul>
+  <li><a href="http://www.webaxe.org/digital-accessibility-newsletters/">WebAxe maintains a terrific list of newsletters</a></li>
+</ul>
+:ET
