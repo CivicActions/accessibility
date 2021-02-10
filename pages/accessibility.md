@@ -17,14 +17,14 @@ The framework for this is built primarily leveraging the <a href="https://design
 
 The color pallett is based on work with the <a href="https://civicactions.github.io/uswds-color-tool/">USWDS Color Compare Tool</a>. The USWDS's Color framework provides [magic numbers](https://designsystem.digital.gov/whats-new/updates/2019/04/08/introducing-uswds-2-0/) that allow us to quickly determine if color contrast requirements have been met.
 
-The pages are primarily written in Markdown which substantially reduces the range of errors available in HTML. These are then compiled using <a href="https://jekyllrb.com/">Jekyll</a> and presented to the user as structured HTML5. The site is hosted on <a href="https://github.com">GitHub</a>, which has a very broad community of users who are free to to add issues or submit pull requests. 
+The pages are primarily written in Markdown which substantially reduces the range of errors available in HTML. These are then compiled using <a href="https://jekyllrb.com/">Jekyll</a> and presented to the user as structured HTML5. The site is hosted on <a href="https://github.com">GitHub</a>, which has a very broad community of users who are free to to add issues or pull requests. 
 
 ## Known issues
 
-- We are not currently doing readability testing on the content, and it has not been reviewed for plain language.
+- We are not currently doing readability testing on the content, and it has not been reviewed for [plain language](https://www.plainlanguage.gov/).
 - We can control the accessibility of the site, but not the accessibility of GitHub. GitHub is reasonably accessible, but is not currently seeking to be as accessible as this site.
 
 ## Feedback
  
-If you run into any barriers please contact us - [accessibility@civicactions.com](mailto:accessibility@civicactions.com) - with details to help track down the problem. Alternatively, feel free to jump in and post an issue to our issue queue or submit a Pull Request to the repository. 
+If you run into any barriers please contact us - [accessibility@civicactions.com](mailto:accessibility@civicactions.com) - with details to help track down the problem. Alternatively, feel free to jump in and [post an issue](https://github.com/CivicActions/accessibility/issues) to our issue queue or [submit a Pull Request](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) to the repository. 
 
