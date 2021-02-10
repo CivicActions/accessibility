@@ -14,6 +14,8 @@ categories:
 ### Authoring Tools
 * [A11yFirst for CKEditor](http://a11yfirst.web.illinois.edu/) - [Accessibility First on GitHub](https://github.com/a11yfirst/distribution)
 * [Sa11y Ryerson Digital Media Projects](https://ryersondmp.github.io/sa11y/#install) - [Sa11y on GitHub](https://github.com/ryersondmp/sa11y)
+* [retextjs: retext-readability plugin](https://github.com/retextjs/retext-readability)
+* [retextjs: retext-equality plugin](https://github.com/retextjs/retext-equality)
 
 ### Assistive Technology
 * [NVDA](https://www.nvaccess.org/) - [NVDA on GitHub](https://github.com/nvaccess/nvda/)
