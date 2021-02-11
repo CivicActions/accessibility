@@ -15,7 +15,7 @@ hero:
   link:
     text: Link to more about that priority
     href: /link/
-  content: CivicActions Accessibility is an open project and community for CivicActions team members and the community. We want this resource to be useful to our team, our clients, our partners, but also people who want to improving accessibility on the web.
+  content: CivicActions Accessibility is an open project and community for CivicActions team members and the community. We want this resource to be useful to our team, our clients, our partners, but also people who want to improve accessibility on the web.
 
 tagline: We're open.
 intro: |
