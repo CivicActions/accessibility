@@ -7,3 +7,5 @@ _site/
 node_modules
 output.log
 site
+pa11y_report
+pa11y_output.json
