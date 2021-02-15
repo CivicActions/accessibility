@@ -13,7 +13,7 @@ CivicActions Accessibility looks to pursue and encourage accessibility in every 
   * Developing personas/archetypes that represent accessibility questions in design sprints.
 * Adding accessibility requirements to working agreement/definition of done.
 * Adding accessibility acceptance criteria to user stories.
-  * Creating specific user stories for permanent, temporary or situational disabilities.
+  * Creating specific user stories for permanent, temporary, or situational disabilities.
 * Using accessibility testing tools:
   * Developing a feature locally.
   * Automated testing when pushing code to a branch or to infrastructure.

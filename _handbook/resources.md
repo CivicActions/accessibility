@@ -23,7 +23,7 @@ categories:
 * [A11ysupport.io](https://a11ysupport.io/) - [A11ysupport on GitHub](https://github.com/accessibilitysupported/a11ysupport.io)
 * [A11y.coffee](https://a11y.coffee/) - [A11y Coffee on GitHub](https://github.com/amberleyromo/a11y-coffee)
 * [Accessibility Guidelines by Voxmedia](https://accessibility.voxmedia.com/) - [Accessibility Guidelines Checklist on GitHub](https://github.com/voxmedia/accessibility/)
-* [HTML5 Accessibility by Steve Faulkner](HTML5accessibility.com) - [HTML5 Accessibility on GitHub](https://github.com/stevefaulkner/HTML5accessibility)
+* [HTML5 Accessibility by Steve Faulkner](https://html5accessibility.com/) - [HTML5 Accessibility on GitHub](https://github.com/stevefaulkner/HTML5accessibility)
 
 
 ## Drupal Modules for Accessibility
