@@ -9,7 +9,7 @@ categories:
 
 ---
 
-## Open source accessibilitiy tools
+## Open source accessibility tools
 
 ### Authoring Tools
 * [A11yFirst for CKEditor](http://a11yfirst.web.illinois.edu/) - [Accessibility First on GitHub](https://github.com/a11yfirst/distribution)
@@ -44,6 +44,9 @@ categories:
 * [jest-axe](https://github.com/nickcolley/jest-axe) - for testing ReactJS, Enzyme or Vue
 * [Nightwatch aXe-core](https://www.npmjs.com/package/nightwatch-axe-core) - [Nightwatch  aXe-core on GitHub](https://github.com/rikki-iki/nightwatch-axe-core)
 
+### PDF Checkers
+* TBD
+
 ### Color
 * [Accessible color combinations](https://toolness.github.io/accessible-color-matrix/) - [Color combinations on GitHub](https://github.com/toolness/accessible-color-matrix)
 * [Accessible color palette builder](https://toolness.github.io/accessible-color-matrix/) - [Accessible Color Palette on GitHub](https://github.com/toolness/accessible-color-matrix)
@@ -57,6 +60,8 @@ categories:
 * [Pika MacOS Color Picker](https://superhighfives.com/pika) - [Pika on GitHub](https://github.com/superhighfives/pika)
 * [Sim Daltonism](https://michelf.ca/projects/sim-daltonism/) - [sim-daltonism on GitHub](https://github.com/michelf/sim-daltonism/)
 
+### Simulators
+* TBD
 
 ## Other Lists of Tools
 * [Donna Bungard's An Incomplete List of Tools for Accessibility](https://docs.google.com/spreadsheets/d/1WEujpG4RNEGTcBHOwvVYsixAZPnhkcnJujVoLdMZM4o/edit?disco=AAAALK-X_iI&usp=comment_email_discussion&usp_dm=false&ts=600ee792)
