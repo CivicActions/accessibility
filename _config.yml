@@ -57,6 +57,9 @@ autoprefixer:
     - not dead
 
 collections:
+  playbook:
+    output: true
+    permalink: playbook/:title
   projects:
     output: true
     permalink: projects/:title
