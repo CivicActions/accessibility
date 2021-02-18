@@ -42,6 +42,12 @@ class:
 </div>
 <div class="grid-container">
     <h2>News</h2>
+    {% for post in site.posts limit:2 %}
+    <h3><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
+    <p>{{ post.description }}</p>
+    <p><em>{{ post.date | date: "%B %-d, %Y" }}</em></p>
+    {% endfor %}
+    <!--
     <ul class="usa-card-group">
         {% for post in site.posts %}
         <li class="tablet:grid-col-4 usa-card">
@@ -64,6 +70,7 @@ class:
         </li>
         {% endfor %}
     </ul>
+-->
     <p><a href="{{ site.baseurl }}/news">News</a></p>
 </div>
 <div class="grid-container">

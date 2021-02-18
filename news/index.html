@@ -4,7 +4,7 @@ layout: page
 description: Latest CivicActions Accessibility news.
 ---
 {% for post in site.posts %}
-<h2 class="usa-card__heading"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
+<h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
 <p>{{ post.description }}</p>
 <p><em>{{ post.date | date: "%B %-d, %Y" }}</em></p>
 {% endfor %}

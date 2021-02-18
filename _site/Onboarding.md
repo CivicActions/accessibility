@@ -8,7 +8,7 @@ To ensure that there is committment throughout the organization is accessibility
 
 * Deque https://www.youtube.com/watch?v=grrx2Lva7T0 (<3 minutes)
 * W3C WAI https://www.youtube.com/watch?v=20SHvU2PKsM (<5 minutes)
-* W3C WAI Léonie Watson https://www.youtube.com/watch?v=20SHvU2PKsM (39 minutes)
+* W3C WAI Léonie Watson https://www.youtube.com/watch?v=vK1tlLOavvM (39 minutes)
 
 ### Have new staff take a simple quiz with multiple-choice questions like:
 
