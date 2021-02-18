@@ -45,7 +45,12 @@ categories:
 * [Nightwatch aXe-core](https://www.npmjs.com/package/nightwatch-axe-core) - [Nightwatch  aXe-core on GitHub](https://github.com/rikki-iki/nightwatch-axe-core)
 
 ### PDF Checkers
-* TBD
+Note: There are no tools that easily fit this criteria. All of these are related though.
+* [PAC 3](https://www.access-for-all.ch/en/pdf-accessibility-checker.html) - Freeware but not open source
+* [PAVE](https://pave-pdf.org/) - Free service, claims to be open source but hasn't released the soruce code
+* [PDF Parser](https://www.pdfparser.org/) - not accessibility focused
+* [PyPDF2](https://pythonhosted.org/PyPDF2/index.html) - not accessibility focused
+* [pdfwam](https://gitlab.tingtun.no/eiii_source/pdfwam) available as [free PDF Check](http://checkers.eiii.eu/en/pdfcheck/)  - out of date
 
 ### Color
 * [Accessible color combinations](https://toolness.github.io/accessible-color-matrix/) - [Color combinations on GitHub](https://github.com/toolness/accessible-color-matrix)
