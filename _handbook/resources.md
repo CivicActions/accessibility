@@ -16,6 +16,9 @@ categories:
 * [Accessibility for Teams USA Gov](https://accessibility.digital.gov/) - [Accessibility for Teams on GitHub](https://github.com/GSA/accessibility-for-teams)
 * [Digital Accessibility Toolkit by Government of Canada](https://canada-ca.github.io/a11y/index.html) - [Digital Accessibility Toolkit on GitHub](https://github.com/canada-ca/a11y/)
 
+## Guides
+* [Create Accessible Documents by U.S. General Services Administration](https://www.section508.gov/create/documents)
+* [How to Create Accessible Documents by Ryerson University](https://www.ryerson.ca/accessibility/guides-resources/accessible-documents/)
 
 ## More Inspiring Open Content
 * [a11y.css](https://ffoodd.github.io/a11y.css/) - [a11y.css on GitHub](https://github.com/ffoodd/a11y.css)
@@ -24,7 +27,6 @@ categories:
 * [A11y.coffee](https://a11y.coffee/) - [A11y Coffee on GitHub](https://github.com/amberleyromo/a11y-coffee)
 * [Accessibility Guidelines by Voxmedia](https://accessibility.voxmedia.com/) - [Accessibility Guidelines Checklist on GitHub](https://github.com/voxmedia/accessibility/)
 * [HTML5 Accessibility by Steve Faulkner](https://html5accessibility.com/) - [HTML5 Accessibility on GitHub](https://github.com/stevefaulkner/HTML5accessibility)
-
 
 ## Drupal Modules for Accessibility
 * [Accessibility Scanner](https://www.drupal.org/project/accessibility_scanner) - Sitewide Drupal Scan (Achecker)
@@ -38,7 +40,7 @@ categories:
 * [htmLawed](https://www.drupal.org/project/htmlawed) - HTML Validity Filter
 * [HTML Purifier](https://www.drupal.org/project/htmlpurifier) - HTML Validity Filter
 
-## Pocasts
+## Podcasts
 - [13 letters](https://www.bemyeyes.com/podcasts-show/13-letters)
 - [A11yrules](https://a11yrules.com/)
 - [AT Banter](https://atbanter.com/)
