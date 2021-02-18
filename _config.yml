@@ -9,7 +9,7 @@ github_info:
   organization: civicactions
   repository: accessibility
 
-url: "https://civicactions.github.io" # the base hostname & protocol for your site
+url: "https://accessibility.civicactions.com" # the base hostname & protocol for your site
 plugins:
   - jekyll-sitemap
   - jekyll-redirect-from
