@@ -1,5 +1,5 @@
 ---
-layout: handbook
+layout: guide
 title: Introduction
 description: Getting started.
 excerpt: 

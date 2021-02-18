@@ -1,5 +1,5 @@
 ---
-layout: handbook
+layout: guide
 title: Design systems
 description: 
 excerpt: 

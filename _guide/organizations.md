@@ -1,5 +1,5 @@
 ---
-layout: handbook
+layout: guide
 title: Organizations
 description: Accessibility organizations.
 excerpt: 

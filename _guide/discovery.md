@@ -1,5 +1,5 @@
 ---
-layout: handbook
+layout: guide
 title: Discovery
 description: 
 excerpt: 

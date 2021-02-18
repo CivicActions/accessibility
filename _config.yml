@@ -12,6 +12,7 @@ github_info:
 url: "https://civicactions.github.io" # the base hostname & protocol for your site
 plugins:
   - jekyll-sitemap
+  - jekyll-redirect-from
 
 # Configuration for setting the site width to 100%
 # To enable, uncomment the following line
@@ -74,15 +75,12 @@ collections:
   people:
     output: true
     permalink: people/:title
-  handbook:
+  guide:
     output: true
-    permalink: handbook/:title
+    permalink: guide/:title
   talks:
     output: true
     permalink: talks/:title
-  handbook:
-    output: true
-    permalink: handbook/:title
   coaching:
     output: true
     permalink: coaching/:title

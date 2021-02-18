@@ -1,5 +1,5 @@
 ---
-layout: handbook
+layout: guide
 title: Tools
 description: 
 excerpt: 
