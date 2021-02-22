@@ -14,13 +14,10 @@ categories:
 <dl>          
     <dt>Accessibility</dt>
     <dd>The measure of a web page's usability by persons with one or more disabilities.</dd>
-
     <dt>Alternative Text (also known as alt text)</dt>
     <dd>Short text used to describe images — usually 125 characters or less.</dd>
-
     <dt>Assistive technologies</dt>
     <dd>Technology designed so people with disabilities have greater functional capabilities with computer-based systems.  This could be software or hardware and often benefits a broader range of computer users.</dd>
-
     <dt>Americans with Disabilities Act of 1990 (ADA)</dt>
     <dd>A USA civil rights law that prohibits discrimination based on disability. </dd>
 </dl>
