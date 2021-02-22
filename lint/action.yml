@@ -1,0 +1,13 @@
+name: "Run remark-lint with reviewdog"
+description: "🐶 Run remark-lint with reviewdog on pull requests for documentation projects."
+author: "civicactions"
+inputs:
+  github_token:
+    description: "GITHUB_TOKEN."
+    required: true
+    default: ${{ github.token }}
+runs:
+  using: "docker"
+  image: "Dockerfile"
+  args:
+    - remark.sh
