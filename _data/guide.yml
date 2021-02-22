@@ -30,3 +30,8 @@ docs:
   url: /resources
   description: 
   image: card-book.png
+
+- title: Glossary
+  url: /glossary
+  description: 
+  image: card-book.png
