@@ -15,9 +15,13 @@ categories:
 
 Digital accessibility is both complicated and simple. It is complicated because there are many layers of technology involved in communicating content from an author to the user. It is simple because, ultimately, if you keep your site simple and follow some basic guidelines, you’re generally going to achieve digital accessibility.
 
+### Section 508
+
+The United States lead the movement to articulate web accessibility with the creation of Section 508. In In 1998, the U.S. legislature to correct the shortcomings of the original Section 508 Amendment to the Rehabilitation Act of 1973. Included a list of technical standards against which products can be evaluated to determine if they meet the technical compliance. 
+
 ### WCAG & POUR
 
-The World Wide Web Consortium (W3C)’s Web Content Accessibility Guidelines ([WCAG](https://www.w3.org/TR/UNDERSTANDING-WCAG20/intro.html)) 1.0 were published in 1999. The guidelines were built to be technology-agnostic—HTML was just one way to structure content on the web—and to accommodate the rapid pace of change online.
+In 1999 the World Wide Web Consortium (W3C)’s Web Content Accessibility Guidelines ([WCAG](https://www.w3.org/TR/UNDERSTANDING-WCAG20/intro.html)) 1.0 were published. The guidelines were built to be technology-agnostic—HTML was just one way to structure content on the web—and to accommodate the rapid pace of change online.
 
 For example, when the first iPhone was released in 2007, people had no idea how much mobile devices would revolutionize how people interact—both with digital content and each other. And the web has continued to evolve rapidly. It is clear that nobody wants to create an app or a website that makes someone physically ill, but how much animation is acceptable? [Where is the line](https://github.com/w3c/wcag/issues/1072) between visual changes that help people identify where new content is, and the changes that cause some people to become sick?
 
@@ -25,10 +29,10 @@ Additionally, since the WCAG process requires a great deal of negotiation—the 
 
 Rather than guidelines based on specific accommodations for particular disabilities, the W3C’s Web Accessibility Initiative (WAI) settled on four key principles—known by the acronym POUR—which have guided digital accessibility. To be accessible, digital content must be:
 
--   Perceivable: users must be able to perceive the information being presented
--   Operable: users must be able to operate the interface
--   Understandable: users must be able to understand the information as well as the operation of the user interface
--   Robust: users must be able to access the content as technologies advance
+-   **Perceivable:** users must be able to perceive the information being presented
+-   **Operable:** users must be able to operate the interface
+-   **Understandable:** users must be able to understand the information as well as the operation of the user interface
+-   **Robust:** users must be able to access the content as technologies advance
     
 As the web continues to change and develop, the guidelines to maintain accessibility need to as well. WCAG 2.0 was released in 2008, 2.1 was released in 2018, and 2.2 is slated for release in mid-2021. There may be other releases within the WCAG 2.x series, and the WAI has [released the first draft of WCAG 3.0](https://w3c.github.io/silver/guidelines/), which is working to revise the whole framework.
 
@@ -36,9 +40,11 @@ In the near future, digital tools will be expected to be personalized so that ev
 
 To be clear, no website will be 100% accessible. Any work that is done should strive for excellence, not perfection. Even a site that met WCAG 2.1 AAA compliance would not necessarily be accessible to everyone. Like security, accessibility is a journey where improvements must be constantly adapted to meet changing realities. Organizations must seek to be better today than they were yesterday. WCAG guidelines should be seen not as the goal to strive for, but a floor from which to build.
 
+Other govements around the world began implementing accessibility regulations. In Canada there was the Accessible Canada Act (ACA) and also several provincial acts like Accessibility for Ontarians with Disabilities Act (AODA). Accessibility legislation occurs at all levels of government, although there may be differences, web standards usually follow the WCAG recommendations. 
+
 ### Harmonised European Standard & European Accessibility Act
 
-The Harmonised European Standard (EN 301 549) is a living document first published by the European Telecommunications Standards Institute (ETSI) in 2014. The latest version, 3.1.1, was published in November 2019 and embraces WCAG 2.1 AA as the minimum accessibility standard for countries in the EU. Governments in the EU are given the freedom to choose how they want to implement the standard within their own countries, and after the W3C releases WCAG 2.2, it will be reviewed for consideration for an upcoming release of EN 301 549.
+Europe is currently seen as the leader in digital accessibility best practices. The Harmonised European Standard (EN 301 549) is a living document first published by the European Telecommunications Standards Institute (ETSI) in 2014. The latest version, 3.1.1, was published in November 2019 and embraces WCAG 2.1 AA as the minimum accessibility standard for countries in the EU. Governments in the EU are given the freedom to choose how they want to implement the standard within their own countries, and after the W3C releases WCAG 2.2, it will be reviewed for consideration for an upcoming release of EN 301 549.
 
 Web content makes up a lot of the material covered in the standard, but it also includes:
 
