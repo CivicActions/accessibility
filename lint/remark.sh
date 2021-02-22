@@ -8,7 +8,7 @@ if [[ -z ${LOCAL_MAIN} ]]; then
   MAIN=origin/main
 fi
 # Only check paths changed on branch to avoid excessive output.
-export REMARK_PATHS=$(git diff --diff-filter=AM --name-only "${MAIN}" | grep -v '^_site')
+export REMARK_PATHS=$(git diff --diff-filter=AM --name-only "${MAIN}" | grep '^\(pages\|news\|VPAT\|_guide\|_people\|_posts\|_projects\|_playbook\)')
 
 if [[ -n "${INPUT_GITHUB_TOKEN:-}" ]]; then
   export REVIEWDOG_GITHUB_API_TOKEN="${INPUT_GITHUB_TOKEN}"
