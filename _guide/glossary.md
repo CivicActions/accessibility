@@ -9,7 +9,7 @@ categories:
 
 ---
 
-## Glossary of Accessibility Terms
+## Accessibility Terms
 
 <dl>          
     <dt>Accessibility</dt>
