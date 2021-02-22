@@ -6,7 +6,7 @@
 - There are links to the Drupal issue queue where issues are being disciussed
 - The Authoring Tool sections highlights ATAG 2.0 - Part A & B.
 
-**Please submit Pull Requests and issues. 
+**Please submit Pull Requests and issues.**
 
 
 ## Links & Resources

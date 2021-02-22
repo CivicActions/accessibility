@@ -20,7 +20,7 @@ CivicActions Accessibility looks to pursue and encourage accessibility in every 
   * Testing a feature in QA or production.
 * User accessibility testing after a feature/project delivery.
 * Doing manual testing.
-* Reviewing site-wide autoated tests.
+* Reviewing site-wide automated tests.
 * Reviewing with assistive technology (VoiceOver/NVDA).
 
 ## Examples of our practices

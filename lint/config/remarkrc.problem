@@ -1,7 +1,7 @@
 {
   "settings": {
     "listItemIndent": "1",
-    "bullet": "-",
+    "bullet": "*",
     "strong": "*",
     "emphasis": "_",
     "fences": true
