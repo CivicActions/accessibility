@@ -20,7 +20,7 @@ categories:
 ### Assistive Technology
 * [NVDA](https://www.nvaccess.org/) - [NVDA on GitHub](https://github.com/nvaccess/nvda/)
 * [ChromeVox Chrome Extension](https://chrome.google.com/webstore/detail/screen-reader/kgejglhpjiefppelpmljglcjbhoiplfn) - [ChromeVox as part of ChromeOS on GitHub](https://github.com/chromium/chromium/blob/master/docs/accessibility/chromevox.md) - [Install and Setup Instructions from Web Accessibility for Developers Guide (with video)](https://pressbooks.library.ryerson.ca/wafd/chapter/chromevox-screen-reader-install-and-setup/)
-* [Linux Orca](https://help.gnome.org/users/orca/stable/introduction.html.en)
+* [Linux Orca](https://help.gnome.org/users/orca/stable/index.html.en) - [Orca on GitLab](https://gitlab.gnome.org/GNOME/orca) - [Orca on Chrome/Chromium](https://wiki.gnome.org/Projects/Orca/Chromium)
 
 ### Page Level Evaluation
 * [A11ygator](https://a11ygator.chialab.io/) - [A11ygator on GitHub](https://github.com/chialab/a11ygator-app)
