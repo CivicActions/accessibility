@@ -41,8 +41,9 @@ categories:
 * [purple-hats by Government Digital Services, Singapore](https://github.com/GovTechSG/purple-hats) on GitHub
 
 ### JavaScript Checkers
-* [jest-axe](https://github.com/nickcolley/jest-axe) - for testing ReactJS, Enzyme or Vue
-* [Nightwatch aXe-core](https://www.npmjs.com/package/nightwatch-axe-core) - [Nightwatch  aXe-core on GitHub](https://github.com/rikki-iki/nightwatch-axe-core)
+* [cypress-axe](https://github.com/component-driven/cypress-axe) - for testing with [Cypress](https://www.cypress.io/) on GitHub
+* [jest-axe](https://github.com/nickcolley/jest-axe) - for testing with [Jest](https://jestjs.io/) on GitHub
+* [Nightwatch aXe-core](https://github.com/rikki-iki/nightwatch-axe-core) - for testing with [Nightwatch](https://nightwatchjs.org/) on GitHub
 
 ### PDF Checkers
 Note: There are no tools that easily fit this criteria. All of these are related though.
