@@ -1,0 +1,14 @@
+name: reviewdog
+on: [pull_request]
+jobs:
+  remark-lint:
+    name: runner / remark-lint
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v1
+        with:
+          fetch-depth: 0
+      - name: Run remark-lint with reviewdog for documentation projects.
+        uses: ./lint
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
