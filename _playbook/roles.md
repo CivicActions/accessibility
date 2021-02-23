@@ -64,6 +64,11 @@ We've taken these two lists, added other roles that we didn't see included and i
     - "Make sure the team know their responsibilities"
     - [W3C Accessibility Responsibility: Project Manager](https://www.w3.org/community/wai-engage/wiki/Accessibility_Responsibility_Breakdown#pm)
     - **Tools:** [WebAim's WAVE Toolbar](https://wave.webaim.org/extension/)
+    - Checklist
+        - Verify that personas include permanent, temporary or situational examples for vision, mobility, hearing, and cognitive disabilities
+        - Ensure that accessibility is being considered with every sprint (or alternative process)
+        - Find ways to prioritize common, weird and critical barriers that are discovered in QA
+        - Identify where to include people with disabilities in the process
 - Procurement Manager 
     - **Tools:** [WebAim's WAVE Toolbar](https://wave.webaim.org/extension/)
 - QA Tester - [UK](https://accessibility-manual.dwp.gov.uk/guidance-for-your-job-role/qa-tester)
@@ -80,10 +85,25 @@ We've taken these two lists, added other roles that we didn't see included and i
     - [W3C Accessibility Responsibility: Usability](https://www.w3.org/community/wai-engage/wiki/Accessibility_By_Roles_-_Interaction_Design_/_Usability)
     - **Tools:** [WebAim's WAVE Toolbar](https://wave.webaim.org/extension/)
     - Also see Interaction Designer.
+    - Checklist
+        - Make sure that the tab order is meaningful and that focus is considered in the design proccess
+        - Ensure that ARIA Landmarks are identified for each of the pieces of content used in the site
+        - Look to see that both the forms and errors associated with those forms are understandable
+        - Ensure that decorative images are clearly identified so that they are not described
+        - Check to see that the touch targets exceed 44 px or 10 mm
 - Visual Design / Graphic Design - [USA](https://accessibility.digital.gov/visual-design/getting-started/)
     - "Everyone benefits from designs that are easier to see. People with different visual abilities see your designs in varying ways—the diverse nature of impairments creates a wide variation in how your designs are perceived. A clean and clear visual presentation helps everyone make sense of a website’s information and functionality."
     - [W3C Accessibility Responsibility: Graphic Design](https://www.w3.org/community/wai-engage/wiki/Accessibility_By_Roles_-_Graphic_Design)
     - **Tools:** [Open source color contrast tools](https://github.com/CivicActions/accessibility/blob/main/_handbook/tools.md#color)
-    
+    - Checklist
+        - Is there enough contrast between text and its background color?
+        - Can you quickly understand the meaning of the page and complete your task?
+        - Can you easily read and comprehend textual information on the page?
+        - Can you easily understand content associated with graphics, icons, and images?
+        - Can you understand the overall trend of the graph? Can you quickly grasp the relationship between parts of the data?
+        - Can you understand key information and perform critical tasks on a mobile device?
+        - Can you reach everything that’s interactive using the tab key?
+
+
 We plan to continue to add to this as other role specific advice becomes relevant. The W3C's [ARRM Project - Accessibility Roles and Responsibilities Mapping](https://www.w3.org/WAI/EO/wiki/ARRM_Project_-_Accessibility_Roles_and_Responsibilities_Mapping) will be mapping this out in more detail in the years to come. 
 
