@@ -26,6 +26,12 @@ We've taken these two lists, added other roles that we didn't see included and i
     - **Tools:** [WebAim's WAVE Toolbar](https://wave.webaim.org/extension/)
 - Content Author - [USA](https://accessibility.digital.gov/content-design/getting-started/)
     - **Tools:** [Sa11y](https://ryersondmp.github.io/sa11y/) and [HemingwayApp](http://www.hemingwayapp.com/)
+    - Checklist
+        - Does the content meet your readability target?
+        - Are there any [unusual words](https://www.w3.org/WAI/WCAG21/quickref/?versions=2.0#unusual-words) to watch for?
+        - Do images have meaningful alternative text that is related to the other content?
+        - Are there large blocks of text, or is it broken up by appropriate headers?
+        - Can links be understood without any surrounding content? 
 - Content Designer / Information Architecture - [UK](https://accessibility-manual.dwp.gov.uk/guidance-for-your-job-role/content-designer)
     - "Making the content as easy to understand as possible makes it better for everybody. There are common scenarios where people might benefit from simple content. For example, people where English is not their first language or people who have Dyslexia."
     - [W3C Accessibility Responsibility: Architecture](https://www.w3.org/community/wai-engage/wiki/Accessibility_By_Roles_-_Architecture)
