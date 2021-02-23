@@ -11,54 +11,53 @@ docs:
   description: 
   image: card-sliders.png
 
-- title: 	Automated Testing
+- title: Automated Testing
   url: /automated-testing
   description: 
   image: card-sliders.png
   
-  - title: Manual Testing
+- title: Manual Testing
   url: /manual-testing
   description: 
   image: card-sliders.png
   
-  - title: Test with Assistive Technology
+- title: Test with Assistive Technology
   url: /AT
   description: 
   image: card-sliders.png
   
-  - title: Accessibility Statements
+- title: Accessibility Statements
   url: /statements
   description: 
   image: card-sliders.png
   
-  - title: 	Include People with Disabilities
+- title: Include People with Disabilities
   url: /pwd
   description: 
   image: card-sliders.png
   
-  - title: Community of Practice
+- title: Community of Practice
   url: /practice
   description: 
   image: card-sliders.png
   
-  - title: PDF Documents
+- title: PDF Documents
   url: /pdf
   description: 
   image: card-sliders.png
   
-  - title: Invest in Accessibility Training
+- title: Invest in Accessibility Training
   url: /training
   description: 
   image: card-sliders.png
   
-  - title: Use Checklists
+- title: Use Checklists
   url: /checklists
   description: 
   image: card-sliders.png
   
-   - title: Improve Authoring Tools
+- title: Improve Authoring Tools
   url: /authoring
   description: 
   image: card-sliders.png
   
- 
