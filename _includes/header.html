@@ -6,4 +6,6 @@
 
 {% include components/header.html %}
 
+{% if jekyll.environment == 'production' %}
 {% include analytics.html %}
+{% endif %}
