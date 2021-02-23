@@ -67,8 +67,8 @@ Note: There are no tools that easily fit this criteria. All of these are related
 
 ### Simulators
 * [Metamatrix Web Disability Simulator Chrome Extension](https://chrome.google.com/webstore/detail/web-disability-simulator/olioanlbgbpmdlgjnnampnnlohigkjla) on [Metamatrix on GitHub](https://github.com/Metamatrix/web-disability-simulator)
+* [NoCoffee Chrome Extension](https://accessgarage.wordpress.com/) - [NoCoffee on GitHub](https://github.com/eeejay/NoCoffee)
 * [Funkify Chrome Extension](https://www.funkify.org/) - Not open source but free version is available.
-* [NoCoffee Chrome Extension](https://accessgarage.wordpress.com/) - Not open source but extension is free.
 
 ## Other Lists of Tools
 * [Donna Bungard's An Incomplete List of Tools for Accessibility](https://docs.google.com/spreadsheets/d/1WEujpG4RNEGTcBHOwvVYsixAZPnhkcnJujVoLdMZM4o/edit?disco=AAAALK-X_iI&usp=comment_email_discussion&usp_dm=false&ts=600ee792)
