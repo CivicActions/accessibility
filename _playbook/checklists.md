@@ -1,6 +1,6 @@
 ---
 layout: playbook
-title: Checklists
+title: Use Checklists
 description: 
 excerpt: 
 sidenav: docs
@@ -30,5 +30,15 @@ One could also look to use a tool like WebAim's WAVE, ANDI, or Tota11y to scan a
 - Evaluate page for plain language using free tools like the [HemingwayApp](http://www.hemingwayapp.com/) 
 - Magnify the page up to 200% and look for usability and readability issues
 
-
+There are lots of checklists, rotating through a few of them will help give different people different things to think about accessibility:
+- https://accessibility.18f.gov/checklist/ 
+- https://romeo.elsevier.com/accessibility_checklist/
+- https://usability.yale.edu/web-accessibility/articles/wcag2-checklist
+- https://www.w3.org/WAI/test-evaluate/preliminary/
+- https://webaim.org/standards/wcag/checklist
+- https://www.washington.edu/accessibility/checklist/
+- https://www.a11yproject.com/checklist/
+- https://github.com/Heydon/inclusive-design-checklist
+- http://accessibility.voxmedia.com/
+- https://accessibility.psu.edu/checklist/
 
