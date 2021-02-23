@@ -41,7 +41,8 @@ We've taken these two lists, added other roles that we didn't see included and i
 - Procurement Manager 
     - **Tools:** [WebAim's WAVE Toolbar](https://wave.webaim.org/extension/)
 - QA Tester - [UK](https://accessibility-manual.dwp.gov.uk/guidance-for-your-job-role/qa-tester)
-    - **Tools:** [Purple Hats](https://github.com/GovTechSG/purple-hats), [MSU's Domain Accessibility Audit](https://github.com/MSU-NatSci/DomainAccessibilityAudit) or [Siteimprove](https://siteimprove.com) and [Accessibility Insights](https://accessibilityinsights.io/)- User Researcher - [UK](https://accessibility-manual.dwp.gov.uk/guidance-for-your-job-role/user-researcher)
+    - **Tools:** [Purple Hats](https://github.com/GovTechSG/purple-hats), [MSU's Domain Accessibility Audit](https://github.com/MSU-NatSci/DomainAccessibilityAudit) or [Siteimprove](https://siteimprove.com) and [Accessibility Insights](https://accessibilityinsights.io/)
+- User Researcher - [UK](https://accessibility-manual.dwp.gov.uk/guidance-for-your-job-role/user-researcher)
     - **Tools:** [WebAim's WAVE Toolbar](https://wave.webaim.org/extension/)
 - UX - [USA](https://accessibility.digital.gov/ux/getting-started/)
     - **Tools:** [WebAim's WAVE Toolbar](https://wave.webaim.org/extension/)
