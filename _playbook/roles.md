@@ -50,7 +50,12 @@ We've taken these two lists, added other roles that we didn't see included and i
 - Front End Engineer - [USA](https://accessibility.digital.gov/front-end/getting-started/)
     - "As a Software Engineer or Frontend Developer, you have one of the most important roles when it comes to accessibility. A design can have considered accessibility, but it’s up to you to build it to work correctly. By using existing libraries and frameworks such as GOV.UK Frontend and DWP CASA, you can get a lot of good practices for accessibility built in, however we need to be mindful of how we apply them."
     - [Development W3C Accessibility Responsibility: Front End ](https://www.w3.org/community/wai-engage/wiki/Front-end_Development)
-    - **Tools:** Consider using https://accessibilityinsights.io/
+    - **Tools:** [Accessibility Insights](https://accessibilityinsights.io/)
+    - Checklist
+        - Run the FastPass’s automated axe checks on every page
+        - Check that the Tab stops follow a logical order when navigating with a keyboard
+        - Look over the elements that are marked Needs reviews to see if there are elements where a manual review can identify whether it is an issue or not
+        - On new patterns make sure to complete the rest of the assessment to ensure that the new functionality meets WCAG requirements
 - HTML & CSS Prototyping
     - [HTML & CSS Prototyping W3C Accessibility Responsibility](https://www.w3.org/community/wai-engage/wiki/HTML/CSS_Prototyping)
 - Interaction Designer - [UK](https://accessibility-manual.dwp.gov.uk/guidance-for-your-job-role/interaction-designer)
