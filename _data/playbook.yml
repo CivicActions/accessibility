@@ -5,64 +5,76 @@ docs:
   url: /follow-global-initiatives
   description: 
   image: card-sliders.png
+  icon: <i class="fas fa-power-off fa-5x" aria-hidden="true"></i>
 
 - title: Invest in Accessibility Training
-  url: /invest-in-accessibility-training
+  url: /training
   description: 
   image: card-sliders.png
+  icon: <i class="fas fa-power-off fa-5x" aria-hidden="true"></i>
 
 - title: Automated Testing
   url: /automated-testing
   description: 
   image: card-sliders.png
+  icon: <i class="fas fa-power-off fa-5x" aria-hidden="true"></i>
 
 - title: Manual Testing
   url: /manual-testing
   description: 
   image: card-sliders.png
+  icon: <i class="fas fa-power-off fa-5x" aria-hidden="true"></i>
 
 - title: Test with Assistive Technology
   url: /AT
   description: 
   image: card-sliders.png
+  icon: <i class="fas fa-power-off fa-5x" aria-hidden="true"></i>
 
 - title: Accessibility Statements
   url: /statements
   description: 
   image: card-sliders.png
+  icon: <i class="fas fa-power-off fa-5x" aria-hidden="true"></i>
 
 - title: Include People with Disabilities
   url: /pwd
   description: 
   image: card-sliders.png
+  icon: <i class="fas fa-power-off fa-5x" aria-hidden="true"></i>
 
 - title: Community of Practice
   url: /practice
   description: 
   image: card-sliders.png
+  icon: <i class="fas fa-power-off fa-5x" aria-hidden="true"></i>
 
 - title: PDF Documents
   url: /pdf
   description: 
   image: card-sliders.png
+  icon: <i class="fas fa-power-off fa-5x" aria-hidden="true"></i>
   
 - title: Invest in Accessibility Training
   url: /training
   description: 
   image: card-sliders.png
+  icon: <i class="fas fa-power-off fa-5x" aria-hidden="true"></i>
   
 - title: Use Checklists
   url: /checklists
   description: 
   image: card-sliders.png
+  icon: <i class="fas fa-power-off fa-5x" aria-hidden="true"></i>
 
 - title: Improve Authoring Tools
   url: /authoring
   description: 
   image: card-sliders.png
+  icon: <i class="fas fa-power-off fa-5x" aria-hidden="true"></i>
 
 - title: Role Based Evaluations
   url: /roles
   description: 
   image: card-sliders.png
-
+  icon: <i class="fas fa-power-off fa-5x" aria-hidden="true"></i>

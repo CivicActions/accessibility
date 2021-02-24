@@ -3,8 +3,8 @@
     <li class="tablet:grid-col-4 usa-card">
         <div class="usa-card__container">
             <div class="usa-card__media">
-                <div class="usa-card__img">
-                    <a href="{{ site.baseurl }}/guide{{ item.url }}"><img src="{{ site.baseurl }}/assets/img/cards/{{ item.image }}" alt="{{ item.title }}"></a>
+                <div class="usa-card__img text-center card-guide">
+                    <a href="{{ site.baseurl }}/guide{{ item.url }}">{{ item.icon }}</a>
                 </div>
             </div>
             <header class="usa-card__header">
@@ -14,9 +14,6 @@
                 <p>{{ item.description }}</p>
             </div>
             <div class="usa-card__footer">
-                <!--
-                <button class="usa-button"><a href="{{ site.baseurl }}/guide{{ item.url }}">{{ item.title }}</a></button>
-            -->
             </div>
         </div>
     </li>

@@ -5,38 +5,46 @@ docs:
   url: /introduction
   description: 
   image: card-sliders.png
+  icon: <i class="fas fa-power-off fa-5x" aria-hidden="true"></i>
 
 - title: Tools
   url: /tools
   description: 
   image: card-octagon.png
+  icon: <i class="fas fa-tools fa-5x" aria-hidden="true"></i>
 
 - title: Design systems
   url: /design
   description: 
   image: card-pen-tool.png
+  icon: <i class="fas fa-palette fa-5x" aria-hidden="true"></i>
 
 - title: Discovery
   url: /discovery
   description: 
   image: card-magnify.png
+  icon: <i class="fas fa-search fa-5x" aria-hidden="true"></i>
 
 - title: Organizations
   url: /organizations
   description: 
   image: card-orgs.png
+  icon: <i class="far fa-building fa-5x" aria-hidden="true"></i>
 
 - title: Resources
   url: /resources
   description: 
   image: card-book.png
+  icon: <i class="far fa-file-alt fa-5x" aria-hidden="true"></i>
 
 - title: Glossary
   url: /glossary
   description: 
   image: card-book.png
+  icon: <i class="fas fa-book-open fa-5x" aria-hidden="true"></i>
 
 - title: History
   url: /history
   description: 
   image: card-book.png
+  icon: <i class="fas fa-scroll fa-5x" aria-hidden="true"></i>
