@@ -63,7 +63,7 @@ We've taken these two lists, added other roles that we didn't see included and i
 - Product Manager / Project Manager - [USA](https://accessibility.digital.gov/product/getting-started/) & [UK](https://accessibility-manual.dwp.gov.uk/guidance-for-your-job-role/product-manager)
     - "Make sure the team know their responsibilities"
     - [W3C Accessibility Responsibility: Project Manager](https://www.w3.org/community/wai-engage/wiki/Accessibility_Responsibility_Breakdown#pm)
-    - **Tools:** [WebAim's WAVE Toolbar](https://wave.webaim.org/extension/)
+    - **Tools:** Site-wide scanners and [WebAim's WAVE Toolbar](https://wave.webaim.org/extension/)
     - Checklist
         - Verify that personas include permanent, temporary or situational examples for vision, mobility, hearing, and cognitive disabilities
         - Ensure that accessibility is being considered with every sprint (or alternative process)
@@ -103,7 +103,6 @@ We've taken these two lists, added other roles that we didn't see included and i
         - Can you understand the overall trend of the graph? Can you quickly grasp the relationship between parts of the data?
         - Can you understand key information and perform critical tasks on a mobile device?
         - Can you reach everything that’s interactive using the tab key?
-
 
 We plan to continue to add to this as other role specific advice becomes relevant. The W3C's [ARRM Project - Accessibility Roles and Responsibilities Mapping](https://www.w3.org/WAI/EO/wiki/ARRM_Project_-_Accessibility_Roles_and_Responsibilities_Mapping) will be mapping this out in more detail in the years to come. 
 
