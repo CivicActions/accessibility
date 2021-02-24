@@ -1,5 +1,6 @@
 {
   "defaults": {
+    "timeout": 50000,
     "standard": "WCAG2AA"
   }
 }
