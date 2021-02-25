@@ -34,7 +34,6 @@ categories:
 * [Tota11y](https://khan.github.io/tota11y/) - [Tota11y on GitHub](https://github.com/Khan/tota11y)
 * [Web Accessibility Toolbar (WAT) by TPG](https://developer.paciellogroup.com/resources/wat/) - [WAT on GitHub](https://github.com/ThePacielloGroup/WebAccessibilityToolbar)
 * [Explore ARIA Landmarks Browser Extension](http://matatk.agrip.org.uk/landmarks/) - [Landmarks on GitHub](https://github.com/matatk/landmarks)
-* [Visual ARIA Bookmarklet](https://accdc.github.io/visual-aria/github-bookmarklet/visual-aria.htm) - [Visual ARIA on GitHub](https://github.com/accdc/visual-aria)
 
 ### Site-wide Evaluation
 * [bbc-a11y](https://github.com/bbc/bbc-a11y/blob/master/guides/using/using-bbc-a11y-in-your-project.md) on GitHub
@@ -51,6 +50,9 @@ categories:
 - [Touch Bookmarklet](https://louisremi.github.io/touch-devtool/) - [Touch on GitHub](https://github.com/louisremi/touch-devtool)
 - [Outline ⭐️ Bookmarklet](https://codepen.io/svinkle/pen/grYjPa) on Codepen (MIT Licence)
 - [What has focus?](https://codepen.io/svinkle/pen/WgYRxq) on Codepen (MIT Licence)
+- [Visual ARIA Bookmarklet](https://accdc.github.io/visual-aria/github-bookmarklet/visual-aria.htm) - [Visual ARIA on GitHub](https://github.com/accdc/visual-aria)
+- [Reading Order Bookmarklet](https://adrianroselli.com/2019/04/reading-order-bookmarklet.html)
+
 
 ### PDF Checkers
 Note: There are no tools that easily fit this criteria. All of these are related though.
