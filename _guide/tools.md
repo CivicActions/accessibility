@@ -16,6 +16,8 @@ categories:
 * [Sa11y Ryerson Digital Media Projects](https://ryersondmp.github.io/sa11y/#install) - [Sa11y on GitHub](https://github.com/ryersondmp/sa11y)
 * [retextjs: retext-readability plugin](https://github.com/retextjs/retext-readability)
 * [retextjs: retext-equality plugin](https://github.com/retextjs/retext-equality)
+* [Zettlr: Markdown Editor](https://www.zettlr.com/) - [Zettlr on GitHub](https://github.com/Zettlr/Zettlr)
+* [Drupal](http://drupal.org/) is a very accessible CMS and [these modules can enhance it's accessibility](https://accessibility.civicactions.com/guide/resources)
 
 ### Assistive Technology
 * [NVDA](https://www.nvaccess.org/) - [NVDA on GitHub](https://github.com/nvaccess/nvda/)
