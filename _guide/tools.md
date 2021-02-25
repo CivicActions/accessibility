@@ -54,7 +54,6 @@ categories:
 - [Reading Order Bookmarklet](https://adrianroselli.com/2019/04/reading-order-bookmarklet.html)
 - [Accessibility and Contrast Bookmarklet](https://ada.is/blog/2016/02/12/contrast-bookmarklet/) - [Contrast Bookmarklet on GitHub](https://github.com/AdaRoseCannon/contrast-widget)
 
-
 ### PDF Checkers
 Note: There are no tools that easily fit this criteria. All of these are related though.
 * [PAC 3](https://www.access-for-all.ch/en/pdf-accessibility-checker.html) - Freeware but not open source
@@ -75,6 +74,7 @@ Note: There are no tools that easily fit this criteria. All of these are related
 * [Contrast-Ratio.com](https://contrast-Ratio.com) - [Contrast-Ratio GitHub Page](https://github.com/LeaVerou/contrast-ratio)
 * [Pika MacOS Color Picker](https://superhighfives.com/pika) - [Pika on GitHub](https://github.com/superhighfives/pika)
 * [Sim Daltonism](https://michelf.ca/projects/sim-daltonism/) - [sim-daltonism on GitHub](https://github.com/michelf/sim-daltonism/)
+* [Contrast Checker](https://contrast-checker.glitch.me/) - [Contrast Checker on Glitch](https://glitch.com/edit/#!/contrast-checker?path=server.js%3A1%3A0)
 
 ### Simulators
 * [Metamatrix Web Disability Simulator Chrome Extension](https://chrome.google.com/webstore/detail/web-disability-simulator/olioanlbgbpmdlgjnnampnnlohigkjla) on [Metamatrix on GitHub](https://github.com/Metamatrix/web-disability-simulator)
