@@ -19,12 +19,6 @@ docs:
   image: card-pen-tool.png
   icon: <i class="fas fa-palette fa-5x" aria-hidden="true"></i>
 
-- title: Discovery
-  url: /discovery
-  description: 
-  image: card-magnify.png
-  icon: <i class="fas fa-search fa-5x" aria-hidden="true"></i>
-
 - title: Organizations
   url: /organizations
   description: 
