@@ -47,6 +47,11 @@ categories:
 * [jest-axe](https://github.com/nickcolley/jest-axe) - for testing with [Jest](https://jestjs.io/) on GitHub
 * [Nightwatch aXe-core](https://github.com/rikki-iki/nightwatch-axe-core) - for testing with [Nightwatch](https://nightwatchjs.org/) on GitHub
 
+### Bookmarklets
+- [Touch Bookmarklet](https://louisremi.github.io/touch-devtool/) - [Touch on GitHub](https://github.com/louisremi/touch-devtool)
+- [Outline ⭐️ Bookmarklet](https://codepen.io/svinkle/pen/grYjPa) on Codepen (MIT Licence)
+- [What has focus?](https://codepen.io/svinkle/pen/WgYRxq) on Codepen (MIT Licence)
+
 ### PDF Checkers
 Note: There are no tools that easily fit this criteria. All of these are related though.
 * [PAC 3](https://www.access-for-all.ch/en/pdf-accessibility-checker.html) - Freeware but not open source
