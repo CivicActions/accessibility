@@ -109,3 +109,6 @@ defaults:
       type: "people"
     values:
       layout: "people"
+
+exclude:
+  - pa11y_output.json
