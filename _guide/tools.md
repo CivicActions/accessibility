@@ -52,6 +52,7 @@ categories:
 - [What has focus?](https://codepen.io/svinkle/pen/WgYRxq) on Codepen (MIT Licence)
 - [Visual ARIA Bookmarklet](https://accdc.github.io/visual-aria/github-bookmarklet/visual-aria.htm) - [Visual ARIA on GitHub](https://github.com/accdc/visual-aria)
 - [Reading Order Bookmarklet](https://adrianroselli.com/2019/04/reading-order-bookmarklet.html)
+- [Accessibility and Contrast Bookmarklet](https://ada.is/blog/2016/02/12/contrast-bookmarklet/) - [Contrast Bookmarklet on GitHub](https://github.com/AdaRoseCannon/contrast-widget)
 
 
 ### PDF Checkers
