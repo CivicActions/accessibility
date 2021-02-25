@@ -34,4 +34,18 @@ List of popular automated testing tools
 - [SiteImprove](https://chrome.google.com/webstore/detail/siteimprove-accessibility/efcfolpjihicnikpmhnmphjhhpiclljc)
 - [See more tools in our guide](/guide/tools)
 
+## CivicActions Approach
 
+Currently CivicActions uses the following approaches.
+
+### Pa11y-ci
+
+[Pa11y-ci](https://github.com/pa11y/pa11y-ci) is continuous integration (CI) runner that can test few pages or an entire site for accessibility issues. Our projects include pa11y-ci in their CI pipelines and generate reports as artifacts with the results of the testing.
+
+We are currently testing this [accessibility site using pa11y-ci](https://github.com/CivicActions/accessibility/tree/main/.github/workflows#pa11yyml).
+
+### Cypress testing with the axe core
+
+[Cypress](https://www.cypress.io/) is a JavaScript testing framework that is used for automated testing. [Axe core](https://github.com/dequelabs/axe-core) is a popular accessibility testing engine. Our projects use [cypress with the axe core](https://github.com/component-driven/cypress-axe) to test components for accessibility issues.
+
+Take a look at [Setting up Cypress with axe for accessibility](https://timdeschryver.dev/blog/setting-up-cypress-with-axe-for-accessibility) article that illustrates the setup.
