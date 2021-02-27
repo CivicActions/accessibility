@@ -111,4 +111,4 @@ defaults:
       layout: "people"
 
 exclude:
-  - pa11y_output.json
+  - pa11y_output.txt

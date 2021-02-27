@@ -1,10 +1,10 @@
 name: pa11y tests
 
-on: [push, workflow_dispatch]
+on: [pull_request]
 
 jobs:
   build:
-    name: Build and test.
+    name: Building site and running pa11y-ci tests
     runs-on: ubuntu-latest
 
     steps:
@@ -24,22 +24,16 @@ jobs:
         run: npm run start-detached
 
       - name: Run pa11y-ci.
-        run: npm run pa11y-ci:sitemap
-
-      - name: Display failure instructions.
-        if: ${{ failure() }}
-        run: |
-          echo "::group::pa11y errors"
-          echo "pa11y-ci found some accessibility problems, download 'pa11y_report' under artifacts to see the report."
-          echo "::endgroup::"
-
-      - name: Generate pa11y HTML report.
-        if: ${{ always() }}
-        run: npm run pa11y-ci:output
-
-      - name: Save pa11y HTML report.
-        if: ${{ always() }}
-        uses: actions/upload-artifact@v2
+        run: npm run pa11y-ci:sitemap 2>&1 | tee pa11y_output.txt
+        
+      - name: Read pa11y_output file.
+        id: pa11y_output
+        uses: juliangruber/read-file-action@v1
         with:
-          name: pa11y_report
-          path: pa11y_report
+          path: ./pa11y_output.txt
+        
+      - name: Comment on pull request.
+        uses: thollander/actions-comment-pull-request@master
+        with:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          message: '${{ steps.pa11y_output.outputs.content }}'
