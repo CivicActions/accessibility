@@ -5,10 +5,10 @@ description: We value agile approaches.
 permalink: /agile
 ---
 
-## Agile
+## We are Agile
 CivicActions Accessibility is an [agile project](http://agilemanifesto.org/). We use a [project board](https://github.com/CivicActions/accessibility/projects) to iteratively make progress on our goals, collaborate on issues, have open discussions, deliver a [working site](https://accessibility.civicactions.com/) and respond to the changes that happen constantly in the world of accessibility.
 
-## Accessibility and agile
+## Accessibility and Agile
 We encourage accessibility in every part of agile processes. Examples, adding inclusive user archetypes to design sprints, adding accessibility tests to the definition of done, demonstrating how a product is accessible in sprint reviews, prioritizing accessibility goals in retrospectives, delivering accessible product increments, and much more.
 
 ### Examples of places to encourage adoption of accessibility
