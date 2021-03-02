@@ -36,4 +36,4 @@ jobs:
         uses: thollander/actions-comment-pull-request@master
         with:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          message: '${{ steps.pa11y_output.outputs.content }}'
+          message: '```${{ steps.pa11y_output.outputs.content }}```'
