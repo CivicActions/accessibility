@@ -29,12 +29,12 @@ class:
                     {% include sidenav-playbook.html links=sidenav %}
                 </div>
                 {% endif %}
-                <main class="usa-layout-docs usa-layout-docs__main usa-prose{% if sidenav %} desktop:grid-col-9{% endif %}">
+                <div class="usa-layout-docs usa-layout-docs__main usa-prose{% if sidenav %} desktop:grid-col-9{% endif %}">
                     {% if page.title %}
                     <h1>{{ page.title }}</h1>
                     {% endif %}
                     {{ content }}
-                </main>
+                </div>
             </div>
         </div>
     </div>
