@@ -24,9 +24,15 @@ p.lead {
     color: #454545;
 }
 
+blockquote {
+    border-left: 5px solid #1b1b1b;
+    padding-left: 2rem;
+}
+
 main p,
 main li {
     font-size: 1.3rem;
+    line-height: 1.7rem;
 }
 
 .usa-hero {
@@ -138,6 +144,11 @@ img.usa-media-block__img {
 .author img {
     border-radius: 50%;
     max-width: 75px;    
+}
+
+.author p,
+.post-bio p {
+    font-size: 1rem;
 }
 
 .guide-main blockquote {
