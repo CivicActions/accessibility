@@ -1,7 +1,7 @@
 <nav aria-label="Secondary navigation">
     <ul class="usa-sidenav">
         {% for item in site.data.projects.docs %}
-        <a href="{{ site.baseurl}}/projects{{ item.url }}" class="list-group-item list-group-item-action {% if item.url == page.url %}active{% endif %}">{{ item.title }}</a>
+        <li><a href="{{ site.baseurl}}/projects{{ item.url }}" class="list-group-item list-group-item-action {% if item.url == page.url %}active{% endif %}">{{ item.title }}</a></li>
         {% endfor %}
         <!--    
     {% for link in include.links %}
