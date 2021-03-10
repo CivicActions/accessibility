@@ -23,6 +23,10 @@ Weekly working call to groom the [CivicActions Accessibility project board](http
 
 Twice-weekly 15-minute scrum related to [CivicActions Accessibility project board](https://github.com/CivicActions/accessibility/projects/1) tasks.
 
-## Community Events
+### Retrospectives
 
-Stay Tuned!
+Quarterly one-hour CivicActions Accessiblity retrospective.
+
+## Community events
+
+Stay tuned!
