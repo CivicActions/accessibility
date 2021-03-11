@@ -172,11 +172,11 @@ From the top, this action is run only on pull requests and uses the `ubuntu-late
 
 Here is an example screenshot of the GitHub action run of pa11y-ci tests (taken from https://github.com/CivicActions/accessibility/pull/127/checks):
 
-Screenshot to be added...
+![](/assets/img/github-action-steps.png)
 
-Here is an example screenshot of the comments added to an issue (taken from https://github.com/CivicActions/accessibility/pull/122):
+Here is an example screenshot of the comments added to an issue (taken from https://github.com/CivicActions/accessibility/pull/137#issuecomment-796975773):
 
-Screenshot to be added...
+![](/assets/img/github-actions-comment-in-pull-request.png)
 
 ## Summary
 Using the above steps, you can quickly get your GitHub-hosted Jekyll site automatically tested for accessibility issues, but remember, automatic tests are not a panacea.
@@ -195,4 +195,3 @@ As noted in our [playbook for automated testing](/playbook/automated-testing):
 * What are other Jekyll sites doing?
   * [The Pa11y website](https://github.com/pa11y/pa11y.github.io) uses Travis CI and pa11y-ci.
   * The [18F Accessibility Guide](https://github.com/18F/accessibility) uses CircleCI and axe.
-
