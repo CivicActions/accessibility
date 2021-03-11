@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Automated accessibility testing: Leveraging GitHub Actions and pa11y-ci with axe"
-date:   2021-03-11 08:00:00 -0800
+date:   2021-03-12 08:00:00 -0800
 description: Using GitHub and open source technology -- general and accessibility-specific -- we created a continuous accessibility integration environment that helps us better practice what we preach.
 author: daniel-mundra
 categories: 
