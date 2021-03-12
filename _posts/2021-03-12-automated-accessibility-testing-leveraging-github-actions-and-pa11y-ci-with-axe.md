@@ -192,9 +192,11 @@ As noted in our [playbook for automated testing](/playbook/automated-testing):
 * [Automated accessibility testing with Travis CI](https://andrewmee.com/posts/automated-accessibility-testing-node-travis-ci-pa11y/)
 * [How to Automate Web Accessibility Testing](https://medium.com/@f3igao/how-to-automate-web-accessibility-testing-921512bdd4bf)
 * Examples of applying the above steps to Jekyll sites:
-  * [BBC's "Accessibility, News and You"](https://github.com/bbc/accessibility-news-and-you) can be seen in this pull request: https://github.com/dmundra/accessibility-news-and-you/pull/1.
-  * [GSA's "Accessibility for Teams"](https://github.com/GSA/accessibility-for-teams) can be seen in this pull request: https://github.com/dmundra/accessibility-for-teams/pull/1.
-  * [18F Accessibility Guide](https://github.com/18F/accessibility) can be seen in this pull request: https://github.com/dmundra/accessibility-1/pull/1.
+  * [BBC's "Accessibility, News and You"](https://github.com/bbc/accessibility-news-and-you) can be seen in this pull request: [https://github.com/dmundra/accessibility-news-and-you/pull/1](https://github.com/dmundra/accessibility-news-and-you/pull/1).
+  * [GSA's "Accessibility for Teams"](https://github.com/GSA/accessibility-for-teams) can be seen in this pull request: [https://github.com/dmundra/accessibility-for-teams/pull/1](https://github.com/dmundra/accessibility-for-teams/pull/1).
+  * [18F Accessibility Guide](https://github.com/18F/accessibility) can be seen in this pull request: [https://github.com/dmundra/accessibility-1/pull/1](https://github.com/dmundra/accessibility-1/pull/1).
 * What are other Jekyll sites doing?
   * [The Pa11y website](https://github.com/pa11y/pa11y.github.io) uses Travis CI and pa11y-ci.
   * The [18F Accessibility Guide](https://github.com/18F/accessibility) uses CircleCI and axe.
+
+Thank you to [Melinda Burgess](https://civicactions.com/team/melinda-burgess), [Luke Fretwell](/people/luke-fretwell), and [Mike Gifford](/people/mike-gifford) for your support, thoughts, and feedback.
