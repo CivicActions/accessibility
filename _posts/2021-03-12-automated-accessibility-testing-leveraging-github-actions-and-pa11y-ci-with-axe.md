@@ -105,7 +105,8 @@ Now that we have it running locally, here is how we configure it to run every ti
 
 Add a YML file to `.github/workflows` folder. We called our version `pa11y.yml`. Here is our file:
 
-```yaml
+{% raw %}
+```yml
 name: pa11y tests
 
 on: [pull_request]
@@ -157,6 +158,7 @@ jobs:
           echo "::error::The site is failing accessibility tests. Please review the comment in the pull request or the pa11y-ci step in the workflow for details."
           exit 1
 ```
+{% endraw %}
 
 From the top, this action is run only on pull requests and uses the `ubuntu-latest` image. Then the steps will:
 
