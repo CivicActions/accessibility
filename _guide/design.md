@@ -25,10 +25,11 @@ categories:
 * [UK's Department for Work and Pensions Design System on GitHub](https://github.com/dwp/design-system)
 
 ## Other Open Design Systems
-- [Odyssey is Okta’s official design system](https://github.com/okta/odyssey)
-- [Carbon is IBM’s open source design system](https://www.carbondesignsystem.com/) - [Carbon on GitHub](https://github.com/carbon-design-system/carbon)
-- [Impact Design System](https://demos.creative-tim.com/impact-design-system/index.html) - [Impact Desigh System on GitHub](https://github.com/creativetimofficial/impact-design-system)
-- [VMWare's Clarity Design System](https://clarity.design/) - [Clarity on GitHub](https://github.com/vmware/clarity)
-- [Emulsify](https://www.emulsify.info/) - [Emulsify on GitHub](https://github.com/emulsify-ds)
-- [ING's Lion Design System](https://lion-web-components.netlify.app/?path=/story/*) - [Lion on GitHub](https://github.com/ing-bank/lion)
-- [Talend's Coral Design System](https://design.talend.com/) - [Coral on GitHub](https://github.com/Talend/design-system)
+* [Odyssey is Okta's official design system](https://github.com/okta/odyssey)
+* [Carbon is IBM's open source design system](https://www.carbondesignsystem.com/) - [Carbon on GitHub](https://github.com/carbon-design-system/carbon)
+* [Impact Design System](https://demos.creative-tim.com/impact-design-system/index.html) - [Impact Desigh System on GitHub](https://github.com/creativetimofficial/impact-design-system)
+* [VMWare's Clarity Design System](https://clarity.design/) - [Clarity on GitHub](https://github.com/vmware/clarity)
+* [Emulsify](https://www.emulsify.info/) - [Emulsify on GitHub](https://github.com/emulsify-ds)
+* [ING's Lion Design System](https://lion-web-components.netlify.app/?path=/story/*) - [Lion on GitHub](https://github.com/ing-bank/lion)
+* [Talend's Coral Design System](https://design.talend.com/) - [Coral on GitHub](https://github.com/Talend/design-system)
+* [Orange Digital Accessibility](https://a11y-guidelines.orange.com/en/) - [Orange a11y-guidelines on GitHub](https://github.com/Orange-OpenSource/a11y-guidelines)
