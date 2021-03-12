@@ -17,15 +17,15 @@ The UK’s Government Digital Services model decreases the reliance on PDFs and 
 
 ## Checklist
 
--   Check that the PDFs are accessible prior to allowing them to be posted to the website (ideally with a tool like the [CommonLook PDF Validator](https://commonlook.com/best-pdf-validator-is-free-for-everyone/))
--   Track source files, so that additional improvements can be made, if barriers are identified
--   Encourage teams to build documents in HTML first
--   Test PDFs with assistive technology
+* Check that the PDFs are accessible prior to allowing them to be posted to the website (ideally with a tool like the [CommonLook PDF Validator](https://commonlook.com/best-pdf-validator-is-free-for-everyone/))
+* Track source files, so that additional improvements can be made, if barriers are identified
+* Encourage teams to build documents in HTML first
+* Test PDFs with assistive technology
     
 
 ## Key questions
 
--   Does the department have a clear public policy on use of PDFs?
--   What is the process to review that all PDF documents are accessible?
--   Are there better alternatives to using PDFs that could be used?
--   Is a print-friendly version useful for some users?
+* Does the department have a clear public policy on use of PDFs?
+* What is the process to review that all PDF documents are accessible?
+* Are there better alternatives to using PDFs that could be used?
+* Is a print-friendly version useful for some users?
