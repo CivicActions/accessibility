@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Automated accessibility testing: Leveraging GitHub Actions and pa11y-ci with axe"
-date:   2021-03-12 08:00:00 -0800
+date:   2021-03-12 07:00:00 -0800
 description: Using GitHub and open source technology -- general and accessibility-specific -- we created a continuous accessibility integration environment that helps us better practice what we preach.
 author: daniel-mundra
 categories: 
@@ -10,7 +10,7 @@ image: card-power.png
 
 We launched the [CivicActions Accessibility](https://accessibility.civicactions.com/) practice area and its accompanying website in January 2021.
 
-Our intent is for the practice area to be an open project and community for CivicActions team members and the broader digital government service industry, including clients, partners, government contractors, and generally anyone who wants to improve accessibility on the web.
+Our intent is for the practice area to be an open project and community for CivicActions team members, and the broader digital government service industry, including clients, partners, government contractors, and generally anyone who wants to improve accessibility on the web.
 
 ## Practicing what we preach
 We realized early on that if we were going to be truly inclusive with our work and provide accessibility resources to the broader community, we should strive to make the website as accessible as possible.
@@ -19,7 +19,7 @@ While we acknowledge that automated testing isn't a panacea, it's one way to add
 
 Using GitHub and open source technology -- general and accessibility-specific -- we created a continuous accessibility integration environment that helps us better practice what we preach.
 
-## Our technology and accessibility 'stack'
+## Our technology and accessibility "stack"
 We proudly leverage open source technologies wherever possible, and all of these tools used here meet that criteria.
 
 The site is powered by [Jekyll](https://jekyllrb.com/) and [U.S. Web Design System](https://designsystem.digital.gov/), specifically the [U.S. Web Design System Jekyll theme](https://github.com/18F/uswds-jekyll) maintained by [18F](https://18f.gsa.gov/) and the USWDS team. The site is hosted through [GitHub Pages](https://pages.github.com/).
@@ -38,7 +38,7 @@ Install pa11y-ci as a development dependency with npm.
 npm i --save-dev pa11y-ci
 ```
 
-After the installation is complete edit the `package.json` and add the following commands to the 'scripts' section:
+After the installation is complete edit the `package.json` and add the following commands to the "scripts" section:
 
 ```json
 "start-detached": "bundle exec jekyll serve --detach",
@@ -64,7 +64,7 @@ Add a JSON file named `.pa11yci` which allows you to configure pa11y-ci with [va
 * `standard`: The accessibility standard to use: Section508, WCAG2A, WCAG2AA (default), WCAG2AAA.
 * `runners`: The test runners to use: axe (run tests using aXe-core), htmlcs (default,  run tests using HTML CodeSniffer).
 
-That's it. You can run this setup locally using npm and you will see the following output (truncated for brevity):
+That's it. You can run this setup locally using npm, and you will see the following output (truncated for brevity):
 
 ```bash
 dmundra in ~/workspace/accessibility/accessibility on branch main > npm run start-detached
@@ -96,9 +96,9 @@ Running Pa11y on 49 URLs:
 ✔ 49/49 URLs passed
 ```
 
-As you can see, at the time of this writing we have all our pages passing! To see examples of us fixing reported accessibility issues check out https://github.com/CivicActions/accessibility/pull/128.
+As you can see, at the time of this writing we have all our pages passing! To see examples of us fixing reported accessibility issues check out [https://github.com/CivicActions/accessibility/pull/128](https://github.com/CivicActions/accessibility/pull/128).
 
-Note: we have also noticed that pa11y-ci intermittently throws an error when trying to test many pages. Here is an open issue to find a solution to that: https://github.com/pa11y/pa11y-ci/issues/128.
+Note: we have also noticed that pa11y-ci intermittently throws an error when trying to test many pages. Here is an open issue to find a solution to that: [https://github.com/pa11y/pa11y-ci/issues/128](https://github.com/pa11y/pa11y-ci/issues/128).
 
 ## Running pa11y-ci in a GitHub action
 Now that we have it running locally, here is how we configure it to run every time we submit a pull request in GitHub.
@@ -148,6 +148,7 @@ jobs:
 
 
 ```${{ steps.pa11y_output.outputs.content }}```
+
 </details>'
 
       - name: Check for pa11y failures.
@@ -170,11 +171,11 @@ From the top, this action is run only on pull requests and uses the `ubuntu-late
 
 \* *Capturing the output to a file and commenting on the pull request are optional features and could be harder to maintain. You can simply run the pa11y-ci commands and view the results in the action output.*
 
-Here is an example screenshot of the GitHub action run of pa11y-ci tests (taken from https://github.com/CivicActions/accessibility/pull/127/checks):
+Here is an example screenshot of the GitHub action run of pa11y-ci tests (taken from [https://github.com/CivicActions/accessibility/pull/127/checks](https://github.com/CivicActions/accessibility/pull/127/checks)):
 
 ![Screenshot of the GitHub action run](/assets/img/github-action-steps.png)
 
-Here is an example screenshot of the comments added to a pull request (taken from https://github.com/CivicActions/accessibility/pull/137#issuecomment-796975773):
+Here is an example screenshot of the comments added to a pull request (taken from [https://github.com/CivicActions/accessibility/pull/137#issuecomment-796975773](https://github.com/CivicActions/accessibility/pull/137#issuecomment-796975773)):
 
 ![Screenshot of the GitHub action comment](/assets/img/github-actions-comment-in-pull-request.png)
 
@@ -189,8 +190,8 @@ As noted in our [playbook for automated testing](/playbook/automated-testing):
 * [Automated accessibility testing with Travis CI](https://andrewmee.com/posts/automated-accessibility-testing-node-travis-ci-pa11y/)
 * [How to Automate Web Accessibility Testing](https://medium.com/@f3igao/how-to-automate-web-accessibility-testing-921512bdd4bf)
 * Examples of applying the above steps to Jekyll sites:
-  * [BBC's 'Accessibility, News and You'](https://github.com/bbc/accessibility-news-and-you) can be seen in this pull request: https://github.com/dmundra/accessibility-news-and-you/pull/1.
-  * [GSA's 'Accessibility for Teams'](https://github.com/GSA/accessibility-for-teams) can be seen in this pull request: https://github.com/dmundra/accessibility-for-teams/pull/1.
+  * [BBC's "Accessibility, News and You"](https://github.com/bbc/accessibility-news-and-you) can be seen in this pull request: https://github.com/dmundra/accessibility-news-and-you/pull/1.
+  * [GSA's "Accessibility for Teams"](https://github.com/GSA/accessibility-for-teams) can be seen in this pull request: https://github.com/dmundra/accessibility-for-teams/pull/1.
   * [18F Accessibility Guide](https://github.com/18F/accessibility) can be seen in this pull request: https://github.com/dmundra/accessibility-1/pull/1.
 * What are other Jekyll sites doing?
   * [The Pa11y website](https://github.com/pa11y/pa11y.github.io) uses Travis CI and pa11y-ci.
