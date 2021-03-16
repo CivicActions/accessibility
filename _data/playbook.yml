@@ -78,3 +78,9 @@ docs:
   description: 
   image: card-sliders.png
   icon: <i class="fas fa-power-off fa-5x" aria-hidden="true"></i>
+
+- title: Personalization
+  url: /personalization
+  description: 
+  image: card-sliders.png
+  icon: <i class="fas fa-power-off fa-5x" aria-hidden="true"></i>
