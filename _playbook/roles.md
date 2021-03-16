@@ -51,10 +51,10 @@ We've taken these two lists, added other roles that we didn't see included and i
     * **Tools:** [pa11y](https://pa11y.org/) and [Accessibility Insights](https://accessibilityinsights.io/).
     * Resources: [Blog - Embedding Accessibility into the DevOps Process](https://devops.com/embedding-accessibility-into-the-devops-process/).
 * Digital Performance Analyst - [UK](https://accessibility-manual.dwp.gov.uk/guidance-for-your-job-role/digital-performance-analyst)    
-    * "As a Digital Performance Analyst, most of your considerations will be around presenting statistical data so that they don’t exclude anybody that might not be able to perceive complex charts or tables of data."
+    * "As a Digital Performance Analyst, most of your considerations will be around presenting statistical data so that they don't exclude anybody that might not be able to perceive complex charts or tables of data."
     * **Tools:** [WebAim's WAVE Toolbar](https://wave.webaim.org/extension/).
 * Front End Engineer - [USA](https://accessibility.digital.gov/front-end/getting-started/), & [BBC](https://bbc.github.io/accessibility-news-and-you/accessibility-news-and-developers)
-    * "As a Software Engineer or Frontend Developer, you have one of the most important roles when it comes to accessibility. A design can have considered accessibility, but it’s up to you to build it to work correctly. By using existing libraries and frameworks such as GOV.UK Frontend and DWP CASA, you can get a lot of good practices for accessibility built in, however we need to be mindful of how we apply them."
+    * "As a Software Engineer or Frontend Developer, you have one of the most important roles when it comes to accessibility. A design can have considered accessibility, but it's up to you to build it to work correctly. By using existing libraries and frameworks such as GOV.UK Frontend and DWP CASA, you can get a lot of good practices for accessibility built in, however we need to be mindful of how we apply them."
     * [Development W3C Accessibility Responsibility: Front End](https://www.w3.org/community/wai-engage/wiki/Front-end_Development).
     * **Tools:** [Accessibility Insights](https://accessibilityinsights.io/).
     * Checklist
@@ -82,7 +82,7 @@ We've taken these two lists, added other roles that we didn't see included and i
     * **Tools:** [WebAim's WAVE Toolbar](https://wave.webaim.org/extension/).
     * Resources: [DisabilityIN - Accessible Technology Procurement Toolkit](https://private.disabilityin.org/procurementtoolkit/).
 * QA Tester - [UK](https://accessibility-manual.dwp.gov.uk/guidance-for-your-job-role/qa-tester), [BBC](https://bbc.github.io/accessibility-news-and-you/accessibility-news-and-testers)
-    * "As QA Tester, you’re responsible for checking if the finished product is actually accessible. This means running automated tests, manually checking the pages against the WCAG criteria, and testing usability with assistive technology."
+    * "As QA Tester, you're responsible for checking if the finished product is actually accessible. This means running automated tests, manually checking the pages against the WCAG criteria, and testing usability with assistive technology."
     * [W3C Accessibility Responsibility: Quality Control](https://www.w3.org/community/wai-engage/wiki/Quality_Control).
     * **Tools:** [Purple Hats](https://github.com/GovTechSG/purple-hats), [MSU's Domain Accessibility Audit](https://github.com/MSU-NatSci/DomainAccessibilityAudit) or [Siteimprove](https://siteimprove.com) and [Accessibility Insights](https://accessibilityinsights.io/).
     * Resources: [BBC's Checklist](https://bbc.github.io/accessibility-news-and-you/accessibility-news-and-testers), [Paul Adams Checklist](https://pauljadam.com/demos/mobilechecklist.html).
@@ -93,7 +93,7 @@ We've taken these two lists, added other roles that we didn't see included and i
     * **Tools:** [WebAim's WAVE Toolbar](https://wave.webaim.org/extension/)
     * Resources: [UK GDS Blogs](https://accessibility.blog.gov.uk/category/user-research/), [How inclusive user research makes your products better](https://rangle.io/blog/ux-research-and-accessibility/), [Working with Others: Accessibility and User Research](https://alistapart.com/article/workingwithothers/), [A Comprehensive Guide to Accessible User Research](https://dscout.com/people-nerds/accessible-user-research-1), [What user researchers need to know about accessibility](https://www.userzoom.com/ux-library/what-user-researchers-need-to-know-about-accessibility/), [How to Conduct Usability Studies for Accessibility](https://www.nngroup.com/reports/how-to-conduct-usability-studies-accessibility/), [Conducting Accessibility User Research: What's Really Needed?](https://technica11y.org/conducting-accessibility-user-research-what-s-reall), [Tips For Conducting Usability Studies With Participants With Disabilities — Smashing Magazine](https://www.smashingmagazine.com/2018/03/tips-conducting-usability-studies-participants-disabilities/).
 * UX - [USA](https://accessibility.digital.gov/ux/getting-started/)
-    * "As an Interaction Designer, you play an important part of making sure a service or website is accessible. Making screens and interactions simple makes things easier for everybody. Overcomplicated designs or using inaccessible design patterns can have a knock-on effect when it’s time for developers to code up your designs."
+    * "As an Interaction Designer, you play an important part of making sure a service or website is accessible. Making screens and interactions simple makes things easier for everybody. Overcomplicated designs or using inaccessible design patterns can have a knock-on effect when it's time for developers to code up your designs."
     * [W3C Accessibility Responsibility: Usability](https://www.w3.org/community/wai-engage/wiki/Accessibility_By_Roles_-_Interaction_Design_/_Usability).
     * **Tools:** [WebAim's WAVE Toolbar](https://wave.webaim.org/extension/).
     * Also see Interaction Designer.
@@ -105,9 +105,9 @@ We've taken these two lists, added other roles that we didn't see included and i
         * Check to see that the touch targets exceed 44 px or 10 mm.
     * Resources: [Accessibility guidelines for UX Designers](https://uxdesign.cc/accessibility-guidelines-for-a-ux-designer-c3ba775539be), [W3C Accessibility, Usability, and Inclusion](https://www.w3.org/WAI/fundamentals/accessibility-usability-inclusion/), and [Deque blogs Accessible User Experience & Design](https://www.deque.com/blog/category/accessible-user-experience/).
 * Visual Design / Graphic Design - [USA](https://accessibility.digital.gov/visual-design/getting-started/)
-    * "Everyone benefits from designs that are easier to see. People with different visual abilities see your designs in varying ways—the diverse nature of impairments creates a wide variation in how your designs are perceived. A clean and clear visual presentation helps everyone make sense of a website’s information and functionality."
+    * "Everyone benefits from designs that are easier to see. People with different visual abilities see your designs in varying ways—the diverse nature of impairments creates a wide variation in how your designs are perceived. A clean and clear visual presentation helps everyone make sense of a website's information and functionality."
     * [W3C Accessibility Responsibility: Graphic Design](https://www.w3.org/community/wai-engage/wiki/Accessibility_By_Roles_-_Graphic_Design).
-    * **Tools:** [Open source color contrast tools](https://github.com/CivicActions/accessibility/blob/main/_handbook/tools.md#color).
+    * **Tools:** [Open source color contrast tools](/guide/tools#color).
     * Checklist:
         * Is there enough contrast between text and its background color?
         * Are buttons and links semantically defined?
