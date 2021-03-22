@@ -19,16 +19,16 @@ Another approach that some organizations are doing is helping to assign a minder
 
 ## Resources
 
-* [](https://www.ryerson.ca/accessibility/guides-resources/virtual-meetings/).
-* [](https://www.nad.org/videoconferencing-platforms-feature-matrix/).
-* [](https://medium.com/cmcnally/accessibility-strategies-for-deaf-hard-of-hearing-people-in-remote-meetings-e19781b3bc4).
-* [](https://disabilityin.org/resources2/covid-19-response-accessible-tools-and-content/).
-* [](https://www.toolbox.com/hr/hr-strategy/articles/has-remote-work-increased-disability-inclusion-in-workplace/).
-* [](https://angel.co/blog/how-remote-work-impacts-employees-with-disabilities).
-* [](https://www.forumone.com/ideas/an-accessibility-inclusion-checklist-for-virtual-events/).
-* [](https://equalentry.com/slack-vs-discord-which-is-better-for-screen-readers/).
-* [](https://www.access-board.gov/about/meetings.html).
-* [](https://knowbility.org/blog/2021/welcoming-accessible-virtual-meetings/).
+* [https://www.ryerson.ca/accessibility/guides-resources/virtual-meetings/](https://www.ryerson.ca/accessibility/guides-resources/virtual-meetings/).
+* [https://www.nad.org/videoconferencing-platforms-feature-matrix/](https://www.nad.org/videoconferencing-platforms-feature-matrix/).
+* [https://medium.com/cmcnally/accessibility-strategies-for-deaf-hard-of-hearing-people-in-remote-meetings-e19781b3bc4](https://medium.com/cmcnally/accessibility-strategies-for-deaf-hard-of-hearing-people-in-remote-meetings-e19781b3bc4).
+* [https://disabilityin.org/resources2/covid-19-response-accessible-tools-and-content/](https://disabilityin.org/resources2/covid-19-response-accessible-tools-and-content/).
+* [https://www.toolbox.com/hr/hr-strategy/articles/has-remote-work-increased-disability-inclusion-in-workplace/](https://www.toolbox.com/hr/hr-strategy/articles/has-remote-work-increased-disability-inclusion-in-workplace/).
+* [https://angel.co/blog/how-remote-work-impacts-employees-with-disabilities](https://angel.co/blog/how-remote-work-impacts-employees-with-disabilities).
+* [https://www.forumone.com/ideas/an-accessibility-inclusion-checklist-for-virtual-events/](https://www.forumone.com/ideas/an-accessibility-inclusion-checklist-for-virtual-events/).
+* [https://equalentry.com/slack-vs-discord-which-is-better-for-screen-readers/](https://equalentry.com/slack-vs-discord-which-is-better-for-screen-readers/).
+* [https://www.access-board.gov/about/meetings.html](https://www.access-board.gov/about/meetings.html).
+* [https://knowbility.org/blog/2021/welcoming-accessible-virtual-meetings/](https://knowbility.org/blog/2021/welcoming-accessible-virtual-meetings/).
 
 ## Checklist
 
