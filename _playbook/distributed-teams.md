@@ -13,7 +13,7 @@ CivicActions is proudly a distributed team. For over 15 years we have been worki
 
 Unfortunately, there are also people with disabilities which are excluded from participating in many distributed teams. Many deaf and hard of hearing people find it more difficult to read lips or intentions through video conferencing tools. Blind users are blocked by the many visual organization tools like Trello & Mural that do not have good support for blind users. Many websites do not have sufficient support for even keyboard only users.
 
-Fortunately, there are things that we can do to change this. Most popular video conferencing tools now offer AI driven speech to text captioning. This isn’t perfect, but is continuing to improve. There is more pressure for visual kanban & sticky note tools to build in greater accessibility. More people are thinking about accessibility before buying IT for their office.
+Fortunately, there are things that we can do to change this. Most popular video conferencing tools now offer AI driven speech to text captioning. This isn't perfect, but is continuing to improve. There is more pressure for visual kanban & sticky note tools to build in greater accessibility. More people are thinking about accessibility before buying IT for their office.
 
 Another approach that some organizations are doing is helping to assign a minder to help people with disabilities navigate systems that are not fully accessible. Often simply being able to DM a colleague to ensure that the message is understood properly can do a lot to reduce anxiety in the workforce.
 
