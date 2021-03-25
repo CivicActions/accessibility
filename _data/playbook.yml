@@ -4,89 +4,74 @@ docs:
 - title: Follow Global Initiatives
   url: /follow-global-initiatives
   description: 
-  image: card-sliders.png
-  icon: <i class="fas fa-power-off fa-5x" aria-hidden="true"></i>
+  icon: <i class="fas fa-globe-americas fa-5x" aria-hidden="true"></i>
 
 - title: Invest in Accessibility Training
   url: /training
   description: 
-  image: card-sliders.png
-  icon: <i class="fas fa-power-off fa-5x" aria-hidden="true"></i>
+  icon: <i class="fas fa-money-check-alt fa-5x" aria-hidden="true"></i>
 
-- title: Automated Testing
+- title: Implement Automated Testing
   url: /automated-testing
   description: 
-  image: card-sliders.png
-  icon: <i class="fas fa-power-off fa-5x" aria-hidden="true"></i>
+  icon: <i class="fas fa-lightbulb fa-5x" aria-hidden="true"></i>
 
-- title: Manual Testing
+- title: Do Manual Testing
   url: /manual-testing
   description: 
-  image: card-sliders.png
-  icon: <i class="fas fa-power-off fa-5x" aria-hidden="true"></i>
+  icon: <i class="fas fa-keyboard fa-5x" aria-hidden="true"></i>
 
 - title: Test with Assistive Technology
   url: /AT
   description: 
-  image: card-sliders.png
-  icon: <i class="fas fa-power-off fa-5x" aria-hidden="true"></i>
+  icon: <i class="fas fa-blind fa-5x" aria-hidden="true"></i>
 
-- title: Accessibility Statements
+- title: Update Accessibility Statements
   url: /statements
   description: 
-  image: card-sliders.png
-  icon: <i class="fas fa-power-off fa-5x" aria-hidden="true"></i>
+  icon: <i class="fas fa-file fa-5x" aria-hidden="true"></i>
 
 - title: Include People with Disabilities
   url: /pwd
   description: 
-  image: card-sliders.png
-  icon: <i class="fas fa-power-off fa-5x" aria-hidden="true"></i>
+  icon: <i class="fas fa-universal-access fa-5x" aria-hidden="true"></i>
 
-- title: Community of Practice
+- title: Build Community of Practice
   url: /practice
   description: 
-  image: card-sliders.png
-  icon: <i class="fas fa-power-off fa-5x" aria-hidden="true"></i>
+  icon: <i class="fas fa-question-circle fa-5x" aria-hidden="true"></i>
 
-- title: PDF Documents
+- title: Avoid PDF Documents
   url: /pdf
   description: 
-  image: card-sliders.png
-  icon: <i class="fas fa-power-off fa-5x" aria-hidden="true"></i>
+  icon: <i class="fas fa-file-pdf fa-5x" aria-hidden="true"></i>
   
 - title: Invest in Accessibility Training
   url: /training
   description: 
-  image: card-sliders.png
-  icon: <i class="fas fa-power-off fa-5x" aria-hidden="true"></i>
+  icon: <i class="fas fa-chalkboard-teacher fa-5x" aria-hidden="true"></i>
   
 - title: Use Checklists
   url: /checklists
   description: 
-  image: card-sliders.png
-  icon: <i class="fas fa-power-off fa-5x" aria-hidden="true"></i>
+  icon: <i class="fas fa-th-list fa-5x" aria-hidden="true"></i>
 
 - title: Improve Authoring Tools
   url: /authoring
   description: 
-  image: card-sliders.png
-  icon: <i class="fas fa-power-off fa-5x" aria-hidden="true"></i>
+  icon: <i class="fas fa-user-edit fa-5x" aria-hidden="true"></i>
 
-- title: Role Based Evaluations
+- title: Provide Role Based Evaluations
   url: /roles
   description: 
-  image: card-sliders.png
-  icon: <i class="fas fa-power-off fa-5x" aria-hidden="true"></i>
+  icon: <i class="fas fa-user-shield fa-5x" aria-hidden="true"></i>
 
-- title: Personalization
+- title: Support Personalization
   url: /personalization
   description: 
-  image: card-sliders.png
-  icon: <i class="fas fa-power-off fa-5x" aria-hidden="true"></i>
+  icon: <i class="fas fa-smile fa-5x" aria-hidden="true"></i>
   
-- title: Distributed Teams
+- title: Encourage Accessible Distributed Teams
   url: /distributed-teams
   description: 
-  image: card-sliders.png
-  icon: <i class="fas fa-power-off fa-5x" aria-hidden="true"></i>
+  icon: <i class="fas fa-users fa-5x" aria-hidden="true"></i>
