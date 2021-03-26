@@ -9,10 +9,31 @@ categories:
 
 ---
 
-## What is this?
+## About {#about}
 
-The *CivicActions Accessibility Handbook* has **specific guidance**, links to **valuable resources**, and **useful tools**. It is where we champion accessibility as a company and highlight issues that are bigger than CivicActions. It intends on being an open place to share *why* and *how* we do things, as it relates to accessibility.
+The CivicActions Accessibility guide offers guidance and information related to digital accessibility.
 
-## How does it differ from the CivicActions Handbook?
 
-The [CivicActions Handbook](https://handbook.civicactions.com) provides general overviews and timeless accessibility-related information used for onboarding new staff, as well as explanations on how accessibility relates to various roles within the company. For those who want more in-depth info, the *CivicActions Handbook* will link to content within this *CivicActions Accessibility Handbook* for further reading.
+## Audience {#audience}
+
+The CivicActions Accessibility guide is for anyone interested in digital accessibility, but we're specifically focused on supporting:
+
+
+
+*   CivicActions team members
+*   Government employees
+*   Government contractors
+
+
+## Contribute {#contribute}
+
+How you can contribute to the CivicActions Accessibility guide:
+
+
+
+*   [Submit an issue](https://github.com/CivicActions/accessibility/issues)
+
+
+## Questions? {#questions}
+
+[Contact us](https://accessibility.civicactions.com)
