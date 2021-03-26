@@ -39,7 +39,7 @@ Rather than guidelines based on specific accommodations for particular disabilit
 *   Understandable: users must be able to understand the information as well as the operation of the user interface
 *   Robust: users must be able to access the content as technologies advance
 
-As the web continues to change and develop, the guidelines to maintain accessibility need to as well. WCAG 2.0 was released in 2008, 2.1 was released in 2018, and 2.2 is slated for release in mid-2021. There may be other releases within the WCAG 2.x series, and the WAI has[ released the first draft of WCAG 3.0](https://w3c.github.io/silver/guidelines/), which is working to revise the whole framework.
+As the web continues to change and develop, the guidelines to maintain accessibility need to as well. WCAG 2.0 was released in 2008, 2.1 was released in 2018, and 2.2 is slated for release in mid-2021. There may be other releases within the WCAG 2.x series, and the WAI has [released the first draft of WCAG 3.0](https://w3c.github.io/silver/guidelines/), which is working to revise the whole framework.
 
 In the near future, digital tools will be expected to be personalized so that every individual can maximize their use. And while digital accessibility continues to develop, it is clear that government bodies must invest to make their technology more accessible today than before.
 

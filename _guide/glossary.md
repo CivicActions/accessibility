@@ -234,7 +234,7 @@ The generic term used to describe any device which might access a webpage.
 
 ## Visual focus {#visual-focus}
 
-Where the user's focus is on a Web page. Different browsers’ default focus styles may vary, and continue to be altered as browsers change.
+Where the user's focus is on a Web page. Different browsers' default focus styles may vary, and continue to be altered as browsers change.
 
 
 ## WCAG 2.* (WCAG 2.0, WCAG 2,1, WCAG 2.2) {#wcag-2-*-wcag-2-0-wcag-2-1-wcag-2-2}

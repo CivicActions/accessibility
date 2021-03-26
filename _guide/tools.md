@@ -36,7 +36,7 @@ Open source Markdown editor that simplifies the content creation experience by a
 *   [NVDA](https://www.nvaccess.org/) -[NVDA on GitHub](https://github.com/nvaccess/nvda/) \
 Available for PCs running Microsoft Windows 7 SP1 and later, NVDA is a fast, functional, and free screen reader.
 *   [ChromeVox Chrome Extension](https://chrome.google.com/webstore/detail/screen-reader/kgejglhpjiefppelpmljglcjbhoiplfn) -[ChromeVox as part of ChromeOS on GitHub](https://github.com/chromium/chromium/blob/master/docs/accessibility/chromevox.md) -[Install and Setup Instructions from Web Accessibility for Developers Guide (with video)](https://pressbooks.library.ryerson.ca/wafd/chapter/chromevox-screen-reader-install-and-setup/) \
-A fully featured screen reader for the web built using only web technologies such as HTML and Javascript.  This extension specifically works within the Chrome browser to read content aloud.
+A fully featured screen reader for the web built using only web technologies such as HTML and Javascript. This extension specifically works within the Chrome browser to read content aloud.
 *   Android [Talkback](https://support.google.com/accessibility/android/answer/6283677?hl=en) & [Switch](https://support.google.com/accessibility/android/answer/6122836?hl=en) - on [GitHub](https://github.com/google/talkback) \
 TalkBack is the Google screen reader included on Android devices. Switch lets you interact with your Android device using one or more switches instead of the touchscreen, useful if you can't interact directly with your device.
 *   [Apple VoiceOver](https://www.apple.com/accessibility/vision/) \
@@ -54,7 +54,7 @@ Highly-configurable bbc-a11y runs a set of tests against a set of URLs to verify
 *   [Domain Accessibility Audit by MSU College of Natural Science](https://github.com/MSU-NatSci/DomainAccessibilityAudit) on GitHub \
 This web application automatically crawls websites, checks for accessibility violations, and is based on [axe](https://github.com/dequelabs/axe-core).
 *   [Pa11y](https://pa11y.org/) -[Pa11y on GitHub](https://github.com/pa11y) \
-A popular command-line interface which loads web pages and highlights any accessibility issues it finds. The Pa11y family of applications includes a [Dashboard](https://github.com/pa11y/dashboard) for monitoring several projects’ a11y issues, as well as [continuous integration](https://github.com/pa11y/pa11y-ci) (CI) abilities.
+A popular command-line interface which loads web pages and highlights any accessibility issues it finds. The Pa11y family of applications includes a [Dashboard](https://github.com/pa11y/dashboard) for monitoring several projects' a11y issues, as well as [continuous integration](https://github.com/pa11y/pa11y-ci) (CI) abilities.
 *   [purple-hats by Government Digital Services, Singapore](https://github.com/GovTechSG/purple-hats) on GitHub \
 Powered by [axe](https://github.com/dequelabs/axe-core), purple-hats is a customisable, automated accessibility testing tool.
 
@@ -143,8 +143,8 @@ Note: There are no tools that easily fit this criteria. All of these are related
 
 
 
-*   [Donna Bungard’s An Incomplete List of Tools for Accessibility](https://docs.google.com/spreadsheets/d/1WEujpG4RNEGTcBHOwvVYsixAZPnhkcnJujVoLdMZM4o/edit?disco=AAAALK-X_iI&usp=comment_email_discussion&usp_dm=false&ts=600ee792)
-*   [Paul J Adam’s Resources List](https://pauljadam.com/resources.html)
+*   [Donna Bungard's An Incomplete List of Tools for Accessibility](https://docs.google.com/spreadsheets/d/1WEujpG4RNEGTcBHOwvVYsixAZPnhkcnJujVoLdMZM4o/edit?disco=AAAALK-X_iI&usp=comment_email_discussion&usp_dm=false&ts=600ee792)
+*   [Paul J Adam's Resources List](https://pauljadam.com/resources.html)
 *   [Accessibility Lists of Lists](https://github.com/accessibility/a11y-lists-of-lists#development-and-testing-resources)
 *   [Web Accessibility Evaluation Tools List](https://www.w3.org/WAI/ER/tools/)
 
@@ -153,6 +153,6 @@ Note: There are no tools that easily fit this criteria. All of these are related
 
 
 
-*   [WebAim’s WAVE](https://webaim.org/blog/wave-webinar-and-intro-video/) Introduction to the WAVE Toolbar
-*   [Microsoft’s Accessibility Insights](https://www.youtube.com/channel/UCQHGtwrr3cZxC-UutftMMbw) Introductory Videos about use of Accessibility Insights
-*   [Deque’s Axe](https://www.youtube.com/watch?v=f_pW2EpwqG8) - Get started with using axe
+*   [WebAim's WAVE](https://webaim.org/blog/wave-webinar-and-intro-video/) Introduction to the WAVE Toolbar
+*   [Microsoft's Accessibility Insights](https://www.youtube.com/channel/UCQHGtwrr3cZxC-UutftMMbw) Introductory Videos about use of Accessibility Insights
+*   [Deque's Axe](https://www.youtube.com/watch?v=f_pW2EpwqG8) - Get started with using axe
