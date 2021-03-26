@@ -58,34 +58,34 @@ Accessibility related podcasts we recommend.
 
 *   [WAI Web Accessibility Perspectives Videos](https://www.w3.org/WAI/perspective-videos/) - A short list of videos from the W3C
 *   [DigitalGov Accessibility Playlist](https://www.youtube.com/playlist?list=PLd9b-GuOJ3nFHykZgRBZ7_bzwfZ526rxm) - A YouTube Playlist built by the USA Government
-*   [Heydon’s Webbed Briefs](https://briefs.video/) series - A very entertaining and informative series of videos
+*   [Heydon's Webbed Briefs](https://briefs.video/) series - A very entertaining and informative series of videos
 *   [Erik Kroes](https://www.youtube.com/channel/UCwrpGO76k2HyUQspl-rG2eQ/videos) series - Eric Kroes does live reviews of websites and teaches by doing
 *   [Eric Eggert](https://www.youtube.com/c/EricEggert) series - Eric Eggert walks through many high level 
-*   [AXSChat ](https://www.youtube.com/channel/UCtXmNJEMGmHK9VArQNnvxAw/videos)- The videos behind the weekly [#axschat Twitter chat](https://twitter.com/search?q=%23axschat&src=typed_query&f=live)
-*   [A11yTalks ](https://www.youtube.com/channel/UC__nH6oZrFXcUevljYJKbsw)
+*   [AXSChat](https://www.youtube.com/channel/UCtXmNJEMGmHK9VArQNnvxAw/videos)- The videos behind the weekly [#axschat Twitter chat](https://twitter.com/search?q=%23axschat&src=typed_query&f=live)
+*   [A11yTalks](https://www.youtube.com/channel/UC__nH6oZrFXcUevljYJKbsw)
 
 
 ## Government-developed accessibility resources {#government-developed-accessibility-resources}
 
 
 
-*   [Accessibility Guide by 18F](https://accessibility.18f.gov/) -[ 18F Guide on GitHub](https://github.com/18F/accessibility)
-*   [Accessibility for Teams USA Gov](https://accessibility.digital.gov/) -[ Accessibility for Teams on GitHub](https://github.com/GSA/accessibility-for-teams)
-*   [Accessibility Manual by UK’s DWP](https://accessibility-manual.dwp.gov.uk/) -[ Accessibility Manual on GitHub](https://github.com/dwp/accessibility-manual)
-*   [Accessibility Posters by UK’s Home Office Digital](https://accessibility.blog.gov.uk/2016/09/02/dos-and-donts-on-designing-for-accessibility/) -[ Posters on GitHub](https://github.com/UKHomeOffice/posters)
-*   [Digital Accessibility Toolkit by Government of Canada](https://canada-ca.github.io/a11y/index.html) -[ Digital Accessibility Toolkit on GitHub](https://github.com/canada-ca/a11y/)
+*   [Accessibility Guide by 18F](https://accessibility.18f.gov/) -[18F Guide on GitHub](https://github.com/18F/accessibility)
+*   [Accessibility for Teams USA Gov](https://accessibility.digital.gov/) -[Accessibility for Teams on GitHub](https://github.com/GSA/accessibility-for-teams)
+*   [Accessibility Manual by UK's DWP](https://accessibility-manual.dwp.gov.uk/) -[Accessibility Manual on GitHub](https://github.com/dwp/accessibility-manual)
+*   [Accessibility Posters by UK's Home Office Digital](https://accessibility.blog.gov.uk/2016/09/02/dos-and-donts-on-designing-for-accessibility/) -[Posters on GitHub](https://github.com/UKHomeOffice/posters)
+*   [Digital Accessibility Toolkit by Government of Canada](https://canada-ca.github.io/a11y/index.html) -[Digital Accessibility Toolkit on GitHub](https://github.com/canada-ca/a11y/)
 
 
 ## More inspiring open content {#more-inspiring-open-content}
 
 
 
-*   [a11y.css](https://ffoodd.github.io/a11y.css/) -[ a11y.css on GitHub](https://github.com/ffoodd/a11y.css)
-*   [A11yProject.com](https://www.a11yproject.com/) -[ A11yProject.com on GitHub](https://github.com/a11yproject/a11yproject.com)
-*   [A11ysupport.io](https://a11ysupport.io/) -[ A11ysupport on GitHub](https://github.com/accessibilitysupported/a11ysupport.io)
-*   [A11y.coffee](https://a11y.coffee/) -[ A11y Coffee on GitHub](https://github.com/amberleyromo/a11y-coffee)
-*   [Accessibility Guidelines by Voxmedia](https://accessibility.voxmedia.com/) -[ Accessibility Guidelines Checklist on GitHub](https://github.com/voxmedia/accessibility/)
-*   [HTML5 Accessibility by Steve Faulkner](https://html5accessibility.com/) -[ HTML5 Accessibility on GitHub](https://github.com/stevefaulkner/HTML5accessibility)
+*   [a11y.css](https://ffoodd.github.io/a11y.css/) -[a11y.css on GitHub](https://github.com/ffoodd/a11y.css)
+*   [A11yProject.com](https://www.a11yproject.com/) -[A11yProject.com on GitHub](https://github.com/a11yproject/a11yproject.com)
+*   [A11ysupport.io](https://a11ysupport.io/) -[A11ysupport on GitHub](https://github.com/accessibilitysupported/a11ysupport.io)
+*   [A11y.coffee](https://a11y.coffee/) -[A11y Coffee on GitHub](https://github.com/amberleyromo/a11y-coffee)
+*   [Accessibility Guidelines by Voxmedia](https://accessibility.voxmedia.com/) -[Accessibility Guidelines Checklist on GitHub](https://github.com/voxmedia/accessibility/)
+*   [HTML5 Accessibility by Steve Faulkner](https://html5accessibility.com/) -[HTML5 Accessibility on GitHub](https://github.com/stevefaulkner/HTML5accessibility)
 *   [Accessibility Developers Guide (ADG)](https://www.accessibility-developer-guide.com/) - [ADG on GitHub](https://github.com/Access4all/adg/)
 
 

@@ -14,7 +14,7 @@ A brief history of digital accessibility.
 
 ## Digital accessibility basics {#digital-accessibility-basics}
 
-Digital accessibility is both complicated and simple. It is complicated because there are many layers of technology involved in communicating content from an author to the user. It is simple because, ultimately, if you keep your site simple and follow some basic guidelines, you’re generally going to achieve digital accessibility.
+Digital accessibility is both complicated and simple. It is complicated because there are many layers of technology involved in communicating content from an author to the user. It is simple because, ultimately, if you keep your site simple and follow some basic guidelines, you're generally going to achieve digital accessibility.
 
 
 ## Section 508 {#section-508}
@@ -24,13 +24,13 @@ The United States first led the movement to articulate web accessibility with th
 
 ## WCAG and POUR {#wcag-and-pour}
 
-In 1999 the World Wide Web Consortium (W3C)’s Web Content Accessibility Guidelines ([WCAG](https://www.w3.org/TR/UNDERSTANDING-WCAG20/intro.html)) 1.0 were published. The guidelines were built to be technology-agnostic—HTML was just one way to structure content on the web—and to accommodate the rapid pace of change online.
+In 1999 the World Wide Web Consortium (W3C)'s Web Content Accessibility Guidelines ([WCAG](https://www.w3.org/TR/UNDERSTANDING-WCAG20/intro.html)) 1.0 were published. The guidelines were built to be technology-agnostic—HTML was just one way to structure content on the web—and to accommodate the rapid pace of change online.
 
 For example, when the first iPhone was released in 2007, people had no idea how much mobile devices would revolutionize how people interact—both with digital content and each other. The web has continued to evolve rapidly. It is clear that nobody wants to create an app or a website that makes someone physically ill, but how much animation is acceptable? [Where is the line](https://github.com/w3c/wcag/issues/1072) between visual changes that help people identify where new content is, and the changes that cause some people to become sick?
 
-Additionally, since the WCAG process requires a great deal of negotiation—the standards must be based on evidence-based rules that have broad applicability—it isn’t feasible to make specific guidelines for every disability. There are even occasions where designing a site for one type of disability (say, low vision users) will conflict with another disability (say, people with dyslexia).
+Additionally, since the WCAG process requires a great deal of negotiation—the standards must be based on evidence-based rules that have broad applicability—it isn't feasible to make specific guidelines for every disability. There are even occasions where designing a site for one type of disability (say, low vision users) will conflict with another disability (say, people with dyslexia).
 
-Rather than guidelines based on specific accommodations for particular disabilities, the W3C’s Web Accessibility Initiative (WAI) settled on four key principles—known by the acronym POUR—which have guided digital accessibility. To be accessible, digital content must be:
+Rather than guidelines based on specific accommodations for particular disabilities, the W3C's Web Accessibility Initiative (WAI) settled on four key principles—known by the acronym POUR—which have guided digital accessibility. To be accessible, digital content must be:
 
 
 
@@ -76,6 +76,6 @@ The goal of the EAA is to provide unrestricted access to people experiencing any
 
 By December 23, 2021, all EU member states will be required to monitor the accessibility of their public-facing websites and report on progress over time. It will be up to member states to determine how this is done, but some of them will certainly leverage open source tools to aggregate national results.
 
-In the UK, the Government Digital Services (GDS) is playing the role of the central monitoring team to assess public websites and apps. This monitoring is designed to encourage the public sector to make timely improvements to accessibility. The hope is that with active engagement with various departments, the government can avoid the need to implement further enforcement. The GDS team isn’t sampling all government sites, but is prioritizing those which threaten to exclude the most people, or where there are known or suspected problems. Like others in Europe, the UK has implemented[ Accessibility Statements](https://www.gov.uk/government/publications/sample-accessibility-statement) into its standard web pages so that citizens are encouraged to submit feedback when they run into barriers. This feedback loop empowers the public and highlights barriers that have been missed by automated and manual testing.
+In the UK, the Government Digital Services (GDS) is playing the role of the central monitoring team to assess public websites and apps. This monitoring is designed to encourage the public sector to make timely improvements to accessibility. The hope is that with active engagement with various departments, the government can avoid the need to implement further enforcement. The GDS team isn't sampling all government sites, but is prioritizing those which threaten to exclude the most people, or where there are known or suspected problems. Like others in Europe, the UK has implemented [Accessibility Statements](https://www.gov.uk/government/publications/sample-accessibility-statement) into its standard web pages so that citizens are encouraged to submit feedback when they run into barriers. This feedback loop empowers the public and highlights barriers that have been missed by automated and manual testing.
 
-In the UK, by the time a website reaches a public beta it[ must have monitoring in place](https://www.gov.uk/service-manual/technology/monitoring-the-status-of-your-service) to identify potential problems. While the monitoring instructions don’t specifically state accessibility, the [GDS is actively building tools to make it easier to incorporate](https://github.com/alphagov/accessibility-monitoring), including a site crawler that runs on an open-source accessibility engine built by [Deque Systems, called Axe](https://www.deque.com/axe/).
+In the UK, by the time a website reaches a public beta it [must have monitoring in place](https://www.gov.uk/service-manual/technology/monitoring-the-status-of-your-service) to identify potential problems. While the monitoring instructions don't specifically state accessibility, the [GDS is actively building tools to make it easier to incorporate](https://github.com/alphagov/accessibility-monitoring), including a site crawler that runs on an open-source accessibility engine built by [Deque Systems, called Axe](https://www.deque.com/axe/).

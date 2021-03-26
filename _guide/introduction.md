@@ -16,7 +16,7 @@ The CivicActions Accessibility guide offers guidance and information related to 
 
 ## Audience {#audience}
 
-The CivicActions Accessibility guide is for anyone interested in digital accessibility, but we’re specifically focused on supporting:
+The CivicActions Accessibility guide is for anyone interested in digital accessibility, but we're specifically focused on supporting:
 
 
 

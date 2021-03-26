@@ -19,7 +19,7 @@ The measure of a web page's usability by persons with one or more disabilities.
 
 ## Alternative text {#alternative-text}
 
-Short text primarily used by screen-reading software to describe images — usually 125 characters or less.  Also known as alt text.
+Short text primarily used by screen-reading software to describe images — usually 125 characters or less. Also known as alt text.
 
 
 ## Assistive technologies {#assistive-technologies}
@@ -164,12 +164,12 @@ A mark-up is what the browser sees. If it is marked up as a link, it can receive
 
 ## Modal dialogue box {#modal-dialogue-box}
 
-Often referred to as a “Modal” or “Modal Window”, it is a subordinate graphical interface which opens a child window in the foreground while keeping the parent page visible but inactive.
+Often referred to as a "Modal" or "Modal Window", it is a subordinate graphical interface which opens a child window in the foreground while keeping the parent page visible but inactive.
 
 
 ## Null alt text {#null-alt-text}
 
-Null alt text is including alt text within an “img,” but without any content. An example would be &lt;img alt=” “>. This should only be done for decorative images, spacers and pixels. (resource: [An alt Decision Tree](https://www.google.com/url?q=https://www.w3.org/WAI/tutorials/images/decision-tree/&sa=D&source=editors&ust=1616456174925000&usg=AOvVaw3D1rpz5qSn22EC0jMkRIs4))
+Null alt text is including alt text within an "img", but without any content. An example would be &lt;img alt=" ">. This should only be done for decorative images, spacers and pixels. (resource: [An alt Decision Tree](https://www.google.com/url?q=https://www.w3.org/WAI/tutorials/images/decision-tree/&sa=D&source=editors&ust=1616456174925000&usg=AOvVaw3D1rpz5qSn22EC0jMkRIs4))
 
 
 ## Open source {#open-source}
