@@ -1,4 +1,3 @@
-
 ---
 layout: playbook
 title: Build Community of Practice
