@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="68c2ddf8-ef64-4b0d-aca1-09141bf8802c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/_guide/design.md" beforeDir="false" afterPath="$PROJECT_DIR$/_guide/design.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_guide/documents.md" beforeDir="false" afterPath="$PROJECT_DIR$/_guide/documents.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_guide/events.md" beforeDir="false" afterPath="$PROJECT_DIR$/_guide/events.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_guide/glossary.md" beforeDir="false" afterPath="$PROJECT_DIR$/_guide/glossary.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_guide/history.md" beforeDir="false" afterPath="$PROJECT_DIR$/_guide/history.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_guide/identity-language.md" beforeDir="false" afterPath="$PROJECT_DIR$/_guide/identity-language.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_guide/introduction.md" beforeDir="false" afterPath="$PROJECT_DIR$/_guide/introduction.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_guide/organizations.md" beforeDir="false" afterPath="$PROJECT_DIR$/_guide/organizations.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_guide/resources.md" beforeDir="false" afterPath="$PROJECT_DIR$/_guide/resources.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_guide/tools.md" beforeDir="false" afterPath="$PROJECT_DIR$/_guide/tools.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_guide/training.md" beforeDir="false" afterPath="$PROJECT_DIR$/_guide/training.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1oFWE6BDiYRMDW4dZNuSi18PdVx" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="68c2ddf8-ef64-4b0d-aca1-09141bf8802c" name="Default Changelist" comment="" />
+      <created>1612882703713</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1612882703713</updated>
+      <workItem from="1612882704904" duration="1694000" />
+      <workItem from="1616780849784" duration="1274000" />
+      <workItem from="1616783844541" duration="2810000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1495" height="290" key="GridCell.Tab.0.bottom" timestamp="1616783654957">
+      <screen x="0" y="25" width="1792" height="1095" />
+    </state>
+    <state width="1495" height="290" key="GridCell.Tab.0.bottom/0.25.1792.1095@0.25.1792.1095" timestamp="1616783654957" />
+    <state width="1495" height="290" key="GridCell.Tab.0.center" timestamp="1616783654956">
+      <screen x="0" y="25" width="1792" height="1095" />
+    </state>
+    <state width="1495" height="290" key="GridCell.Tab.0.center/0.25.1792.1095@0.25.1792.1095" timestamp="1616783654956" />
+    <state width="1495" height="290" key="GridCell.Tab.0.left" timestamp="1616783654953">
+      <screen x="0" y="25" width="1792" height="1095" />
+    </state>
+    <state width="1495" height="290" key="GridCell.Tab.0.left/0.25.1792.1095@0.25.1792.1095" timestamp="1616783654953" />
+    <state width="1495" height="290" key="GridCell.Tab.0.right" timestamp="1616783654957">
+      <screen x="0" y="25" width="1792" height="1095" />
+    </state>
+    <state width="1495" height="290" key="GridCell.Tab.0.right/0.25.1792.1095@0.25.1792.1095" timestamp="1616783654957" />
+  </component>
+</project>
