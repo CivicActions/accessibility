@@ -24,7 +24,7 @@ The United States first led the movement to articulate web accessibility with th
 
 ## WCAG and POUR {#wcag-and-pour}
 
-In 1999 the World Wide Web Consortium (W3C)'s Web Content Accessibility Guidelines ([WCAG](https://www.w3.org/TR/UNDERSTANDING-WCAG20/intro.html)) 1.0 were published. The guidelines were built to be technology-agnostic—HTML was just one way to structure content on the web—and to accommodate the rapid pace of change online.
+In 1999 the World Wide Web Consortium's (W3C) Web Content Accessibility Guidelines ([WCAG](https://www.w3.org/TR/UNDERSTANDING-WCAG20/intro.html)) 1.0 were published. The guidelines were built to be technology-agnostic—HTML was just one way to structure content on the web—and to accommodate the rapid pace of change online.
 
 For example, when the first iPhone was released in 2007, people had no idea how much mobile devices would revolutionize how people interact—both with digital content and each other. The web has continued to evolve rapidly. It is clear that nobody wants to create an app or a website that makes someone physically ill, but how much animation is acceptable? [Where is the line](https://github.com/w3c/wcag/issues/1072) between visual changes that help people identify where new content is, and the changes that cause some people to become sick?
 
