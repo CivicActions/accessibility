@@ -237,6 +237,11 @@ The generic term used to describe any device which might access a webpage.
 Where the user's focus is on a Web page. Different browsers' default focus styles may vary, and continue to be altered as browsers change.
 
 
+## Voluntary Product Accessibility Template (VPAT™)
+
+A static document that describes how software, hardware, electronic content, and support documentation meet accessibility requirements. Generally this is aligned with the WCAG standard. VPAT™'s are defined by an industry association, [Information Technology Industry Council](https://www.itic.org/policy/accessibility/vpat). VPATs often required in procurement to help buyers understand how accessible a product might be and help to discover deficiencies. These are often more about marketing than reflecting the actual accessibility barriers in the product or service. 
+
+
 ## WCAG 2.* (WCAG 2.0, WCAG 2,1, WCAG 2.2) {#wcag-2-*-wcag-2-0-wcag-2-1-wcag-2-2}
 
 The Web Content Accessibility Guidelines (WCAG) 2.0 is focused on providing an international technical standard for web content. It has 12 guidelines that are organized under four principles: Perceivable, Operable, Understandable, and Robust (ie. POUR). The guidelines each have a testable success criteria, which are at three levels: A, AA, and AAA.
