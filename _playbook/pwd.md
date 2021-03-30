@@ -13,9 +13,9 @@ categories:
 
 Actually engaging with people with disabilities (PwD) is key. Their lived experience is critical for identifying issues that a test and someone without disabilities may not catch. This can be accomplished by assuring user research in discovery stages includes PwD. Usability testing of specific site features should also include PwD to ensure that the solution works as expected.
 
-Out of respect for their time, PwD shouldn’t be engaged to test the accessibility of a website until the results of automated and basic manual tests are implemented.
+Out of respect for their time, PwD shouldn't be engaged to test the accessibility of a website until the results of automated and basic manual tests are implemented.
 
-PwD’s lived experience is critical for catching issues and errors that the tests miss, but it is important to not waste people’s time replicating known problems that a computer or a non-disabled person can easily identify. See the playbooks on automated testing and manual testing for more information.
+PwD's lived experience is critical for catching issues and errors that the tests miss, but it is important to not waste people's time replicating known problems that a computer or a non-disabled person can easily identify. See the playbooks on automated testing and manual testing for more information.
 
 When recruiting a testing cohort, it is important to consider the range of disabilities that need to be addressed. Should you test with people who were blind from birth and who use Braille, or those who became blind and use an audio interface? A legally blind person may have some sight, and may use a screen reader in combination with a screen magnifier. If there are audio components, it may be important to include members of the deaf community. People have a range of experiences of perceiving colour, and this can change over time. These are just a few examples.
 

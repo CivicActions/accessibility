@@ -18,7 +18,7 @@ assignees: dmundra
 
 Sample text:
 
-> Hello @channel, next week is our practice area’s retrospective: [DAY], [MONTH] [DATE], [TIME] pm to [TIME] pm PT ([TIME] pm to [TIME] pm ET). We welcome you to attend and you can use this link to add the event and Zoom link to your calendar.
+> Hello @channel, next week is our practice area's retrospective: [DAY], [MONTH] [DATE], [TIME] pm to [TIME] pm PT ([TIME] pm to [TIME] pm ET). We welcome you to attend and you can use this link to add the event and Zoom link to your calendar.
 
 > The retrospective board is available here [LINK] and please feel free to add notes to the different columns between now and then.
 
