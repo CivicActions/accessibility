@@ -10,6 +10,11 @@ docs:
   url: /training
   description: 
   icon: <i class="fas fa-money-check-alt fa-5x" aria-hidden="true"></i>
+  
+- title: Community
+  url: /community
+  description: 
+  icon: <i class="fas fa-users fa-5x" aria-hidden="true"></i>
 
 - title: Implement Automated Testing
   url: /automated-testing
