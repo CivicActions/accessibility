@@ -1,7 +1,7 @@
 <nav aria-label="Secondary navigation">
     <ul class="usa-sidenav">
         {% for item in site.data.playbook.docs %}
-        {% assign item_url = '/projects' | append: item.url %}
+        {% assign item_url = '/playbook' | append: item.url %}
         <li>
             <a href="{{ site.baseurl}}{{ item_url }}" class="list-group-item list-group-item-action {% if item_url == page.url %}usa-current{% endif %}">
                 {{ item.title }}
