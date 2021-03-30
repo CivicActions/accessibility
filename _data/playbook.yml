@@ -51,11 +51,6 @@ docs:
   description: 
   icon: <i class="fas fa-file-pdf fa-5x" aria-hidden="true"></i>
   
-- title: Invest in Accessibility Training
-  url: /training
-  description: 
-  icon: <i class="fas fa-chalkboard-teacher fa-5x" aria-hidden="true"></i>
-  
 - title: Use Checklists
   url: /checklists
   description: 
@@ -80,3 +75,8 @@ docs:
   url: /distributed-teams
   description: 
   icon: <i class="fas fa-users fa-5x" aria-hidden="true"></i>
+  
+- title: AI & IA
+  url: /ai-and-ia
+  description: 
+  icon: <i class="fas fa-robot fa-5x" aria-hidden="true"></i>
