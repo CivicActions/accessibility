@@ -16,6 +16,10 @@ The pa11y-ci commands can also be run locally to generate the same test results:
 
 Run remark-lint with reviewdog on pull requests to check for readibility and other text checks.
 
+## pre-commit.yml
+
+Run pre-commit hooks to clean up site based on configurations in .pre-commit-config.yaml include searching and replacing smart quotes defined in .pre-commit-search-and-replace.yaml.
+
 # References
 
 * https://github.com/pa11y/pa11y
@@ -27,3 +31,4 @@ Run remark-lint with reviewdog on pull requests to check for readibility and oth
 * https://docs.gitlab.com/ee/user/project/merge_requests/accessibility_testing.html
 * https://stackoverflow.com/questions/57915432/write-output-of-npm-run-start-to-a-file
 * https://github.com/marketplace/actions/comment-pull-request
+* https://pre-commit.com/
