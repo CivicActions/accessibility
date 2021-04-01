@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Improving government accessibility through open source"
+title: Mike Gifford interviewed on the AT Banter Pocast
 date:   2021-03-30 08:00:00 -0800
-description: AT Banter Podcast featuring Mike Gifford.
+description: An entertaining discussion with the Banter crew and Mike Gifford.
 author: mike-gifford
 categories: 
 image: card-power.png
