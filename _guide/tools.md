@@ -27,6 +27,7 @@ Another plugin for [retext](https://github.com/retext-project/retext) that check
 *   [Zettlr: Markdown Editor](https://www.zettlr.com/) -[Zettlr on GitHub](https://github.com/Zettlr/Zettlr) \
 Open source Markdown editor that simplifies the content creation experience by avoiding the clutter seen in many common word processing solutions.
 *   [Drupal](http://drupal.org/) is a very accessible CMS and[these modules can enhance its accessibility](https://accessibility.civicactions.com/guide/resources)
+*   [ATOM Plugin - web-accessibility-checker package](https://atom.io/packages/web-accessibility-checker)
 
 
 ## Assistive technology {#assistive-technology}
