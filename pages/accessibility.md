@@ -25,6 +25,8 @@ The website color palette is based on the [USWDS color tokens](https://designsys
 
 The pages on this website are primarily written in Markdown which substantially reduces the range of errors available in HTML. These are then compiled using <a href="https://jekyllrb.com/">Jekyll</a> and presented to the user as structured HTML5. The site is hosted on <a href="https://github.com">GitHub</a>, which has a very broad community of users who are free to to add issues or pull requests. 
 
+We use [axe-core](https://github.com/dequelabs/axe-core) with [Pa11y](https://github.com/pa11y) to evaluate that every page follows basic accessibility best practices. Details for this are [shared in our blog](https://accessibility.civicactions.com/posts/automated-accessibility-testing-leveraging-github-actions-and-pa11y-ci-with-axe). 
+
 ## Known issues
 
 * [Open website accessibility issues](https://github.com/CivicActions/accessibility/labels/accessibility)
