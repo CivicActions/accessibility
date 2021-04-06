@@ -5,6 +5,7 @@ h4,
 h5,
 h6 {
     letter-spacing: -.01em;
+    font-family: 'Work Sans', sans-serif !important;
 }
 
 h2 {
@@ -36,7 +37,7 @@ main li {
 }
 
 .usa-hero {
-    background: #f0f0f0;
+    background: #1b1b1b;
     font-size: 1.5rem;
 }
 
@@ -57,6 +58,10 @@ main li {
 
 .usa-hero__callout {
     max-width: 40rem;
+}
+
+.usa-hero .usa-hero__callout {
+    background: #1b1b1b;
 }
 
 .usa-hero__heading {
@@ -80,7 +85,7 @@ main li {
 .usa-hero .usa-hero__callout h4,
 .usa-hero .usa-hero__callout h5,
 .usa-hero .usa-hero__callout h6 {
-    color: #1b1b1b;
+    color: #ffffff;
 }
 
 .usa-header--extended .usa-logo {
@@ -159,6 +164,11 @@ img.usa-media-block__img {
 .usa-button,
 .usa-button:hover,
 .usa-hero .usa-hero__callout .usa-button {
+    font-family: 'Nunito', sans-serif !important;
+
+}
+
+.usa-button {
     background-color: #1b1b1b;
 }
 
@@ -170,4 +180,29 @@ img.usa-media-block__img {
 .usa-social-link--github {
     background-image: url("../uswds/img/social-icons/github25.svg"), linear-gradient(transparent, transparent);
     background-repeat: no-repeat;
+}
+
+p, .usa-navbar, .usa-nav, .usa-prose, .usa-footer, .usa-footer--big .usa-footer__primary-link, .usa-nav__inner, .usa-nav .usa-accordion {
+    font-family: 'Nunito', sans-serif !important;
+}
+
+.usa-navbar {
+    font-family: 'Work Sans', sans-serif !important;    
+}
+
+.guide-container {
+    padding: 1rem;
+}
+
+.guide-title {
+    font-weight: bold;
+}
+
+.guide-breadcrumb {
+    border-bottom: 1px solid #f0f0f0;
+    margin-bottom: 2rem;
+}
+
+.guide-main {
+    margin-bottom: 1rem;
 }

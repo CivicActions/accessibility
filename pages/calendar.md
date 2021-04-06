@@ -3,13 +3,14 @@ layout: page
 title: Calendar
 description: CivicActions Accessibility team meetings and other accessibility-related events.
 permalink: /calendar
+
 ---
 
-* [Team calendar](https://calendar.google.com/calendar/u/2?cid=Y2l2aWNhY3Rpb25zLm5ldF81M3VqMDBoNzAzMzRpbTZzY3ZoOGE0dDlhZ0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t) - Internal
+* [Team calendar](https://calendar.google.com/calendar/u/2?cid=Y2l2aWNhY3Rpb25zLm5ldF81M3VqMDBoNzAzMzRpbTZzY3ZoOGE0dDlhZ0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t) (Internal)
 
 ## Meetings
 
-* [Meeting notes](https://docs.google.com/document/d/1y2yGcxsjEmmr4627nf3O2aGqmIkJrkgcbjRKAz9jSMI/edit?usp=sharing) - Internal
+* [Meeting notes](https://docs.google.com/document/d/1y2yGcxsjEmmr4627nf3O2aGqmIkJrkgcbjRKAz9jSMI/edit?usp=sharing) (Internal)
 
 ### CivicActions Practice Area Call
 

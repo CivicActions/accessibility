@@ -4,48 +4,10 @@ main:
 class:
 ---
 <div class="grid-container">
-    <h2>People</h2>
-    <p>Meet the humans of CivicActions Accessibility.</p>
-    <ul class="usa-card-group">
-        {% for author in site.people %}
-        <li class="tablet:grid-col-3 usa-card">
-            <div class="usa-card__container">
-                <div class="usa-card__media">
-                    <div class="usa-card__img">
-                        <a href="{{ site.baseurl }}{{ author.url }}"><img src="{{ site.baseurl }}/assets/img/people/{{ author.image }}" alt="{{ author.name }}"></a>
-                    </div>
-                </div>
-                <header class="usa-card__header">
-                    <h3 class="usa-card__heading"><a href="{{ site.baseurl }}{{ author.url }}">{{ author.name }}</a></h3>
-                </header>
-                <div class="usa-card__body">
-                    <p>{{ author.role }}</p>
-                </div>
-                <div class="usa-card__footer">
-                </div>
-            </div>
-        </li>
-        {% endfor %}
-    </ul>
-    <p><a href="{{ site.baseurl }}/people">People</a>
-</div>
-<div class="grid-container">
-    <h2>CivicActions Accessibility Guide</h2>
-    {% include guide.html %}
-    <p><a href="{{ site.baseurl }}/guide">Guide</a>
-</div>
-<div class="grid-container">
-    <h2>Projects</h2>
-    <p>Open source accessibility projects we contribute to.</p>
-    {% include projects.html %}
-    <p><a href="{{ site.baseurl }}/projects">Projects</a>
-</div>
-<div class="grid-container">
     <h2>News</h2>
     {% for post in site.posts limit:2 %}
     <h3><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
-    <p>{{ post.description }}</p>
-    <p><em>{{ post.date | date: "%B %-d, %Y" }}</em></p>
+    <p>{{ post.date | date: "%B %-d, %Y" }}</p>
     {% endfor %}
     <!--
     <ul class="usa-card-group">
@@ -72,6 +34,48 @@ class:
     </ul>
 -->
     <p><a href="{{ site.baseurl }}/news">News</a></p>
+</div>
+<div class="grid-container">
+    <h2>People</h2>
+    <p>Meet the humans of CivicActions Accessibility.</p>
+    <ul class="usa-card-group">
+        {% for author in site.people %}
+        <li class="tablet:grid-col-3 usa-card">
+            <div class="usa-card__container">
+                <div class="usa-card__media">
+                    <div class="usa-card__img">
+                        <a href="{{ site.baseurl }}{{ author.url }}"><img src="{{ site.baseurl }}/assets/img/people/{{ author.image }}" alt="{{ author.name }}"></a>
+                    </div>
+                </div>
+                <header class="usa-card__header">
+                    <h3 class="usa-card__heading">{{ author.name }}</h3>
+                </header>
+                <div class="usa-card__body">
+                    <p>{{ author.role }}</p>
+                </div>
+                <div class="usa-card__footer">
+                </div>
+            </div>
+        </li>
+        {% endfor %}
+    </ul>
+    <p><a href="{{ site.baseurl }}/people">People</a>
+</div>
+<div class="grid-container">
+    <h2>Guide</h2>
+    {% include guide.html %}
+    <p><a href="{{ site.baseurl }}/guide">Guide</a>
+</div>
+<div class="grid-container">
+    <h2>Playbook</h2>
+    {% include playbook.html %}
+    <p><a href="{{ site.baseurl }}/playbook">Playbook</a>
+</div>
+<div class="grid-container">
+    <h2>Projects</h2>
+    <p>Open source accessibility projects we contribute to.</p>
+    {% include projects.html %}
+    <p><a href="{{ site.baseurl }}/projects">Projects</a>
 </div>
 <div class="grid-container">
     {{ content }}

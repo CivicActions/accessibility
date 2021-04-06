@@ -3,6 +3,7 @@ layout: page
 title: Contact
 description: Ways to connect with us.
 permalink: /contact
+
 ---
 
 * Email: [accessibility@civicactions.com](mailto:accessibility@civicactions.com)
