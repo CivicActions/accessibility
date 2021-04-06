@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mike Gifford interviewed on the AT Banter Pocast
+title: Mike Gifford interviewed on the AT Banter Podcast
 date:   2021-03-30 08:00:00 -0800
 description: An entertaining discussion with the Banter crew and Mike Gifford.
 author: mike-gifford

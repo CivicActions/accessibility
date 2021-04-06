@@ -3,38 +3,37 @@ layout: default
 main:
 class:
 ---
-<div class="handbook-breadcrumb">
-    <div class="grid-container">
-        <nav class="usa-breadcrumb" aria-label="Breadcrumbs">
-            <ol class="usa-breadcrumb__list">
-                <li class="usa-breadcrumb__list-item">
-                    <a href="{{ site.baseurl }}/playbook" class="usa-breadcrumb__link">
-                        <span>CivicActions Accessibility Playbook</span>
-                    </a>
-                </li>
-                <li class="usa-breadcrumb__list-item usa-current" aria-current="page">
-                    <span>{{ page.title }}</span>
-                </li>
-            </ol>
-        </nav>
+
+<div class="guide-container">
+    <div class="handbook-breadcrumb">
+        <div class="">
+            <nav class="usa-breadcrumb" aria-label="Breadcrumbs">
+                <ol class="usa-breadcrumb__list">
+                    <li class="usa-breadcrumb__list-item">
+                        <a href="{{ site.baseurl }}/playbook" class="usa-breadcrumb__link">
+                            <span class="guide-title">CivicActions Accessibility Playbook</span>
+                        </a>
+                    </li>
+                    <li class="usa-breadcrumb__list-item usa-current" aria-current="page">
+                        <span>{{ page.title }}</span>
+                    </li>
+                </ol>
+            </nav>
+        </div>
     </div>
-</div>
-<div class="guide-main">
-    <div class="">
-        <div class="grid-container">
-            <div class="grid-row grid-gap flex-align-start">
-                {% assign sidenav = site.data.navigation[page.sidenav] | default: page.sidenav %}
-                {% if sidenav %}
-                <div class="usa-layout-docs__sidenav desktop:grid-col-3{% if page.sticky_sidenav %} usa-sticky-sidenav{% endif %}">
-                    {% include sidenav-playbook.html links=sidenav %}
-                </div>
+    <div class="guide-main">
+        <div class="grid-row grid-gap">
+            {% assign sidenav = site.data.navigation[page.sidenav] | default: page.sidenav %}
+            {% if sidenav %}
+            <div class="usa-layout-docs__sidenav desktop:grid-col-3{% if page.sticky_sidenav %} usa-sticky-sidenav{% endif %}">
+                {% include sidenav-playbook.html links=sidenav %}
+            </div>
+            {% endif %}
+            <div class="usa-layout-docs usa-layout-docs__main usa-prose{% if sidenav %} desktop:grid-col-9{% endif %}">
+                {% if page.title %}
+                <h1>{{ page.title }}</h1>
                 {% endif %}
-                <div class="usa-layout-docs usa-layout-docs__main usa-prose{% if sidenav %} desktop:grid-col-9{% endif %}">
-                    {% if page.title %}
-                    <h1>{{ page.title }}</h1>
-                    {% endif %}
-                    {{ content }}
-                </div>
+                {{ content }}
             </div>
         </div>
     </div>

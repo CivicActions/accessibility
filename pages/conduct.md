@@ -1,9 +1,8 @@
 ---
+layout: page
 title: Code of conduct
 description: CivicActions Accessibility code of conduct.
 permalink: /conduct
-
-layout: post
 
 ---
 

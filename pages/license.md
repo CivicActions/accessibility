@@ -1,9 +1,8 @@
 ---
+layout: page
 title: License
 description: License for CivicActions Accessibility.
 permalink: /license
-
-layout: page
 
 ---
 

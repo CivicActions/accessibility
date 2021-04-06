@@ -1,8 +1,8 @@
 ---
+layout: page
 title: OKRs
 description: CivicActions Accessibility OKRs.
 permalink: /okrs
-layout: post
 
 ---
 
