@@ -36,7 +36,7 @@ graphics:
       src: /assets/img/circles/circle-lightbulb.png
       alt: "Playbook"
     title: Playbook
-    description: The [CivicActions Accessibility Playbook](playbook) .
+    description: The [CivicActions Accessibility Playbook](playbook)  helps you get started making government digital services more accessible.
   - image:
       src: /assets/img/circles/circle-aperture.png
       alt: "Guide"
