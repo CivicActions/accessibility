@@ -63,7 +63,11 @@ We've taken these two lists, added other roles that we didn't see included and i
         * Look over the elements that are marked Needs reviews to see if there are elements where a manual review can identify whether it is an issue or not.
         * On new patterns make sure to complete the rest of the assessment to ensure that the new functionality meets WCAG requirements.
         * See more from [BBC's Checklists](https://bbc.github.io/accessibility-news-and-you/accessibility-news-and-developers).
-    * Resources: [Building Accessible Front-Ends](https://medium.com/capital-one-tech/building-accessible-front-ends-298c03e5bd86) & [Accessibility Tips for Frontend Developers](https://medium.com/@lizfaria/accessibility-tips-for-frontend-developers-83d094146153).
+    * Resources 
+      * [Building Accessible Front-Ends](https://medium.com/capital-one-tech/building-accessible-front-ends-298c03e5bd86) 
+      * [Accessibility Tips for Frontend Developers](https://medium.com/@lizfaria/accessibility-tips-for-frontend-developers-83d094146153)
+      * [W3C WAI's Developer Modules Curriculum](https://www.w3.org/WAI/curricula/developer-modules/)
+      * [Helping developers write accessible code](https://blogs.intuit.com/blog/2021/03/30/helping-developers-write-accessible-code/)
 * HTML & CSS Prototyping
     * [HTML & CSS Prototyping W3C Accessibility Responsibility](https://www.w3.org/community/wai-engage/wiki/HTML/CSS_Prototyping).
 * Interaction Designer - [UK](https://accessibility-manual.dwp.gov.uk/guidance-for-your-job-role/interaction-designer)
