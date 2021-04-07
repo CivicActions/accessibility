@@ -9,13 +9,13 @@ We take the security of your personal information very seriously. All pages are 
 # What we collect
 
 In order for us to focus on the customer experience, we need to collect and process certain information. Depending on how you use our site, it will include:
-- **Contact us via email** — for example, when you ask for support, send us questions or comments, or report a problem, we will collect your name, email address, message, etc. We use this data solely in connection with answering the queries we receive.
-- **Usage data** — when you visit our site, we will store: the website from which you visited us from, the parts of our site you visit, the date and duration of your visit, your anonymised IP address, information from the device (device type, operating system, screen resolution, language, country you are located in, and web browser type) you used during your visit, and more. We process this usage data in Matomo Analytics for statistical purposes, to improve our site and to recognize and stop any misuse.
-- **Cookies** — we use cookies (small data files transferred onto computers or devices by sites) for record-keeping purposes and to enhance functionality on our site. You may deactivate or restrict the transmission of cookies by changing the settings of your web browser. Cookies that are already stored may be deleted at any time.
+* **Contact us via email** — for example, when you ask for support, send us questions or comments, or report a problem, we will collect your name, email address, message, etc. We use this data solely in connection with answering the queries we receive.
+* **Usage data** — when you visit our site, we will store: the website from which you visited us from, the parts of our site you visit, the date and duration of your visit, your anonymised IP address, information from the device (device type, operating system, screen resolution, language, country you are located in, and web browser type) you used during your visit, and more. We process this usage data in Matomo Analytics for statistical purposes, to improve our site and to recognize and stop any misuse.
+* **Cookies** — we use cookies (small data files transferred onto computers or devices by sites) for record-keeping purposes and to enhance functionality on our site. You may deactivate or restrict the transmission of cookies by changing the settings of your web browser. Cookies that are already stored may be deleted at any time.
 
 # Want to learn more? 
-- Check out [this site on TheMarkup.org's Blacklight](https://themarkup.org/blacklight?url=accessibility.civicactions.com)
-- Learn more from the [Free Software Foundation](https://www.fsf.org/campaigns/surveillance)
-- Read some of the [resources available on EPIC](https://epic.org/privacy/privacy_resources_faq.html)
+* Check out [this site on TheMarkup.org's Blacklight](https://themarkup.org/blacklight?url=accessibility.civicactions.com)
+* Learn more from the [Free Software Foundation](https://www.fsf.org/campaigns/surveillance)
+* Read some of the [resources available on EPIC](https://epic.org/privacy/privacy_resources_faq.html)
 
 If you have concerns with how we handle your privacy, please let us know. If you are not satisfied you can report a [privacy violation online](https://www.usa.gov/privacy).
