@@ -1,6 +1,6 @@
 ---
 layout: playbook
-title: AI & IA
+title: Consider AI & IA
 description: 
 excerpt: 
 sidenav: docs
