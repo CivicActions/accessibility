@@ -18,7 +18,7 @@ How can I further automate my process? Is this accessibility information up-to-d
 Time-pressured for QA work
 
 ## Behaviors
-Quickly scans content and misses the fine detail. If it’s not a bullet point, they won’t read it
+Quickly scans content and misses the fine detail. If it's not a bullet point, they won't read it
 
 ## Pain points
-Tasks that can’t be automated
+Tasks that can't be automated
