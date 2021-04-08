@@ -1,6 +1,6 @@
 ---
 layout: playbook
-title: Community
+title: Join the Global Accessibility Community
 description: 
 excerpt: 
 sidenav: docs
