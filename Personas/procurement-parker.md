@@ -8,7 +8,7 @@ Parker is hard of hearing and has trouble communicating with people over the pho
 ## Goals
 Find accessibility information for their report
 
-# #Needs
+## Needs
 Videos with Closed Captions, subtitles and/or transcripts
 
 ## Thoughts
