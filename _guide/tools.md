@@ -14,8 +14,6 @@ Digital accessibility tools.
 
 ## Authoring {#authoring}
 
-
-
 *   [A11yFirst for CKEditor](http://a11yfirst.web.illinois.edu/) -[Accessibility First on GitHub](https://github.com/a11yfirst/distribution) \
 Series of plugins for supporting a11y best practices within the WYSIWYG editor, CKEditor.
 *   [Sa11y Ryerson Digital Media Projects](https://ryersondmp.github.io/sa11y/#install) -[Sa11y on GitHub](https://github.com/ryersondmp/sa11y) \
@@ -32,8 +30,6 @@ Open source Markdown editor that simplifies the content creation experience by a
 
 ## Assistive technology {#assistive-technology}
 
-
-
 *   [NVDA](https://www.nvaccess.org/) -[NVDA on GitHub](https://github.com/nvaccess/nvda/) \
 Available for PCs running Microsoft Windows 7 SP1 and later, NVDA is a fast, functional, and free screen reader.
 *   [ChromeVox Chrome Extension](https://chrome.google.com/webstore/detail/screen-reader/kgejglhpjiefppelpmljglcjbhoiplfn) -[ChromeVox as part of ChromeOS on GitHub](https://github.com/chromium/chromium/blob/master/docs/accessibility/chromevox.md) -[Install and Setup Instructions from Web Accessibility for Developers Guide (with video)](https://pressbooks.library.ryerson.ca/wafd/chapter/chromevox-screen-reader-install-and-setup/) \
@@ -48,8 +44,6 @@ Orca is a free, open source, flexible, and extensible screen reader that provide
 
 ## Site-wide evaluation {#site-wide-evaluation}
 
-
-
 *   [bbc-a11y](https://github.com/bbc/bbc-a11y/blob/master/guides/using/using-bbc-a11y-in-your-project.md) on GitHub \
 Highly-configurable bbc-a11y runs a set of tests against a set of URLs to verify whether each one meets the [BBC accessibility guidelines](https://www.bbc.co.uk/accessibility/forproducts/guides/mobile/).
 *   [Domain Accessibility Audit by MSU College of Natural Science](https://github.com/MSU-NatSci/DomainAccessibilityAudit) on GitHub \
@@ -61,8 +55,6 @@ Powered by [axe](https://github.com/dequelabs/axe-core), purple-hats is a custom
 
 
 ## Page level evaluation {#page-level-evaluation}
-
-
 
 *   [A11ygator](https://a11ygator.chialab.io/) -[A11ygator on GitHub](https://github.com/chialab/a11ygator-app)
 *   [Accessibility Insights by Microsoft](https://accessibilityinsights.io/) -[Accessibility Insights GitHub Page](https://github.com/microsoft/accessibility-insights-web)
@@ -78,8 +70,6 @@ Powered by [axe](https://github.com/dequelabs/axe-core), purple-hats is a custom
 
 ## Bookmarklets {#bookmarklets}
 
-
-
 *   [ANDI by SSA.gov](https://www.ssa.gov/accessibility/andi/) -[ANDI on GitHub](https://github.com/SSAgov/ANDI)
 *   [Touch Bookmarklet](https://louisremi.github.io/touch-devtool/) -[Touch on GitHub](https://github.com/louisremi/touch-devtool)
 *   [Outline ⭐️ Bookmarklet](https://codepen.io/svinkle/pen/grYjPa) on Codepen (MIT Licence)
@@ -91,8 +81,6 @@ Powered by [axe](https://github.com/dequelabs/axe-core), purple-hats is a custom
 
 
 ## Color {#color}
-
-
 
 *   [Accessible color combinations](https://toolness.github.io/accessible-color-matrix/) -[Color combinations on GitHub](https://github.com/toolness/accessible-color-matrix)
 *   [Accessible color palette builder](https://toolness.github.io/accessible-color-matrix/) -[Accessible Color Palette on GitHub](https://github.com/toolness/accessible-color-matrix)
@@ -109,16 +97,12 @@ Powered by [axe](https://github.com/dequelabs/axe-core), purple-hats is a custom
 
 ## JavaScript checkers {#javascript-checkers}
 
-
-
-*   [cypress-axe](https://github.com/component-driven/cypress-axe) - for testing with[Cypress](https://www.cypress.io/) on GitHub
+*   [cypress-axe](https://github.com/component-driven/cypress-axe) - for testing with [Cypress](https://www.cypress.io/) on GitHub
 *   [jest-axe](https://github.com/nickcolley/jest-axe) - for testing with[Jest](https://jestjs.io/) on GitHub
 *   [Nightwatch aXe-core](https://github.com/rikki-iki/nightwatch-axe-core) - for testing with[Nightwatch](https://nightwatchjs.org/) on GitHub
 
 
 ## Simulators {#simulators}
-
-
 
 *   [Metamatrix Web Disability Simulator Chrome Extension](https://chrome.google.com/webstore/detail/web-disability-simulator/olioanlbgbpmdlgjnnampnnlohigkjla) on[Metamatrix on GitHub](https://github.com/Metamatrix/web-disability-simulator)
 *   [NoCoffee Chrome Extension](https://accessgarage.wordpress.com/) -[NoCoffee on GitHub](https://github.com/eeejay/NoCoffee)
@@ -132,8 +116,6 @@ Powered by [axe](https://github.com/dequelabs/axe-core), purple-hats is a custom
 
 Note: There are no tools that easily fit this criteria. All of these are related though.
 
-
-
 *   [PAC 3](https://www.access-for-all.ch/en/pdf-accessibility-checker.html)
 *   [PAVE](https://pave-pdf.org/) 
 *   [PDF Parser](https://www.pdfparser.org/) - not accessibility focused
@@ -142,8 +124,6 @@ Note: There are no tools that easily fit this criteria. All of these are related
 
 ## Other lists of tools {#other-lists-of-tools}
 
-
-
 *   [Donna Bungard's An Incomplete List of Tools for Accessibility](https://docs.google.com/spreadsheets/d/1WEujpG4RNEGTcBHOwvVYsixAZPnhkcnJujVoLdMZM4o/edit?disco=AAAALK-X_iI&usp=comment_email_discussion&usp_dm=false&ts=600ee792)
 *   [Paul J Adam's Resources List](https://pauljadam.com/resources.html)
 *   [Accessibility Lists of Lists](https://github.com/accessibility/a11y-lists-of-lists#development-and-testing-resources)
@@ -151,8 +131,6 @@ Note: There are no tools that easily fit this criteria. All of these are related
 
 
 ## Videos {#videos}
-
-
 
 *   [WebAim's WAVE](https://webaim.org/blog/wave-webinar-and-intro-video/) Introduction to the WAVE Toolbar
 *   [Microsoft's Accessibility Insights](https://www.youtube.com/channel/UCQHGtwrr3cZxC-UutftMMbw) Introductory Videos about use of Accessibility Insights
