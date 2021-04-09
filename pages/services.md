@@ -1,4 +1,11 @@
-# Service Area
+---
+layout: page
+title: Services
+description: Professional accessibility services offered by our team. 
+permalink: /services
+---
+
+# Services
 
 You can learn about our approach and the broad range of services we offer at [CivicActions our central website](https://civicactions.com/approach). CivicActions has deep experience with open source software and agile development - both lend themselves to great accessibility practices. 
 
