@@ -58,5 +58,4 @@ CivicActions Slack: #accessibility
 
 ## Licensing
 
-Creative Commons Attribution-ShareAlike 4.0 International Public License
-
+At CivicActions we believe that releasing good work today helps us all produce great work tomorrow. By regularly shipping the work and making it open we can help build a vibrant, inclusive ecosystem. To help build community around these ideas, we have released this repository under a **Creative Commons Attribution-ShareAlike 4.0 International Public License**.
