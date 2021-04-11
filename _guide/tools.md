@@ -57,15 +57,15 @@ An application and Twitter bot that quickly tests single pages against WCAG.
 *   [Accessibility Insights by Microsoft](https://accessibilityinsights.io/) - [Accessibility Insights GitHub Page](https://github.com/microsoft/accessibility-insights-web) \
 Feature-rich testing suite for reviewing/auditing a11y on web sites, Android apps and Windows apps. 
 *   [Accessibility Toolbar Plugin](https://webworks.ga/acc_toolbar/) - [ACC Toolbar on GitHub](https://github.com/mickidum/acc_toolbar) \
-A simple accessibility component _without dependencies_ you can add to your site which includes a variety of tools (change text size, contrast level, etc...) that allow users with disabilities an easy and convenient way to browse.
+A component you can add to your site which adds tools that give people with vision disabilities a way to change text size, contrast level, etc...
 *   [axe by Deque](https://www.deque.com/axe/) - [axe GitHub Page](https://github.com/dequelabs/axe-core) \
-A leading digital accessibility toolkit that powers many other a11y testing projects and offers various levels of engagement, via browser extension tests or continuous integration automated a11y testing via their API.
+A leading testing toolkit that powers many other projects and offers different levels of usage, through browser extension tests or within continuous integration via their API.
 *   [bbc-a11y](https://github.com/bbc/bbc-a11y/blob/master/guides/using/checking-a-website.md) on GitHub \
 This tool runs a set of tests against a set of URLs to verify whether each one meets the [BBC accessibility guidelines](https://www.bbc.co.uk/accessibility/forproducts/guides/mobile/). Can be run from the command line and added to continuous integration pipelines.
 *   [Google Lighthouse](https://developers.google.com/web/tools/lighthouse/) - [Lighthouse on GitHub](https://github.com/GoogleChrome/lighthouse) \
 Extremely flexible and popular testing suite from Google that can be run directly on pages, from the command line, or as a Node module.
 *   [IBM Equal Access Toolkit](https://www.ibm.com/able/toolkit/) - [equal-access on GitHub](https://github.com/IBMa/equal-access) \
-Tools from IBM that can automate accessibility checking from a browser or in a continuous development/build environment.
+Tools from IBM that can automate accessibility testing from a browser, or when added to a continuous integration environment.
 *   [Explore ARIA Landmarks Browser Extension](http://matatk.agrip.org.uk/landmarks/) - [Landmarks on GitHub](https://github.com/matatk/landmarks) \
 Browser extension that allows you to navigate a web page via WAI-ARIA landmarks, using the keyboard or a pop-up menu.
 
@@ -74,7 +74,7 @@ Browser extension that allows you to navigate a web page via WAI-ARIA landmarks,
 *   [Tota11y](https://khan.github.io/tota11y/) - [Tota11y on GitHub](https://github.com/Khan/tota11y) \
 From the people at Khan Academy, tota11y is typically used as a browser bookmarklet that helps visualize how your site performs with assistive technologies.
 *   [ANDI by SSA.gov](https://www.ssa.gov/accessibility/andi/) - [ANDI on GitHub](https://github.com/SSAgov/ANDI) \
-ANDI (Accessible Name & Description Inspector) is a free accessibility testing tool that provides automated detection of accessibility issues, reveals what a screen reader should say for interactive elements, gives practical suggestions to improve accessibility, and checks 508 compliance.
+A free accessibility testing tool that offers detection of problems and shows what a screen reader should say for interactive elements. It also gives realistic recommendations to improve accessibility, and checks 508 compliance.
 *   [Touch Bookmarklet](https://louisremi.github.io/touch-devtool/) - [Touch on GitHub](https://github.com/louisremi/touch-devtool) \
 Simulate touch events (swipe, rotate, pinch) with a mouse.
 *   [Outline ⭐️ Bookmarklet](https://codepen.io/svinkle/pen/grYjPa) on Codepen (MIT Licence) \
@@ -82,7 +82,7 @@ On click, every focusable element will receive a red border, so you can see wher
 *   [What has focus?](https://codepen.io/svinkle/pen/WgYRxq) on Codepen (MIT Licence) \
 When something receives keyboard focus via Tab key, the current element will be logged to the JavaScript console so you can determine which element currently has focus.
 *   [Visual ARIA Bookmarklet](https://accdc.github.io/visual-aria/github-bookmarklet/visual-aria.htm) - [Visual ARIA on GitHub](https://github.com/accdc/visual-aria) \
-Visual ARIA allows you to physically observe ARIA usage within web technologies, including ARIA 1.1 structural, live region, and widget roles, proper nesting and focus management, plus requisite and optional supporting attributes to aid in development.
+Watch ARIA usage within web technologies, including ARIA 1.1 structural, live region, and widget roles, as well as help with nesting and focus management.
 *   [Reading Order Bookmarklet](https://adrianroselli.com/2019/04/reading-order-bookmarklet.html) \
 Running this bookmarklet will visually number the reading order in which screen-reading software will announce different parts of the page, to check to see that it matches the visual order (up to down, left to right).
 *   [Accessibility and Contrast Bookmarklet](https://ada.is/blog/2016/02/12/contrast-bookmarklet/) - [Contrast Bookmarklet on GitHub](https://github.com/AdaRoseCannon/contrast-widget) \
@@ -109,7 +109,7 @@ Allows for testing of contrast of text on top of a semi transparent background.
 ### Plugins, apps & integrations
 
 *   [Colour Contrast Analyser (CCA) by TPG](https://developer.paciellogroup.com/resources/contrastanalyser/) - [CCAe on GitHub](https://github.com/ThePacielloGroup/CCAe) \
-Easily determine the contrast ratio of two colors simply using an eyedrop tool.
+Determine the contrast ratio of two colors using an eyedrop tool on Windows and Mac.
 *   [Pika MacOS Color Picker](https://superhighfives.com/pika) - [Pika on GitHub](https://github.com/superhighfives/pika) \
 Open-source, native colour picker for macOS.
 *   [Color Contrast Analyser for Sketch on GitHub](https://github.com/getflourish/Sketch-Color-Contrast-Analyser) \
@@ -118,32 +118,30 @@ Sketch plugin that calculates the color contrast of two layers and evaluates it 
 ## Automated testing & continuous integration {#automated-testing}
 
 *   [Cypress-axe](https://github.com/component-driven/cypress-axe) \
-Testing with[ Cypress](https://www.cypress.io/) on GitHub
+Testing with[Cypress](https://www.cypress.io/) on GitHub
 *   [Jest-axe](https://github.com/nickcolley/jest-axe) \
-Testing with[ Jest](https://jestjs.io/) on GitHub
+Testing with[Jest](https://jestjs.io/) on GitHub
 *   [Nightwatch aXe-core](https://github.com/rikki-iki/nightwatch-axe-core) \
-Testing with[ Nightwatch](https://nightwatchjs.org/) on GitHub
+Testing with[Nightwatch](https://nightwatchjs.org/) on GitHub
 
 ## Simulators & building empathy {#simulators}
 
-*   [Metamatrix Web Disability Simulator Chrome Extension](https://chrome.google.com/webstore/detail/web-disability-simulator/olioanlbgbpmdlgjnnampnnlohigkjla) on[ Metamatrix on GitHub](https://github.com/Metamatrix/web-disability-simulator) \
+*   [Metamatrix Web Disability Simulator Chrome Extension](https://chrome.google.com/webstore/detail/web-disability-simulator/olioanlbgbpmdlgjnnampnnlohigkjla) on[Metamatrix on GitHub](https://github.com/Metamatrix/web-disability-simulator) \
 Simulates color blindness, low vision, dyslexia and more.
 *   [NoCoffee Chrome Extension](https://accessgarage.wordpress.com/) - [NoCoffee on GitHub](https://github.com/eeejay/NoCoffee) \
 Extension for Chrome, helpful for understanding people with slight to extreme vision problems.
 *   [Funkify Chrome Extension](https://www.funkify.org/) \
 Not open source, but a free version is available which simulates dyslexia and cognitive/motor/vision conditions.
 *   [ChromeLens Extension](http://chromelens.xyz/) - [ChromeLens on GitHub](https://github.com/chromelens/chromelens) \
-Vision simulators, testing against WCAG, and tab focus order visualizer in a Chrome extension.
+Chrome extension that offers vision simulators, testing, and a tab focus order visualizer.
 *   [Sim Daltonism](https://michelf.ca/projects/sim-daltonism/) - [sim-daltonism on GitHub](https://github.com/michelf/sim-daltonism/) \
 iOS/Mac app that lets you visualize colors as they are perceived with various types of color blindness.
 *   [A11Y: Color blindness empathy test](https://vinceumo.github.io/A11Y-Color-Blindness-Empathy-Test/) [on GitHub](https://github.com/vinceumo/A11Y-Color-Blindness-Empathy-Test-browser-extensions) \
-Chrome & Firefox extensions, as well as a web-based tool, created to help designers and developers to understand color blindness and visual imparity.
-*   [Color Oracle](http://colororacle.org/) - [Oracle-Mac on GitHub](https://github.com/nvkelso/color-oracle) &[ Oracle-Windows on GitHub](https://github.com/nvkelso/color-oracle-java) \
+Chrome/Firefox extension and a web-based tool created to help designers and developers better understand color blindness and visual imparity.
+*   [Color Oracle](http://colororacle.org/) - [Oracle-Mac on GitHub](https://github.com/nvkelso/color-oracle) &[Oracle-Windows on GitHub](https://github.com/nvkelso/color-oracle-java) \
 Color blindness simulator for Windows, Mac, and Linux.
 
 ## PDFs {#pdfs}
-
-_Note: While there are no tools that easily fit this category, all of these are related to accessibility._
 
 ### Accessibility checkers
 
