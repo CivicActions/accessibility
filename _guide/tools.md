@@ -157,17 +157,17 @@ _Note: While there are no tools that easily fit this category, all of these are 
 
 ## Other lists of tools {#other-lists-of-tools}
 
-*   [Donna Bungard’s An Incomplete List of Tools for Accessibility](https://docs.google.com/spreadsheets/d/1WEujpG4RNEGTcBHOwvVYsixAZPnhkcnJujVoLdMZM4o/edit?disco=AAAALK-X_iI&usp=comment_email_discussion&usp_dm=false&ts=600ee792) \
+*   [Donna Bungard's An Incomplete List of Tools for Accessibility](https://docs.google.com/spreadsheets/d/1WEujpG4RNEGTcBHOwvVYsixAZPnhkcnJujVoLdMZM4o/edit?disco=AAAALK-X_iI&usp=comment_email_discussion&usp_dm=false&ts=600ee792) \
 Google spreadsheet tracking the feature sets and various aspects of several popular tools.
-*   [Paul J Adam’s Resources List](https://pauljadam.com/resources.html)
+*   [Paul J Adam's Resources List](https://pauljadam.com/resources.html)
 *   [Accessibility Lists of Lists](https://github.com/accessibility/a11y-lists-of-lists#development-and-testing-resources)
 *   [Web Accessibility Evaluation Tools List](https://www.w3.org/WAI/ER/tools/)
 
 ## Videos {#videos}
 
-*   [WebAim’s WAVE](https://webaim.org/blog/wave-webinar-and-intro-video/) \
+*   [WebAim's WAVE](https://webaim.org/blog/wave-webinar-and-intro-video/) \
 Introduction to the WAVE Toolbar.
-*   [Microsoft’s Accessibility Insights](https://www.youtube.com/channel/UCQHGtwrr3cZxC-UutftMMbw) \
+*   [Microsoft's Accessibility Insights](https://www.youtube.com/channel/UCQHGtwrr3cZxC-UutftMMbw) \
 Introductory Videos about use of Accessibility Insights.
-*   [Deque’s Axe](https://www.youtube.com/watch?v=f_pW2EpwqG8) \
+*   [Deque's Axe](https://www.youtube.com/watch?v=f_pW2EpwqG8) \
 Get started with using axe.
