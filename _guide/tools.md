@@ -136,7 +136,7 @@ Not open source, but a free version is available which simulates dyslexia and co
 Chrome extension that offers vision simulators, testing, and a tab focus order visualizer.
 *   [Sim Daltonism](https://michelf.ca/projects/sim-daltonism/) - [sim-daltonism on GitHub](https://github.com/michelf/sim-daltonism/) \
 iOS/Mac app that lets you visualize colors as they are perceived with various types of color blindness.
-*   [A11Y: Color blindness empathy test](https://vinceumo.github.io/A11Y-Color-Blindness-Empathy-Test/) [on GitHub](https://github.com/vinceumo/A11Y-Color-Blindness-Empathy-Test-browser-extensions) \
+*   [A11Y: Color blindness empathy test](https://vinceumo.github.io/A11Y-Color-Blindness-Empathy-Test/) [on GitHub](https://github.com/vinceumo/A11Y-Color-Blindness-Empathy-Test-browser-extensions)
 Chrome/Firefox extension and a web-based tool created to help designers and developers better understand color blindness and visual imparity.
 *   [Color Oracle](http://colororacle.org/) - [Oracle-Mac on GitHub](https://github.com/nvkelso/color-oracle) &[Oracle-Windows on GitHub](https://github.com/nvkelso/color-oracle-java) \
 Color blindness simulator for Windows, Mac, and Linux.
