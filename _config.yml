@@ -110,5 +110,8 @@ defaults:
     values:
       layout: "people"
 
+kramdown:
+  smart_quotes: ["apos", "apos", "quot", "quot"]
+
 exclude:
   - pa11y_output.txt
