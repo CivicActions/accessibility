@@ -9,7 +9,6 @@ repos:
       - id: mixed-line-ending
       - id: fix-byte-order-marker
       - id: check-yaml
-#      - id: check-json
       - id: check-added-large-files
   - repo: https://github.com/mattlqx/pre-commit-search-and-replace
     rev: v1.0.4
