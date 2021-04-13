@@ -28,6 +28,8 @@ primary:
     href: /guide
   - text: Contact
     href: /contact
+  - text: <i class="fas fa-search"><span class="usa-sr-only">Search</span></i>
+    href: /search
 
 ##  - text: Navigation section
 ##    links:
