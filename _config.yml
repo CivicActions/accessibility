@@ -34,7 +34,7 @@ plugins:
 # https://search.usa.gov/signup
 # Your search_site_handle value is from the search.gov settings page.
 
-# search_site_handle: searchgov-site-handle
+search_site_handle: simple-jekyll-search
 
 # Configuration for projects and team collections
 # See https://jekyllrb.com/docs/collections/ for more information about collections.
@@ -109,6 +109,9 @@ defaults:
       type: "people"
     values:
       layout: "people"
+
+kramdown:
+  smart_quotes: ["apos", "apos", "quot", "quot"]
 
 exclude:
   - pa11y_output.txt
