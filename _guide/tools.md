@@ -13,30 +13,31 @@ Digital accessibility tools.
 
 ## Authoring {#authoring}
 
-*   [A11yFirst for CKEditor](http://a11yfirst.web.illinois.edu/) -[Accessibility First on GitHub](https://github.com/a11yfirst/distribution) \
+*   [A11yFirst for CKEditor](http://a11yfirst.web.illinois.edu/) - [Accessibility First on GitHub](https://github.com/a11yfirst/distribution) \
 Series of plugins for supporting a11y best practices within the WYSIWYG editor, CKEditor.
-*   [Sa11y Ryerson Digital Media Projects](https://ryersondmp.github.io/sa11y/#install) -[Sa11y on GitHub](https://github.com/ryersondmp/sa11y) \
+*   [Sa11y Ryerson Digital Media Projects](https://ryersondmp.github.io/sa11y/#install) - [Sa11y on GitHub](https://github.com/ryersondmp/sa11y) \
 Sa11y is an accessibility QA tool that visually highlights common accessibility and usability issues and is geared towards content authors.
 *   [retextjs: retext-readability plugin](https://github.com/retextjs/retext-readability) \
 A plugin for [retext](https://github.com/retext-project/retext) that scans text content for readability (defaults to age 16 reading level, but is configurable) and warns developers of issues.
 *   [retextjs: retext-equality plugin](https://github.com/retextjs/retext-equality) \
 Another plugin for [retext](https://github.com/retext-project/retext) that checks text content for possible insensitive, inconsiderate language.
-*   [Zettlr: Markdown Editor](https://www.zettlr.com/) -[Zettlr on GitHub](https://github.com/Zettlr/Zettlr) \
+*   [Zettlr: Markdown Editor](https://www.zettlr.com/) - [Zettlr on GitHub](https://github.com/Zettlr/Zettlr) \
 Open source Markdown editor that simplifies the content creation experience by avoiding the clutter seen in many common word processing solutions.
-*   [Drupal](http://drupal.org/) is a very accessible CMS and[these modules can enhance its accessibility](https://accessibility.civicactions.com/guide/resources)
-*   [ATOM Plugin - web-accessibility-checker package](https://atom.io/packages/web-accessibility-checker)
+*   [Drupal](http://drupal.org/) is a very accessible CMS and [these modules can enhance its accessibility](https://accessibility.civicactions.com/guide/resources)
+*   [ATOM Plugin - web-accessibility-checker package](https://atom.io/packages/web-accessibility-checker) An accessibility \
+Plugin for the popular open source ATOM Editor from GitHub.
 
 ## Assistive technology {#assistive-technology}
 
-*   [NVDA](https://www.nvaccess.org/) -[NVDA on GitHub](https://github.com/nvaccess/nvda/) \
+*   [NVDA](https://www.nvaccess.org/) - [NVDA on GitHub](https://github.com/nvaccess/nvda/) \
 Available for PCs running Microsoft Windows 7 SP1 and later, NVDA is a fast, functional, and free screen reader.
-*   [ChromeVox Chrome Extension](https://chrome.google.com/webstore/detail/screen-reader/kgejglhpjiefppelpmljglcjbhoiplfn) -[ChromeVox as part of ChromeOS on GitHub](https://github.com/chromium/chromium/blob/master/docs/accessibility/chromevox.md) -[Install and Setup Instructions from Web Accessibility for Developers Guide (with video)](https://pressbooks.library.ryerson.ca/wafd/chapter/chromevox-screen-reader-install-and-setup/) \
+*   [ChromeVox Chrome Extension](https://chrome.google.com/webstore/detail/screen-reader/kgejglhpjiefppelpmljglcjbhoiplfn) - [ChromeVox as part of ChromeOS on GitHub](https://github.com/chromium/chromium/blob/master/docs/accessibility/chromevox.md) - [Install and Setup Instructions from Web Accessibility for Developers Guide (with video)](https://pressbooks.library.ryerson.ca/wafd/chapter/chromevox-screen-reader-install-and-setup/) \
 A fully featured screen reader for the web built using only web technologies such as HTML and Javascript. This extension specifically works within the Chrome browser to read content aloud.
 *   Android [Talkback](https://support.google.com/accessibility/android/answer/6283677?hl=en) & [Switch](https://support.google.com/accessibility/android/answer/6122836?hl=en) - on [GitHub](https://github.com/google/talkback) \
 TalkBack is the Google screen reader included on Android devices. Switch lets you interact with your Android device using one or more switches instead of the touchscreen, useful if you can't interact directly with your device.
 *   [Apple VoiceOver](https://www.apple.com/accessibility/vision/) \
 While not open source, VoiceOver is an industry‑leading screen reader for Apple products, which also gives descriptions in braille.
-*   [Linux Orca](https://help.gnome.org/users/orca/stable/index.html.en) -[Orca on GitLab](https://gitlab.gnome.org/GNOME/orca) -[Orca on Chrome/Chromium](https://wiki.gnome.org/Projects/Orca/Chromium) \
+*   [Linux Orca](https://help.gnome.org/users/orca/stable/index.html.en) - [Orca on GitLab](https://gitlab.gnome.org/GNOME/orca) - [Orca on Chrome/Chromium](https://wiki.gnome.org/Projects/Orca/Chromium) \
 Orca is a free, open source, flexible, and extensible screen reader that provides access to the graphical desktop via speech and refreshable braille.
 
 ## Site-wide evaluation {#site-wide-evaluation}
@@ -45,7 +46,7 @@ Orca is a free, open source, flexible, and extensible screen reader that provide
 Highly-configurable bbc-a11y runs a set of tests against a set of URLs to verify whether each one meets the [BBC accessibility guidelines](https://www.bbc.co.uk/accessibility/forproducts/guides/mobile/).
 *   [Domain Accessibility Audit by MSU College of Natural Science](https://github.com/MSU-NatSci/DomainAccessibilityAudit) on GitHub \
 This web application automatically crawls websites, checks for accessibility violations, and is based on [axe](https://github.com/dequelabs/axe-core).
-*   [Pa11y](https://pa11y.org/) -[Pa11y on GitHub](https://github.com/pa11y) \
+*   [Pa11y](https://pa11y.org/) - [Pa11y on GitHub](https://github.com/pa11y) \
 A popular command-line interface which loads web pages and highlights any accessibility issues it finds. The Pa11y family of applications includes a [Dashboard](https://github.com/pa11y/dashboard) for monitoring several projects' a11y issues, as well as [continuous integration](https://github.com/pa11y/pa11y-ci) (CI) abilities.
 *   [purple-hats by Government Digital Services, Singapore](https://github.com/GovTechSG/purple-hats) on GitHub \
 Powered by [axe](https://github.com/dequelabs/axe-core), purple-hats is a customisable, automated accessibility testing tool.
@@ -118,15 +119,15 @@ Sketch plugin that calculates the color contrast of two layers and evaluates it 
 ## Automated testing & continuous integration {#automated-testing}
 
 *   [Cypress-axe](https://github.com/component-driven/cypress-axe) \
-Testing with[Cypress](https://www.cypress.io/) on GitHub
+Testing with [Cypress](https://www.cypress.io/) on GitHub
 *   [Jest-axe](https://github.com/nickcolley/jest-axe) \
-Testing with[Jest](https://jestjs.io/) on GitHub
+Testing with [Jest](https://jestjs.io/) on GitHub
 *   [Nightwatch aXe-core](https://github.com/rikki-iki/nightwatch-axe-core) \
-Testing with[Nightwatch](https://nightwatchjs.org/) on GitHub
+Testing with [Nightwatch](https://nightwatchjs.org/) on GitHub
 
 ## Simulators & building empathy {#simulators}
 
-*   [Metamatrix Web Disability Simulator Chrome Extension](https://chrome.google.com/webstore/detail/web-disability-simulator/olioanlbgbpmdlgjnnampnnlohigkjla) on[Metamatrix on GitHub](https://github.com/Metamatrix/web-disability-simulator) \
+*   [Metamatrix Web Disability Simulator Chrome Extension](https://chrome.google.com/webstore/detail/web-disability-simulator/olioanlbgbpmdlgjnnampnnlohigkjla) on [Metamatrix on GitHub](https://github.com/Metamatrix/web-disability-simulator) \
 Simulates color blindness, low vision, dyslexia and more.
 *   [NoCoffee Chrome Extension](https://accessgarage.wordpress.com/) - [NoCoffee on GitHub](https://github.com/eeejay/NoCoffee) \
 Extension for Chrome, helpful for understanding people with slight to extreme vision problems.
@@ -138,7 +139,7 @@ Chrome extension that offers vision simulators, testing, and a tab focus order v
 iOS/Mac app that lets you visualize colors as they are perceived with various types of color blindness.
 *   [A11Y: Color blindness empathy test](https://vinceumo.github.io/A11Y-Color-Blindness-Empathy-Test/) [on GitHub](https://github.com/vinceumo/A11Y-Color-Blindness-Empathy-Test-browser-extensions)
 Chrome/Firefox extension and a web-based tool created to help designers and developers better understand color blindness and visual imparity.
-*   [Color Oracle](http://colororacle.org/) - [Oracle-Mac on GitHub](https://github.com/nvkelso/color-oracle) &[Oracle-Windows on GitHub](https://github.com/nvkelso/color-oracle-java) \
+*   [Color Oracle](http://colororacle.org/) - [Oracle-Mac on GitHub](https://github.com/nvkelso/color-oracle) & [Oracle-Windows on GitHub](https://github.com/nvkelso/color-oracle-java) \
 Color blindness simulator for Windows, Mac, and Linux.
 
 ## PDFs {#pdfs}
