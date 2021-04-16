@@ -1,4 +1,14 @@
-# Procurement Parker
+---
+layout: personas
+title: Procurement Parker
+description: 
+excerpt: 
+sidenav: docs
+img: procurement-parker.png
+categories:
+  - Accessibility
+
+---
 
 ## Description
 Parker is responsible for evaluating large procurement projects for government departments. They've taken the DITAP course, so they are familiar with agile and how that plays into procurement. They aren't very familiar with accessibility, but they know they have to do more than insert a line about 508 into an RFP.

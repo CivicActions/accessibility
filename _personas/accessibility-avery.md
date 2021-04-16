@@ -1,4 +1,14 @@
-# Accessibility Avery
+---
+layout: personas
+title: Accessibility Avery
+description: 
+excerpt: 
+sidenav: docs
+img: accessibility-avery.png
+categories:
+  - Accessibility
+
+---
 
 ## Description
 Avery is really up on the standards and best practices on accessibility in the world. They don't have a GitHub account, but they want to contribute to the community. Avery wants to ensure their government employer keeps up. 

@@ -81,6 +81,9 @@ collections:
   guide:
     output: true
     permalink: guide/:title
+  personas:
+    output: true
+    permalink: personas/:title
   talks:
     output: true
     permalink: talks/:title
