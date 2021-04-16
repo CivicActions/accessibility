@@ -1,4 +1,14 @@
-# QA Quincy
+---
+layout: personas
+title: QA Quincy
+description: 
+excerpt: 
+sidenav: docs
+img: qa-quincy.png
+categories:
+  - Accessibility
+
+---
 
 ## Description
 Quincy is always on top of testing. They enjoy breaking websites to make sure they meet criteria for accessibility, and they care about security and performance of the site. They look at automation because testing can take time.
