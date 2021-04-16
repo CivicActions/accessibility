@@ -46,8 +46,8 @@ docs:
   description: 
   icon: <i class="fas fa-question-circle fa-5x" aria-hidden="true"></i>
 
-- title: Avoid PDF Documents
-  url: /pdf
+- title: Accessible Documents
+  url: /documents
   description: 
   icon: <i class="fas fa-file-pdf fa-5x" aria-hidden="true"></i>
   
