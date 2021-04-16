@@ -26,11 +26,6 @@ docs:
   description: 
   icon: <i class="fas fa-palette fa-5x" aria-hidden="true"></i>
 
-- title: Accessible documents
-  url: /documents
-  description: 
-  icon: <i class="far fa-copy fa-5x" aria-hidden="true"></i>
-
 - title: Events
   url: /events
   description: 
