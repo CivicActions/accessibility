@@ -1,0 +1,32 @@
+docs_list_title: personas
+docs:
+
+- title: Accessibility Avery
+  url: /accessibility-avery
+  description: 
+  img: accessibility-avery.png
+
+- title: Designer Darcy
+  url: /designer-darcy
+  description: 
+  img: designer-darcy.png
+
+- title: Engineer Emery
+  url: /engineer-emery
+  description: 
+  img: engineer-emery.png
+
+- title: Procurement Parker
+  url: /procurement-parker
+  description: 
+  img: procurement-parker.png
+
+- title: QA Quincy
+  url: /qa-quincy
+  description: 
+  img: qa-quincy.png
+
+- title: Remote Raz
+  url: /remote-raz
+  description: 
+  img: remote-raz.png
