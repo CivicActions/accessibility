@@ -1,6 +1,6 @@
 ---
 layout: playbook
-title: Invest in Accessibility Training
+title: Invest in accessibility training
 description: 
 excerpt: 
 sidenav: docs
