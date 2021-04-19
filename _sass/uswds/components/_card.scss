@@ -17,7 +17,25 @@
     }
   }
 }
-
+.usa-card {
+  a,
+  .usa-card__heading{
+    text-decoration: none;
+    color: black;
+  }
+  .usa-card__container {
+    border: 2px solid black;
+    &:hover,
+    &:focus {
+      background-color: black;
+      a,
+      .usa-card__heading {
+        color: white;
+        text-decoration: underline;
+      }
+    }
+  }
+}
 .card {
   border: units(1px) solid color("base-lightest");
   position: relative;

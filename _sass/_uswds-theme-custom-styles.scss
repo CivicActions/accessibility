@@ -24,6 +24,17 @@ p.lead {
     font-size: 2rem;
     color: #454545;
 }
+a {
+    color: #0000EE;
+}
+a:hover,
+a:focus {
+    color: #19198F;
+}
+
+a:visited {
+    color: purple;
+}
 
 blockquote {
     border-left: 5px solid #1b1b1b;
@@ -175,15 +186,41 @@ img.usa-media-block__img {
 .usa-button {
     background-color: #1b1b1b;
 }
-
+.usa-social-link:hover,
+.usa-social-link:focus {
+    background-color: black;
+}
 .usa-social-link--linkedin {
     background-image: url("../uswds/img/social-icons/linkedin25.svg"), linear-gradient(transparent, transparent);
     background-repeat: no-repeat;
+    &:hover,
+    &:focus {
+        background-image: url("../uswds/img/social-icons/linkedin25-white.svg"), linear-gradient(transparent, transparent);
+    }
 }
-
+.usa-social-link--facebook {
+    background-image: url("../uswds/img/social-icons/facebook25.svg"), linear-gradient(transparent, transparent);
+    background-repeat: no-repeat;
+    &:hover,
+    &:focus {
+        background-image: url("../uswds/img/social-icons/facebook25-white.svg"), linear-gradient(transparent, transparent);
+    }
+}
+.usa-social-link--twitter {
+    background-image: url("../uswds/img/social-icons/twitter16.svg"), linear-gradient(transparent, transparent);
+    background-repeat: no-repeat;
+    &:hover,
+    &:focus {
+        background-image: url("../uswds/img/social-icons/twitter16-white.svg"), linear-gradient(transparent, transparent);
+    }
+}
 .usa-social-link--github {
     background-image: url("../uswds/img/social-icons/github25.svg"), linear-gradient(transparent, transparent);
     background-repeat: no-repeat;
+    &:hover,
+    &:focus {
+        background-image: url("../uswds/img/social-icons/github25-white.svg"), linear-gradient(transparent, transparent);
+    }
 }
 
 p, .usa-navbar, .usa-nav, .usa-prose, .usa-footer, .usa-footer--big .usa-footer__primary-link, .usa-nav__inner, .usa-nav .usa-accordion {

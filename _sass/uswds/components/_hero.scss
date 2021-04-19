@@ -34,11 +34,17 @@
     }
 
     .usa-button {
+      border: 2px solid white;
       @if variable-exists(hero-button-bg) {
         background-color: color($hero-button-bg);
       }
       @if variable-exists(hero-button-text) {
         color: color($hero-button-text);
+      }
+      &:hover,
+      &:focus {
+        background-color: black;
+        color: white;
       }
     }
   }
