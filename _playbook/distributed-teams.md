@@ -1,6 +1,6 @@
 ---
 layout: playbook
-title: Encourage Accessible Distributed Teams
+title: Encourage accessible distributed teams
 description: 
 excerpt: 
 sidenav: docs
