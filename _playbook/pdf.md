@@ -17,7 +17,7 @@ The UK's Government Digital Services model decreases the reliance on PDFs and is
 
 For creating accessible documents in Microsoft Word, Excel or Powerpoint, is the preferred method. Microsoft offers an Accessibilty Checker tool, although this may not be an extensive check of the document, it does show major accessibility issues needed to fix.
 
-Visit [Creating Accessible Documents](/playbook/documents.md).
+Visit [Creating Accessible Documents](/playbook/documents).
 
 ## Checklist
 
