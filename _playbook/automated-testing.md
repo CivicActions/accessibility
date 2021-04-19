@@ -1,6 +1,6 @@
 ---
 layout: playbook
-title: Implement Automated Testing
+title: Implement automated testing
 description: 
 excerpt: 
 sidenav: docs

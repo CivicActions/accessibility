@@ -1,6 +1,6 @@
 ---
 layout: playbook
-title: Test with Assistive Technology
+title: Test with assistive technology
 description: 
 excerpt: 
 sidenav: docs

@@ -1,6 +1,6 @@
 ---
 layout: playbook
-title: Include People with Disabilities
+title: Include people with disabilities
 description: 
 excerpt: 
 sidenav: docs
