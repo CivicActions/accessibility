@@ -1,6 +1,6 @@
 ---
 layout: playbook
-title: Creating Accessible Documents
+title: Creating accessible documents
 description: 
 excerpt: 
 sidenav: docs
