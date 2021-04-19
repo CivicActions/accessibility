@@ -1,6 +1,6 @@
 ---
 layout: playbook
-title: Update Accessibility Statements
+title: Update accessibility statements
 description: 
 excerpt: 
 sidenav: docs
