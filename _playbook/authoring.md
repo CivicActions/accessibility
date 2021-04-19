@@ -1,6 +1,6 @@
 ---
 layout: playbook
-title: Improve Authoring Tools
+title: Improve authoring tools
 description: 
 excerpt: 
 sidenav: docs
