@@ -1,6 +1,6 @@
 ---
 layout: playbook
-title: Support Personalization
+title: Support personalization
 description: 
 excerpt: 
 sidenav: docs
