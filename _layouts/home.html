@@ -41,8 +41,7 @@ class:
     <ul class="usa-card-group">
         {% for author in site.people %}
         <li class="tablet:grid-col-3 usa-card">
-            <a href="{{ site.baseurl }}{{ author.url }}">
-            <div class="usa-card__container">
+            <a href="{{ site.baseurl }}{{ author.url }}" class="usa-card__container">
                 <div class="usa-card__media">
                     <div class="usa-card__img">
                         <img src="{{ site.baseurl }}/assets/img/people/{{ author.image }}" alt="Image of {{ author.name }}">
@@ -56,7 +55,7 @@ class:
                 </div>
                 <div class="usa-card__footer">
                 </div>
-            </div>
+
             </a>
         </li>
         {% endfor %}
