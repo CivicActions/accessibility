@@ -1,6 +1,6 @@
 ---
 layout: playbook
-title: Do Manual Testing
+title: Do manual testing
 description: 
 excerpt: 
 sidenav: docs
