@@ -50,7 +50,12 @@ docs:
   url: /pdf
   description: 
   icon: <i class="fas fa-file-pdf fa-5x" aria-hidden="true"></i>
-  
+
+- title: Accesible Documents
+  url: /documents
+  description:
+  icon: <i class="fas fa-file fa-5x" aria-hidden="true"></i>
+
 - title: Use Checklists
   url: /checklists
   description: 
