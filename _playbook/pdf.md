@@ -1,6 +1,6 @@
 ---
 layout: playbook
-title: Avoid PDF Documents
+title: Avoid PDF documents
 description: 
 excerpt: 
 sidenav: docs
