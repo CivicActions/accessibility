@@ -6,13 +6,15 @@ name: Jennifer Aube
 image: jennifer-aube.jpg
 categories:
  - 
+sidenav: docs
+permalink: /about/people/jennifer-aube
 linkedin: https://www.linkedin.com/in/jennifer-aube-81119a91/
 twitter: 
-github: 
+github: https://github.com/jaube05
 gitlab: 
-drupal: 
+drupal: https://www.drupal.org/u/jenniferaube
 speakerdeck: 
-website: 
+website: http://www.jenniferaube.com/
 
 ---
 

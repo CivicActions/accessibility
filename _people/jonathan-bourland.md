@@ -6,6 +6,8 @@ name: Jonathan Bourland
 image: jonathan-bourland.jpg
 categories:
  - 
+sidenav: docs
+
 linkedin: https://www.linkedin.com/in/jonathan-bourland-6896334/
 twitter:
 github: https://github.com/jonbot

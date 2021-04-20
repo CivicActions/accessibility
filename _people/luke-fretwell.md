@@ -6,6 +6,8 @@ name: Luke Fretwell
 image: luke-fretwell.png
 categories:
  - 
+sidenav: docs
+
 linkedin: https://www.linkedin.com/in/lukefretwell/
 twitter: https://twitter.com/lukefretwell
 github: https://github.com/lukefretwell
