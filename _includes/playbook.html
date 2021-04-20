@@ -1,10 +1,10 @@
 <ul class="usa-card-group">
     {% for item in site.data.playbook.docs %}
     <li class="tablet:grid-col-4 usa-card">
-        <div class="usa-card__container">
+        <a href="{{ site.baseurl }}/playbook{{ item.url }}" aria-label="{{ item.title }}" class="usa-card__container">
             <div class="usa-card__media">
                 <div class="usa-card__img text-center card-guide">
-                    <a href="{{ site.baseurl }}/playbook{{ item.url }}" aria-label="{{ item.title }}">{{ item.icon }}</a>
+                    {{ item.icon }}
                 </div>
             </div>
             <header class="usa-card__header">
@@ -18,7 +18,8 @@
                 <button class="usa-button"><a href="{{ site.baseurl }}/playbook{{ item.url }}">{{ item.title }}</a></button>
             -->
             </div>
-        </div>
+
+        </a>
     </li>
     {% endfor %}
 </ul>

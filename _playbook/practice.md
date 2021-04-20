@@ -1,6 +1,6 @@
 ---
 layout: playbook
-title: Build Community of Practice
+title: Build a community of practice
 description: 
 excerpt: 
 sidenav: docs

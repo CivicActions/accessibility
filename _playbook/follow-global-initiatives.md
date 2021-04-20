@@ -1,6 +1,6 @@
 ---
 layout: playbook
-title: Follow Global Initiatives
+title: Follow global initiatives
 description: 
 excerpt: 
 sidenav: docs

@@ -1,6 +1,6 @@
 ---
 layout: playbook
-title: Use Checklists
+title: Use checklists
 description: 
 excerpt: 
 sidenav: docs
