@@ -35,7 +35,11 @@ class:
                     <h1>{{ page.title }}</h1>
                     {% endif %}
                     <!-- content -->
+<<<<<<< Updated upstream
                     {% include anchor_headings.html html=content beforeHeading=TRUE anchorBody="🔗" %}
+=======
+                    {% include anchor_headings.html html=content anchorBody="🔗" anchorClass="anchor-link" anchorAttrs="aria-labelledby=%html_id% aria-hidden=true" h_max=3 %}
+>>>>>>> Stashed changes
                 </div>
             </div>
         </div>
