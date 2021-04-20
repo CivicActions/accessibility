@@ -249,12 +249,18 @@ p, .usa-navbar, .usa-nav, .usa-prose, .usa-footer, .usa-footer--big .usa-footer_
 }
 
 a.anchor-link {
-  opacity:0.5;
-  text-decoration:none;
-  position:relative;
-  left:30px;
+  opacity: 0.4;
+  font-size: small;
+  text-decoration: none;
+  position: relative;
+  left: 20px;
+  -webkit-transition: opacity 1s, font-size 1s;
+     -moz-transition: opacity 1s, font-size 1s;
+       -o-transition: opacity 1s, font-size 1s;
+          transition: opacity 1s, font-size 1s;
 }
 a.anchor-link:focus, a.anchor-link:hover {
   text-decoration: underline;
+  font-size: large;
   opacity: 1
 }
