@@ -35,7 +35,8 @@ class:
                     <h1>{{ page.title }}</h1>
                     {% endif %}
                     <!-- content -->
-                    {% include anchor_headings.html html=content beforeHeading=true anchorBody="🔗" %}
+                    {% include anchor_headings.html html=content anchorBody="🔗" anchorClass="anchor-link" anchorAttrs="aria-labelledby=%html_id% aria-hidden=true" h_max=3 %}
+
                 </div>
             </div>
         </div>

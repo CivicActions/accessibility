@@ -125,7 +125,7 @@ main li {
 }
 
 .card-guide {
-    padding: 3rem 1rem;    
+    padding: 3rem 1rem;
 }
 
 .usa-card__img a, .usa-card__img a:visited {
@@ -163,7 +163,7 @@ img.usa-media-block__img {
 
 .author img {
     border-radius: 50%;
-    max-width: 75px;    
+    max-width: 75px;
 }
 
 .author p,
@@ -228,7 +228,7 @@ p, .usa-navbar, .usa-nav, .usa-prose, .usa-footer, .usa-footer--big .usa-footer_
 }
 
 .usa-navbar {
-    font-family: 'Work Sans', sans-serif !important;    
+    font-family: 'Work Sans', sans-serif !important;
 }
 
 .guide-container {
@@ -246,4 +246,15 @@ p, .usa-navbar, .usa-nav, .usa-prose, .usa-footer, .usa-footer--big .usa-footer_
 
 .guide-main {
     margin-bottom: 1rem;
+}
+
+a.anchor-link {
+  opacity:0.5;
+  text-decoration:none;
+  position:relative;
+  left:30px;
+}
+a.anchor-link:focus, a.anchor-link:hover {
+  text-decoration: underline;
+  opacity: 1
 }
