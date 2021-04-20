@@ -3,22 +3,7 @@ layout: default
 main:
 class:
 ---
-<div class="main-breadcrumb">
-    <div class="grid-container">
-        <nav class="usa-breadcrumb" aria-label="Breadcrumbs">
-            <ol class="usa-breadcrumb__list">
-                <li class="usa-breadcrumb__list-item">
-                    <a href="{{ site.baseurl }}/personas" class="usa-breadcrumb__link">
-                        <span class="guide-title">CivicActions Accessibility Personas</span>
-                    </a>
-                </li>
-                <li class="usa-breadcrumb__list-item usa-current" aria-current="page">
-                    <span>{{ page.title }}</span>
-                </li>
-            </ol>
-        </nav>
-    </div>
-</div>
+{% include breadcrumbs.html %}
 <div class="guide-main">
     <div class="">
         <div class="grid-container">
