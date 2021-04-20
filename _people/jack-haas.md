@@ -4,6 +4,7 @@ published: 1
 author: jack-haas
 name: Jack Haas
 image: jack-haas.jpg
+sidenav: docs
 categories:
  - 
 linkedin: https://www.linkedin.com/in/johnehaas

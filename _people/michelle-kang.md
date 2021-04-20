@@ -6,6 +6,7 @@ name: Michelle Kang
 image: michelle-kang.jpg
 categories:
  - 
+sidenav: docs
 linkedin: https://www.linkedin.com/in/mikang/
 twitter: 
 github: https://github.com/mikang

@@ -6,6 +6,7 @@ name: Daniel Mundra
 image: daniel-mundra.jpg
 categories:
  - 
+sidenav: docs
 linkedin: 
 twitter: 
 github: https://github.com/dmundra

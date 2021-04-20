@@ -1,0 +1,12 @@
+<nav aria-label="Secondary navigation">
+  <ul class="usa-sidenav">
+    {% for item in site.data.about.docs %}
+      {% assign item_url = '/about' | append: item.url %}
+      <li>
+        <a href="{{ site.baseurl}}/about{{ item.url }}" class="list-group-item list-group-item-action {% if page.url contains item_url %}usa-current{% endif %}">
+          {{ item.title }}
+        </a>
+      </li>
+    {% endfor %}
+  </ul>
+</nav>

@@ -47,4 +47,31 @@
       }
     }
   }
+  .usa-nav__primary {
+    .usa-nav__link:hover,
+    .usa-nav__link:focus,
+    .usa-nav__link:focus-within {
+      .fa-search::before {
+        color: #0050d8;
+      }
+    }
+    .usa-current {
+      .fa-search::before {
+        color: #0050d8;
+      }
+    }
+    .fa-search {
+      &::before {
+        padding-right: .5rem;
+        color: #565c65;
+      }
+      span {
+        font-family: 'Nunito', sans-serif !important;
+        line-height: .9;
+        color: #565c65;
+        font-weight: bold;
+      }
+    }
+  }
+
 }

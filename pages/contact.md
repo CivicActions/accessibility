@@ -1,8 +1,9 @@
 ---
-layout: page
+layout: about
 title: Contact
 description: Ways to connect with us.
-permalink: /contact
+permalink: /about/contact
+sidenav: docs
 
 ---
 
