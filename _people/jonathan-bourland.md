@@ -4,6 +4,7 @@ published: 1
 author: jonathan-bourland
 name: Jonathan Bourland
 image: jonathan-bourland.jpg
+permalink: /about/people/jonathan-bourland
 categories:
  - 
 sidenav: docs
