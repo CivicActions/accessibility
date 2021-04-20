@@ -4,6 +4,8 @@ title: Contact
 description: Ways to connect with us.
 permalink: /about/contact
 sidenav: docs
+redirect_from:
+- /contact
 
 ---
 

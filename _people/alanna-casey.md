@@ -7,6 +7,7 @@ image: alanna-casey.jpg
 categories:
  - 
 sidenav: docs
+permalink: /about/people/alanna-casey
 linkedin: https://www.linkedin.com/in/alanna-casey/
 twitter: 
 github: 

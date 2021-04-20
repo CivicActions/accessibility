@@ -7,6 +7,7 @@ image: michelle-kang.jpg
 categories:
  - 
 sidenav: docs
+permalink: /about/people/michelle-kang
 linkedin: https://www.linkedin.com/in/mikang/
 twitter: 
 github: https://github.com/mikang
