@@ -2,10 +2,8 @@
 layout: about
 title: About
 description: What CivicActions Accessibility is and how we work.
-permalink: /about
+permalink: /about/
 sidenav: docs
-redirect_from:
-  - /about/
 ---
 
 CivicActions Accessibility is an open project primarily developed by CivicActions team members. 
