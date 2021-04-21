@@ -1,8 +1,11 @@
 ---
-layout: page
+layout: about
 title: Join us
 description: How to get involved with CivicActions Accessibility.
-permalink: /join
+permalink: /about/join
+redirect_from:
+  - /join
+sidenav: docs
 
 ---
 

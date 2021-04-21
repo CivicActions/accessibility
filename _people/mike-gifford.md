@@ -6,6 +6,8 @@ name: Mike Gifford
 image: mike-gifford.jpg
 categories:
  - Accessibility
+sidenav: docs
+permalink: /about/people/mike-gifford
 linkedin: https://www.linkedin.com/in/mgifford/
 twitter: https://twitter.com/mgifford
 github: https://github.com/mgifford

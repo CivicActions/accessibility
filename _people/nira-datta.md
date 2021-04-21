@@ -6,6 +6,8 @@ name: Nira Datta
 image: nira-datta.jpg
 categories:
  - 
+sidenav: docs
+permalink: /about/people/nira-datta
 linkedin: https://www.linkedin.com/in/niradatta/
 twitter:
 github:
