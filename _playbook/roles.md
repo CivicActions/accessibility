@@ -11,7 +11,7 @@ categories:
 
 Creation of modern digital content involves a great many distinct roles. Most roles only touch on some accessibility issues because they have limited access. The [UK's Department for Work & Pensions' Accessibility Manual](https://accessibility-manual.dwp.gov.uk/) has specific [guidance for job role](https://accessibility-manual.dwp.gov.uk/guidance-for-your-job-role). Similarly the USA's GSA has created an [Accessibility for Teams](https://accessibility.digital.gov/) highlights roles that they see in the industry.
 
-We've taken these two lists, added other roles that we didn't see included and included them here. With each role we are including tools that we think would be most useful for that role. Where appropriate we have also included links to the W3C's [Accessibility Responsibility Breakdown](https://www.w3.org/community/wai-) for WCAG 2.0 requirements.
+We've taken these two lists, added other roles that we didn't see included and included them here. With each role we are including tools that we think would be most useful for that role. Where appropriate we have also included links to the W3C's [Accessibility Responsibility Breakdown](https://www.w3.org/community/wai-engage/wiki/Accessibility_Responsibility_Breakdown) for WCAG 2.0 requirements.
 
 * Accessibility Lead
     * The lead is responsible for providing an overview of the whole project and ensuring that the components flow together for the user.
