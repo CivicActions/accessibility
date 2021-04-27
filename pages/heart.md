@@ -1,6 +1,10 @@
-# Holistic Enterprise Accessibility Review Technique (HEART)
+---
+layout: page
+title: Holistic Enterprise Accessibility Review Technique (HEART)
+description: Ensuring Government Digital Services Accessibility
+permalink: /heart
 
-Ensuring Government Digital Services Accessibility
+---
 
 ![Image with the 5 phases of the HEART process](https://lh5.googleusercontent.com/7Cl86hJzMPTeYd8r312ACmsxVB0TOO0bMpoQYil2ooYPEnaFwTZ_yTc-TJ2W_ZxYOWwhd8MsXUCYH1GP5umfUmWaj_7gZut3t9mFTGaeI3L_iKMFk7tbVdoLfY6_mxV4lCtDKTZ5)
 
