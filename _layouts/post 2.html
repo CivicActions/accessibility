@@ -1,0 +1,56 @@
+---
+layout: default
+main:
+  class: usa-grid usa-section usa-content usa-layout-docs
+---
+{% include breadcrumbs.html %}
+<main class="" id="main-content">
+    <div class="">
+        <div class="grid-container">
+            <div class="grid-row">
+                <div class="grid-col-12">
+                    {% if page.title %}
+                    <h1 class="font-heading-3xl">{{ page.title }}</h1>
+                    {% endif %}
+                </div>
+            </div>
+            <div class="grid-row">
+                <div class="grid-col-2">
+                    {% if page.author %}
+                    {% comment %}Loop through all of the authors of the page.{% endcomment %}
+                    {% for author in page.author %}
+                    {% comment %}"where" creates an array, so using "first" we can pop the first item off of the array of 1.{% endcomment %}
+                    {% assign author_data = site.people | where:"author", author | first %}
+                    <div class="author">
+                        <p><a href="{{ site.baseurl }}{{ author_data.url }}"><img src="{{ site.baseurl }}/assets/img/people/{{ author_data.image }}" alt="{{ author_data.name }}" title="{{ author_data.name }}"></a></p>
+                        <p>By <a href="{{ site.baseurl }}{{ author_data.url }}"> {{ author_data.name }}</a></p>
+                        <p>{{ page.date | date: "%B %-d, %Y"}}</p>
+                    </div>
+                    {% endfor %}
+                    {% endif %}
+                </div>
+                <div class="grid-col-1">
+                </div>
+                <div class="grid-col-9">
+                    <div class="post-content">
+                        {{ content }}
+                    </div>
+                    {% if page.author %}
+                    {% comment %}Loop through all of the authors of the page.{% endcomment %}
+                    {% for author in page.author %}
+                    {% comment %}"where" creates an array, so using "first" we can pop the first item off of the array of 1.{% endcomment %}
+                    {% assign author_data = site.people | where:"author", author | first %}
+                    {% if author_data.content.size > 1 %}
+                    <div class="post-bio">
+                        <p>
+                            {{ author_data.content }}
+                        </p>
+                    </div>
+                    {% endif %}
+                    {% endfor %}
+                    {% endif %}
+                </div>
+            </div>
+        </div>
+    </div>
+</main>

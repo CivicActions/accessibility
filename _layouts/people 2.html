@@ -1,0 +1,73 @@
+---
+layout: default
+main:
+class:
+---
+
+<div class="usa-section">
+    <div class="grid-container">
+        <div class="grid-row grid-gap flex-align-start">
+            {% assign sidenav = site.data.about[page.sidenav] | default: page.sidenav %}
+            {% if sidenav %}
+            <div class="usa-layout-docs__sidenav desktop:grid-col-3{% if page.sticky_sidenav %} usa-sticky-sidenav{% endif %}">
+                {% include sidenav-about.html links=sidenav %}
+            </div>
+            {% endif %}
+
+            <div class="usa-layout-docs usa-layout-docs__main usa-prose{% if sidenav %} desktop:grid-col-9{% endif %}">
+                <h1>{{ page.name }}</h1>
+                <div class="grid-row grid-gap">
+                    <div class="grid-col-2 people">
+                        <img src="{{ site.baseurl }}/assets/img/people/{{ page.image }}" alt="photo of {{ page.name }} ">
+                    </div>
+                    <div class="grid-col-10">
+                        <h2>About</h2>
+                        {{ content }}
+                        <h2>Connect</h2>
+                        <ul>
+                            {% if page.github %}
+                            <li><a href="{{ page.github }}">GitHub</a></li>
+                            {% endif %}
+                            {% if page.linkedin %}
+                            <li><a href="{{ page.linkedin }}">LinkedIn</a></li>
+                            {% endif %}
+                            {% if page.twitter %}
+                            <li><a href="{{ page.twitter }}">Twitter</a></li>
+                            {% endif %}
+                            {% if page.gitlab %}
+                            <li><a href="{{ page.gitlab }}">GitLab</a></li>
+                            {% endif %}
+                            {% if page.drupal %}
+                            <li><a href="{{ page.gitlab }}">Drupal</a></li>
+                            {% endif %}
+                            {% if page.website %}
+                            <li><a href="{{ page.website }}">Website</a></li>
+                            {% endif %}
+                        </ul>
+                        {% comment %}
+                        Assign all of the related content here.
+                        {% endcomment %}
+                        {% assign training = site.training | sort: 'date' | reverse | where: 'author', page.author %}
+                        {% assign coaching = site.coaching | sort: 'date' | reverse | where: 'author', page.author %}
+                        {% assign consulting = site.consulting | sort: 'date' | reverse | where: 'author', page.author %}
+                        {% assign help = site.help | sort: 'date' | reverse | where: 'author', page.author %}
+                        {% assign filtered_posts = site.posts | where: 'author', page.author %}
+                        {% comment %}
+                        Next check for related content and only add container if there is something to put in it.
+                        {% endcomment %}
+                        {% if training != empty or coaching != empty or consulting != empty or help != empty or filtered_posts != empty %}
+                        {% if filtered_posts != empty %}
+                        <h2>Posts</h2>
+                        <ul>
+                            {% for post in filtered_posts %}
+                            <li><a href="{{ post.url }}">{{ post.title }}</a>, {{ post.date | date: "%B %-d, %Y" }}</li>
+                            {% endfor %}
+                        </ul>
+                        {% endif %}
+                        {% endif %}
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

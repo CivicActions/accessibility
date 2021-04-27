@@ -1,0 +1,49 @@
+# Color settings
+
+colors:
+  usa-banner:
+    usa-banner-bg: 'base-light'
+    usa-banner-text: 'ink'
+    usa-banner-link: 'primary-dark'
+    usa-banner-link-hover: 'primary-darker'
+  header:
+    header-bg: 'white'
+    header-title: 'ink'
+    header-link: 'base'
+    header-link-hover: 'primary-dark'
+  alt-section:
+    bg-color: 'gray-5'
+    header-color: 'ink'
+    text-color: 'ink'
+    link-color: 'ink'
+    link-hover-color: 'ink'
+  hero:
+    hero-bg: 'gray-5'
+    hero-header: 'accent-cool'
+    hero-header-alt: 'white'
+    hero-text: 'white'
+    hero-link: 'accent-cool'
+    hero-button-bg: 'white'
+    hero-button-text: 'ink'
+  top-navigation:
+    top-nav-bg: 'white'
+    top-nav-link: 'ink'
+    top-nav-link-hover: 'primary'
+    top-nav-link-hover-bg: 'white'
+    top-nav-link-current: 'white'
+    top-nav-dropdown-bg: 'primary-dark'
+    top-nav-dropdown-link: 'white'
+    top-nav-dropdown-link-hover-bg: 'transparent'
+  side-navigation:
+    side-nav-bg: 'transparent'
+    side-nav-link: 'ink'
+    side-nav-link-hover: 'primary-dark'
+    side-nav-link-hover-bg: 'gray-5'
+    side-nav-link-current: 'primary-dark'
+  footer:
+    primary-footer-bg: 'gray-5'
+    primary-footer-link: 'ink'
+    footer-bg: 'white'
+    footer-text: 'ink'
+    footer-link: 'ink'
+    footer-social-link: 'black-transparent-10'

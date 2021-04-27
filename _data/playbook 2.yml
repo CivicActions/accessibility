@@ -1,0 +1,87 @@
+docs_list_title: playbook
+docs:
+
+- title: Follow Global Initiatives
+  url: /follow-global-initiatives
+  description: 
+  icon: <i class="fas fa-globe-americas fa-5x" aria-hidden="true"></i>
+
+- title: Invest in Accessibility Training
+  url: /training
+  description: 
+  icon: <i class="fas fa-money-check-alt fa-5x" aria-hidden="true"></i>
+  
+- title: Join the Global Accessibility Community
+  url: /community
+  description: 
+  icon: <i class="fas fa-users fa-5x" aria-hidden="true"></i>
+
+- title: Implement Automated Testing
+  url: /automated-testing
+  description: 
+  icon: <i class="fas fa-lightbulb fa-5x" aria-hidden="true"></i>
+
+- title: Do Manual Testing
+  url: /manual-testing
+  description: 
+  icon: <i class="fas fa-keyboard fa-5x" aria-hidden="true"></i>
+
+- title: Test with Assistive Technology
+  url: /AT
+  description: 
+  icon: <i class="fas fa-blind fa-5x" aria-hidden="true"></i>
+
+- title: Update Accessibility Statements
+  url: /statements
+  description: 
+  icon: <i class="fas fa-file fa-5x" aria-hidden="true"></i>
+
+- title: Include People with Disabilities
+  url: /pwd
+  description: 
+  icon: <i class="fas fa-universal-access fa-5x" aria-hidden="true"></i>
+
+- title: Build Community of Practice
+  url: /practice
+  description: 
+  icon: <i class="fas fa-question-circle fa-5x" aria-hidden="true"></i>
+
+- title: Avoid PDF Documents
+  url: /pdf
+  description: 
+  icon: <i class="fas fa-file-pdf fa-5x" aria-hidden="true"></i>
+
+- title: Accesible Documents
+  url: /documents
+  description:
+  icon: <i class="fas fa-file fa-5x" aria-hidden="true"></i>
+
+- title: Use Checklists
+  url: /checklists
+  description: 
+  icon: <i class="fas fa-th-list fa-5x" aria-hidden="true"></i>
+
+- title: Improve Authoring Tools
+  url: /authoring
+  description: 
+  icon: <i class="fas fa-user-edit fa-5x" aria-hidden="true"></i>
+
+- title: Provide Role Based Evaluations
+  url: /roles
+  description: 
+  icon: <i class="fas fa-user-shield fa-5x" aria-hidden="true"></i>
+
+- title: Support Personalization
+  url: /personalization
+  description: 
+  icon: <i class="fas fa-smile fa-5x" aria-hidden="true"></i>
+  
+- title: Encourage Accessible Distributed Teams
+  url: /distributed-teams
+  description: 
+  icon: <i class="fas fa-users fa-5x" aria-hidden="true"></i>
+  
+- title: Consider AI & IA
+  url: /ai-and-ia
+  description: 
+  icon: <i class="fas fa-robot fa-5x" aria-hidden="true"></i>

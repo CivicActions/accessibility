@@ -1,0 +1,27 @@
+---
+layout: default
+main:
+class:
+---
+{% include breadcrumbs.html %}>
+</div>
+<div class="guide-main">
+    <div class="">
+        <div class="grid-container">
+            <div class="grid-row grid-gap">
+                {% assign sidenav = site.data.navigation[page.sidenav] | default: page.sidenav %}
+                {% if sidenav %}
+                <div class="usa-layout-docs__sidenav desktop:grid-col-3{% if page.sticky_sidenav %} usa-sticky-sidenav{% endif %}">
+                    {% include sidenav.html links=sidenav %}
+                </div>
+                {% endif %}
+                <div class="usa-layout-docs usa-layout-docs__main usa-prose{% if sidenav %} desktop:grid-col-9{% endif %}">
+                    {% if page.title %}
+                    <h1>{{ page.title }}</h1>
+                    {% endif %}
+                    {{ content }}
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,57 @@
+docs_list_title: guide
+docs:
+
+- title: Introduction
+  url: /introduction
+  description: 
+  icon: <i class="fas fa-power-off fa-5x" aria-hidden="true"></i>
+
+- title: History
+  url: /history
+  description: 
+  icon: <i class="fas fa-scroll fa-5x" aria-hidden="true"></i>
+
+- title: Identity and language
+  url: /identity-language
+  description: 
+  icon: <i class="far fa-id-badge fa-5x" aria-hidden="true"></i>
+
+- title: Tools
+  url: /tools
+  description: 
+  icon: <i class="fas fa-tools fa-5x" aria-hidden="true"></i>
+
+- title: Design systems
+  url: /design
+  description: 
+  icon: <i class="fas fa-palette fa-5x" aria-hidden="true"></i>
+
+- title: Accessible documents
+  url: /documents
+  description:
+  icon: <i class="far fa-copy fa-5x" aria-hidden="true"></i>
+
+- title: Events
+  url: /events
+  description: 
+  icon: <i class="far fa-calendar fa-5x" aria-hidden="true"></i>
+
+- title: Organizations
+  url: /organizations
+  description: 
+  icon: <i class="far fa-building fa-5x" aria-hidden="true"></i>
+
+- title: Training/certifications
+  url: /training
+  description: 
+  icon: <i class="fas fa-certificate fa-5x" aria-hidden="true"></i>
+
+- title: Resources
+  url: /resources
+  description: 
+  icon: <i class="far fa-file-alt fa-5x" aria-hidden="true"></i>
+
+- title: Glossary
+  url: /glossary
+  description: 
+  icon: <i class="fas fa-book-open fa-5x" aria-hidden="true"></i>

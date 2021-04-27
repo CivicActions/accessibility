@@ -1,0 +1,67 @@
+/*
+* * * * * ==============================
+* * * * * ==============================
+* * * * * ==============================
+* * * * * ==============================
+========================================
+========================================
+========================================
+----------------------------------------
+USWDS THEME CUSTOM STYLES
+----------------------------------------
+!! Copy this file to your project's
+   sass root. Don't edit the version
+   in node_modules.
+----------------------------------------
+Custom project SASS goes here.
+
+i.e.
+@include u-padding-right('05');
+----------------------------------------
+*/
+
+// uswds shims
+.usa-footer__logo-img {
+  width: 100%;
+}
+
+@include at-media("mobile-lg") {
+  .usa-footer--big a.usa-footer__primary-link {
+    margin-bottom: units(3);
+  }
+}
+
+.usa-header {
+  button[aria-expanded="true"],
+  button[aria-expanded="true"]:hover {
+    &:after {
+      display: none;
+    }
+  }
+}
+
+.usa-layout-docs__sidenav,
+.usa-layout-docs__main {
+  width: 100%;
+  overflow: hidden;
+}
+
+.usa-hero {
+  background-color: color("primary");
+}
+
+pre[class*='highlight'] {
+  border: 1px solid color("primary");
+  white-space: pre-wrap;       /* css-3 */
+  white-space: -moz-pre-wrap;  /* Mozilla, since 1999 */
+  white-space: -pre-wrap;      /* Opera 4-6 */
+  white-space: -o-pre-wrap;    /* Opera 7 */
+  word-wrap: break-word;       /* Internet Explorer 5.5+ */
+}
+
+pre[class*='highlight'] > code {
+  padding: 1em;
+  display: block;
+  margin-top: 0;
+  line-height: 2;
+}

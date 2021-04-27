@@ -1,0 +1,11 @@
+docs_list_title: about
+docs:
+
+  - title: People
+    url: /people
+
+  - title: Contact
+    url: /contact
+
+  - title: Join us
+    url: /join
