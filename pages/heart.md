@@ -6,7 +6,7 @@ permalink: /heart
 
 ---
 
-![Image with the 5 phases of the HEART process](https://lh5.googleusercontent.com/7Cl86hJzMPTeYd8r312ACmsxVB0TOO0bMpoQYil2ooYPEnaFwTZ_yTc-TJ2W_ZxYOWwhd8MsXUCYH1GP5umfUmWaj_7gZut3t9mFTGaeI3L_iKMFk7tbVdoLfY6_mxV4lCtDKTZ5)
+![Image with the 5 phases of the HEART process](/assets/img/heart.png)
 
 ## About
 
