@@ -6,7 +6,7 @@ permalink: /heart
 
 ---
 
-![Image with the 5 phases of the HEART process](/assets/img/heart.png){:height="80%" width="80%"}
+<img src="/assets/img/heart.png" width="80%" height="80%" alt="Image with the 5 phases of the HEART process">
 
 ## About
 
