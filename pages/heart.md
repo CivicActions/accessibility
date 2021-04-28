@@ -13,12 +13,12 @@ permalink: /heart
 Holistic Enterprise Accessibility Review Technique (HEART) is a proactive, interactive process to ensure government digital services are accessible to everyone.
 
 - [2 Pager](https://docs.google.com/document/d/1rZxWteDvRIJDuc0AN381oDlZhtyZQQZzm5GD3RXbKmY/edit#) - Google Document
-- [Deck](https://docs.google.com/presentation/d/1H6bhM6wqFIds3cXCI3eE0YD65_GmYKzwRviuhs4Jj7s/edit?usp=sharing) - Goolge Slides
+- [Deck](https://docs.google.com/presentation/d/1H6bhM6wqFIds3cXCI3eE0YD65_GmYKzwRviuhs4Jj7s/edit?usp=sharing) - Google Slides
 
 ### Problem
 
 * .gov websites are not accessible
-* Lack of accessibility knowledg
+* Lack of accessibility knowledge
 * Dated policies and practices
 * Automated approaches not adopted
 * No culture of accessibility
