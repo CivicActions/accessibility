@@ -16,7 +16,10 @@ Digital accessibility tools.
 *   [A11yFirst for CKEditor](http://a11yfirst.web.illinois.edu/) - [Accessibility First on GitHub](https://github.com/a11yfirst/distribution) \
 Series of plugins for supporting a11y best practices within the WYSIWYG editor, CKEditor.
 *   [Sa11y Ryerson Digital Media Projects](https://ryersondmp.github.io/sa11y/#install) - [Sa11y on GitHub](https://github.com/ryersondmp/sa11y) \
-Sa11y is an accessibility QA tool that visually highlights common accessibility and usability issues and is geared towards content authors.
+Sa11y is an accessibility QA tool built on [Tota11y](https://khan.github.io/tota11y/) that visually highlights common accessibility and usability \
+issues and is geared towards content authors.
+*   [Editoria11y](https://github.com/itmaybejj/editoria11y) - Editoria11y was initially built on Sa11y and highlights common issues inline with the \
+content editor. Presently there is a Drupal module that leverages CKEditor, but they are working on a WordPress module too. 
 *   [retextjs: retext-readability plugin](https://github.com/retextjs/retext-readability) \
 A plugin for [retext](https://github.com/retext-project/retext) that scans text content for readability (defaults to age 16 reading level, but is configurable) and warns developers of issues.
 *   [retextjs: retext-equality plugin](https://github.com/retextjs/retext-equality) \
@@ -69,6 +72,8 @@ Extremely flexible and popular testing suite from Google that can be run directl
 Tools from IBM that can automate accessibility testing from a browser, or when added to a continuous integration environment.
 *   [Explore ARIA Landmarks Browser Extension](http://matatk.agrip.org.uk/landmarks/) - [Landmarks on GitHub](https://github.com/matatk/landmarks) \
 Browser extension that allows you to navigate a web page via WAI-ARIA landmarks, using the keyboard or a pop-up menu.
+*   [Tota11y by Khan Academy](https://khan.github.io/tota11y/) - [Tota11y on GitHub](https://github.com/Khan/tota11y) A single JavaScript file that \
+inserts a small button in the bottom corner of your document with information about accessibility errors on the page.
 
 ## Bookmarklets {#bookmarklets}
 
