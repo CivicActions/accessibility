@@ -27,7 +27,7 @@ We've taken these lists, added other roles that we didn't see included and inclu
 
 * Business Analyst - [UK GDS](https://accessibility-manual.dwp.gov.uk/guidance-for-your-job-role/business-analyst), [BBC](https://bbc.github.io/accessibility-news-and-you/accessibility-news-and-business-analysts)
     * "As a Business Analyst in an agile team, you're involved in the critical parts where accessibility is often overlooked. Your role is often a facilitating role, to make sure user stories and conversations always include accessibility."
-    * "Business Analyst maps to [IAAP](https://www.accessibilityassociation.org/)’s Analysis, Architecture, Content Strategy, and Interaction Design and Usability." - [A11ycle.com](https://a11ycle.com/digital-accessibility/roles/)
+    * "Business Analyst maps to [IAAP](https://www.accessibilityassociation.org/)'s Analysis, Architecture, Content Strategy, and Interaction Design and Usability." - [A11ycle.com](https://a11ycle.com/digital-accessibility/roles/)
     * Write the [accessibility acceptance criteria](https://bbc.github.io/accessibility-news-and-you/guides/accessibility-acceptance-criteria.html) (design review, documentation, high risk factors, scenarios, and awareness).
     * [W3C Accessibility Responsibility: Analysis](https://www.w3.org/community/wai-engage/wiki/Accessibility_By_Roles_-_Analysis).
     * **Tools:** [WebAim's WAVE Toolbar](https://wave.webaim.org/extension/).
@@ -65,7 +65,7 @@ We've taken these lists, added other roles that we didn't see included and inclu
 
 * Front End Engineer - [USA](https://accessibility.digital.gov/front-end/getting-started/), & [BBC](https://bbc.github.io/accessibility-news-and-you/accessibility-news-and-developers)
     * "As a Software Engineer or Frontend Developer, you have one of the most important roles when it comes to accessibility. A design can have considered accessibility, but it's up to you to build it to work correctly. By using existing libraries and frameworks such as GOV.UK Frontend and DWP CASA, you can get a lot of good practices for accessibility built in, however we need to be mindful of how we apply them."
-    * "Front-End Developer maps to [IAAP](https://www.accessibilityassociation.org/)’s HTML and CSS Prototyping and Front-End Development." - [A11ycle.com](https://a11ycle.com/digital-accessibility/roles/)
+    * "Front-End Developer maps to [IAAP](https://www.accessibilityassociation.org/)'s HTML and CSS Prototyping and Front-End Development." - [A11ycle.com](https://a11ycle.com/digital-accessibility/roles/)
     * [Development W3C Accessibility Responsibility: Front End](https://www.w3.org/community/wai-engage/wiki/Front-end_Development).
     * **Tools:** [Accessibility Insights](https://accessibilityinsights.io/).
     * Checklist
@@ -119,7 +119,7 @@ We've taken these lists, added other roles that we didn't see included and inclu
 
 * UX - [USA](https://accessibility.digital.gov/ux/getting-started/)
     * "As an Interaction Designer, you play an important part of making sure a service or website is accessible. Making screens and interactions simple makes things easier for everybody. Overcomplicated designs or using inaccessible design patterns can have a knock-on effect when it's time for developers to code up your designs."
-    * "User Experience maps to  [IAAP](https://www.accessibilityassociation.org/)’s Content Strategy, Interaction Design and Usability, and to a lesser extent HTML and CSS Prototyping." - [A11ycle.com](https://a11ycle.com/digital-accessibility/roles/)
+    * "User Experience maps to  [IAAP](https://www.accessibilityassociation.org/)'s Content Strategy, Interaction Design and Usability, and to a lesser extent HTML and CSS Prototyping." - [A11ycle.com](https://a11ycle.com/digital-accessibility/roles/)
     * [W3C Accessibility Responsibility: Usability](https://www.w3.org/community/wai-engage/wiki/Accessibility_By_Roles_-_Interaction_Design_/_Usability).
     * **Tools:** [WebAim's WAVE Toolbar](https://wave.webaim.org/extension/).
     * Also see Interaction Designer.
