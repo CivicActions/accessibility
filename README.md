@@ -32,7 +32,7 @@ The meat and bones though is done through GitHub. Because we want to work in the
 
 ## Contributing 
 
-We want your input. We need your help to make this resource better. Please visit the [documentation](docs/documentation) page for how to contribute. 
+We want your input. We need your help to make this resource better. Please visit the [documentation](docs/documentation.md) page for how to contribute. 
 
 
 ## Related projects

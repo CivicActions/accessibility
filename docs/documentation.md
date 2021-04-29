@@ -4,7 +4,7 @@ The site is using the [USWDS theme](https://designsystem.digital.gov/) built wit
 ## How we work
 We as a team have created a [board](https://github.com/CivicActions/accessibility/projects/1) where we can collaborate our work. Here we can track what work is in the backlog or in progress. 
 
-Email [accessibility@civicactions.com](mailto:accessibility@civicactions.com) or message in slack #accessibility for access to the [github repo]()https://github.com/CivicActions/accessibility
+Email [accessibility@civicactions.com](mailto:accessibility@civicactions.com) or message in slack #accessibility for access to the [github repo](https://github.com/CivicActions/accessibility)
 Once added to the github repo, if you find any issues, spelling mistake, or an idea you think should be added to the site, create an issue.
 
 ## Create an issue
@@ -49,6 +49,6 @@ Learn how to use [markdown](https://github.com/adam-p/markdown-here/wiki/Markdow
 ## Creating a pull request
 1. git checkout -b your-name/issue-number
 2. git add files
-3. git push origin master
+3. git push origin your-name/issue-number
 
 A member with permissions to approve the merge of the pull request will review and merge your work.
