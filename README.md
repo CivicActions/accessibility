@@ -32,7 +32,7 @@ The meat and bones though is done through GitHub. Because we want to work in the
 
 ## Contributing 
 
-We want your input. We need your help to make this resource better. Please [submit a new issue](https://github.com/CivicActions/accessibility/issues/new/choose) or add to an existing one. We'd love to have more people fork this code and submit pull requests to make it better. We don't want to duplicate work done elsewhere, so we want to add references to other active projects that have open resources like this. 
+We want your input. We need your help to make this resource better. Please visit the [documentation](docs/documentation) page for how to contribute. 
 
 
 ## Related projects
