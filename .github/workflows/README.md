@@ -20,6 +20,10 @@ Run remark-lint with reviewdog on pull requests to check for readibility and oth
 
 Run pre-commit hooks to clean up site based on configurations in .pre-commit-config.yaml include searching and replacing smart quotes defined in .pre-commit-search-and-replace.yaml.
 
+## backlog-issues.yml
+
+Automatically place new/reopened issues in to the project board.
+
 # References
 
 * https://github.com/pa11y/pa11y
@@ -32,3 +36,4 @@ Run pre-commit hooks to clean up site based on configurations in .pre-commit-con
 * https://stackoverflow.com/questions/57915432/write-output-of-npm-run-start-to-a-file
 * https://github.com/marketplace/actions/comment-pull-request
 * https://pre-commit.com/
+* https://github.blog/2021-04-28-use-github-actions-manage-docs/

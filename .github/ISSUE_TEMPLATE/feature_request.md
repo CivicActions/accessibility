@@ -10,6 +10,11 @@ assignees: ''
 **Is your feature request related to a problem? Please describe.**
 A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
 
+**For whom is this feature?**
+A clear and concise user story.
+As [persona], I want to [action], so that I [benefit].
+Personas: Accessibility Avery, Designer Darcy, Engineer Emery, Procurement Parker, QA Quincy, Remote Raz, and CivicActioner
+
 **Describe the solution you'd like**
 A clear and concise description of what you want to happen.
 

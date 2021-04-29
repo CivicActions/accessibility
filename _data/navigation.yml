@@ -22,7 +22,7 @@ primary:
     href: /playbook
   - text: Guide
     href: /guide
-  - text: <i class="fas fa-search"><span>Search</span></i>
+  - text: Search
     href: /search
 
 ##  - text: Navigation section

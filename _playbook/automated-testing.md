@@ -31,7 +31,7 @@ However, it is important to note that, no matter the tool, [automated testing on
 List of popular automated testing tools
 * [Wave](http://wave.webaim.org/extension/)
 * [Tenon](https://tenon.io/)
-* [SiteImprove](https://chrome.google.com/webstore/detail/siteimprove-accessibility/efcfolpjihicnikpmhnmphjhhpiclljc)
+* [SiteImprove](https://chrome.google.com/webstore/detail/siteimprove-browser-exten/amoojkmllfodlpgmdnclkgdnejgpeada)
 * [See more tools in our guide](/guide/tools)
 
 ## CivicActions Approach
