@@ -10,6 +10,7 @@ assignees: ''
 **Describe the bug**
 A clear and concise description of what the bug is, in a user story format.
 While [activity] as [persona], I expected [result] but observed [result].
+Personas: Accessibility Avery, Designer Darcy, Engineer Emery, Procurement Parker, QA Quincy, Remote Raz, and CivicActioner
 
 **To Reproduce**
 Steps to reproduce the behavior:
