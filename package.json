@@ -14,24 +14,12 @@
     "pa11y-ci:sitemap": "pa11y-ci --sitemap http://localhost:4000/sitemap.xml --sitemap-exclude \"/*.pdf\""
   },
   "dependencies": {
-    "simple-jekyll-search": "^1.9.2"
+    "simple-jekyll-search": "^1.9.2",
+    "uswds": "^2.9.0"
   },
   "devDependencies": {
-    "autoprefixer": "^10.2.5",
     "cached-path-relative": "^1.0.2",
-    "gulp": "^4.0.2",
-    "gulp-postcss": "^9.0.0",
-    "gulp-rename": "^2.0.0",
-    "gulp-replace": "^1.1.2",
-    "gulp-sass": "^4.1.0",
-    "gulp-sourcemaps": "^3.0.0",
-    "gulp-svg-sprite": "^1.5.0",
     "pa11y-ci": "^2.4.0",
-    "pa11y-ci-reporter-html": "^2.1.1",
-    "postcss": "^8.2.13",
-    "postcss-csso": "^5.0.1",
-    "sass": "^1.32.12",
-    "uswds": "^2.11.2",
-    "uswds-gulp": "github:uswds/uswds-gulp"
+    "pa11y-ci-reporter-html": "^2.1.1"
   }
 }
