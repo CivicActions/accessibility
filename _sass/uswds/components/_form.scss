@@ -1,0 +1,31 @@
+form {
+  .form-input {
+    padding-bottom: 1rem;
+    label {
+      .usa-hint--required {
+        color: red;
+        text-decoration: none;
+      }
+    }
+    textarea {
+      width: 100%;
+      min-height: 200px;
+      border-radius: 0;
+      border: 1px solid black;
+      padding: .5rem;
+    }
+    input {
+      width: 100%;
+      border-radius: 0;
+      border: 1px solid black;
+      padding: .5rem;
+    }
+
+  }
+  .usa-button {
+    &:hover,
+    &:focus {
+      border: 2px solid black;
+    }
+  }
+}
