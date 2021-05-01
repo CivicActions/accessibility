@@ -1,0 +1,15 @@
+.usa-breadcrumb {
+  a,
+  .usa-breadcrumb__list-item {
+    font-size: 16.96px;
+  }
+  a {
+    text-decoration: underline;
+  }
+  .usa-breadcrumb__list-item::after {
+    -webkit-mask: url("../uswds-icons/usa-icons/navigate_next.svg") no-repeat center/2ex 2ex;
+    mask: url("../uswds-icons/usa-icons/navigate_next.svg") no-repeat center/2ex 2ex;
+
+
+  }
+}

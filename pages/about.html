@@ -1,20 +1,31 @@
 ---
-layout: about
-title: About
-description: What CivicActions Accessibility is and how we work.
+layout: default
+title: About CivicActions Accessibility
+description:
+excerpt:
 permalink: /about/
-sidenav: docs
+hero:
+image:
+callout:
+alt: "About CivicActions Accessibility"
+text: <!--Bring attention to a current priority-->
+link:
+text: Link to more about that priority
+href: /link/
+content:
+
 ---
+{% include breadcrumbs.html %}
+<div class="">
+    <div class="grid-container">
+        <div class="grid-row">
+            <div class="grid-row grid-gap flex-align-start">
+                {% include sidenav-about.html %}
+                <div class="usa-layout-docs usa-layout-docs__main usa-prose desktop:grid-col-9">
 
-CivicActions Accessibility is an open project primarily developed by CivicActions team members. 
-
-We follow [agile process](/agile) and encourage others to do so as well.
-
-We are gathering information that we find useful for our team, and hope that it resonates with our clients and the broader community. We acknolwedge that this resource is imperfect, impermanent and incomplete, and we encourage you to help make it better. There is a lot of great information about digital accessibility already freely available on the web. We aim to refer people to great resources, or build upon them.
-
-Please [let us know](https://accessibility.civicactions.com/contact) what you find helpful, if there are resources we should include or if there are ways we can improve.
-
-## Our work
-* [Project board](https://github.com/CivicActions/accessibility/projects/1)
-* [Calendar](/calendar)
-* [Join us](/join)
+                    {% include about.html %}
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
