@@ -13,11 +13,11 @@ Creation of modern digital content involves a great many distinct roles. Most ro
 
 We've taken these lists, added other roles that we didn't see included and included them here. With each role we are including tools that we think would be most useful for that role. Where appropriate we have also included links to the W3C's [Accessibility Responsibility Breakdown](https://www.w3.org/community/wai-engage/wiki/Accessibility_Responsibility_Breakdown) for WCAG 2.0 requirements.
 
-* Accessibility Lead
+## Accessibility Lead
     * The lead is responsible for providing an overview of the whole project and ensuring that the components flow together for the user.
     * **Tools:** [Purple Hats](https://github.com/GovTechSG/purple-hats), [MSU's Domain Accessibility Audit](https://github.com/MSU-NatSci/DomainAccessibilityAudit) or [Siteimprove](https://siteimprove.com) and [Accessibility Insights](https://accessibilityinsights.io/).
 
-* Back-end Engineer / Developer
+## Back-end Engineer / Developer
     * [W3C Accessibility Responsibility: Back-end Development](https://www.w3.org/community/wai-engage/wiki/Back-end_Development).
     * **Tools:** [axe](https://www.deque.com/axe/) and [Accessibility Insights](https://accessibilityinsights.io/).
     * Training: [Section 508.gov recommendations](https://www.section508.gov/create/developer-training) & [University of Minnesota guide](https://accessibility.umn.edu/your-role/web-developers).
@@ -25,14 +25,14 @@ We've taken these lists, added other roles that we didn't see included and inclu
         * [Free Book: Web Accessibility for Developers](https://pressbooks.library.ryerson.ca/wafd/).
         * [A11ycle's Back-End Developer](https://a11ycle.com/digital-accessibility/roles/back-end-developer/)
 
-* Business Analyst - [UK GDS](https://accessibility-manual.dwp.gov.uk/guidance-for-your-job-role/business-analyst), [BBC](https://bbc.github.io/accessibility-news-and-you/accessibility-news-and-business-analysts)
+## Business Analyst - [UK GDS](https://accessibility-manual.dwp.gov.uk/guidance-for-your-job-role/business-analyst), [BBC](https://bbc.github.io/accessibility-news-and-you/accessibility-news-and-business-analysts)
     * "As a Business Analyst in an agile team, you're involved in the critical parts where accessibility is often overlooked. Your role is often a facilitating role, to make sure user stories and conversations always include accessibility."
     * "Business Analyst maps to [IAAP](https://www.accessibilityassociation.org/)'s Analysis, Architecture, Content Strategy, and Interaction Design and Usability." - [A11ycle.com](https://a11ycle.com/digital-accessibility/roles/)
     * Write the [accessibility acceptance criteria](https://bbc.github.io/accessibility-news-and-you/guides/accessibility-acceptance-criteria.html) (design review, documentation, high risk factors, scenarios, and awareness).
     * [W3C Accessibility Responsibility: Analysis](https://www.w3.org/community/wai-engage/wiki/Accessibility_By_Roles_-_Analysis).
     * **Tools:** [WebAim's WAVE Toolbar](https://wave.webaim.org/extension/).
 
-* Content Author - [USA](https://accessibility.digital.gov/content-design/getting-started/)
+## Content Author - [USA](https://accessibility.digital.gov/content-design/getting-started/)
     * **Tools:** [Sa11y](https://ryersondmp.github.io/sa11y/) and [HemingwayApp](http://www.hemingwayapp.com/)
     * Checklist:
         * Does the content meet your readability target?
@@ -42,28 +42,30 @@ We've taken these lists, added other roles that we didn't see included and inclu
         * Can links be understood without any surrounding content?
     * Resources: [Blog post for content authors](https://www.digitala11y.com/authoring-the-authors-accessibility-best-practices-for-content-authors/).
 
-* Content Designer / Information Architecture - [UK](https://accessibility-manual.dwp.gov.uk/guidance-for-your-job-role/content-designer)
+## Content Designer / Information Architecture - [UK](https://accessibility-manual.dwp.gov.uk/guidance-for-your-job-role/content-designer)
     * "Making the content as easy to understand as possible makes it better for everybody. There are common scenarios where people might benefit from simple content. For example, people where English is not their first language or people who have Dyslexia."
     * [W3C Accessibility Responsibility: Architecture](https://www.w3.org/community/wai-engage/wiki/Accessibility_By_Roles_-_Architecture).
     * **Tools:** [WebAim's WAVE Toolbar](https://wave.webaim.org/extension/).
     * Resource: [Blog post: Accessibility: Guidelines for Information Architecture, UX Design, and Visual Design](https://medium.com/design-ibm/accessibility-guidelines-for-information-architecture-ux-design-and-visual-design-5ae33ed1d52d).
 
-* Customer Experience / Service Design / Content Strategy
+# Customer Experience / Service Design / Content Strategy
     * [W3C Accessibility Responsibility: Content Strategy](https://www.w3.org/community/wai-engage/wiki/Content_Strategy).
     * **Tools:** [WebAim's WAVE Toolbar](https://wave.webaim.org/extension/).
     * Resources: [Accessibility and the Digital Service Standard, Accessible service design](https://www.dta.gov.au/blogs/accessibility-and-digital-service-standard).
-* Delivery Manager - [UK](https://accessibility-manual.dwp.gov.uk/guidance-for-your-job-role/delivery-manager)
+
+# Delivery Manager - [UK](https://accessibility-manual.dwp.gov.uk/guidance-for-your-job-role/delivery-manager)
     * "As a Delivery Manager you need to make sure that accessibility is considered when sizing up stories and that very feature is fully accessible before it is released."
     * **Tools:** [WebAim's WAVE Toolbar](https://wave.webaim.org/extension/).
 
-* DevOps
+## DevOps
     * **Tools:** [pa11y](https://pa11y.org/) and [Accessibility Insights](https://accessibilityinsights.io/).
     * Resources: [Blog - Embedding Accessibility into the DevOps Process](https://devops.com/embedding-accessibility-into-the-devops-process/).
-* Digital Performance Analyst - [UK](https://accessibility-manual.dwp.gov.uk/guidance-for-your-job-role/digital-performance-analyst)    
+
+## Digital Performance Analyst - [UK](https://accessibility-manual.dwp.gov.uk/guidance-for-your-job-role/digital-performance-analyst)    
     * "As a Digital Performance Analyst, most of your considerations will be around presenting statistical data so that they don't exclude anybody that might not be able to perceive complex charts or tables of data."
     * **Tools:** [WebAim's WAVE Toolbar](https://wave.webaim.org/extension/).
 
-* Front End Engineer - [USA](https://accessibility.digital.gov/front-end/getting-started/), & [BBC](https://bbc.github.io/accessibility-news-and-you/accessibility-news-and-developers)
+## Front End Engineer - [USA](https://accessibility.digital.gov/front-end/getting-started/), & [BBC](https://bbc.github.io/accessibility-news-and-you/accessibility-news-and-developers)
     * "As a Software Engineer or Frontend Developer, you have one of the most important roles when it comes to accessibility. A design can have considered accessibility, but it's up to you to build it to work correctly. By using existing libraries and frameworks such as GOV.UK Frontend and DWP CASA, you can get a lot of good practices for accessibility built in, however we need to be mindful of how we apply them."
     * "Front-End Developer maps to [IAAP](https://www.accessibilityassociation.org/)'s HTML and CSS Prototyping and Front-End Development." - [A11ycle.com](https://a11ycle.com/digital-accessibility/roles/)
     * [Development W3C Accessibility Responsibility: Front End](https://www.w3.org/community/wai-engage/wiki/Front-end_Development).
@@ -81,13 +83,13 @@ We've taken these lists, added other roles that we didn't see included and inclu
       * [Helping developers write accessible code](https://blogs.intuit.com/blog/2021/03/30/helping-developers-write-accessible-code/)
       * [A11ycle's Front-End Developer](https://a11ycle.com/digital-accessibility/roles/front-end-developer/)
 
-* HTML & CSS Prototyping
+## HTML & CSS Prototyping
     * [HTML & CSS Prototyping W3C Accessibility Responsibility](https://www.w3.org/community/wai-engage/wiki/HTML/CSS_Prototyping).
 
-* Interaction Designer - [UK](https://accessibility-manual.dwp.gov.uk/guidance-for-your-job-role/interaction-designer)
+## Interaction Designer - [UK](https://accessibility-manual.dwp.gov.uk/guidance-for-your-job-role/interaction-designer)
     * See UX.
 
-* Product Manager / Project Manager - [USA](https://accessibility.digital.gov/product/getting-started/), [UK](https://accessibility-manual.dwp.gov.uk/guidance-for-your-job-role/product-manager), [BBC (Product Owner)](https://bbc.github.io/accessibility-news-and-you/accessibility-news-and-product-owners) & [BBC (Project Manager)](https://bbc.github.io/accessibility-news-and-you/accessibility-news-and-project-managers)
+## Product Manager / Project Manager - [USA](https://accessibility.digital.gov/product/getting-started/), [UK](https://accessibility-manual.dwp.gov.uk/guidance-for-your-job-role/product-manager), [BBC (Product Owner)](https://bbc.github.io/accessibility-news-and-you/accessibility-news-and-product-owners) & [BBC (Project Manager)](https://bbc.github.io/accessibility-news-and-you/accessibility-news-and-project-managers)
     * "Make sure the team know their responsibilities"
     * [W3C Accessibility Responsibility: Project Manager](https://www.w3.org/community/wai-engage/wiki/Accessibility_Responsibility_Breakdown#pm).
     * **Tools:** Site-wide scanners and [WebAim's WAVE Toolbar](https://wave.webaim.org/extension/).
@@ -98,11 +100,11 @@ We've taken these lists, added other roles that we didn't see included and inclu
         * Identify where to include people with disabilities in the process.
     * Resources: [BBC's Product Owner Checklists](https://bbc.github.io/accessibility-news-and-you/accessibility-news-and-product-owners) & [BBC's Project Managers Checklist](https://bbc.github.io/accessibility-news-and-you/accessibility-news-and-product-owners), [Planning and Managing Web Accessibility](https://www.w3.org/WAI/planning-and-managing/), [Managing for Accessibility](https://www.washington.edu/accessibility/managing/).
 
-* Procurement Manager 
+## Procurement Manager 
     * **Tools:** [WebAim's WAVE Toolbar](https://wave.webaim.org/extension/).
     * Resources: [DisabilityIN - Accessible Technology Procurement Toolkit](https://private.disabilityin.org/procurementtoolkit/).
 
-* Quality Assurance / Quality Control Tester - [UK](https://accessibility-manual.dwp.gov.uk/guidance-for-your-job-role/qa-tester), [BBC](https://bbc.github.io/accessibility-news-and-you/accessibility-news-and-testers)
+## Quality Assurance / Quality Control Tester - [UK](https://accessibility-manual.dwp.gov.uk/guidance-for-your-job-role/qa-tester), [BBC](https://bbc.github.io/accessibility-news-and-you/accessibility-news-and-testers)
     * "As QA Tester, you're responsible for checking if the finished product is actually accessible. This means running automated tests, manually checking the pages against the WCAG criteria, and testing usability with assistive technology."
     * [W3C Accessibility Responsibility: Quality Control](https://www.w3.org/community/wai-engage/wiki/Quality_Control).
     * **Tools:** [Purple Hats](https://github.com/GovTechSG/purple-hats), [MSU's Domain Accessibility Audit](https://github.com/MSU-NatSci/DomainAccessibilityAudit) or [Siteimprove](https://siteimprove.com) and [Accessibility Insights](https://accessibilityinsights.io/).
@@ -110,14 +112,15 @@ We've taken these lists, added other roles that we didn't see included and inclu
         * [BBC's Checklist](https://bbc.github.io/accessibility-news-and-you/accessibility-news-and-testers), [Paul Adams Checklist](https://pauljadam.com/demos/mobilechecklist.html).
         * [A11ycle's Quality Assurance](https://a11ycle.com/digital-accessibility/roles/quality-assurance/)
 
-* Search Engine Optimization
+## Search Engine Optimization
     * [W3C Accessibility Responsibility: SEO](https://www.w3.org/community/wai-engage/wiki/Search_Engine_Optimization).
-* User Researcher - [UK](https://accessibility-manual.dwp.gov.uk/guidance-for-your-job-role/user-researcher)
+
+## User Researcher - [UK](https://accessibility-manual.dwp.gov.uk/guidance-for-your-job-role/user-researcher)
     * "As a user researcher, you will help the team to understand the needs of the people who use the service, including those users who might have impairments and use assistive technologies."
     * **Tools:** [WebAim's WAVE Toolbar](https://wave.webaim.org/extension/)
     * Resources: [UK GDS Blogs](https://accessibility.blog.gov.uk/category/user-research/), [How inclusive user research makes your products better](https://rangle.io/blog/ux-research-and-accessibility/), [Working with Others: Accessibility and User Research](https://alistapart.com/article/workingwithothers/), [A Comprehensive Guide to Accessible User Research](https://dscout.com/people-nerds/accessible-user-research-1), [What user researchers need to know about accessibility](https://www.userzoom.com/ux-library/what-user-researchers-need-to-know-about-accessibility/), [How to Conduct Usability Studies for Accessibility](https://www.nngroup.com/reports/how-to-conduct-usability-studies-accessibility/), [Conducting Accessibility User Research: What's Really Needed?](https://technica11y.org/conducting-accessibility-user-research-what-s-reall), [Tips For Conducting Usability Studies With Participants With Disabilities — Smashing Magazine](https://www.smashingmagazine.com/2018/03/tips-conducting-usability-studies-participants-disabilities/).
 
-* UX - [USA](https://accessibility.digital.gov/ux/getting-started/)
+## UX - [USA](https://accessibility.digital.gov/ux/getting-started/)
     * "As an Interaction Designer, you play an important part of making sure a service or website is accessible. Making screens and interactions simple makes things easier for everybody. Overcomplicated designs or using inaccessible design patterns can have a knock-on effect when it's time for developers to code up your designs."
     * "User Experience maps to  [IAAP](https://www.accessibilityassociation.org/)'s Content Strategy, Interaction Design and Usability, and to a lesser extent HTML and CSS Prototyping." - [A11ycle.com](https://a11ycle.com/digital-accessibility/roles/)
     * [W3C Accessibility Responsibility: Usability](https://www.w3.org/community/wai-engage/wiki/Accessibility_By_Roles_-_Interaction_Design_/_Usability).
@@ -131,7 +134,7 @@ We've taken these lists, added other roles that we didn't see included and inclu
         * Check to see that the touch targets exceed 44 px or 10 mm.
     * Resources: [Accessibility guidelines for UX Designers](https://uxdesign.cc/accessibility-guidelines-for-a-ux-designer-c3ba775539be), [W3C Accessibility, Usability, and Inclusion](https://www.w3.org/WAI/fundamentals/accessibility-usability-inclusion/), and [Deque blogs Accessible User Experience & Design](https://www.deque.com/blog/category/accessible-user-experience/).
 
-* Visual Design / Graphic Design - [USA](https://accessibility.digital.gov/visual-design/getting-started/)
+## Visual Design / Graphic Design - [USA](https://accessibility.digital.gov/visual-design/getting-started/)
     * "Everyone benefits from designs that are easier to see. People with different visual abilities see your designs in varying ways—the diverse nature of impairments creates a wide variation in how your designs are perceived. A clean and clear visual presentation helps everyone make sense of a website's information and functionality."
     * [W3C Accessibility Responsibility: Graphic Design](https://www.w3.org/community/wai-engage/wiki/Accessibility_By_Roles_-_Graphic_Design).
     * **Tools:** [Open source color contrast tools](/guide/tools#color).
