@@ -3,8 +3,8 @@ layout: default
 main:
 class:
 ---
-
-<div class="usa-section">
+<div class="guide-main">
+    {% include breadcrumbs.html %}
     <div class="grid-container">
         <div class="grid-row grid-gap flex-align-start">
             {% assign sidenav = site.data.about[page.sidenav] | default: page.sidenav %}
