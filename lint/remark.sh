@@ -16,8 +16,8 @@ if [[ -n "${INPUT_GITHUB_TOKEN:-}" ]]; then
     reviewdog -f=remark-lint \
       -name="remark-lint" \
       -reporter="github-pr-check" \
-      -fail-on-error="false" \
-      -level="info" \
+      -fail-on-error="true" \
+      -level="error" \
       -tee
 
   remark --rc-path=/usr/src/remarkrc.problem --no-color ${REMARK_PATHS} 2>&1 >/dev/null |

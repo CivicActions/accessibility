@@ -77,6 +77,7 @@
     "retext-sentence-spacing": "^4.0.0",
     "retext-simplify": "^6.0.0",
     "retext-spell": "^4.0.0",
+    "dictionary-en": "^3.0.0",
     "retext-usage": "^0.5.0"
   }
 }
