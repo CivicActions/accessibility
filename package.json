@@ -25,7 +25,6 @@
     "gulp-replace": "^1.1.2",
     "gulp-sass": "^4.1.0",
     "gulp-sourcemaps": "^3.0.0",
-    "gulp-svg-sprite": "^1.5.0",
     "pa11y-ci": "^2.4.0",
     "pa11y-ci-reporter-html": "^2.1.1",
     "postcss": "^8.2.13",
