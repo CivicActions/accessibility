@@ -32,11 +32,8 @@ main:
                 <div class="grid-col-1">
                 </div>
                 <div class="grid-col-9">
-                    <div class="post-content anchor-links">
-                    <!-- content -->
-                    {% include anchor_headings.html html=content anchorBody="<span aria-hidden='true'>
-                    <svg class='usa-icon' aria-hidden='true' focusable='false' role='img'><use xlink:href='/assets/uswds-icons/sprite.svg#link'></use></svg>
-                </span><span class='sr-only'>Anchor link</span>" anchorClass="anchor-link" anchorAttrs="aria-labelledby=%html_id%" h_max=3 %}
+                    <div class="post-content">
+                      {{ content }}
                     </div>
                     {% if page.author %}
                     {% comment %}Loop through all of the authors of the page.{% endcomment %}
