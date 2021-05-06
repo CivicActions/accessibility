@@ -18,7 +18,7 @@ It is important that this site is demonstrating our values and represents an acc
 
 Most of these changes are done through plain text editors or directly on GitHub, so many of the conveniences that are built into modern word processing applications aren't available. These tools help us keep the quality of our site high.
 
-This automation is also not full-proof as it doesn't have the context for why a sentence is structured in a certain way or why particular words are used. This is just another tool in our arsenal to help us with catching terms that might be offensive or less than inclusive, catching long complex sentences that we might express more clearly and simply, and others.
+This automation is also not full-proof as it doesn't have the context for why a sentence is structured in a certain way or why particular words are used. This is another tool in our arsenal to help us with catching terms that might be offensive or less than inclusive, catching long complex sentences that we could rewrite, and so on.
 
 ## The technologies
 
@@ -33,7 +33,7 @@ To achieve the testing we use the following technologies:
 
 For remark/retext we create a Docker image that installs the dependencies and sets up reviewdog to execute our configuration on a pull request. The details are [visible in our repo](https://github.com/CivicActions/accessibility/tree/main/lint) but here are the import bits.
 
-The following files (truncated for brevity) configure the plugins for testing markdown and text and their individual settings. Her are some of our example settings:
+The following files (truncated for brevity) configure the plugins for testing markdown and text and their individual settings. Here are some of our example settings:
 * Markdown bullets be denoted with an asterisk '*'.
 * Single space between sentences.
 * Straight quotes (note this down, it will be important later in the post).
@@ -115,7 +115,7 @@ Similar to our post [Automated accessibility testing post](/posts/automated-acce
 
 Here are some examples of tool doing its thing:
 
-In [https://github.com/CivicActions/accessibility/pull/373/files](https://github.com/CivicActions/accessibility/pull/373/files) and the below screenshot you can see that the sentence, "Whole websites can now be easily crawled for bugs" that the word 'easily' has been flagged as may be insensitive and we should try to avoid it.
+In [https://github.com/CivicActions/accessibility/pull/373/files](https://github.com/CivicActions/accessibility/pull/373/files) and the below screenshot you can see that the sentence, "Whole websites can now be easily crawled for bugs" that the word **'easily'** has been flagged as may be insensitive and we should try to avoid it.
 
 ![Screenshot of the insensitive warning](/assets/img/insensitive-text-warning.png)
 
@@ -133,7 +133,7 @@ You can see the details at this URL: [https://github.com/CivicActions/accessibil
 
 ### Additional considerations
 
-We are interested in adding [retextjs/retext-simplify plugin](https://github.com/retextjs/retext-simplify) to check phrases for simpler alternatives and maybe reduce the age for readability. These changes could help lower the barrier for this and other sites when considering their audiences and the impact the text can/cannot have on them.
+We are interested in adding [retextjs/retext-simplify plugin](https://github.com/retextjs/retext-simplify) to check phrases for simpler alternatives. Maybe reduce the age for readability as well.
 
 ## Conclusion
 
