@@ -31,7 +31,7 @@ To achieve the testing we use the following technologies:
 
 ## The setup
 
-For remark/retext we create a Docker image that installs the dependencies and sets up reviewdog to execute our configuration on a pull request. The details are [visible in our repo](https://github.com/CivicActions/accessibility/tree/main/lint) but here are the import bits.
+For remark/retext we create a Docker image that installs the dependencies and sets up reviewdog to execute our configuration on a pull request. The details are [visible in our repository](https://github.com/CivicActions/accessibility/tree/main/lint) but here are the import bits.
 
 The following files (truncated for brevity) configure the plugins for testing markdown and text and their individual settings. Here are some of our example settings:
 * Markdown bullets be denoted with an asterisk '*'.
@@ -115,9 +115,19 @@ Similar to our post [Automated accessibility testing post](/posts/automated-acce
 
 Here are some examples of tool doing its thing:
 
-In [https://github.com/CivicActions/accessibility/pull/373/files](https://github.com/CivicActions/accessibility/pull/373/files) and the below screenshot you can see that the sentence, "Whole websites can now be easily crawled for bugs" that the word **'easily'** has been flagged as may be insensitive and we should try to avoid it.
+In [pull request 373](https://github.com/CivicActions/accessibility/pull/373/files) and the below screenshot you can see that the sentence, "Whole websites can now be easily crawled for bugs" that the word **'easily'** has been flagged as may be insensitive and we should try to avoid it.
 
 ![Screenshot of the insensitive warning](/assets/img/insensitive-text-warning.png)
+
+In [pull request 374](https://github.com/CivicActions/accessibility/pull/374/commits/9b6c162495de0c5212e5cf99b27470e710082bdb) and the below screenshots you can see that I took an earlier version of this post and ran it through the process and got some good feedback.
+
+In this screenshot we see a warning about a hard to read sentence.
+
+![Screenshot of the hard to read sentence warning](/assets/img/hard-to-read-sentence-warning.png)
+
+In this screenshot we see that a typo was misattributed as an insensitive word.
+
+![Screenshot of the typo that lead to insensitive warning](/assets/img/typo-lead-to-insensitive-warning.png)
 
 ### Automating changes
 
@@ -129,7 +139,7 @@ In this screenshot we see a warning about a smart quote:
 In this screenshot the change is made for us and committed to the pull request:
 ![Screenshot after](/assets/img/smark-quote-fix.png)
 
-You can see the details at this URL: [https://github.com/CivicActions/accessibility/pull/342](https://github.com/CivicActions/accessibility/pull/342).
+You can see the details at this URL: [pull request 342](https://github.com/CivicActions/accessibility/pull/342).
 
 ### Additional considerations
 
