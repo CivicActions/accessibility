@@ -13,7 +13,7 @@ Automated testing can occur at different layers of the process of creating digit
 * Developers can run automated checks as part of their continuous integration (CI) process
 * Everyone can look at the accessibility of a single page
 * Editors can be given accessibility issues within a WYSIWYG editor
-* Whole websites can now be crawled for bugs 
+* Whole websites can now be easily crawled for bugs 
 * Designers can evaluate problems with contrast issues in their designs
 
 All of this is now possible with a range of proprietary and open source tools. With the rapid development of automated testing, there are now multiple options to gather information on a single website—or an entire government.
