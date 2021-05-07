@@ -15,11 +15,14 @@ class:
                     {% include sidenav.html links=sidenav %}
                 </div>
                 {% endif %}
-                <div class="usa-layout-docs usa-layout-docs__main usa-prose{% if sidenav %} desktop:grid-col-9{% endif %}">
+                <div class="usa-layout-docs anchor-links usa-layout-docs__main usa-prose{% if sidenav %} desktop:grid-col-9{% endif %}">
                     {% if page.title %}
                     <h1>{{ page.title }}</h1>
                     {% endif %}
-                    {{ content }}
+                    <!-- content -->
+                    {% include anchor_headings.html html=content anchorBody="<span aria-hidden='true'>
+                    <svg class='usa-icon' aria-hidden='true' focusable='false' role='img'><use xlink:href='/assets/uswds-icons/sprite.svg#link'></use></svg>
+                </span><span class='sr-only'>Anchor link</span>" anchorClass="anchor-link" anchorAttrs="aria-labelledby=%html_id%" h_max=3 %}
                 </div>
             </div>
         </div>

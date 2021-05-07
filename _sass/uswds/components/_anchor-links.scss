@@ -1,15 +1,19 @@
-.usa-layout-docs.anchor-links {
+.anchor-links {
   overflow: visible !important;
-  h2 {
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
     position: relative;
     a {
 
       position: absolute;
       top: .35rem;
-      left: -2.5rem;
+      left: -2rem;
       svg {
-        width: 30px;
-        height: 30px;
+        width: 28px;
+        height: 28px;
         opacity: .3;
       }
       &:hover,
@@ -20,6 +24,14 @@
           opacity: 1;
         }
       }
+    }
+  }
+  h3,
+  h4,
+  h5,
+  h6 {
+    a {
+      top: 0 !important;
     }
   }
 }

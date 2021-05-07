@@ -3,6 +3,7 @@ layout: page
 title: Calendar
 description: CivicActions Accessibility team meetings and other accessibility-related events.
 permalink: /calendar
+anchors: heading
 
 ---
 
