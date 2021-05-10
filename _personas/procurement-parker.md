@@ -16,7 +16,7 @@ Parker is responsible for evaluating large procurement projects for government d
 Parker is hard of hearing and has trouble communicating with people over the phone. They prefer communications over email where they make sure they understand. 
 
 ## Goals
-Find accessibility information for their report
+Find appropriate accessibility provisions, clauses, and acceptance criteria for their report
 
 ## Needs
 Videos with Closed Captions, subtitles and/or transcripts
@@ -31,4 +31,4 @@ Frustrated when closed captions are out of sync or have poor contrast
 Facial expressions and body positions to convey meaning and fill in missing information. They search for accessibility and procurement and land on a page of our site
 
 ## Pain points
-Contact Us pages that do not have alternatives to phone numbers
+Contact Us pages that do not have secondary and tertiary means of communication.
