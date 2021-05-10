@@ -49,12 +49,12 @@ We've taken these lists, added other roles that we didn't see included and inclu
 * **Tools:** [WebAim's WAVE Toolbar](https://wave.webaim.org/extension/).
 * Resource: [Blog post: Accessibility: Guidelines for Information Architecture, UX Design, and Visual Design](https://medium.com/design-ibm/accessibility-guidelines-for-information-architecture-ux-design-and-visual-design-5ae33ed1d52d).
 
-# Customer Experience / Service Design / Content Strategy
+## Customer Experience / Service Design / Content Strategy
 * [W3C Accessibility Responsibility: Content Strategy](https://www.w3.org/community/wai-engage/wiki/Content_Strategy).
 * **Tools:** [WebAim's WAVE Toolbar](https://wave.webaim.org/extension/).
 * Resources: [Accessibility and the Digital Service Standard, Accessible service design](https://www.dta.gov.au/blogs/accessibility-and-digital-service-standard).
 
-# Delivery Manager - [UK](https://accessibility-manual.dwp.gov.uk/guidance-for-your-job-role/delivery-manager)
+## Delivery Manager - [UK](https://accessibility-manual.dwp.gov.uk/guidance-for-your-job-role/delivery-manager)
 * "As a Delivery Manager you need to make sure that accessibility is considered when sizing up stories and that very feature is fully accessible before it is released."
 * **Tools:** [WebAim's WAVE Toolbar](https://wave.webaim.org/extension/).
 
