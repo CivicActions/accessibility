@@ -16,6 +16,11 @@ docs:
   description: 
   icon: <i class="far fa-id-badge fa-5x" aria-hidden="true"></i>
 
+- title: Plain language
+  url: /plain-language
+  description: 
+  icon: <i class="fas fa-pen-square" aria-hidden="true"></i>
+
 - title: Tools
   url: /tools
   description: 
