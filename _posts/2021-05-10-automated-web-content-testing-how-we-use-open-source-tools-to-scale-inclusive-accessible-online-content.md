@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Automated text feedback: Using retext to ensure our text meets our standards"
+title:  "Automated web content testing: How we use open source tools to scale inclusive, accessible online content"
 date:   2021-05-07 07:00:00 -0800
 description: Using GitHub and open source technology -- general and text-specific -- we created a continuous text feedback mechanism to help ensure our content meets out standards.
 author: daniel-mundra
@@ -8,13 +8,13 @@ categories:
 image: card-power.png
 ---
 
-Since launching the [CivicActions Accessibility](https://accessibility.civicactions.com/) site we have had [8 contributors on GitHub](https://github.com/CivicActions/accessibility) and many more helping build out the guide, playbooks, and posts.
+Since launching the [CivicActions Accessibility](https://accessibility.civicactions.com/) website we have had [8 contributors on GitHub](https://github.com/CivicActions/accessibility) and many more helping build out the guide, playbooks, and posts.
 
 To assist our contributors and ensure that our content is meeting our standards we have enabled automated testing (and some updating) of the text when submitted in a pull request.
 
 ## The goals
 
-It is important that this site is demonstrating our values and represents an accessible, professional site. It is important that we eliminate language that would alienate our audience. Ensuring that our site is consistently built makes it longer to maintain in the long-run.
+It is important that this site demonstrates our values and represents an accessible, professional site. It is important that we eliminate language that would alienate our audience. Ensuring that our site is consistently built makes it more sustainable to maintain in the long-run.
 
 Most of these changes are done through plain text editors or directly on GitHub, so many of the conveniences that are built into modern word processing applications aren't available. These tools help us keep the quality of our site high.
 
@@ -31,10 +31,10 @@ To achieve the testing we use the following technologies:
 
 ## The setup
 
-For remark/retext we create a Docker image that installs the dependencies and sets up reviewdog to execute our configuration on a pull request. The details are [visible in our repository](https://github.com/CivicActions/accessibility/tree/main/lint) but here are the import bits.
+For remark/retext we create a Docker image that installs the dependencies and sets up reviewdog to execute our configuration on a pull request. The details are [visible in our repository](https://github.com/CivicActions/accessibility/tree/main/lint) but here are the important bits.
 
 The following files (truncated for brevity) configure the plugins for testing markdown and text and their individual settings. Here are some of our example settings:
-* Markdown bullets be denoted with an asterisk '*'.
+* Markdown bullets denoted with an asterisk '*'.
 * Single space between sentences.
 * Straight quotes (note this down, it will be important later in the post).
 * Readability set to 18 years.
@@ -109,9 +109,9 @@ function attacher() {
 }
 ```
 
-## The Execution
+## The execution
 
-Similar to our post [Automated accessibility testing post](/posts/automated-accessibility-testing-leveraging-github-actions-and-pa11y-ci-with-axe) we use [GitHub actions](https://github.com/CivicActions/accessibility/blob/main/.github/workflows/reviewdog.yml) to run our set up on pull requests. The setup is also tuned to only check the changes for the text issues and not all files to encourage the author to focus on the changes they are submitting.
+Similar to our post [automated accessibility testing](/posts/automated-accessibility-testing-leveraging-github-actions-and-pa11y-ci-with-axe) we use [GitHub actions](https://github.com/CivicActions/accessibility/blob/main/.github/workflows/reviewdog.yml) to run our set up on pull requests. The setup is also tuned to only check the changes for the text issues and not all files to encourage the author to focus on the changes they are submitting.
 
 Here are some examples of tool doing its thing:
 
@@ -141,19 +141,19 @@ In this screenshot the change is made for us and committed to the pull request:
 
 You can see the details at this URL: [pull request 342](https://github.com/CivicActions/accessibility/pull/342).
 
-### Additional considerations
+### Future considerations
 
-We are interested in adding [retextjs/retext-simplify plugin](https://github.com/retextjs/retext-simplify) to check phrases for simpler alternatives. Maybe reduce the age for readability as well.
+We are interested in adding the [retext-simplify plugin](https://github.com/retextjs/retext-simplify) to check phrases for simpler alternatives. Maybe reduce the age for readability as well.
 
 ## Conclusion
 
-Following the above set up can help you inject tools to help you test your content, but remember, automation can be devoid of context and can still contain our biases so you want to keep tweaking the tools and double checking your content to make sure it meets your standards.
+Following the above set up can help you inject tools to help you test your content, but remember, automation can be devoid of context and can still contain our biases, so you want to keep tweaking the tools and double checking your content to make sure it meets your standards.
 
 ## Further reading and examples
 * The same tools above are used in:
-  * [https://github.com/sparkartgroup/quality-docs/](https://github.com/sparkartgroup/quality-docs/).
-  * [https://github.com/CivicActions/handbook](https://github.com/CivicActions/handbook).
+  * [Quality docs](https://github.com/sparkartgroup/quality-docs/).
+  * [CivicActions handbook](https://github.com/CivicActions/handbook).
 * Some similar tools for GitHub and other applications:
-  * [ritterim/markdown-proofing](https://github.com/ritterim/markdown-proofing): A markdown proofing platform for individuals, teams, and organizations.
+  * [A markdown proofing platform for individuals, teams, and organizations](https://github.com/ritterim/markdown-proofing).
   * [Readability Check](https://marketplace.visualstudio.com/items?itemName=jemcclin.readabilitycheck).
   * [status-stats-jbrains package](https://atom.io/packages/status-stats-jbrains).
