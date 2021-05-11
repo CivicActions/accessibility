@@ -18,16 +18,16 @@ They feel that they can do their best work outside in the sun. They do all they 
 Finding tools and techniques that would help them implement more inclusive designs. 
 
 ## Needs
-Ability to control the contrast of the on their laptop.
+Ability to control the contrast of the website on their laptop.
 
 ## Thoughts
-Will my custom CSS overrides work with this site? 
+Do my designs pass the checklist to meet accessibility standards? 
 
 ## Feelings
-Worried the site's limitations will force me to go back inside to complete my task. 
+Worries the site's lack of visibility in the sun will force me to go back inside to complete my task.
 
 ## Behaviors
-Really likes over-riding the fonts on a website to allow their to appreciate her current favourite. 
+Really likes over-riding the fonts on a website to allow them to appreciate their current favourite.
 
 ## Pain points
-Information architecture that doesn't allow her to easily find what she is looking for. 
+Information architecture that doesn't allow them to easily find what they are looking for.
