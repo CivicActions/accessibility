@@ -10,4 +10,4 @@ How to get accessibility support from CivicActions Accessibility:
 
 * Message @accessibility-team in CivicActions Slack
 * [Start a discussion](https://github.com/CivicActions/accessibility/discussions)
-* Email accessibility@civicactions.com
+* Email <accessibility@civicactions.com>
