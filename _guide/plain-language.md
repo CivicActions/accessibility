@@ -11,8 +11,8 @@ categories:
 
 ## Overview
 
-You worked hard getting your content online. How do you make sure your readers can find, understand  and use it? Apply plain language. Clear and direct writing makes your content[ accessible](https://www.w3.org/WAI/WCAG21/Understanding/reading-level.html) (it's also the[ law](https://www.plainlanguage.gov/law/)!).  Plain language also helps people with different cognitive abilities. Or speakers of a non-English language. Or those who rely on audio to listen to text. 
-You might also be writing for the public. Or a group of experts. Either way, your audience's reading level is likely[ lower than you think. ](https://literacyproj.org/)
+You worked hard getting your content online. How do you make sure your readers can find, understand  and use it? Apply plain language. Clear and direct writing makes your content [accessible](https://www.w3.org/WAI/WCAG21/Understanding/reading-level.html) (it's also the [law](https://www.plainlanguage.gov/law/)!). Plain language also helps people with different cognitive abilities. Or speakers of a non-English language. Or those who rely on audio to listen to text. 
+You might also be writing for the public. Or a group of experts. Either way, your audience's reading level is likely [lower than you think](https://literacyproj.org/).
 
 ## Who this is for
 
@@ -51,11 +51,11 @@ People visit your website to do something: answer a question or complete a speci
 ### Choose words your reader uses
 
 Imagine you're talking to your reader over the phone. What words would you use to answer questions directly? 
-You can also use different keyword research tools. Try Google's[ Keyword Research  Planner](https://ads.google.com/home/tools/keyword-planner/) or[ Moz Analytics.](https://moz.com/login?redirect=https://analytics.moz.com/pro) They can help you brainstorm user-friendly words and phrases related to your topic. 
+You can also use different keyword research tools. Try Google's [Keyword Research Planner](https://ads.google.com/home/tools/keyword-planner/) or [Moz Analytics](https://moz.com/login?redirect=https://analytics.moz.com/pro). They can help you brainstorm user-friendly words and phrases related to your topic. 
 
 ### Make it scannable
 
-Structure your content with [clear headers](https://www.nngroup.com/articles/headings-pickup-lines/).  Present headers in a logical order. This will help a user scan the content easily to figure out what it's about. Make it specific to the topic or sub-topic. The clearest headers tell you something useful. 
+Structure your content with [clear headers](https://www.nngroup.com/articles/headings-pickup-lines/). Present headers in a logical order. This will help a user scan the content easily to figure out what it's about. Make it specific to the topic or sub-topic. The clearest headers tell you something useful. 
 Use bulleted lists to make content easy to scan. Remember: website users don't read, they scan. They often leave web pages within 10 to 20 seconds.
 
 ### Test your content with a readability tool
@@ -66,12 +66,14 @@ Always run your content through a readability tool. You can use  [Hemingway App]
 * titles 
 * any domain-specific language you have to use. For example, a medical term you might need to include in your content.
 
-### Do more "[just enough](https://www.nngroup.com/articles/why-you-only-need-to-test-with-5-users/)" user testing with your audience
+### Do more "just enough" user testing with your audience
+
+See "[just enough](https://www.nngroup.com/articles/why-you-only-need-to-test-with-5-users/)" article.
 
 Automated readability tools won't catch everything. You'll need to test your content with humans too. You can test:
 
-*  [Menu labels](https://www.nngroup.com/articles/tree-testing/) and micro-content. Keep your [user goals ](https://www.nngroup.com/articles/task-scenarios-usability-testing/)in mind. 
-*  Language.  Ask your users to read your content out loud. What words do they stumble over? How do they rate the clarity of the language (on a scale from 1 to 5)? 
+* [Menu labels](https://www.nngroup.com/articles/tree-testing/) and micro-content. Keep your [user goals](https://www.nngroup.com/articles/task-scenarios-usability-testing/) in mind.
+* Language. Ask your users to read your content out loud. What words do they stumble over? How do they rate the clarity of the language (on a scale from 1 to 5)? 
 * Understanding. Ask your users to paraphrase what they read.  What did they summarize correctly? What did they miss? What did they get wrong? 
 
 ## Join a plain language community
@@ -89,8 +91,8 @@ Automated readability tools won't catch everything. You'll need to test your con
 
 The Center for Plain Language offers training for federal employees.  You can take:
 
-* An [introductory class ](https://www.plainlanguage.gov/training/introductory-classes/)to plain language
-* A [bootcamp class ](https://www.plainlanguage.gov/training/train-the-trainer-bootcamp/)to become a plain language trainer at your organization
+* An [introductory class](https://www.plainlanguage.gov/training/introductory-classes/) to plain language
+* A [bootcamp class](https://www.plainlanguage.gov/training/train-the-trainer-bootcamp/) to become a plain language trainer at your organization
 If you're not a federal employee, you can also find [online training](https://www.plainlanguage.gov/training/online-training/) and look at our resources below.
 
 ## Helpful plain language resources 
