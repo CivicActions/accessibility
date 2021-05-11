@@ -22,6 +22,8 @@ primary:
     href: /playbook
   - text: Guide
     href: /guide
+  - text: Help
+    href: /help
   - text: Search
     href: /search
 
