@@ -32,8 +32,9 @@ One could also look to use a tool like WebAim's WAVE, ANDI, or Tota11y to scan a
 
 There are lots of checklists, rotating through a few of them will help give different people different things to think about accessibility:
 
-* [WAI](https://www.w3.org/WAI/test-evaluate/preliminary/)
-* [18F](https://accessibility.18f.gov/checklist/)
+* [W3C's Web Accessibility Initiative (WAI)](https://www.w3.org/WAI/test-evaluate/preliminary/)
+* [18F - USA Government](https://accessibility.18f.gov/checklist/)
+* [UK's GDS](https://gds.blog.gov.uk/2014/01/13/a-checklist-for-digital-inclusion-if-we-do-these-things-were-doing-digital-inclusion/)
 * [WebAim](https://webaim.org/standards/wcag/checklist)
 * [Elsevier's WCAG 2.1 Checklist](https://romeo.elsevier.com/accessibility_checklist/)
 * [A11yProject](https://www.a11yproject.com/checklist/)
