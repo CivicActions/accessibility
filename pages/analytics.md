@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Analytics
-description: Website traffic data for the CivicActions Accessibility website.
+description: Web traffic data for the CivicActions Accessibility website.
 permalink: /analytics
 
 ---
@@ -12,7 +12,7 @@ permalink: /analytics
 
 ## Why we do this
 
-We believe in open analytics/data and, by sharing this data publicly, we hope that others might learn from our work.
+We believe in open analytics/data and, by sharing this information publicly, we hope that others might learn from our work.
 
 ## Analytics
 
