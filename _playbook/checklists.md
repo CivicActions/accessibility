@@ -34,7 +34,8 @@ There are lots of checklists, rotating through a few of them will help give diff
 
 * [W3C's Web Accessibility Initiative (WAI)](https://www.w3.org/WAI/test-evaluate/preliminary/)
 * [18F - USA Government](https://accessibility.18f.gov/checklist/)
-* [UK's GDS](https://gds.blog.gov.uk/2014/01/13/a-checklist-for-digital-inclusion-if-we-do-these-things-were-doing-digital-inclusion/)
+* [UK's Government Digital Services (GDS)](https://gds.blog.gov.uk/2014/01/13/a-checklist-for-digital-inclusion-if-we-do-these-things-were-doing-digital-inclusion/)
+* [Government of Canada](https://canada-ca.github.io/digital-playbook-guide-numerique/views-vues/standards-normes/en/6-build-in-accessibility-from-start.html#services-should-meet-or-exceed-accessibility-standards)
 * [WebAim](https://webaim.org/standards/wcag/checklist)
 * [Elsevier's WCAG 2.1 Checklist](https://romeo.elsevier.com/accessibility_checklist/)
 * [A11yProject](https://www.a11yproject.com/checklist/)
