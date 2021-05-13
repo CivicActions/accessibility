@@ -1,0 +1,47 @@
+name: QA pull request
+
+on:
+  pull_request:
+    types: [ labeled ]
+
+jobs:
+  build:
+    name: Building QA site to review pull request
+    if: contains(github.event.pull_request.labels.*.name, 'qa-pull-request')
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout source.
+        uses: actions/checkout@v2
+
+      - name: Find and replace the main site domain
+        uses: jacobtomlinson/gha-find-replace@master
+        with:
+          find: "accessibility.civicactions.com"
+          replace: "accessibility-qa.civicactions.com"
+
+      - name: Install jekyll site dependencies.
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: 2.6
+          bundler-cache: true
+
+      - name: Build jekyll site.
+        run: bundle exec jekyll build
+
+      - name: Push _site directory to QA repository
+        uses: cpina/github-action-push-to-another-repository@main
+        env:
+          API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
+        with:
+          source-directory: '_site'
+          destination-github-username: 'CivicActions'
+          destination-repository-name: 'accessibility-qa'
+          commit-message: See ORIGIN_COMMIT from $GITHUB_REF
+          target-branch: main
+
+      - name: Comment on pull request.
+        uses: thollander/actions-comment-pull-request@master
+        with:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          message: "You can test changes in this branch at [https://accessibility-qa.civicactions.com/](https://accessibility-qa.civicactions.com/). If you pushed additional changes and need to reapply them, remove and readd the label 'qa-pull-request'."
