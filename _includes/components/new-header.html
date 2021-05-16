@@ -1,0 +1,54 @@
+<div class="usa-overlay"></div>
+<header class="usa-header usa-header--extended"><div class="usa-navbar">
+    <div class="usa-logo" id="extended-logo">
+        <em class="usa-logo__text"><a href="/" title="Home" aria-label="Home">
+            {{ header.title | default: site.title }} <sup>ALPHA</sup></a></em>
+    </div>
+    <button class="usa-menu-btn">Menu</button>
+</div>
+    <nav aria-label="Primary navigation" class="usa-nav">
+        <div class="usa-nav__inner"><button class="usa-nav__close"><img src="/assets/img/usa-icons/close.svg" role="img" alt="close"></button>
+
+
+
+            <ul class="usa-nav__primary usa-accordion"><li class="usa-nav__primary-item">
+                <button class="usa-accordion__button usa-nav__link {% if page.url contains '/about/' %} usa-current{% endif %}" aria-expanded="false" aria-controls="extended-nav-section-one"><span>About</span></button>
+
+                {{ page.active }}
+                <ul id="extended-nav-section-one" class="usa-nav__submenu"><li class="usa-nav__submenu-item">
+                    <a href="/about/" class="{% if page.url == '/about/' %} usa-current{% endif %}">Who we are</a>
+                </li><li class="usa-nav__submenu-item">
+                    <a href="about/people/" class="{% if page.url == '/about/people' %} usa-current{% endif %}">Meet us</a>
+                </li><li class="usa-nav__submenu-item">
+                    <a href="/about/contact" class="{% if page.url == '/about/contact' %} usa-current{% endif %}">Contact us</a>
+                </li><li class="usa-nav__submenu-item">
+                    <a href="/about/join" class="{% if page.url == '/about/join' %} usa-current{% endif %}">Join us</a>
+                </li></ul></li>
+                <li class="usa-nav__primary-item">
+                    <a class="usa-nav__link {% if page.url == '/calendar/' %} usa-current{% endif %}" href="/calendar"><span>Calendar</span></a>
+                </li>
+                <li class="usa-nav__primary-item">
+                    <a class="usa-nav__link {% if page.url == '/news/' %} usa-current{% endif %}" href="/news/"><span>News</span></a>
+                </li>
+
+                <li class="usa-nav__primary-item">
+                    <a class="usa-nav__link {% if page.url == '/playbook/' %} usa-current{% endif %}" href="/playbook/"><span>Playbook</span></a>
+                </li>
+
+                <li class="usa-nav__primary-item">
+                    <a class="usa-nav__link {% if page.url == '/guide/' %} usa-current{% endif %}" href="/guide/"><span>Guide</span></a>
+                </li>
+                <li class="usa-nav__primary-item">
+                    <a class="usa-nav__link {% if page.url == '/search' %} usa-current{% endif %}" href="/search"><span>Search</span></a>
+                </li>
+            </ul>
+
+
+            <div class="usa-nav__secondary">
+                <ul class="usa-nav__secondary-links"><li class="usa-nav__secondary-item">
+                    <a href="https://civicactions.com/">CivicActions.com</a>
+                </li></ul>
+            </div>
+        </div>
+    </nav>
+</header>
