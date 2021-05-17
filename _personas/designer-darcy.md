@@ -33,4 +33,4 @@ Worries the site's lack of visibility in the sun will force me to go back inside
 Evaluating designs for accessibility through online checklists
 
 ## Pain points
-Information architecture that doesn't allow them to easily find what they are looking for
+Information architecture that doesn't allow them to find what they are looking for
