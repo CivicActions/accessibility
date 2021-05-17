@@ -56,6 +56,23 @@
       }
     }
     .usa-current {
+      background-color: transparent;
+    }
+    button {
+      font-size: 1.1rem;
+    }
+    button[aria-expanded="true"] {
+      color: white;
+      background-color: #4866ff;
+      text-decoration: underline;
+    }
+    button[aria-expanded="true"].usa-current {
+      text-decoration: underline;
+      span {
+        color: white;
+      }
+    }
+    .usa-current {
       .fa-search::before {
         color: #0050d8;
       }
@@ -73,5 +90,17 @@
       }
     }
   }
+  .usa-search {
+    .usa-button {
+      border: 2px solid black;
+      border-bottom-left-radius: 0;
+      border-top-left-radius: 0;
+      // TODO fix hover states
+      &:hover,
+      &:focus {
+        background-image: url("../../assets/uswds/img/search-black.svg");
+      }
+    }
 
+  }
 }

@@ -4,6 +4,10 @@
 }
 
 .usa-sidenav {
+  display: none;
+  @media(min-width: 1024px){
+    display: block;
+  }
   @if variable-exists(side-nav-bg) {
     background-color: color($side-nav-bg);
   }
