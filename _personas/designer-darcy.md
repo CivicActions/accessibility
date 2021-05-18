@@ -15,22 +15,22 @@ Darcy is a fantastic designer who is able to express complex data tables and hel
 They feel that they can do their best work outside in the sun. They do all they can to shade their screen, but often there just isn't enough contrast. Darcy needs the ability to shift to high contrast or dark mode to be able to see better in different conditions. 
 
 ## Goals
-- Finding tools and techniques that would help them implement more inclusive designs
-- Understanding when and where accessibility checkpoints fit in the design process
+* Finding tools and techniques that would help them implement more inclusive designs
+* Understanding when and where accessibility checkpoints fit in the design process
 
 ## Needs
-- Ability to control the contrast of the website on their laptop.
-- Resources for testing with people with disabilities
-- Understanding how to include video/motion in designs in an accessible way
+* Ability to control the contrast of the website on their laptop.
+* Resources for testing with people with disabilities
+* Understanding how to include video/motion in designs in an accessible way
 
 ## Thoughts
-Do my designs pass the checklist to meet accessibility standards? 
+* Do my designs pass the checklist to meet accessibility standards? 
 
 ## Feelings
-Worries the site's lack of visibility in the sun will force me to go back inside to complete my task
+* Worries the site's lack of visibility in the sun will force me to go back inside to complete my task
 
 ## Behaviors
-Evaluating designs for accessibility through online checklists
+* Evaluating designs for accessibility through online checklists
 
 ## Pain points
-Information architecture that doesn't allow them to find what they are looking for
+* Information architecture that doesn't allow them to find what they are looking for
