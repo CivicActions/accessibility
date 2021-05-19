@@ -36,7 +36,7 @@ To ensure that there is committment throughout the organization is accessibility
 
 5 - Questions
 
-## Role Specific Workshops
+## Role specific workshops
 
 Each role in a company may need additional support in how they can best do their job. The UK's [DWP Accessibility Manual](https://accessibility-manual.dwp.gov.uk/) does a great job in [Guidance for your job role](https://accessibility-manual.dwp.gov.uk/guidance-for-your-job-role) as does the USA's [Accessibility for Teams](https://accessibility.digital.gov/). You may need additional training materials for roles like:
 
@@ -54,15 +54,18 @@ Each role in a company may need additional support in how they can best do their
     * DevOps/CI Engineer
 * User Researcher
 
-## Additional Resources/Examples
+## Additional resources/examples
 
-* [Microsoft Fundimentals Workshop](https://docs.microsoft.com/en-us/learn/paths/accessibility-fundamentals/)
-* [Disability:In](https://disabilityin.org/resource/disability-fundamentals-training-for-managers/)
-* [CivicActions related OKR](https://github.com/CivicActions/accessibility/issues/3)
+* [Accessibility Fundimentals Workshop - Microsoft](https://docs.microsoft.com/en-us/learn/paths/accessibility-fundamentals/)
+* [Disability Fundimentals Training for Managers - Disability:In](https://disabilityin.org/resource/disability-fundamentals-training-for-managers/)
+* [Accessible virtual meetings - Ontario Digital](https://medium.com/ontariodigital/accessible-virtual-meetings-d9b947eff592)
+* [Inclusive Design For Accessible Presentations - Smashing Magazine](https://www.smashingmagazine.com/2018/11/inclusive-design-accessible-presentations/)
+* [Presentations - Content Design London - Readability Guidelines](https://readabilityguidelines.co.uk/audiences-devices-channels/presentations/)
 
 ## Other inspiring videos
 * [Introducing Voice Control on Mac and iOS — Apple](https://www.youtube.com/watch?v=aqoXFCCTfm4)
 * [Apple - Accessibility - Sady](https://www.youtube.com/watch?v=su0djsYaDYI)
+* [CA Presentation Best Practices: Diversity, Equity, and Inclusion - educause](https://www.youtube.com/watch?v=LPYkatM-0dk)
 
 ## Supporting people with disabilities in virtual meetings
 * [Accessibility Strategies for Deaf / Hard of Hearing People in Remote Meetings](https://medium.com/cmcnally/accessibility-strategies-for-deaf-hard-of-hearing-people-in-remote-meetings-e19781b3bc4)
