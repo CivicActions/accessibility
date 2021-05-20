@@ -11,8 +11,6 @@ categories:
 
 ## Government open design systems {#government-open-design-systems}
 
-
-
 *   [GOV.UK - Design System](https://design-system.service.gov.uk/) -[GOV.UK Design System on GitHub](https://github.com/alphagov/govuk-design-system)
 *   [U.S. Web Design System (USWDS)](https://designsystem.digital.gov/) -[USWDS on GitHub](https://github.com/uswds/uswds)
 *   [USA CMS Design System](https://design.cms.gov/) -[CMS Design System on GitHub](https://github.com/cmsgov/design-system)
@@ -29,13 +27,18 @@ categories:
 
 ## Other open design systems {#other-open-design-systems}
 
-
-
-*   [Odyssey is Okta's official design system](https://github.com/okta/odyssey)
-*   [Carbon is IBM's open source design system](https://www.carbondesignsystem.com/) -[Carbon on GitHub](https://github.com/carbon-design-system/carbon)
-*   [Impact Design System](https://demos.creative-tim.com/impact-design-system/index.html) -[Impact Desigh System on GitHub](https://github.com/creativetimofficial/impact-design-system)
-*   [VMWare's Clarity Design System](https://clarity.design/) -[Clarity on GitHub](https://github.com/vmware/clarity)
-*   [Emulsify](https://www.emulsify.info/) -[Emulsify on GitHub](https://github.com/emulsify-ds)
-*   [ING's Lion Design System](https://lion-web-components.netlify.app/?path=/story/*) -[Lion on GitHub](https://github.com/ing-bank/lion)
-*   [Talend's Coral Design System](https://design.talend.com/) -[Coral on GitHub](https://github.com/Talend/design-system)
-*   [Orange Digital Accessibility](https://a11y-guidelines.orange.com/en/) -[Orange a11y-guidelines on GitHub](https://github.com/Orange-OpenSource/a11y-guidelines)
+*   [Okta's Odyssey Design System](https://github.com/okta/odyssey)
+*   [IBM's Carbon open source design system](https://www.carbondesignsystem.com/) - [Carbon on GitHub](https://github.com/carbon-design-system/carbon)
+*   [Impact Design System](https://demos.creative-tim.com/impact-design-system/index.html) - [Impact Desigh System on GitHub](https://github.com/creativetimofficial/impact-design-system)
+*   [VMWare's Clarity Design System](https://clarity.design/) - [Clarity on GitHub](https://github.com/vmware/clarity)
+*   [Emulsify](https://www.emulsify.info/) - [Emulsify on GitHub](https://github.com/emulsify-ds)
+*   [ING's Lion Design System](https://lion-web-components.netlify.app/?path=/story/*) - [Lion on GitHub](https://github.com/ing-bank/lion)
+*   [Talend's Coral Design System](https://design.talend.com/) - [Coral on GitHub](https://github.com/Talend/design-system)
+*   [Orange Digital Accessibility](https://a11y-guidelines.orange.com/en/) - [Orange a11y-guidelines on GitHub](https://github.com/Orange-OpenSource/a11y-guidelines)
+*   [Google's Material Design](https://material.io/) - [Material's Accessibility](https://material.io/design/usability/accessibility.html#understanding-accessibility)
+*   [Adobe's Spectrum](https://spectrum.adobe.com/) - [Spectrum's Inclusive Design](https://spectrum.adobe.com/page/inclusive-design/)
+*   [Microsoft's Fluent](https://www.microsoft.com/design/fluent/#/)
+*   [Bridge Lab's Bold](https://bold.bridge.ufsc.br/en/) - [Bold's Accessibility](https://bold.bridge.ufsc.br/en/design-guidelines/accessibility/)
+*   [Shopify's Polaris](https://polaris.shopify.com/) - [Polaris' Accessibility](https://polaris.shopify.com/foundations/accessibility)
+*   [Intuit's Quickbooks Design System](https://designsystem.quickbooks.com/) - [Quickbooks' Accessibility](https://designsystem.quickbooks.com/bolt/accessibility/)
+*   [Spark Design System](https://sparkdesignsystem.com/) - [Spark's Accessibility](https://sparkdesignsystem.com/principles/accessibility-guidelines/#accessibility-guidelines)
