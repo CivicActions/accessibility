@@ -7,7 +7,8 @@ anchors: heading
 
 ---
 
-* [Public calendar](https://calendar.google.com/calendar/embed?src=c_pvgi77tvsncfnggumi4fc3ktis%40group.calendar.google.com&ctz=America%2FLos_Angeles)
+## Calendars
+
 * [Internal calendar](https://calendar.google.com/calendar/u/2?cid=Y2l2aWNhY3Rpb25zLm5ldF81M3VqMDBoNzAzMzRpbTZzY3ZoOGE0dDlhZ0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
 
 ## Meetings
