@@ -1,24 +1,24 @@
 ---
 layout: post
 title:  "Automated web content testing: How we use open source tools to scale inclusive, accessible online content"
-date:   2021-05-07 07:00:00 -0800
+date:   2021-05-21 07:00:00 -0800
 description: Using GitHub and open source technology -- general and text-specific -- we created a continuous text feedback mechanism to help ensure our content meets out standards.
 author: daniel-mundra
 categories: 
 image: card-power.png
 ---
 
-Since launching the [CivicActions Accessibility](https://accessibility.civicactions.com/) website we have had [8 contributors on GitHub](https://github.com/CivicActions/accessibility) and many more helping build out the guide, playbooks, and posts.
+Since launching the [CivicActions Accessibility](https://accessibility.civicactions.com/) website we have had [9 contributors on GitHub](https://github.com/CivicActions/accessibility) and many more helping build out the guide, playbooks, and posts.
 
-To assist our contributors and ensure that our content is meeting our standards we have enabled automated testing (and some updating) of the text when submitted in a pull request.
+We value openness, agility, inclusiveness, and continuous improvement. To assist our contributors and ensure that our content is meeting our values we have enabled automated testing (and some updating) of the text when submitted in a pull request.
 
 ## The goals
 
-It is important that this site demonstrates our values and represents an accessible, professional site. It is important that we eliminate language that would alienate our audience. Ensuring that our site is consistently built makes it more sustainable to maintain in the long-run.
+It is important that this site demonstrates our values and represents an accessible, professional site. It is important that we eliminate language that would alienate our audience through insensitive and unclear language. Ensuring that our site is consistently built makes it more sustainable to maintain in the long-run.
 
 Most of these changes are done through plain text editors or directly on GitHub, so many of the conveniences that are built into modern word processing applications aren't available. These tools help us keep the quality of our site high.
 
-This automation is also not full-proof as it doesn't have the context for why a sentence is structured in a certain way or why particular words are used. This is another tool in our arsenal to help us with catching terms that might be offensive or less than inclusive, catching long complex sentences that we could rewrite, and so on.
+This automation is also not full-proof as it doesn't have the context for why a sentence is structured in a certain way or why particular words are used. This is another tool in our arsenal to help us continuously improve, like catching terms that might be offensive or less than inclusive, suggesting we rewrite long complex sentences, and so on.
 
 ## The technologies
 
@@ -113,7 +113,7 @@ function attacher() {
 
 Similar to our post [automated accessibility testing](/posts/automated-accessibility-testing-leveraging-github-actions-and-pa11y-ci-with-axe) we use [GitHub actions](https://github.com/CivicActions/accessibility/blob/main/.github/workflows/reviewdog.yml) to run our set up on pull requests. The setup is also tuned to only check the changes for the text issues and not all files to encourage the author to focus on the changes they are submitting.
 
-Here are some examples of tool doing its thing:
+### Examples
 
 In [pull request 373](https://github.com/CivicActions/accessibility/pull/373/files) and the below screenshot you can see that the sentence, "Whole websites can now be easily crawled for bugs" that the word **'easily'** has been flagged as may be insensitive and we should try to avoid it.
 
@@ -131,7 +131,7 @@ In this screenshot we see that a typo was misattributed as an insensitive word.
 
 ### Automating changes
 
-Some of the recommendations that are provided could be automatically changed like changing smart quotes to straight quotes. We do this using the pre-commit tool and here is an example.
+Some of the recommendations that are provided could be automatically changed like changing smart quotes to straight quotes (remember the note from earlier). We do this using the pre-commit tool and here is an example.
 
 In this screenshot we see a warning about a smart quote:
 ![Screenshot before](/assets/img/smart-quote-warning.png)
@@ -143,11 +143,11 @@ You can see the details at this URL: [pull request 342](https://github.com/Civic
 
 ### Future considerations
 
-We are interested in adding the [retext-simplify plugin](https://github.com/retextjs/retext-simplify) to check phrases for simpler alternatives. Maybe reduce the age for readability as well.
+We are interested in adding the [retext-simplify plugin](https://github.com/retextjs/retext-simplify) to check phrases for simpler alternatives and maybe reduce the age for readability. These and other changes are easy to tweak. Check out the [available plugins in the retext documentation](https://github.com/retextjs/retext/blob/main/doc/plugins.md).
 
 ## Conclusion
 
-Following the above set up can help you inject tools to help you test your content, but remember, automation can be devoid of context and can still contain our biases, so you want to keep tweaking the tools and double checking your content to make sure it meets your standards.
+Following the above set up can help you inject tools to help you test your content. But remember, automation can be devoid of context and can still contain our biases. You want to keep tweaking the tools and double checking your content to make sure it meets your values.
 
 ## Further reading and examples
 * The same tools above are used in:
