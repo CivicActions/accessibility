@@ -6,7 +6,7 @@ on:
 
 jobs:
   build:
-    name: Building QA site to review pull request
+    name: Building QA site to review pull request.
     if: contains(github.event.pull_request.labels.*.name, 'qa-pull-request')
     runs-on: ubuntu-latest
 
@@ -14,7 +14,7 @@ jobs:
       - name: Checkout source.
         uses: actions/checkout@v2
 
-      - name: Find and replace the main site domain
+      - name: Find and replace the main site domain.
         uses: jacobtomlinson/gha-find-replace@master
         with:
           find: "accessibility.civicactions.com"
@@ -29,7 +29,7 @@ jobs:
       - name: Build jekyll site.
         run: bundle exec jekyll build
         
-      - name: Replace contents of robots.txt
+      - name: Replace contents of robots.txt.
         uses: jacobtomlinson/gha-find-replace@master
         with:
           find: "Sitemap: https://accessibility-qa.civicactions.com/sitemap.xml"
@@ -38,7 +38,7 @@ jobs:
             Disallow: /
           include: "robots.txt"
 
-      - name: Push _site directory to QA repository
+      - name: Push _site directory to QA repository.
         uses: cpina/github-action-push-to-another-repository@main
         env:
           API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
@@ -49,8 +49,13 @@ jobs:
           commit-message: See ORIGIN_COMMIT from $GITHUB_REF
           target-branch: main
 
+      - name: Wait for 2 minutes for the QA site to be built after the changes are pushed.
+        uses: jakejarvis/wait-action@master
+        with:
+          time: '2m'
+
       - name: Comment on pull request.
         uses: thollander/actions-comment-pull-request@master
         with:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          message: "You can test changes in this branch at [https://accessibility-qa.civicactions.com/](https://accessibility-qa.civicactions.com/). If you pushed additional changes and need to reapply them, remove and readd the label 'qa-pull-request'."
+          message: "You can test changes in this branch at [https://accessibility-qa.civicactions.com/](https://accessibility-qa.civicactions.com/). If you pushed additional changes and need to reapply them, remove and readd the label 'qa-pull-request'. The QA repo can be accessed at [https://github.com/CivicActions/accessibility-qa](https://github.com/CivicActions/accessibility-qa)."
