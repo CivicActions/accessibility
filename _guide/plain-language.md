@@ -81,11 +81,12 @@ Automated readability tools won't catch everything. You'll need to test your con
 * [Digital.gov Plain Language Action and Information Network](https://digital.gov/communities/plain-language/). They promote plain  language in all government communications.
 * [Plain Language Association International LinkedIn](https://www.linkedin.com/groups/158634/). This group advocates for plain language in business, government, and law.
 
-## Bookmark a plain language tool
+## Find a plain language tool
 
 * [Hemingway App](http://www.hemingwayapp.com/)
 * [Readable.io](https://readable.io/)
-* [Flesch-Kincaid](https://support.microsoft.com/en-us/topic/get-your-document-s-readability-and-level-statistics-85b4969e-e80a-4777-8dd3-f7fc3c8b3fd2) (if using Microsoft Word)
+* [Flesch-Kincaid](https://support.microsoft.com/en-us/topic/get-your-document-s-readability-and-level-statistics-85b4969e-e80a-4777-8dd3-f7fc3c8b3fd2) (available in tools like Microsoft Word)
+* [OpenAdvocate WriteClearly](https://www.openadvocate.org/writeclearly/) - [OpenAdvocate on GitHub](https://github.com/openadvocate/writeclearly-server)
 
 ## Get trained in plain language 
 
@@ -115,4 +116,4 @@ If you're not a federal employee, you can also find [online training](https://ww
 
 ### Events
 
-* Celebrate your plain language success on [Plain Language Day](https://plainlanguagenetwork.org/plain/international-plain-language-day/)
+* Celebrate your plain language success on [Plain Language Day](https://plainlanguagenetwork.org/plain/international-plain-language-day/) (October 13)
