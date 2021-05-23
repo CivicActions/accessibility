@@ -10,6 +10,6 @@ Have questions about accessibility? We're here to help.
 
 * [Search the site](/search)
 * Visit our [guide](/guide) and [playbook](/playbook)
-* Message @accessibility-team in CivicActions Slack
 * [Start a discussion](https://github.com/CivicActions/accessibility/discussions)
 * Email <accessibility@civicactions.com>
+* Working for CivicActions already? Message @accessibility-team in the CivicActions Slack
