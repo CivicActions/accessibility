@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How we scale inclusive website content with automated testing and open source tools"
-date:   2021-05-25 07:00:00 -0800
+date:   2021-05-25 06:00:00 -0800
 description: Using GitHub and open source technology -- general and text-specific -- we created a continuous text feedback mechanism to help ensure our content meets out standards.
 author: daniel-mundra
 categories: 
