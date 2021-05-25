@@ -1,39 +1,43 @@
 ---
 layout: post
-title:  "Automated web content testing: How we use open source tools to scale inclusive, accessible online content"
-date:   2021-05-21 07:00:00 -0800
+title:  "How we scale inclusive website content with automated testing and open source tools"
+date:   2021-05-25 07:00:00 -0800
 description: Using GitHub and open source technology -- general and text-specific -- we created a continuous text feedback mechanism to help ensure our content meets out standards.
 author: daniel-mundra
 categories: 
 image: card-power.png
 ---
 
-Since launching the [CivicActions Accessibility](https://accessibility.civicactions.com/) website we have had [9 contributors on GitHub](https://github.com/CivicActions/accessibility) and many more helping build out the guide, playbooks, and posts.
+Since launching the [CivicActions Accessibility](https://accessibility.civicactions.com/) website, we've had [9 contributors on GitHub](https://github.com/CivicActions/accessibility) and many more contributing to our [guide](/guide), [playbooks](/playbook), and [posts](/news).
 
-We value openness, agility, inclusiveness, and continuous improvement. To assist our contributors and ensure that our content is meeting our values we have enabled automated testing (and some updating) of the text when submitted in a pull request.
+We value openness, agility, inclusiveness and continuous improvement. Ensuring that our site is consistently built makes it easier to maintain in the long-run.
 
-## The goals
+As our website grows, we want to ensure our content mirrors our values — and that it scales with ease. So, we have enabled automated testing (and some updating) of text when it's submitted in a pull request.
 
-It is important that this site demonstrates our values and represents an accessible, professional site. It is important that we eliminate language that would alienate our audience through insensitive and unclear language. Ensuring that our site is consistently built makes it more sustainable to maintain in the long-run.
+## Content goals that match our values
 
-Most of these changes are done through plain text editors or directly on GitHub, so many of the conveniences that are built into modern word processing applications aren't available. These tools help us keep the quality of our site high.
+It is important that this site demonstrates our values by being accessible and professional. That's why we eliminate unclear, insensitive language that could alienate our audience.
 
-This automation is also not full-proof as it doesn't have the context for why a sentence is structured in a certain way or why particular words are used. This is another tool in our arsenal to help us continuously improve, like catching terms that might be offensive or less than inclusive, suggesting we rewrite long complex sentences, and so on.
+Automation is not full-proof. It doesn't have context to understand why a sentence is structured a certain way or why particular words are used. It is a tool in our arsenal to help us continuously improve, like catching terms that might be offensive or simplifying complex sentences, and so on.
 
-## The technologies
+## The technology
+
+Most content changes are done through plain text editors or directly on GitHub. So, many of the conveniences that are built into modern word processing applications aren't available. The following tools help us keep the quality of our site high.
 
 To achieve the testing we use the following technologies:
-* [remark](https://github.com/remarkjs/remark) a Markdown processor. Markdown is how we write all our content that is then compiled into static HTML pages by Jekyll.
-* [retext](https://github.com/retextjs/retext) a natural language processor to check for issues in the text.
-* [reviewdog](https://github.com/reviewdog/reviewdog) takes the errors and warnings from the remark and retext and comments on the Markdown text in the code (pull request) indicating the issues and recommended corrections.
-* [pre-commit](https://pre-commit.com/) that can also test the files for any issues and in some cases update the text automatically.
-* [docker](https://www.docker.com/) and [GitHub Actions](https://github.com/features/actions) which are used to run the reviewdog scripts with remark and retext whenever a pull request is submitted.
+* [remark](https://github.com/remarkjs/remark): A markdown processor (Markdown is how we write all our content that is then compiled into static HTML pages by Jekyll).
+* [retext](https://github.com/retextjs/retext): A natural language processor to check for issues in the text.
+* [reviewdog](https://github.com/reviewdog/reviewdog): Takes the errors and warnings from remark and retext and comments on the markdown text in the code (pull request) indicating the issues and recommended corrections.
+* [pre-commit](https://pre-commit.com/): Also test files for any issues and in some cases updates the text automatically.
+* [docker](https://www.docker.com/) and [GitHub Actions](https://github.com/features/actions): Used to run the reviewdog scripts with remark and retext whenever a pull request is submitted.
 
 ## The setup
 
 For remark/retext we create a Docker image that installs the dependencies and sets up reviewdog to execute our configuration on a pull request. The details are [visible in our repository](https://github.com/CivicActions/accessibility/tree/main/lint) but here are the important bits.
 
-The following files (truncated for brevity) configure the plugins for testing markdown and text and their individual settings. Here are some of our example settings:
+The following files (truncated for brevity) configure the plugins for testing markdown and text — and their individual settings. 
+
+Here are some of our example settings:
 * Markdown bullets denoted with an asterisk '*'.
 * Single space between sentences.
 * Straight quotes (note this down, it will be important later in the post).
@@ -111,7 +115,7 @@ function attacher() {
 
 ## The execution
 
-Similar to our post [automated accessibility testing](/posts/automated-accessibility-testing-leveraging-github-actions-and-pa11y-ci-with-axe) we use [GitHub actions](https://github.com/CivicActions/accessibility/blob/main/.github/workflows/reviewdog.yml) to run our set up on pull requests. The setup is also tuned to only check the changes for the text issues and not all files to encourage the author to focus on the changes they are submitting.
+Similar to our [automated accessibility testing](/posts/automated-accessibility-testing-leveraging-github-actions-and-pa11y-ci-with-axe) post, we use [GitHub actions](https://github.com/CivicActions/accessibility/blob/main/.github/workflows/reviewdog.yml) to run our set up on pull requests. The setup is also tuned to only check the changes for the text issues and not all files. This encourages authors to focus on the changes they are submitting.
 
 ### Examples
 
@@ -131,7 +135,7 @@ In this screenshot we see that a typo was misattributed as an insensitive word.
 
 ### Automating changes
 
-Some of the recommendations that are provided could be automatically changed like changing smart quotes to straight quotes (remember the note from earlier). We do this using the pre-commit tool and here is an example.
+Some of the recommendations that are provided could be automatically edited, like changing smart quotes to straight quotes (remember the note from earlier). We do this using the pre-commit tool and here is an example:
 
 In this screenshot we see a warning about a smart quote:
 ![Screenshot before](/assets/img/smart-quote-warning.png)
@@ -143,11 +147,13 @@ You can see the details at this URL: [pull request 342](https://github.com/Civic
 
 ### Future considerations
 
-We are interested in adding the [retext-simplify plugin](https://github.com/retextjs/retext-simplify) to check phrases for simpler alternatives and maybe reduce the age for readability. These and other changes are easy to tweak. Check out the [available plugins in the retext documentation](https://github.com/retextjs/retext/blob/main/doc/plugins.md).
+We are interested in adding the [retext-simplify plugin](https://github.com/retextjs/retext-simplify) to check phrases for simpler alternatives and maybe reduce the age for readability. Check out the [available plugins in the retext documentation](https://github.com/retextjs/retext/blob/main/doc/plugins.md).
 
 ## Conclusion
 
-Following the above set up can help you inject tools to help you test your content. But remember, automation can be devoid of context and can still contain our biases. You want to keep tweaking the tools and double checking your content to make sure it meets your values.
+Following this set-up can help you inject tools to help you test your content. But remember, automation can be devoid of context and can still contain our biases. 
+
+You should keep tweaking the tools and double-check your content to make sure it meets your values.
 
 ## Further reading and examples
 * The same tools above are used in:
@@ -157,3 +163,5 @@ Following the above set up can help you inject tools to help you test your conte
   * [A markdown proofing platform for individuals, teams, and organizations](https://github.com/ritterim/markdown-proofing).
   * [Readability Check](https://marketplace.visualstudio.com/items?itemName=jemcclin.readabilitycheck).
   * [status-stats-jbrains package](https://atom.io/packages/status-stats-jbrains).
+
+Thank you to [Michelle Kang](/about/people/michelle-kang), [Marlena Medford](https://civicactions.com/team/marlena-medford), [Luke Fretwell](/about/people/luke-fretwell), and [Mike Gifford](/about/people/mike-gifford) for your support, thoughts, and feedback.
