@@ -11,7 +11,10 @@ var spell = require("retext-spell");
 var dictionary = require('dictionary-en')
 var equality = require("retext-equality");
 
-var ignoreWords = [];
+var ignoreWords = [
+  'CivicActions',
+  'github.com'
+];
 
 module.exports = attacher;
 
@@ -28,6 +31,9 @@ function attacher() {
         threshold: 5 / 7,
       })
       .use(equality, { ignore: ignoreWords || [] })
-      .use(spell, dictionary)
+      .use(spell, {
+        dictionary: dictionary,
+        ignore: ignoreWords || []
+      })
   );
 }
