@@ -19,8 +19,8 @@ Basic information on social media and accessibility.
 
 
 *   Use plain language
-*   Don’t use all-caps
-*   Include descriptive text before links (example: “Read the help page for more info: [LINK]”
+*   Don't use all-caps
+*   Include descriptive text before links (example: "Read the help page for more info: [LINK]"
 
 
 ### Hashtags
