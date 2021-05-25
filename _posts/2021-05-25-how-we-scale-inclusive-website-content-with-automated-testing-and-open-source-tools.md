@@ -123,7 +123,7 @@ In [pull request 373](https://github.com/CivicActions/accessibility/pull/373/fil
 
 ![Screenshot of the insensitive warning](/assets/img/insensitive-text-warning.png)
 
-In [pull request 374](https://github.com/CivicActions/accessibility/pull/374/commits/9b6c162495de0c5212e5cf99b27470e710082bdb) and the below screenshots you can see that I took an earlier version of this post and ran it through the process and got some good feedback.
+In [pull request 374](https://github.com/CivicActions/accessibility/pull/374/files) and the below screenshots you can see that I took an earlier version of this post and ran it through the process and got some good feedback.
 
 In this screenshot we see a warning about a hard to read sentence.
 
