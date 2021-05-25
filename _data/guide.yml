@@ -36,6 +36,11 @@ docs:
   description:
   icon: <i class="far fa-copy fa-5x" aria-hidden="true"></i>
 
+- title: Social media
+  url: /social-media
+  description: 
+  icon: <i class="fas fa-share-square fa-5x" aria-hidden="true"></i>
+
 - title: Events
   url: /events
   description: 
