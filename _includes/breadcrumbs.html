@@ -1,22 +1,21 @@
 <div id="breadcrumbs" class="grid-container">
     {% assign crumbs = page.url | remove:'/index.html' | split: '/' %}
-        <nav class="usa-breadcrumb" aria-label="Breadcrumbs">
-            <ol class="usa-breadcrumb__list">
-                <li class="usa-breadcrumb__list-item">
-                    <a href="/" class="usa-breadcrumb__link">Home</a>
-                </li>
-                {% for crumb in crumbs offset: 1 %}
-                    {% if forloop.last %}
-                        <li class="usa-breadcrumb__list-item usa-current" aria-current="page">
-                             {{ page.title }}
-                        </li>
-                    {% else %}
-                        <li class="usa-breadcrumb__list-item usa-current" aria-current="page">
-                             <a class="usa-breadcrumb__link" href="{% assign crumb_limit = forloop.index | plus: 1 %}{% for crumb in crumbs limit: crumb_limit %}{{ crumb | append: '/' | replace:'without-plugin/','without-plugins/' }}{% endfor %}">{{ crumb | replace:'-',' ' | remove:'.html' | capitalize }}</a>
-                        </li>
-                    {% endif %}
-                {% endfor %}
-            </ol>
-        </nav>
-
+    <nav class="usa-breadcrumb" aria-label="Breadcrumbs">
+        <ol class="usa-breadcrumb__list">
+            <li class="usa-breadcrumb__list-item">
+                <a href="/" class="usa-breadcrumb__link">Home</a>
+            </li>
+            {% for crumb in crumbs offset: 1 %}
+            {% if forloop.last %}
+            <li class="usa-breadcrumb__list-item usa-current" aria-current="page">
+                {{ page.title }}
+            </li>
+            {% else %}
+            <li class="usa-breadcrumb__list-item usa-current" aria-current="page">
+                <a class="usa-breadcrumb__link" href="{% assign crumb_limit = forloop.index | plus: 1 %}{% for crumb in crumbs limit: crumb_limit %}{{ crumb | append: '/' | replace:'without-plugin/','without-plugins/' }}{% endfor %}">{{ crumb | replace:'-',' ' | remove:'.html' | capitalize }}</a>
+            </li>
+            {% endif %}
+            {% endfor %}
+        </ol>
+    </nav>
 </div>
