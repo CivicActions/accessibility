@@ -66,7 +66,7 @@ We've taken these lists, added other roles that we didn't see included and inclu
 * **Tools:** [pa11y](https://pa11y.org/) and [Accessibility Insights](https://accessibilityinsights.io/).
 * Resources: [Blog - Embedding Accessibility into the DevOps Process](https://devops.com/embedding-accessibility-into-the-devops-process/).
 
-## Digital Performance Analyst
+## Digital Performance Analyst / Data Analysts / Business Intelligence
 * See: [UK](https://accessibility-manual.dwp.gov.uk/guidance-for-your-job-role/digital-performance-analyst)    
 * "As a Digital Performance Analyst, most of your considerations will be around presenting statistical data so that they don't exclude anybody that might not be able to perceive complex charts or tables of data."
 * **Tools:** [WebAim's WAVE Toolbar](https://wave.webaim.org/extension/).
