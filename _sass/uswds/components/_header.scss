@@ -66,6 +66,11 @@
       background-color: #4866ff;
       text-decoration: underline;
     }
+    @include at-media-max("mobile-lg") {
+      button[aria-expanded="true"] {
+        background-color: #fff;
+      }
+    }
     button[aria-expanded="true"].usa-current {
       text-decoration: underline;
       span {
