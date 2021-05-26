@@ -118,3 +118,4 @@ kramdown:
 
 exclude:
   - pa11y_output.txt
+  - lint
