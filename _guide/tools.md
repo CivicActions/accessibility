@@ -134,8 +134,6 @@ Testing with [Nightwatch](https://nightwatchjs.org/) on GitHub
 
 *   [Metamatrix Web Disability Simulator Chrome Extension](https://chrome.google.com/webstore/detail/web-disability-simulator/olioanlbgbpmdlgjnnampnnlohigkjla) on [Metamatrix on GitHub](https://github.com/Metamatrix/web-disability-simulator) \
 Simulates color blindness, low vision, dyslexia and more.
-*   [NoCoffee Chrome Extension](https://accessgarage.wordpress.com/) - [NoCoffee on GitHub](https://github.com/eeejay/NoCoffee) \
-Extension for Chrome, helpful for understanding people with slight to extreme vision problems.
 *   [Funkify Chrome Extension](https://www.funkify.org/) \
 Not open source, but a free version is available which simulates dyslexia and cognitive/motor/vision conditions.
 *   [ChromeLens Extension](http://chromelens.xyz/) - [ChromeLens on GitHub](https://github.com/chromelens/chromelens) \
