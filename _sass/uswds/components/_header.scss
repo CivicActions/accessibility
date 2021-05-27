@@ -66,15 +66,20 @@
       background-color: #4866ff;
       text-decoration: underline;
     }
-    @include at-media("mobile") {
-      button[aria-expanded="true"] {
-        background-color: #fff;
-      }
-    }
     button[aria-expanded="true"].usa-current {
       text-decoration: underline;
       span {
         color: white;
+      }
+    }
+    @include at-media-max($theme-header-min-width) {
+      button[aria-expanded="true"] {
+        background-color: #fff;
+      }
+      button[aria-expanded="true"].usa-current {
+        span {
+          color: #0050d8;
+        }
       }
     }
     .usa-current {

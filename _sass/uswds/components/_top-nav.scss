@@ -81,4 +81,14 @@
       }
     }
   }
+
+  @include at-media-max($theme-header-min-width) {
+    .usa-nav__submenu {
+      a:hover {
+        @if variable-exists(top-nav-dropdown-link) {
+          color: #0050d8;
+        }
+      }
+    }
+  }
 }
