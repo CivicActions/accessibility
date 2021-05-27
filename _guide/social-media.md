@@ -13,26 +13,19 @@ Basic information on social media and accessibility.
 
 ## Tips
 
-
 ### Text
 
-
-
-*   Use plain language
+*   Use [plain language](https://accessibility.civicactions.com/guide/plain-language)
 *   Don't use all-caps
 *   Include descriptive text before links (example: "Read the help page for more info: [LINK]"
 
 
 ### Hashtags
 
-
-
 *   Use camel case for hashtags (example: #WebAccessibility)
 
 
 ### Images
-
-
 
 *   Avoid images of text
 *   Add alt text to all images
@@ -42,15 +35,11 @@ Basic information on social media and accessibility.
 
 ### Video
 
-
-
 *   Add captions and transcripts
 *   Review any auto-generated text
 
 
 ### Emojis
-
-
 
 *   Use words instead of emojis to describe things
 *   Do not overuse emojis
@@ -60,7 +49,6 @@ Basic information on social media and accessibility.
 ## Hashtags
 
 Common accessibility-related hashtags:
-
 
 
 *   #accessibility
@@ -74,14 +62,10 @@ Common accessibility-related hashtags:
 
 ### General
 
-
-
 *   [Improving the Accessibility of Social Media in Government](https://digital.gov/resources/improving-the-accessibility-of-social-media-in-government/?dg) (Digital.gov)
 
 
 ### Twitter
-
-
 
 *   [How to make images accessible for people](https://help.twitter.com/en/using-twitter/picture-descriptions) (Twitter)
 *   [Learning to make Twitter content more accessible](https://digital.canada.ca/2021/03/12/learning-to-make-twitter-content-more-accessible/) (Canadian Digital Service)
@@ -89,8 +73,6 @@ Common accessibility-related hashtags:
 
 
 ### Facebook
-
-
 
 *   [Facebook Accessibility on Facebook](https://www.facebook.com/accessibility)
 *   [Facebook Accessibility on Twitter](https://twitter.com/fbaccess)
