@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Social media page added to CivicActions Accessibility Guide"
-date:   2021-05-25 06:00:00 -0800
+date:   2021-05-27 06:00:00 -0800
 description: This includes tips for text, hashtags, images, video, emoji and related resources.
 author: luke-fretwell
 categories: Social media
