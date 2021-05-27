@@ -66,7 +66,7 @@
       background-color: #4866ff;
       text-decoration: underline;
     }
-    @include at-media-max("mobile-lg") {
+    @include at-media("mobile") {
       button[aria-expanded="true"] {
         background-color: #fff;
       }
