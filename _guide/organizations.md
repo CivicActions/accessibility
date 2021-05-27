@@ -9,6 +9,9 @@ categories:
 
 ---
 
+*   [AbilityNet](https://www.abilitynet.org.uk/)
 *   [Disability:IN](https://disabilityin.org/)
-*   [International Association of Accessibility Professionals](https://www.accessibilityassociation.org/) (IAAP)
+*   [GAAD Foundation](https://gaad.foundation/)
+*   [International Association of Accessibility Professionals (IAAP)](https://www.accessibilityassociation.org/)
+*   [W3C's Web Accessibility Initiative (WAI)](https://www.w3.org/WAI/about/)
 *   [WebAIM](https://webaim.org/)
