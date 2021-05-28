@@ -4,7 +4,8 @@ title:  "How we scale inclusive website content with automated testing and open 
 date:   2021-05-25 06:00:00 -0800
 description: Using GitHub and open source technology -- general and text-specific -- we created a continuous text feedback mechanism to help ensure our content mirrors our values.
 author: daniel-mundra
-categories: 
+categories:
+  - Testing
 image: card-power.png
 ---
 
