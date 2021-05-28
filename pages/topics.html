@@ -1,0 +1,28 @@
+---
+layout: default
+title: Topics
+description:
+excerpt:
+permalink: /topics
+hero:
+  image:
+  callout:
+    alt: "Select a topic"
+    text: <!--Bring attention to a current priority-->
+  link:
+    text: Link to more about that priority
+    href: /link/
+  content:
+
+---
+<div class="">
+    <div class="grid-container">
+        <div class="">
+            <div class="grid-row grid-gap flex-align-start">
+                <div class="usa-layout-docs usa-layout-docs__main usa-prose{% if sidenav %} desktop:grid-col-9{% endif %}">
+                    {% include topic.html %}
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

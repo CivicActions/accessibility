@@ -4,7 +4,8 @@ title:  "Automated accessibility testing: Leveraging GitHub Actions and pa11y-ci
 date:   2021-03-12 07:00:00 -0800
 description: Using GitHub and open source technology -- general and accessibility-specific -- we created a continuous accessibility integration environment that helps us better practice what we preach.
 author: daniel-mundra
-categories: 
+categories:
+  - Testing
 image: card-power.png
 ---
 

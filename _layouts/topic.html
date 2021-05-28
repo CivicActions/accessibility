@@ -1,0 +1,70 @@
+---
+layout: default
+---
+{% comment %}Gather the matching content from pages, playbook, guide, and posts.{% endcomment %}
+{% assign playbook = site.playbook | where: "categories", page.title %}
+{% assign guide = site.guide | where: "categories", page.title %}
+{% assign personas = site.personas | where: "categories", page.title %}
+{% assign projects = site.projects | where: "categories", page.title %}
+{% assign posts = site.posts | where: "categories", page.title %}
+{% include breadcrumbs.html %}
+<div class="">
+    <div class="grid-container">
+        <div class="">
+            <div class="grid-row grid-gap flex-align-start">
+                <div class="usa-layout-docs usa-layout-docs__main usa-prose{% if sidenav %} desktop:grid-col-9{% endif %}">
+                    {% if page.title %}
+                    <h1>{{ page.title }}</h1>
+                    {% endif %}
+
+                    {% if playbook != empty %}
+                    <h2>Playbook</h2>
+                    {% for page in playbook %}
+                    <article>
+                        <h3><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></h3>
+                    </article>
+                    {% endfor %}
+                    {% endif %}
+
+                    {% if guide != empty %}
+                    <h2>Guide</h2>
+                    {% for page in guide %}
+                    <article>
+                        <h3><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></h3>
+                    </article>
+                    {% endfor %}
+                    {% endif %}
+
+                    {% if personas != empty %}
+                    <h2>Personas</h2>
+                    {% for page in personas %}
+                    <article>
+                        <h3><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></h3>
+                    </article>
+                    {% endfor %}
+                    {% endif %}
+
+                    {% if projects != empty %}
+                    <h2>Projects</h2>
+                    {% for page in projects %}
+                    <article>
+                        <h3><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></h3>
+                    </article>
+                    {% endfor %}
+                    {% endif %}
+
+                    {% if posts != empty %}
+                    <h2>News</h2>
+                    {% for page in posts %}
+                    {% assign author_data = site.people | where:"author", page.author | first %}
+                    <article>
+                        <h3><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></h3>
+                        <p class="text-muted">{{ page.date | date: "%B, %-d %Y"}} &middot; <a href="{{ author_data.url }}">{{ author_data.name }}</a></p>
+                    </article>
+                    {% endfor %}
+                    {% endif %}
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
