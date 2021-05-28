@@ -15,7 +15,7 @@
                 <button class="usa-accordion__button usa-nav__link {% if page.url contains '/about/' %} usa-current{% endif %}" aria-expanded="false" aria-controls="extended-nav-section-one"><span>About</span></button>
 
                 {{ page.active }}
-                <ul id="extended-nav-section-one" class="usa-nav__submenu"><li class="usa-nav__submenu-item">
+                <ul id="extended-nav-section-one" class="usa-nav__submenu" hidden><li class="usa-nav__submenu-item">
                     <a href="/about/" class="{% if page.url == '/about/' %} usa-current{% endif %}">Who we are</a>
                 </li><li class="usa-nav__submenu-item">
                     <a href="/about/people/" class="{% if page.url == '/about/people' %} usa-current{% endif %}">Meet us</a>
