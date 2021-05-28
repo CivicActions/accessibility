@@ -52,6 +52,14 @@ layout: none
         "title"    : "{{ page.title | escape }}",
         "url"      : "{{ site.baseurl }}{{ page.url }}"
       {% endif %}
+    },
+  {% endfor %}
+  {% for page in site.topics %}
+    {
+      {% if page.title != nil %}
+        "title"    : "{{ page.title | escape }}",
+        "url"      : "{{ site.baseurl }}{{ page.url }}"
+      {% endif %}
     } {% unless forloop.last %},{% endunless %}
   {% endfor %}
 ]
