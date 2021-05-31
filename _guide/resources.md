@@ -54,15 +54,15 @@ Accessibility related podcasts we recommend.
 
 ## Videos {#videos}
 
-
-
-*   [WAI Web Accessibility Perspectives Videos](https://www.w3.org/WAI/perspective-videos/) - A short list of videos from the W3C
-*   [DigitalGov Accessibility Playlist](https://www.youtube.com/playlist?list=PLd9b-GuOJ3nFHykZgRBZ7_bzwfZ526rxm) - A YouTube Playlist built by the USA Government
-*   [Heydon's Webbed Briefs](https://briefs.video/) series - A very entertaining and informative series of videos
-*   [Erik Kroes](https://www.youtube.com/channel/UCwrpGO76k2HyUQspl-rG2eQ/videos) series - Eric Kroes does live reviews of websites and teaches by doing
-*   [Eric Eggert](https://www.youtube.com/c/EricEggert) series - Eric Eggert walks through many high level 
-*   [AXSChat](https://www.youtube.com/channel/UCtXmNJEMGmHK9VArQNnvxAw/videos)- The videos behind the weekly [#axschat Twitter chat](https://twitter.com/search?q=%23axschat&src=typed_query&f=live)
+*   [AXSChat](https://www.youtube.com/channel/UCtXmNJEMGmHK9VArQNnvxAw/videos) - The videos behind the weekly [#axschat Twitter chat](https://twitter.com/search?q=%23axschat&src=typed_query&f=live)
 *   [A11yTalks](https://www.youtube.com/channel/UC__nH6oZrFXcUevljYJKbsw)
+*   [Accessibility London](https://www.youtube.com/channel/UCDIVL2ytbhD9ZCn8GaEIi_g) 
+*   [AbilityNet](https://www.youtube.com/user/abilitynet/videos)
+*   [DigitalGov Accessibility Playlist](https://www.youtube.com/playlist?list=PLd9b-GuOJ3nFHykZgRBZ7_bzwfZ526rxm) - A YouTube Playlist built by the USA Government
+*   [Eric Eggert](https://www.youtube.com/c/EricEggert) series - Eric Eggert walks through many high level 
+*   [Erik Kroes](https://www.youtube.com/channel/UCwrpGO76k2HyUQspl-rG2eQ/videos) series - Eric Kroes does live reviews of websites and teaches by doing
+*   [Heydon's Webbed Briefs](https://briefs.video/) series - A very entertaining and informative series of videos
+*   [WAI Web Accessibility Perspectives Videos](https://www.w3.org/WAI/perspective-videos/) - A short list of videos from the W3C
 
 
 ## Government-developed accessibility resources {#government-developed-accessibility-resources}
