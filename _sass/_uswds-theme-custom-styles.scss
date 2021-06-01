@@ -223,6 +223,15 @@ img.usa-media-block__img {
     }
 }
 
+.usa-social-link--rss {
+    background-image: url("../uswds/img/social-icons/rss25.svg"), linear-gradient(transparent, transparent);
+    background-repeat: no-repeat;
+    &:hover,
+    &:focus {
+        background-image: url("../uswds/img/social-icons/rss-white.svg"), linear-gradient(transparent, transparent);
+    }
+}
+
 p, .usa-navbar, .usa-nav, .usa-prose, .usa-footer, .usa-footer--big .usa-footer__primary-link, .usa-nav__inner, .usa-nav .usa-accordion {
     font-family: 'Nunito', sans-serif !important;
 }
