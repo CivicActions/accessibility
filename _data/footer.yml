@@ -62,6 +62,10 @@ contact:
       href: https://www.linkedin.com/company/civicactions/
       external: true
       type: linkedin
+    - text: RSS
+      href: https://accessibility.civicactions.com/feed.xml
+      external: true
+      type: rss
 
 #     - text: YouTube
 #       href: https://youtube.com
