@@ -13,7 +13,8 @@ url: "https://accessibility.civicactions.com" # the base hostname & protocol for
 plugins:
   - jekyll-sitemap
   - jekyll-redirect-from
-
+  - jekyll-feed
+  
 # Configuration for setting the site width to 100%
 # To enable, uncomment the following line
 # site_width: wide
