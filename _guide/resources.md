@@ -16,6 +16,7 @@ General and digital-specific accessibility books we recommend.
 
 
 *   [Accessibility for Everyone](https://abookapart.com/products/accessibility-for-everyone)
+*   [Giving a damn about accessibility](https://accessibility.uxdesign.cc/)
 *   [Mismatch: How Inclusion Shapes Design](https://mitpress.mit.edu/books/mismatch)
 *   [Inclusive Design for a Digital World: Designing with Accessibility in Mind](https://www.amazon.com/Inclusive-Design-Digital-World-Accessibility/dp/148425015X)
 *   [Inclusive Design Patterns](https://www.amazon.com/Inclusive-Design-Patterns-Heydon-Pickering-ebook/dp/B01MAXK8XR)
