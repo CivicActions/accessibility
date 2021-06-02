@@ -121,3 +121,7 @@ exclude:
   - pa11y_output.txt
   - lint
   - .idea
+  - gulpfile.js
+  - package.json
+  - package-lock.json
+  - uswds-jekyll.gemspec
