@@ -4,23 +4,44 @@ To ensure that there is committment throughout the organization is accessibility
 
 ## Pre-workshop
 
-### Ask new hires to watch 2 short videos from this list:
+### Trello card - watch 2 short videos from this list:
 
 * Deque https://www.youtube.com/watch?v=grrx2Lva7T0 (<3 minutes)
 * W3C WAI https://www.youtube.com/watch?v=20SHvU2PKsM (<5 minutes)
 * W3C WAI Léonie Watson https://www.youtube.com/watch?v=vK1tlLOavvM (39 minutes)
 
-### Have new staff take a simple quiz with multiple-choice questions like:
+### Trello card - take a simple quiz with multiple-choice questions:
 
 * Why is accessibility important?
     * It is a legal requirement
     * It is the right thing to do
     * It could benefit me now or in the future
     * All of the above
+* The Section 508 Refresh, is equivelant of what W3C Web Accessibility Initiative guideline:
+    * WCAG 2.0
+    * WCAG 2.1
+    * WCAG 3.0
+    * ATAG 2.0
+* Improving on accessibility can support people:
+    * with low vision
+    * who are hard of hearing
+    * People using their laptop outside on a sunny day
+    * All of the above
+* Which is not a tool that can be used to identify accessibility problems
+    * SSA.gov's ANDI Bookmarklet
+    * Microsoft's Accessibility Insights
+    * Firefox's Inclusive Widget
+    * NVDA Screen Reader
 
-### Get new staff to install a web accessibility tool like [WebAim's WAVE Toolbar extension/plugin](https://wave.webaim.org/extension/)
+### Trello card - investigate CivicActions existing resources
 
-## Basic Workshop (1hr)
+Our team has been working to extend the [CivicActions Accessibility](https://accessibility.civicactions.com/) site and integreate key elements into the [CivicActions Handbook](https://handbook.civicactions.com/). CivicActions believes in working in the open, so we also are leveraging tools on GitHub like the [Projects board](https://github.com/CivicActions/accessibility/projects/1) and [Discussions pages](https://github.com/CivicActions/accessibility/discussions).
+
+### Trello card - install a web accessibility tool like [WebAim's WAVE Toolbar extension/plugin](https://wave.webaim.org/extension/)
+
+Installing an accessibility browser extension and [learning the basics of how to use it](https://www.youtube.com/watch?v=ITUDiTgAZY0&t=270s) is important for everyone creating web content.  
+
+## Basic workshop (1hr)
 
 5 - Introduction
 
@@ -38,7 +59,7 @@ To ensure that there is committment throughout the organization is accessibility
 
 ## Role specific workshops
 
-Each role in a company may need additional support in how they can best do their job. The UK's [DWP Accessibility Manual](https://accessibility-manual.dwp.gov.uk/) does a great job in [Guidance for your job role](https://accessibility-manual.dwp.gov.uk/guidance-for-your-job-role) as does the USA's [Accessibility for Teams](https://accessibility.digital.gov/). You may need additional training materials for roles like:
+Each role in a company may need additional support in how they can best do their job. Our team has built on role based documentation provided by The [UK's DWP Guidance for your job role](https://accessibility-manual.dwp.gov.uk/guidance-for-your-job-role) and [Digital.gov's Accessibility for Teams](https://accessibility.digital.gov/) in the [CivicActions Accessibility site](https://accessibility.civicactions.com/playbook/roles). Additional training materials for roles like:
 
 * Business Analyst
 * Content Designer
