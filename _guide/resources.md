@@ -14,24 +14,30 @@ categories:
 General and digital-specific accessibility books we recommend.
 
 
+### Commercial available
 
-*   [Accessibility for Everyone](https://abookapart.com/products/accessibility-for-everyone)
-*   [Giving a damn about accessibility](https://accessibility.uxdesign.cc/)
-*   [Mismatch: How Inclusion Shapes Design](https://mitpress.mit.edu/books/mismatch)
-*   [Inclusive Design for a Digital World: Designing with Accessibility in Mind](https://www.amazon.com/Inclusive-Design-Digital-World-Accessibility/dp/148425015X)
-*   [Inclusive Design Patterns](https://www.amazon.com/Inclusive-Design-Patterns-Heydon-Pickering-ebook/dp/B01MAXK8XR)
-*   [Designing Connected Content: Plan and Model Digital Products for Today and Tomorrow](https://www.amazon.com/Designing-Connected-Content-Products-Tomorrow/dp/0134763386 )
-*   [Introduction to Web Accessibility](https://pressbooks.library.ryerson.ca/iwacc/)
-*   [Understanding Document Accessibility](https://pressbooks.library.ryerson.ca/docs/)
-*   [Agile Accessibility Explained](https://www.amazon.com/Agile-Accessibility-Explained-sustainable-development/dp/1689182733/ref=sr_1_2?dchild=1&keywords=Agile+Accessibility+Explained&qid=1615337578&sr=8-2)
-*   [Web Accessibility for Developers](https://pressbooks.library.ryerson.ca/wafd/)
-*   [Professional Web Accessibility Auditing Made Easy](https://pressbooks.library.ryerson.ca/pwaa/)
-*   [Digital Accessibility as a Business Practice](https://pressbooks.library.ryerson.ca/dabp/)
+*   [Accessibility for Everyone](https://abookapart.com/products/accessibility-for-everyone) - Laura Kalbag
+*   [Agile Accessibility Explained](https://www.amazon.com/Agile-Accessibility-Explained-sustainable-development/dp/1689182733/ref=sr_1_2?dchild=1&keywords=Agile+Accessibility+Explained&qid=1615337578&sr=8-2) Dylan Anthony Barrell
+*   [Design for Real Life](https://abookapart.com/products/design-for-real-life) - Sara Wachter-Boettcher and Eric Meyer
+*   [Designing Connected Content: Plan and Model Digital Products for Today and Tomorrow](https://www.amazon.com/Designing-Connected-Content-Products-Tomorrow/dp/0134763386) - Mike Atherton
+*   [End of Average](http://www.toddrose.com/endofaverage) - Todd Rose
+*   [Inclusive Design for a Digital World: Designing with Accessibility in Mind](https://www.amazon.com/Inclusive-Design-Digital-World-Accessibility/dp/148425015X) - Regine M. Gilbert
+*   [Inclusive Design Patterns](https://www.amazon.com/Inclusive-Design-Patterns-Heydon-Pickering-ebook/dp/B01MAXK8XR) - Heydon Pickering
+*   [Mismatch: How Inclusion Shapes Design](https://mitpress.mit.edu/books/mismatch) - Kat Holmes
+*   [Technically Wrong](https://www.amazon.ca/Technically-Wrong-Sexist-Algorithms-Threats/dp/0393356043) - Sara Wachter-Boettcher
+
+
+### Free
+
+*   [Giving a damn about accessibility](https://accessibility.uxdesign.cc/) - Sheri Byrne-Haber (Free)
+*   [Introduction to Web Accessibility](https://pressbooks.library.ryerson.ca/iwacc/) - the Chang School (Creative Commons Attribution ShareAlike)
+*   [Understanding Document Accessibility](https://pressbooks.library.ryerson.ca/docs/) - the Chang School (Creative Commons Attribution ShareAlike)
+*   [Web Accessibility for Developers](https://pressbooks.library.ryerson.ca/wafd/) - the Chang School (Creative Commons Attribution ShareAlike)
+*   [Professional Web Accessibility Auditing Made Easy](https://pressbooks.library.ryerson.ca/pwaa/) - the Chang School (Creative Commons Attribution ShareAlike)
+*   [Digital Accessibility as a Business Practice](https://pressbooks.library.ryerson.ca/dabp/) - the Chang School (Creative Commons Attribution ShareAlike)
 
 
 ## Newsletters {#newsletters}
-
-
 
 *   [A11yweekly.com](https://a11yweekly.com/) by David A. Kennedy
 *   [Accessibility Matters Newsletter](https://www.accessibilityassociation.org/content.asp?contentid=167) - by the IAAP
@@ -42,8 +48,6 @@ General and digital-specific accessibility books we recommend.
 ## Podcasts {#podcasts}
 
 Accessibility related podcasts we recommend.
-
-
 
 *   [13 letters](https://www.bemyeyes.com/podcasts-show/13-letters) - Engaging interviews about the people behind assistive technology. Produced by Be My Eyes. 
 *   [Be My Eyes Podcast](https://www.bemyeyes.com/podcasts-show/the-be-my-eyes-podcast) -  Stories about living blind in a sighted world.
@@ -68,8 +72,6 @@ Accessibility related podcasts we recommend.
 
 ## Government-developed accessibility resources {#government-developed-accessibility-resources}
 
-
-
 *   [Accessibility Guide by 18F](https://accessibility.18f.gov/) -[18F Guide on GitHub](https://github.com/18F/accessibility)
 *   [Accessibility for Teams USA Gov](https://accessibility.digital.gov/) -[Accessibility for Teams on GitHub](https://github.com/GSA/accessibility-for-teams)
 *   [Accessibility Manual by UK's DWP](https://accessibility-manual.dwp.gov.uk/) -[Accessibility Manual on GitHub](https://github.com/dwp/accessibility-manual)
@@ -79,8 +81,6 @@ Accessibility related podcasts we recommend.
 
 
 ## More inspiring open content {#more-inspiring-open-content}
-
-
 
 *   [a11y.css](https://ffoodd.github.io/a11y.css/) -[a11y.css on GitHub](https://github.com/ffoodd/a11y.css)
 *   [A11yProject.com](https://www.a11yproject.com/) -[A11yProject.com on GitHub](https://github.com/a11yproject/a11yproject.com)
@@ -92,8 +92,6 @@ Accessibility related podcasts we recommend.
 
 
 ## Drupal accessibility modules {#drupal-accessibility-modules}
-
-
 
 *   [Accessibility Scanner](https://www.drupal.org/project/accessibility_scanner) - Sitewide Drupal Scan (Achecker)
 *   [A11Y: Form helpers](https://www.drupal.org/project/a11y_form_helpers) - Fixing form issues like the HTML5 validation.
