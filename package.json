@@ -1,8 +1,7 @@
 {
-  "name": "uswds-jekyll",
-  "private": true,
-  "author": "18F",
-  "license": "CC0-1.0",
+  "name": "CivicActions-accessibility",
+  "author": "CivicActions",
+  "license": "Creative Commons Attribution-ShareAlike 4.0 International Public License",
   "scripts": {
     "postinstall": "bundle",
     "start": "bundle exec jekyll serve",
