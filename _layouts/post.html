@@ -43,7 +43,7 @@ main:
                     {% if author_data.content.size > 1 %}
                     <div class="post-bio">
                         <p>
-                            {{ author_data.content }}
+                            {{ author_data.content | markdownify }}
                         </p>
                     </div>
                     {% endif %}
