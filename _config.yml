@@ -124,5 +124,4 @@ exclude:
   - gulpfile.js
   - package.json
   - package-lock.json
-  - Rakefile
   - uswds-jekyll.gemspec
