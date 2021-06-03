@@ -41,7 +41,7 @@ Our team has been working to extend the [CivicActions Accessibility](https://acc
 
 ### Trello card - join the #accessibility slack channel & report your score
 
-We want everyone at CivicActions to get an 80% or higher in this quiz. If you don't sore high enough, feel free to engage with the Accessibility Team or to simply take the exam again. 
+We want everyone at CivicActions to get an 80% or higher in this quiz. If you don't score high enough, feel free to engage with the Accessibility Team or to simply take the exam again. 
 
 
 ### Trello card - install a web accessibility tool like [WebAim's WAVE Toolbar extension/plugin](https://wave.webaim.org/extension/)
