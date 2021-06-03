@@ -24,6 +24,29 @@
 // -- This will overwrite an existing command --
 // Cypress.Commands.overwrite('visit', (originalFn, url, options) => { ... })
 
+// Logs a11y violations, taken from https://github.com/component-driven/cypress-axe#using-the-violationcallback-argument.
+function terminalLog(violations) {
+  cy.task(
+    'log',
+    `${violations.length} accessibility violation${
+      violations.length === 1 ? '' : 's'
+    } ${violations.length === 1 ? 'was' : 'were'} detected`
+  )
+  // pluck specific keys to keep the table readable
+  const violationData = violations.map(
+    ({ id, impact, description, nodes }) => ({
+      id,
+      impact,
+      description,
+      nodes: nodes.length
+    })
+  )
+
+  cy.task('table', violationData)
+}
+
+// Check for accessibility issues with different window sizes.
+// Taken from https://timdeschryver.dev/blog/setting-up-cypress-with-axe-for-accessibility.
 Cypress.Commands.add('checkA11yWithMultipleViewPorts', () => {
   cy.injectAxe();
   ;[
@@ -35,11 +58,16 @@ Cypress.Commands.add('checkA11yWithMultipleViewPorts', () => {
     'iphone-6+',
     'ipad-mini',
   ].forEach(size => {
-    if (Cypress._.isArray(size)) {
+    if (Array.isArray(size)) {
       cy.viewport(size[0], size[1])
     } else {
       cy.viewport(size)
     }
-    cy.checkA11y()
+    cy.checkA11y(null, null, terminalLog)
   });
+})
+
+Cypress.Commands.add('checkA11yWithSingleViewPort', () => {
+  cy.injectAxe();
+  cy.checkA11y(null, null, terminalLog)
 })

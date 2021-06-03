@@ -4,8 +4,7 @@ describe('Menu on mobile', () => {
     cy.visit('/about/')
     cy.get('.usa-menu-btn').click()
     cy.get('.usa-accordion__button').click()
-    cy.injectAxe()
-    cy.checkA11y()
+    cy.checkA11yWithSingleViewPort()
   });
 
   it('submenu should be accessible when not active', () => {
@@ -13,7 +12,6 @@ describe('Menu on mobile', () => {
     cy.visit('/calendar')
     cy.get('.usa-menu-btn').click()
     cy.get('.usa-accordion__button').click()
-    cy.injectAxe()
-    cy.checkA11y()
+    cy.checkA11yWithSingleViewPort()
   })
 })
