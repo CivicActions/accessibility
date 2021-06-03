@@ -30,6 +30,10 @@ Adding the label 'qa-pull-request' to a pull request will deploy the changes to 
 
 This pipeline requires a personal access token or organizational one with the key `API_TOKEN_GITHUB`.
 
+## cypress.yml
+
+Run Cypress tests with Axe to check accessibility of the site with axe by interacting with the menu, search, and with different screen sizes.
+
 # References
 
 * https://github.com/pa11y/pa11y
@@ -46,3 +50,5 @@ This pipeline requires a personal access token or organizational one with the ke
 * https://stackoverflow.com/questions/62325286/run-github-actions-when-pull-requests-have-a-specific-label
 * https://github.com/marketplace/actions/push-directory-to-another-repository
 * https://github.com/marketplace/actions/find-and-replace
+* https://timdeschryver.dev/blog/setting-up-cypress-with-axe-for-accessibility
+* https://github.com/marketplace/actions/publish-unit-test-results

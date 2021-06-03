@@ -125,3 +125,7 @@ exclude:
   - package.json
   - package-lock.json
   - uswds-jekyll.gemspec
+  - cypress
+  - cypress.json
+  - .gitignore
+  - .github
