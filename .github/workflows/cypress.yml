@@ -1,0 +1,43 @@
+name: cypress tests
+
+on: [pull_request]
+
+jobs:
+  build:
+    name: Building site and running cypress tests
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout source.
+        uses: actions/checkout@v2
+
+      - name: Install jekyll site dependencies.
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: 2.6
+          bundler-cache: true
+
+      - name: Install cypress dependencies.
+        run: npm install
+
+      - name: Start up jekyll server.
+        run: npm run start-detached
+
+      - name: Run cypress.
+        uses: cypress-io/github-action@v2
+        with:
+          browser: chrome
+          headless: true
+
+      - name: Publish test results.
+        uses: EnricoMi/publish-unit-test-result-action@v1
+        if: always()
+        with:
+          files: cypress/results/*.xml
+
+      - name: Archive test results.
+        uses: actions/upload-artifact@v2
+        with:
+          name: cypress-results
+          path: cypress/results
+          retention-days: 2

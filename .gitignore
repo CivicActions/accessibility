@@ -10,5 +10,4 @@ output.log
 site
 pa11y_report
 pa11y_output.json
-cypress/videos
-cypress/junit*
+cypress/results
