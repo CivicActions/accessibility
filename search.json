@@ -46,6 +46,15 @@ layout: none
       {% endif %}
     },
   {% endfor %}
+  {% for page in site.personas %}
+    {
+      {% if page.title != nil %}
+        "title"    : "{{ page.title | escape }}",
+        "url"      : "{{ site.baseurl }}{{ page.url }}",
+        "content"  : "{{ page.content | strip_html | strip_newlines | escape | replace: "\&quot", "&quot" }}"
+      {% endif %}
+    },
+  {% endfor %}
   {% for page in site.projects %}
     {
       {% if page.title != nil %}
