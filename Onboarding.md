@@ -1,6 +1,6 @@
 # Onboarding in an Accessibility Positive Workplace - DRAFT
 
-To ensure that there is committment throughout the organization is accessibility, we need to ensure that team members are educated on accessibility, because this cannot be assumed. As a digital agency, our focus is on web accessibility. Making our content accessible is a key part of customer centred design. A basic understanding of accessibility issues is important for all staff because it allows our team to work more effectively together. 1/5 people have a disability, so there is a good chance that in an organization our size that not everyone percieves, operates or understands content the same way. 
+To ensure that there is commitment throughout the organization is accessibility, we need to ensure that team members are educated on accessibility, because this cannot be assumed. As a digital agency, our focus is on web accessibility. Making our content accessible is a key part of customer centred design. A basic understanding of accessibility issues is important for all staff because it allows our team to work more effectively together. 1/5 people have a disability, so there is a good chance that in an organization our size that not everyone perceives, operates or understands content the same way.
 
 ## Pre-workshop
 
@@ -17,7 +17,7 @@ To ensure that there is committment throughout the organization is accessibility
     * It is the right thing to do
     * It could benefit me now or in the future
     * All of the above
-* The Section 508 Refresh, is equivelant of what W3C Web Accessibility Initiative guideline:
+* The Section 508 Refresh, is equivalent of what W3C Web Accessibility Initiative guideline:
     * WCAG 2.0
     * WCAG 2.1
     * WCAG 3.0
@@ -35,13 +35,15 @@ To ensure that there is committment throughout the organization is accessibility
 
 ### Trello card - investigate CivicActions existing resources
 
-Our team has been working to extend the [CivicActions Accessibility](https://accessibility.civicactions.com/) site and integreate key elements into the [CivicActions Handbook](https://handbook.civicactions.com/). CivicActions believes in working in the open, so we also are leveraging tools on GitHub like the [Projects board](https://github.com/CivicActions/accessibility/projects/1) and [Discussions pages](https://github.com/CivicActions/accessibility/discussions).
+Our team has been working to extend the [CivicActions Accessibility](https://accessibility.civicactions.com/) site and integrate key elements into the [CivicActions Handbook](https://handbook.civicactions.com/). CivicActions believes in working in the open, so we also are leveraging tools on GitHub like the [Projects board](https://github.com/CivicActions/accessibility/projects/1) and [Discussions pages](https://github.com/CivicActions/accessibility/discussions).
 
 ### Trello card - install a web accessibility tool like [WebAim's WAVE Toolbar extension/plugin](https://wave.webaim.org/extension/)
 
 Installing an accessibility browser extension and [learning the basics of how to use it](https://www.youtube.com/watch?v=ITUDiTgAZY0&t=270s) is important for everyone creating web content.  
 
 ## Basic workshop (1hr)
+
+[Onboarding Deck (Internal)](https://docs.google.com/presentation/d/1cSfwSOsBZV95eIiv-DPe5bOLV6_7NSYv_O9AOlDbyvw/edit?usp=sharing)
 
 5 - Introduction
 
@@ -77,8 +79,8 @@ Each role in a company may need additional support in how they can best do their
 
 ## Additional resources/examples
 
-* [Accessibility Fundimentals Workshop - Microsoft](https://docs.microsoft.com/en-us/learn/paths/accessibility-fundamentals/)
-* [Disability Fundimentals Training for Managers - Disability:In](https://disabilityin.org/resource/disability-fundamentals-training-for-managers/)
+* [Accessibility Fundamentals Workshop - Microsoft](https://docs.microsoft.com/en-us/learn/paths/accessibility-fundamentals/)
+* [Disability Fundamentals Training for Managers - Disability:In](https://disabilityin.org/resource/disability-fundamentals-training-for-managers/)
 * [Accessible virtual meetings - Ontario Digital](https://medium.com/ontariodigital/accessible-virtual-meetings-d9b947eff592)
 * [Inclusive Design For Accessible Presentations - Smashing Magazine](https://www.smashingmagazine.com/2018/11/inclusive-design-accessible-presentations/)
 * [Presentations - Content Design London - Readability Guidelines](https://readabilityguidelines.co.uk/audiences-devices-channels/presentations/)
