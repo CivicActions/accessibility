@@ -128,3 +128,4 @@ exclude:
   - cypress
   - cypress.json
   - .gitignore
+  - .github
