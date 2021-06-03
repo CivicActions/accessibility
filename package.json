@@ -18,6 +18,8 @@
   "devDependencies": {
     "autoprefixer": "^10.2.5",
     "cached-path-relative": "^1.0.2",
+    "cypress": "^6.9.1",
+    "cypress-axe": "^0.12.2",
     "gulp": "^4.0.2",
     "gulp-postcss": "^9.0.0",
     "gulp-rename": "^2.0.0",
