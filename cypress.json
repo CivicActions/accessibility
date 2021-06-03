@@ -6,5 +6,6 @@
   "reporterOptions": {
     "mochaFile": "cypress/results/junit.[hash].xml",
     "toConsole": false
-  }
+  },
+  "screenshotsFolder": "cypress/results/screenshots"
 }
