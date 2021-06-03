@@ -31,6 +31,7 @@ jobs:
         if: always()
         with:
           files: cypress/results/*.xml
+          check_name: "Cypress Test Results"
 
       - name: Archive test results.
         uses: actions/upload-artifact@v2
