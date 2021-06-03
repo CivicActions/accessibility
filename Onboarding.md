@@ -10,6 +10,12 @@ To ensure that there is commitment throughout the organization is accessibility,
 * W3C WAI https://www.youtube.com/watch?v=20SHvU2PKsM (<5 minutes)
 * W3C WAI Léonie Watson https://www.youtube.com/watch?v=vK1tlLOavvM (39 minutes)
 
+
+### Trello card - investigate CivicActions existing resources
+
+Our team has been working to extend the [CivicActions Accessibility](https://accessibility.civicactions.com/) site and integrate key elements into the [CivicActions Handbook](https://handbook.civicactions.com/). CivicActions believes in working in the open, so we also are leveraging tools on GitHub like the [Projects board](https://github.com/CivicActions/accessibility/projects/1) and [Discussions pages](https://github.com/CivicActions/accessibility/discussions).
+
+
 ### Trello card - take a simple quiz with multiple-choice questions:
 
 * Why is accessibility important?
@@ -33,15 +39,16 @@ To ensure that there is commitment throughout the organization is accessibility,
     * Firefox's Inclusive Widget
     * NVDA Screen Reader
 
-### Trello card - investigate CivicActions existing resources
+### Trello card - join the #accessibility slack channel & report your score
 
-Our team has been working to extend the [CivicActions Accessibility](https://accessibility.civicactions.com/) site and integrate key elements into the [CivicActions Handbook](https://handbook.civicactions.com/). CivicActions believes in working in the open, so we also are leveraging tools on GitHub like the [Projects board](https://github.com/CivicActions/accessibility/projects/1) and [Discussions pages](https://github.com/CivicActions/accessibility/discussions).
+We want everyone at CivicActions to get an 80% or higher in this quiz. If you don't sore high enough, feel free to engage with the Accessibility Team or to simply take the exam again. 
+
 
 ### Trello card - install a web accessibility tool like [WebAim's WAVE Toolbar extension/plugin](https://wave.webaim.org/extension/)
 
 Installing an accessibility browser extension and [learning the basics of how to use it](https://www.youtube.com/watch?v=ITUDiTgAZY0&t=270s) is important for everyone creating web content.  
 
-## Basic workshop (1hr)
+## Trello card - Participate in our Basic workshop (1hr)
 
 [Onboarding Deck (Internal)](https://docs.google.com/presentation/d/1cSfwSOsBZV95eIiv-DPe5bOLV6_7NSYv_O9AOlDbyvw/edit?usp=sharing)
 
@@ -59,7 +66,7 @@ Installing an accessibility browser extension and [learning the basics of how to
 
 5 - Questions
 
-## Role specific workshops
+## Role specific workshops (Optional)
 
 Each role in a company may need additional support in how they can best do their job. Our team has built on role based documentation provided by The [UK's DWP Guidance for your job role](https://accessibility-manual.dwp.gov.uk/guidance-for-your-job-role) and [Digital.gov's Accessibility for Teams](https://accessibility.digital.gov/) in the [CivicActions Accessibility site](https://accessibility.civicactions.com/playbook/roles). Additional training materials for roles like:
 
