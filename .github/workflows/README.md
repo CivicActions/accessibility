@@ -50,5 +50,4 @@ Run Cypress tests with Axe to check accessibility of the site with axe by intera
 * https://stackoverflow.com/questions/62325286/run-github-actions-when-pull-requests-have-a-specific-label
 * https://github.com/marketplace/actions/push-directory-to-another-repository
 * https://github.com/marketplace/actions/find-and-replace
-* https://timdeschryver.dev/blog/setting-up-cypress-with-axe-for-accessibility
 * https://github.com/marketplace/actions/publish-unit-test-results

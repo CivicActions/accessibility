@@ -1,6 +1,6 @@
 /// <reference types="cypress" />
 // ***********************************************************
-// This example plugins/index.js can be used to load plugins
+// This plugins/index.js can be used to load plugins
 //
 // You can change the location of this file or turn off loading
 // the plugins file with the 'pluginsFile' configuration option.
@@ -19,4 +19,18 @@
 module.exports = (on, config) => {
   // `on` is used to hook into various events Cypress emits
   // `config` is the resolved Cypress config
+
+  // Taken from https://github.com/component-driven/cypress-axe#using-the-violationcallback-argument.
+  on('task', {
+    log(message) {
+      console.log(message)
+
+      return null
+    },
+    table(message) {
+      console.table(message)
+
+      return null
+    }
+  })
 }
