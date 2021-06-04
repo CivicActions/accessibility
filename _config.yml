@@ -106,6 +106,9 @@ collections:
   tools:
     output: true
     permalink: tools/:title
+  roles:
+    output: true
+    permalink: roles/:title
 
 defaults:
   - scope:
