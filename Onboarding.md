@@ -1,6 +1,6 @@
 # Onboarding in an Accessibility Positive Workplace - DRAFT
 
-To ensure that there is commitment throughout the organization is accessibility, we need to ensure that team members are educated on accessibility, because this cannot be assumed. As a digital agency, our focus is on web accessibility. Making our content accessible is a key part of customer centred design. A basic understanding of accessibility issues is important for all staff because it allows our team to work more effectively together. 1/5 people have a disability, so there is a good chance that in an organization our size that not everyone perceives, operates or understands content the same way.
+To ensure that there is commitment throughout the organization to accessibility, we need to ensure that team members are educated on accessibility, because this cannot be assumed. As a digital agency, our focus is on web accessibility. Making our content accessible is a key part of customer centred design. A basic understanding of accessibility issues is important for all staff because it allows our team to work more effectively together. 1/5 people have a disability, so there is a good chance that in an organization our size that not everyone perceives, operates or understands content the same way.
 
 ## Pre-workshop
 
@@ -38,6 +38,22 @@ Our team has been working to extend the [CivicActions Accessibility](https://acc
     * Microsoft's Accessibility Insights
     * Firefox's Inclusive Widget
     * NVDA Screen Reader
+* There are many forms of disabilities that are not obvious to an observer.
+    * True
+    * False
+* What are the 6 checks displayed in the summary when you run the WAVE Web Accessibility Evaluation Tool on a site
+    * Errors, Contrast Errors, Alerts, Features, Structural Elements, ARIA
+    * Errors, Navigation Elements, Alerts, Features, Headings, ARIA
+    * Errors, Contrast Errors, Alerts, ALT Elements, Headings, ARIA
+    * Errors, Contrast Errors, Alerts, Features, Structural Elements, Accessibility Score
+* Currently 50% of websites are accessible.
+    * True
+    * False
+* What are essential elements of writing in plain language? 
+    * Write for your audience 
+    * Put general information first, with specialized information or exceptions to the general information later 
+    * Write short paragraphs and include only one topic in each paragraph 
+    * All of the above
 
 ### Trello card - join the #accessibility slack channel & report your score
 
