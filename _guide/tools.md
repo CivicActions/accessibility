@@ -115,6 +115,7 @@ Allows for testing of contrast of text on top of a semi transparent background.
 ### Plugins, apps & integrations
 
 *   [Colour Contrast Analyser (CCA) by TPG](https://developer.paciellogroup.com/resources/contrastanalyser/) - [CCAe on GitHub](https://github.com/ThePacielloGroup/CCAe) \
+*   [Eye Dropper Chrome Extension](https://eyedropper.org/) - [Eye Dropper on GitHub](https://github.com/kepi/chromeEyeDropper)
 Determine the contrast ratio of two colors using an eyedrop tool on Windows and Mac.
 *   [Pika MacOS Color Picker](https://superhighfives.com/pika) - [Pika on GitHub](https://github.com/superhighfives/pika) \
 Open-source, native colour picker for macOS.
