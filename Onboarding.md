@@ -4,16 +4,21 @@ To ensure that there is commitment throughout the organization to accessibility,
 
 ## Pre-workshop
 
-### Trello card - watch 2 short videos from this list:
+### Trello card - watch these short videos from this list:
 
 * Deque https://www.youtube.com/watch?v=grrx2Lva7T0 (<3 minutes)
 * W3C WAI https://www.youtube.com/watch?v=20SHvU2PKsM (<5 minutes)
+* Washington, DC Government https://www.youtube.com/watch?v=Gv1aDEFlXq8 (<4 minutes)
+
+Bonus videos:
 * W3C WAI Léonie Watson https://www.youtube.com/watch?v=vK1tlLOavvM (39 minutes)
 
 
 ### Trello card - investigate CivicActions existing resources
 
 Our team has been working to extend the [CivicActions Accessibility](https://accessibility.civicactions.com/) site and integrate key elements into the [CivicActions Handbook](https://handbook.civicactions.com/). CivicActions believes in working in the open, so we also are leveraging tools on GitHub like the [Projects board](https://github.com/CivicActions/accessibility/projects/1) and [Discussions pages](https://github.com/CivicActions/accessibility/discussions).
+
+### Trello card - 
 
 
 ### Trello card - take a simple quiz with multiple-choice questions:
@@ -53,6 +58,12 @@ Our team has been working to extend the [CivicActions Accessibility](https://acc
     * Write for your audience 
     * Put general information first, with specialized information or exceptions to the general information later 
     * Write short paragraphs and include only one topic in each paragraph 
+    * All of the above
+* Attach a screenshot of a WAVE or Accessibility Insights report of a government website.
+* What is a best practice to engage with clients and team members that have disabilities (select all that apply)
+    * Always speak loudly and make sure to over empahsize with your lips
+    * With deaf people, look at the interpreter, not the person who you are talking with
+    * Ask the person if there is anything you can do to communicate with them more effectively
     * All of the above
 
 ### Trello card - join the #accessibility slack channel & report your score
