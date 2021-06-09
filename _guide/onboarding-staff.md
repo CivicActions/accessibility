@@ -11,11 +11,11 @@ categories:
 
 ## Effective Onboarding for an Accessibility Positive Workplace
 
-To ensure that there is commitment throughout the organization to digital inclusion, we need to ensure that team members are \
-educated on accessibility, because we know this is still unusual. As a digital agency, our focus is on web accessibility. Making \
-our content accessible is a key part of customer centred design. A basic understanding of accessibility issues is important \
-for all staff because it allows our team to work more effectively together. 1/5 people have a disability, so there is a good \
-chance that in an organization our size that not everyone perceives, operates or understands content the same way.
+When hiring new staff, we cannot assume that they are knowledgable about accessibility. To ensure that there is a \
+commitment to digital inclusion, we need to ensure that team members understand the basics. As a digital agency, \
+our focus is on web accessibility. Making our content accessible is a key part of customer centered design. A common \
+understanding allows our team to work better together. One in five people have a disability, so there is a good \
+chance someone on your team will have a disability.
 
 
 ## Pre-workshop Tasks
@@ -132,7 +132,7 @@ Each role in a company may need additional support in how they can best do their
 * Interaction Designer
 * Product Manager
 * QA Tester
-* Software Engineer or Frontend Developer
+* Software Engineer or Front-end Developer
     * Drupal Developer
     * Drupal Site Builder
     * Front-end Engineer (headless)
@@ -147,6 +147,7 @@ Each role in a company may need additional support in how they can best do their
 * [Accessible virtual meetings - Ontario Digital](https://medium.com/ontariodigital/accessible-virtual-meetings-d9b947eff592)
 * [Inclusive Design For Accessible Presentations - Smashing Magazine](https://www.smashingmagazine.com/2018/11/inclusive-design-accessible-presentations/)
 * [Presentations - Content Design London - Readability Guidelines](https://readabilityguidelines.co.uk/audiences-devices-channels/presentations/)
+
 
 ## Supporting people with disabilities in virtual meetings
 * [Accessibility Strategies for Deaf / Hard of Hearing People in Remote Meetings](https://medium.com/cmcnally/accessibility-strategies-for-deaf-hard-of-hearing-people-in-remote-meetings-e19781b3bc4)
