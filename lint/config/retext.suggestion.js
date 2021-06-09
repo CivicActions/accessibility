@@ -7,8 +7,6 @@ var remark2retext = require("remark-retext");
 var english = require("retext-english");
 var contractions = require("retext-contractions");
 var readability = require("retext-readability");
-var spell = require("retext-spell");
-var dictionary = require('dictionary-en')
 var equality = require("retext-equality");
 
 var ignoreWords = [
@@ -31,9 +29,5 @@ function attacher() {
         threshold: 5 / 7,
       })
       .use(equality, { ignore: ignoreWords || [] })
-      .use(spell, {
-        dictionary: dictionary,
-        ignore: ignoreWords || []
-      })
   );
 }
