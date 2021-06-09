@@ -18,7 +18,17 @@ Bonus videos:
 
 Our team has been working to extend the [CivicActions Accessibility](https://accessibility.civicactions.com/) site and integrate key elements into the [CivicActions Handbook](https://handbook.civicactions.com/). CivicActions believes in working in the open, so we also are leveraging tools on GitHub like the [Projects board](https://github.com/CivicActions/accessibility/projects/1) and [Discussions pages](https://github.com/CivicActions/accessibility/discussions).
 
-### Trello card - 
+
+### Trello card - install a web accessibility tool like [WebAim's WAVE Toolbar extension/plugin](https://wave.webaim.org/extension/)
+
+Installing an accessibility browser extension and [learning the basics of how to use it](https://www.youtube.com/watch?v=ITUDiTgAZY0&t=270s) is important for everyone creating web content.  
+
+
+### Trello card - investigate and possibly configure accessibility settings in your operating system
+
+Apple, Windows, Chromebook, Linux desktop OS all have built-in accessibility features. So do mobile systems like Android & iOS.
+
+**Mac users** - enable [Full Keyboard Access](https://www.macobserver.com/tips/quick-tip/navigate-mac-full-keyboard-access/#:~:text=%20To%20turn%20on%20Full%20Keyboard%20Access%3A%20,Keyboard.%204%20Click%20the%20Shortcuts%20tab.%20More%20) to be able to test keyboard only navigation.
 
 
 ### Trello card - take a simple quiz with multiple-choice questions:
@@ -28,7 +38,7 @@ Our team has been working to extend the [CivicActions Accessibility](https://acc
     * It is the right thing to do
     * It could benefit me now or in the future
     * All of the above
-* The Section 508 Refresh, is equivalent of what W3C Web Accessibility Initiative guideline:
+* The Section 508 Refresh, is equivalent of what W3C Web Accessibility Initiative guideline?
     * WCAG 2.0
     * WCAG 2.1
     * WCAG 3.0
@@ -38,7 +48,7 @@ Our team has been working to extend the [CivicActions Accessibility](https://acc
     * who are hard of hearing
     * People using their laptop outside on a sunny day
     * All of the above
-* Which is not a tool that can be used to identify accessibility problems
+* Which is not a tool that can be used to identify accessibility problems?
     * SSA.gov's ANDI Bookmarklet
     * Microsoft's Accessibility Insights
     * Firefox's Inclusive Widget
@@ -46,7 +56,7 @@ Our team has been working to extend the [CivicActions Accessibility](https://acc
 * There are many forms of disabilities that are not obvious to an observer.
     * True
     * False
-* What are the 6 checks displayed in the summary when you run the WAVE Web Accessibility Evaluation Tool on a site
+* What are the 6 checks displayed in the summary when you run the WAVE Web Accessibility Evaluation Tool on a site?
     * Errors, Contrast Errors, Alerts, Features, Structural Elements, ARIA
     * Errors, Navigation Elements, Alerts, Features, Headings, ARIA
     * Errors, Contrast Errors, Alerts, ALT Elements, Headings, ARIA
@@ -60,8 +70,8 @@ Our team has been working to extend the [CivicActions Accessibility](https://acc
     * Write short paragraphs and include only one topic in each paragraph 
     * All of the above
 * Attach a screenshot of a WAVE or Accessibility Insights report of a government website.
-* What is a best practice to engage with clients and team members that have disabilities (select all that apply)
-    * Always speak loudly and make sure to over empahsize with your lips
+* What is a best practice to engage with clients and team members that have disabilities?
+    * Always speak loudly and make sure to over emphasize with your lips
     * With deaf people, look at the interpreter, not the person who you are talking with
     * Ask the person if there is anything you can do to communicate with them more effectively
     * All of the above
@@ -70,10 +80,6 @@ Our team has been working to extend the [CivicActions Accessibility](https://acc
 
 We want everyone at CivicActions to get an 80% or higher in this quiz. If you don't score high enough, feel free to engage with the Accessibility Team or to simply take the exam again. 
 
-
-### Trello card - install a web accessibility tool like [WebAim's WAVE Toolbar extension/plugin](https://wave.webaim.org/extension/)
-
-Installing an accessibility browser extension and [learning the basics of how to use it](https://www.youtube.com/watch?v=ITUDiTgAZY0&t=270s) is important for everyone creating web content.  
 
 ## Trello card - Participate in our Basic workshop (1hr)
 
