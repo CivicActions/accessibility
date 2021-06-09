@@ -66,7 +66,7 @@ docs:
   description: 
   icon: <i class="fas fa-book-open fa-5x" aria-hidden="true"></i>
   
-  - title: Onboarding
+- title: Onboarding
   url: /onboarding
   description: 
   icon: <i class="fas fa-chalkboard-teacher fa-5x" aria-hidden="true"></i>
