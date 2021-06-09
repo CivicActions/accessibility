@@ -63,7 +63,8 @@ Feature-rich testing suite for reviewing/auditing a11y on web sites, Android app
 *   [Accessibility Toolbar Plugin](https://webworks.ga/acc_toolbar/) - [ACC Toolbar on GitHub](https://github.com/mickidum/acc_toolbar) \
 A component you can add to your site which adds tools that give people with vision disabilities a way to change text size, contrast level, etc...
 *   [axe by Deque](https://www.deque.com/axe/) - [axe GitHub Page](https://github.com/dequelabs/axe-core) \
-A leading testing toolkit that powers many other projects and offers different levels of usage, through browser extension tests or within continuous integration via their API.
+A leading testing toolkit that powers many other projects and offers different levels of usage, through browser extension tests or within continuous \
+integration via their API.
 *   [bbc-a11y](https://github.com/bbc/bbc-a11y/blob/master/guides/using/checking-a-website.md) on GitHub \
 This tool runs a set of tests against a set of URLs to verify whether each one meets the [BBC accessibility guidelines](https://www.bbc.co.uk/accessibility/forproducts/guides/mobile/). Can be run from the command line and added to continuous integration pipelines.
 *   [Google Lighthouse](https://developers.google.com/web/tools/lighthouse/) - [Lighthouse on GitHub](https://github.com/GoogleChrome/lighthouse) \
@@ -74,6 +75,8 @@ Tools from IBM that can automate accessibility testing from a browser, or when a
 Browser extension that allows you to navigate a web page via WAI-ARIA landmarks, using the keyboard or a pop-up menu.
 *   [Tota11y by Khan Academy](https://khan.github.io/tota11y/) - [Tota11y on GitHub](https://github.com/Khan/tota11y) A single JavaScript file that \
 inserts a small button in the bottom corner of your document with information about accessibility errors on the page.
+*   [Firefox AInspector WCAG](https://addons.mozilla.org/en-US/firefox/addon/ainspector-wcag/) - A Firefox Add-on that addresses accessibility compliance \
+using OpenAjax Alliance rulesets. 
 
 ## Bookmarklets {#bookmarklets}
 
