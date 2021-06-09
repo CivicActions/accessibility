@@ -9,6 +9,7 @@ class:
 {% assign personas = site.personas | where: "roles", page.title %}
 {% assign projects = site.projects | where: "roles", page.title %}
 {% assign posts = site.posts | where: "roles", page.title %}
+{% assign books = site.data.books.docs | where: "roles", page.title %}
 {% include breadcrumbs.html %}
 <div class="guide-main">
     <div class="">
@@ -25,6 +26,15 @@ class:
                     <h1>{{ page.title }}</h1>
                     {% endif %}
 
+                    {% if personas != empty %}
+                    <h2>Personas</h2>
+                    {% for page in personas %}
+                    <article>
+                        <h3><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></h3>
+                    </article>
+                    {% endfor %}
+                    {% endif %}
+
                     {% if playbook != empty %}
                     <h2>Playbook</h2>
                     {% for page in playbook %}
@@ -34,18 +44,18 @@ class:
                     {% endfor %}
                     {% endif %}
 
-                    {% if guide != empty %}
-                    <h2>Guide</h2>
-                    {% for page in guide %}
+                    {% if books != empty %}
+                    <h2>Books</h2>
+                    {% for page in books %}
                     <article>
                         <h3><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></h3>
                     </article>
                     {% endfor %}
                     {% endif %}
 
-                    {% if personas != empty %}
-                    <h2>Personas</h2>
-                    {% for page in personas %}
+                    {% if guide != empty %}
+                    <h2>Guide</h2>
+                    {% for page in guide %}
                     <article>
                         <h3><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></h3>
                     </article>

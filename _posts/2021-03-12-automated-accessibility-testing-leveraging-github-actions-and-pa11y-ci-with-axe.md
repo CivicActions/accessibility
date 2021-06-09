@@ -7,6 +7,8 @@ author: daniel-mundra
 categories:
   - Testing
 image: card-power.png
+roles:
+  - Developer
 ---
 
 We launched the [CivicActions Accessibility](https://accessibility.civicactions.com/) practice area and its accompanying website in January 2021.

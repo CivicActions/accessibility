@@ -7,6 +7,8 @@ author: daniel-mundra
 categories:
   - Testing
 image: card-power.png
+roles:
+  - Developer
 ---
 
 Since launching the [CivicActions Accessibility](https://accessibility.civicactions.com/) website, we've had [9 contributors on GitHub](https://github.com/CivicActions/accessibility) and many more contributing to our [guide](/guide), [playbooks](/playbook), and [posts](/news).

@@ -6,7 +6,8 @@ excerpt: Basic information on social media and accessibility.
 sidenav: docs
 categories:
   - Accessibility
-
+roles:
+  - Content designer
 ---
 
 Basic information on social media and accessibility.

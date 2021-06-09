@@ -1,0 +1,9 @@
+docs_list_title: books
+docs:
+
+- title: "Web Accessibility for Developers"
+  author: Sheri Byrne-Haber
+  url: https://pressbooks.library.ryerson.ca/wafd/
+  img: 
+  roles:
+    - Developer

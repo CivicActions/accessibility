@@ -6,7 +6,8 @@ excerpt:
 sidenav: docs
 categories:
   - Accessibility
-
+roles:
+  - Content designer
 ---
  
 For Microsoft Word/Powerpoint, portable document formats and electronic publication documents.
