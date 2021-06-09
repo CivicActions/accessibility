@@ -28,7 +28,7 @@ Installing an accessibility browser extension and [learning the basics of how to
 
 Apple, Windows, Chromebook, Linux desktop OS all have built-in accessibility features. So do mobile systems like Android & iOS.
 
-**Mac users** - enable [Full Keyboard Access](https://www.macobserver.com/tips/quick-tip/navigate-mac-full-keyboard-access/#:~:text=%20To%20turn%20on%20Full%20Keyboard%20Access%3A%20,Keyboard.%204%20Click%20the%20Shortcuts%20tab.%20More%20) to be able to test keyboard only navigation.
+**Mac users** - enable [Full Keyboard Access](https://www.macobserver.com/tips/quick-tip/navigate-mac-full-keyboard-access/) to be able to test keyboard only navigation.
 
 
 ### Trello card - take a simple quiz with multiple-choice questions:
