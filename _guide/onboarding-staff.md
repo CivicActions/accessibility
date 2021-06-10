@@ -41,7 +41,7 @@ Our team has been working to extend the [CivicActions Accessibility](https://acc
 
 ### Trello card - Install a web accessibility browser extension
 
-Install a accessibility browser extension like [WebAim's WAVE Toolbar extension/plugin](https://wave.webaim.org/extension/) or [Microsoft's Accessibility Insights](https://accessibilityinsights.io/). Take the time to learning the basics of whichever one you choose because everyone has a role in producing accessible websites.
+Install an accessibility browser extension like [WebAim's WAVE Toolbar extension/plugin](https://wave.webaim.org/extension/) or [Microsoft's Accessibility Insights](https://accessibilityinsights.io/). Take the time to learn the basics of whichever one you choose because everyone has a role in producing accessible websites.
   * [WAVE](https://www.youtube.com/watch?v=ITUDiTgAZY0&t=270s)
   * [Accessibility Insights](https://www.youtube.com/watch?v=U6NY8Cxym5g)
 
@@ -54,6 +54,8 @@ Apple, Windows, Chromebook, Linux desktop OS all have built-in accessibility fea
 
 
 ### Trello card - Take a simple quiz with multiple-choice questions (include links to Google Forms):
+
+Onboarding Quiz (Internal) - [Edit view](https://docs.google.com/forms/d/1O7VV0YRrkDMPPucrrBPHOQIGm8yZ1y6dzuJZe2mHQwA/edit) and [Participant view](https://docs.google.com/forms/d/e/1FAIpQLSdpyp-NLXUzzmbc4zNQqikrgx0V2n1IbmZRYlWSIBstTFbI-Q/viewform)
 
 * Why is accessibility important?
     * It is a legal requirement
@@ -149,6 +151,7 @@ Each role in a company may need additional support in how they can best do their
 * [Accessible virtual meetings - Ontario Digital](https://medium.com/ontariodigital/accessible-virtual-meetings-d9b947eff592)
 * [Inclusive Design For Accessible Presentations - Smashing Magazine](https://www.smashingmagazine.com/2018/11/inclusive-design-accessible-presentations/)
 * [Presentations - Content Design London - Readability Guidelines](https://readabilityguidelines.co.uk/audiences-devices-channels/presentations/)
+* [Giving a damn about accessibility - UX Collective](https://uxdesign.cc/giving-a-damn-about-accessibility-6caf90be5a40) (PDF)
 
 
 ## Supporting people with disabilities in virtual meetings
