@@ -11,7 +11,7 @@ categories:
 
 ## Effective Onboarding for an Accessibility Positive Workplace
 
-When hiring new staff, we cannot assume that they are knowledgable about accessibility. To ensure that there is a \
+When hiring new staff, we cannot assume that they are knowledgeable about accessibility. To ensure that there is a \
 commitment to digital inclusion, we need to ensure that team members understand the basics. As a digital agency, \
 our focus is on web accessibility. Making our content accessible is a key part of customer centered design. A common \
 understanding allows our team to work better together. One in five people have a disability, so there is a good \
@@ -60,7 +60,7 @@ Apple, Windows, Chromebook, Linux desktop OS all have built-in accessibility fea
     * It is the right thing to do
     * It could benefit me now or in the future
     * All of the above
-* The Section 508 Refresh, is equivalent of what W3C Web Accessibility Initiative guideline?
+* The Section 508 Refresh, is equivalent to what W3C Web Accessibility Initiative guideline?
     * WCAG 2.0
     * WCAG 2.1
     * WCAG 3.0
