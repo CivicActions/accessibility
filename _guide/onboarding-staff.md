@@ -39,9 +39,11 @@ Bonus videos:
 Our team has been working to extend the [CivicActions Accessibility](https://accessibility.civicactions.com/) site and integrate key elements into the [CivicActions Handbook](https://handbook.civicactions.com/). CivicActions believes in working in the open, so we also are leveraging tools on GitHub like the [Projects board](https://github.com/CivicActions/accessibility/projects/1) and [Discussions pages](https://github.com/CivicActions/accessibility/discussions).
 
 
-### Trello card - Install a web accessibility tool like [WebAim's WAVE Toolbar extension/plugin](https://wave.webaim.org/extension/)
+### Trello card - Install a web accessibility browser extension
 
-Installing an accessibility browser extension and [learning the basics of how to use it](https://www.youtube.com/watch?v=ITUDiTgAZY0&t=270s) is important for everyone creating web content.  
+Install a accessibility browser extension like [WebAim's WAVE Toolbar extension/plugin](https://wave.webaim.org/extension/) or [Microsoft's Accessibility Insights](https://accessibilityinsights.io/). Take the time to learning the basics of whichever one you choose because everyone has a role in producing accessible websites.
+  * [WAVE](https://www.youtube.com/watch?v=ITUDiTgAZY0&t=270s)
+  * [Accessibility Insights](https://www.youtube.com/watch?v=U6NY8Cxym5g)
 
 
 ### Trello card - Investigate and possibly configure accessibility settings in your operating system
