@@ -16,6 +16,18 @@ jobs:
         with:
           ruby-version: 2.6
           bundler-cache: true
+          
+      - name: Cache pa11y-ci dependencies.
+        uses: actions/cache@v2
+        env:
+          cache-name: cache-node-modules
+        with:
+          path: ~/.npm
+          key: ${{ runner.os }}-build-${{ env.cache-name }}-${{ hashFiles('**/package-lock.json') }}
+          restore-keys: |
+            ${{ runner.os }}-build-${{ env.cache-name }}-
+            ${{ runner.os }}-build-
+            ${{ runner.os }}-
 
       - name: Install pa11y-ci dependencies.
         run: npm install
