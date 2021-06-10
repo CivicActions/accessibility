@@ -151,6 +151,7 @@ Each role in a company may need additional support in how they can best do their
 * [Accessible virtual meetings - Ontario Digital](https://medium.com/ontariodigital/accessible-virtual-meetings-d9b947eff592)
 * [Inclusive Design For Accessible Presentations - Smashing Magazine](https://www.smashingmagazine.com/2018/11/inclusive-design-accessible-presentations/)
 * [Presentations - Content Design London - Readability Guidelines](https://readabilityguidelines.co.uk/audiences-devices-channels/presentations/)
+* [Giving a damn about accessibility - UX Collective](https://uxdesign.cc/giving-a-damn-about-accessibility-6caf90be5a40) (PDF)
 
 
 ## Supporting people with disabilities in virtual meetings
