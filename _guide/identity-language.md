@@ -7,7 +7,14 @@ sidenav: docs
 categories:
   - Accessibility
 roles:
+  - Executive
   - Content designer
+  - Developer
+  - Operations
+  - Procurement
+  - Product manager
+  - Project manager
+  - UX designer
 ---
  
 People with disabilities suffer from considerable discrimination, some of which is in the form of language.

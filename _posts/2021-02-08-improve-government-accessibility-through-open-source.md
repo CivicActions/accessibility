@@ -6,6 +6,15 @@ description: How agencies can adopt an open source strategy to make their servic
 author: mike-gifford
 categories: 
 image: card-power.png
+roles:
+  - Executive
+  - Content designer
+  - Developer
+  - Operations
+  - Procurement
+  - Product manager
+  - Project manager
+  - UX designer
 ---
 
 I shared my thoughts on the CivicActions blog for how agencies can adopt an open source strategy to make their services more usable by people of all abilities.

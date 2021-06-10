@@ -6,6 +6,8 @@ description: GCN published a guest editorial we wrote that was inspired by a con
 author: luke-fretwell
 categories: 
 image: card-power.png
+roles:
+  - Developer
 ---
 
 *GCN* published a guest editorial we wrote that was inspired by a conversation we had on a recent CivicActions Accessibility practice area call.

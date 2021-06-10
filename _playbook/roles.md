@@ -6,7 +6,9 @@ excerpt:
 sidenav: docs
 categories:
   - Accessibility
-
+roles:
+  - Executive
+  - Operations
 ---
 
 Creation of modern digital content involves a great many distinct roles. Most roles only touch on some accessibility issues because they have limited access. The [UK's Department for Work & Pensions' Accessibility Manual (DWP)](https://accessibility-manual.dwp.gov.uk/) has specific [guidance for job role](https://accessibility-manual.dwp.gov.uk/guidance-for-your-job-role). Similarly the USA's GSA has created an [Accessibility for Teams](https://accessibility.digital.gov/) highlights roles that they see in the industry. Sarah Bourne, Director of IT Accessibility, MassIT, [mapped WCAG2 to roles and responsibilities for IAAP](https://www.accessibilityassociation.org/content.asp?contentid=347).

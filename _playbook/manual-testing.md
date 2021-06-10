@@ -6,7 +6,11 @@ excerpt:
 sidenav: docs
 categories:
   - Testing
-
+roles:
+  - Content designer
+  - Developer
+  - Product manager
+  - UX designer
 ---
 
 Manual testing is key to any comprehensive accessibility testing plan. We have designed websites in a very mouse-centric way, but there are many people who cannot use a mouse to navigate a site. Although it doesn't catch everything, basic keyboard only testing can catch many problems that automatic testing will miss. 

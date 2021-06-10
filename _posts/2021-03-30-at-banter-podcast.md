@@ -6,6 +6,15 @@ description: An entertaining discussion with the Banter crew and Mike Gifford.
 author: mike-gifford
 categories: 
 image: card-power.png
+roles:
+  - Executive
+  - Content designer
+  - Developer
+  - Operations
+  - Procurement
+  - Product manager
+  - Project manager
+  - UX designer
 ---
 
 I was interviewed on the [AT Banter Pocast - Episode 230](https://atbanter.com/2021/03/09/at-banter-episode-230-mike-gifford/) on a wide-ranging interview that covered technology, legislation and everything in between. 

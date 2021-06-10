@@ -6,7 +6,9 @@ excerpt:
 sidenav: docs
 categories:
   - Accessibility
-
+roles:
+  - Executive
+  - Operations
 ---
 
 Accessibility statements are concise declarations that highlight your commitment to inclusion, and ensure that there is a clear feedback loop for users who find barriers.

@@ -8,6 +8,10 @@ external-url: https://github.com/uswds/uswds/issues?q=is%3Aissue+label%3A%22topi
 categories:
   - Accessibility
 roles:
+  - Content designer
   - Developer
+  - Product manager
+  - Project manager
+  - UX designer
 ---
 

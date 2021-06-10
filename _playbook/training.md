@@ -6,7 +6,9 @@ excerpt:
 sidenav: docs
 categories:
   - Accessibility
-
+roles:
+  - Executive
+  - Operations
 ---
 
 Many government staff have not received adequate (or any) accessibility-specific training. Even as there are many resources available there is generally a lack of awareness—but when people find these resources they are often quick to take advantage. For example, when the UK's Government Digital Services (GDS) offered a free course on [content design](https://www.futurelearn.com/courses/introduction-to-content-design) through Future Learn, over 10 thousand people signed up.

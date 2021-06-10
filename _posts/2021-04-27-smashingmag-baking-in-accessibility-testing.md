@@ -6,6 +6,12 @@ description:
 author: mike-gifford
 categories: 
 image: card-power.png
+roles:
+  - Content designer
+  - Developer
+  - Product manager
+  - Project manager
+  - UX designer
 ---
 
 I co-authored an article with [Kate Kalcevich](https://twitter.com/katekalcevich) who is the Head of Services at [Fable](https://makeitfable.com/) about accessibility testing. 

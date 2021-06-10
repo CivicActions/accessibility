@@ -1,11 +1,13 @@
 ---
 layout: post
-title: "Pre-GAAD event: Authoring tools with built-in accessibility!"
+title: "Pre-GAAD event: Authoring tools with built-in accessibility"
 date:   2021-05-20 14:00:00 -0800
 description: 
 author: mike-gifford
 categories: 
 image: card-power.png
+roles:
+  - Developer
 ---
 
 Today is the [Global Accessibility Awareness Day](https://globalaccessibilityawarenessday.org/) or GAAD, 

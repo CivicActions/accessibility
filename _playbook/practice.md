@@ -6,7 +6,15 @@ excerpt:
 sidenav: docs
 categories:
   - Accessibility
-
+roles:
+  - Executive
+  - Content designer
+  - Developer
+  - Operations
+  - Procurement
+  - Product manager
+  - Project manager
+  - UX designer
 ---
 
 Within and across government departments, people with related knowledge and responsibilities are often scattered. Without a deliberate effort to build a shared understanding and define how digital accessibility is done, the approach and expertise can vary widely. Establishing a community of practice can make it easier to share knowledge and best practices, and help your organization align behind common goals for digital accessibility.

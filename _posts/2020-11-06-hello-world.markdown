@@ -6,6 +6,15 @@ description: Welcome to CivicActions Accessibility.
 author: luke-fretwell
 categories: 
 image: card-power.png
+roles:
+  - Executive
+  - Content designer
+  - Developer
+  - Operations
+  - Procurement
+  - Product manager
+  - Project manager
+  - UX designer
 ---
 
 Stay tuned. We're just getting started.

@@ -8,7 +8,9 @@ categories:
   - Testing
 image: card-power.png
 roles:
+  - Content designer
   - Developer
+  - Product manager
 ---
 
 Since launching the [CivicActions Accessibility](https://accessibility.civicactions.com/) website, we've had [9 contributors on GitHub](https://github.com/CivicActions/accessibility) and many more contributing to our [guide](/guide), [playbooks](/playbook), and [posts](/news).

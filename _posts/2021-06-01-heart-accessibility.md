@@ -6,6 +6,15 @@ description: Holistic Enterprise Accessibility Review Technique is a proactive, 
 author: mike-gifford
 categories: 
 image: card-power.png
+roles:
+  - Executive
+  - Content designer
+  - Developer
+  - Operations
+  - Procurement
+  - Product manager
+  - Project manager
+  - UX designer
 ---
 
 To help government agencies holistically address digital accessibility, we've developed a phased organizational framework we call [HEART](/heart).

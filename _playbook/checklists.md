@@ -6,7 +6,12 @@ excerpt:
 sidenav: docs
 categories:
   - Accessibility
-
+roles:
+  - Content designer
+  - Developer
+  - Product manager
+  - Project manager
+  - UX designer
 ---
 
 Checklists can be very useful, but there is no single checklist that will cover all WCAG issues. An organization can choose to build one or customize one to meet their needs. Ultimately though, it is useful to change the review process on a regular basis to ensure that people continue to learn new ways to create better content. 

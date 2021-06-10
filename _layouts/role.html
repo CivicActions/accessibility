@@ -10,25 +10,39 @@ class:
 {% assign projects = site.projects | where: "roles", page.title %}
 {% assign posts = site.posts | where: "roles", page.title %}
 {% assign books = site.data.books.docs | where: "roles", page.title %}
+{% assign tools = site.data.tools.docs | where: "roles", page.title %}
 {% include breadcrumbs.html %}
 <div class="guide-main">
     <div class="">
         <div class="grid-container">
             <div class="grid-row grid-gap flex-align-start">
+                <!--
                 {% assign sidenav = site.roles.navigation[page.sidenav] | default: page.sidenav %}
                 {% if sidenav %}
                 <div class="usa-layout-docs__sidenav desktop:grid-col-3{% if page.sticky_sidenav %} usa-sticky-sidenav{% endif %}">
                     {% include sidenav-roles.html links=sidenav %}
                 </div>
                 {% endif %}
+            -->
                 <div class="usa-layout-docs usa-layout-docs__main usa-prose{% if sidenav %} desktop:grid-col-9{% endif %}">
+                    <!--
                     {% if page.title %}
                     <h1>{{ page.title }}</h1>
                     {% endif %}
+            -->
 
                     {% if personas != empty %}
                     <h2>Personas</h2>
                     {% for page in personas %}
+                    <article>
+                        <h3><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></h3>
+                    </article>
+                    {% endfor %}
+                    {% endif %}
+
+                    {% if tools != empty %}
+                    <h2>Tools</h2>
+                    {% for page in tools %}
                     <article>
                         <h3><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></h3>
                     </article>
@@ -77,7 +91,7 @@ class:
                     {% assign author_data = site.people | where:"author", page.author | first %}
                     <article>
                         <h3><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></h3>
-                        <p class="text-muted">{{ page.date | date: "%B, %-d %Y"}} &middot; <a href="{{ author_data.url }}">{{ author_data.name }}</a></p>
+                        <p class="text-muted">{{ page.date | date: "%B, %-d %Y"}}</p>
                     </article>
                     {% endfor %}
                     {% endif %}
