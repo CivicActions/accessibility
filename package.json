@@ -25,13 +25,11 @@
     "gulp-postcss": "^9.0.0",
     "gulp-rename": "^2.0.0",
     "gulp-replace": "^1.1.2",
-    "gulp-sass": "^4.1.0",
     "gulp-sourcemaps": "^3.0.0",
     "pa11y-ci": "^2.4.0",
     "postcss": "^8.2.13",
     "postcss-csso": "^5.0.1",
     "sass": "^1.32.12",
-    "uswds": "^2.11.2",
-    "uswds-gulp": "github:uswds/uswds-gulp"
+    "uswds": "^2.11.2"
   }
 }
