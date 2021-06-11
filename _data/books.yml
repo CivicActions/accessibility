@@ -1,0 +1,63 @@
+docs_list_title: books
+docs:
+
+- title: "Accessibility for Everyone"
+  author: Laura Kalbag
+  url: https://abookapart.com/products/accessibility-for-everyone
+  img: 
+  roles:
+    - Executive
+    - Content designer
+    - Developer
+    - Operations
+    - Procurement
+    - Product manager
+    - UX designer
+
+- title: "Agile Accessibility Explained"
+  author: Dylan Anthony Barrell
+  url: https://www.amazon.com/Agile-Accessibility-Explained-sustainable-development/dp/1689182733/ref=sr_1_2?dchild=1&keywords=Agile+Accessibility+Explained&qid=1615337578&sr=8-2
+  img: 
+  roles:
+    - Executive
+    - Content designer
+    - Developer
+    - Operations
+    - Procurement
+    - Product manager
+    - UX designer
+
+- title: "Designing Connected Content: Plan and Model Digital Products for Today and Tomorrow"
+  author: Mike Atherton
+  url: https://www.amazon.com/Designing-Connected-Content-Products-Tomorrow/dp/0134763386
+  img: 
+  roles:
+    - Content designer
+
+- title: "Giving a damn about accessibility"
+  author: Sheri Byrne-Haber
+  url: https://accessibility.uxdesign.cc/
+  img: 
+  roles:
+    - Executive
+
+- title: "Mismatch: How Inclusion Shapes Design"
+  author: Kat Holmes
+  url: https://mitpress.mit.edu/books/mismatch
+  img: 
+  roles:
+    - Executive
+    - Content designer
+    - Developer
+    - Operations
+    - Procurement
+    - Product manager
+    - UX designer
+
+- title: "Web Accessibility for Developers"
+  author: The Chang School
+  url: https://pressbooks.library.ryerson.ca/wafd/
+  img: 
+  roles:
+    - Developer
+

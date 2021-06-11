@@ -7,6 +7,7 @@ sidenav: docs
 external-url: https://www.drupal.org/project/issues/search/drupal?issue_tags=accessibility
 categories:
   - Accessibility
-
+roles:
+  - Developer
 ---
 

@@ -6,7 +6,12 @@ excerpt:
 sidenav: docs
 categories:
   - Accessibility
-
+roles:
+  - Content designer
+  - Developer
+  - Product manager
+  - Project manager
+  - UX designer
 ---
 
 It is good to do some testing with assistive technology (AT), but it takes considerable experience for a sighted user to use a screen reader like a blind user would. Because of the nature of vision related disabilities there is considerable variation even within the blind and low vision community.

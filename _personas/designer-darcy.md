@@ -7,7 +7,9 @@ sidenav: docs
 img: designer-darcy.png
 categories:
   - Accessibility
-
+roles:
+  - Content designer
+  - UX designer
 ---
 
 Darcy is a fantastic designer who is able to express complex data tables and help people visualize complex ideas very easily. They are a terrific story teller and are able to do so with a combination of images, text, and even videos. 

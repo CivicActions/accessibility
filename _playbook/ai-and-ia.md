@@ -6,7 +6,15 @@ excerpt:
 sidenav: docs
 categories:
   - Accessibility
-
+roles:
+  - Executive
+  - Content designer
+  - Developer
+  - Operations
+  - Procurement
+  - Product manager
+  - Project manager
+  - UX designer
 ---
 
 Artificial Intelligence (AI) is already being used in places to help people with disabilities. It has provided very useful as a means to include people with hearing loss in Google Meet, Microsoft Teams and now Zoom meetings, as well. There are many applications which are proving useful for people who are blind, low vision or those who are color blind. There are ways that it could be used to support people with all forms of disability.

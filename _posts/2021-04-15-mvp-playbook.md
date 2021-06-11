@@ -6,6 +6,15 @@ description: The first iteration of the CivicActions Accessibility Playbook is n
 author: mike-gifford
 categories: 
 image: card-power.png
+roles:
+  - Executive
+  - Content designer
+  - Developer
+  - Operations
+  - Procurement
+  - Product manager
+  - Project manager
+  - UX designer
 ---
 
 The first iteration of the [CivicActions Accessibility Playbook](/playbook) is now available for public use. This is an evolving effort, and we will continue to update it based on community feedback and internal efforts to improve its usefulness.

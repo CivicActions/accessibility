@@ -6,7 +6,11 @@ excerpt:
 sidenav: docs
 categories:
   - Accessibility
-
+roles:
+  - Content designer
+  - Developer
+  - Product manager
+  - UX designer
 ---
 
 Many users are not familiar with the power that they have to modify or control how they engage with or modify content to meet their needs. Users have always been able to adjust the font size by Pressing the "CTRL and +" and "CTRL and -" keys. Increasingly users are choosing to use dark mode, especially with their phone. Users can also control animation by choosing reduced animation in the operating system.

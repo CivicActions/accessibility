@@ -6,7 +6,15 @@ excerpt:
 sidenav: docs
 categories:
   - Accessibility
-
+roles:
+  - Executive
+  - Content designer
+  - Developer
+  - Operations
+  - Procurement
+  - Product manager
+  - Project manager
+  - UX designer
 ---
 
 The European Union is providing a lot of leadership for governments that prioritize accessibility. The Web Accessibility Directive forces member states to measure their accessibility barriers by: Identifying the barriers in existing Information Communications Technology (ICT) through automated accessibility monitoring, and creating feedback loops through accessibility statements. Commit to being transparent and accountable by regularly publishing results which allow constituents to see progress on our inclusion goals.

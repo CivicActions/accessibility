@@ -6,7 +6,9 @@ excerpt:
 sidenav: docs
 categories:
   - Accessibility
-
+roles:
+  - Executive
+  - Operations
 ---
 
 CivicActions is proudly a distributed team. For over 15 years we have been working remotely with staff around the world, working effectively online. Working virtually allows some people with disabilities to excel. Often people with physical disabilities face barriers in traditional office environments which may not be able to provide an accessible office or sufficient accommodations to participate equally. By using video conferencing, slack, email and other online collaboration tools, our team is able to use a more customized workspace at home, and skip the need to commute to a central office.

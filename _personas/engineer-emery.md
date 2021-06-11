@@ -7,7 +7,8 @@ sidenav: docs
 img: engineer-emery.png
 categories:
   - Accessibility
-
+roles:
+  - Developer
 ---
 
 Emery is always on GitHub and forking projects they are curious about. They have made over 1000 contributions this year and issues lots of PR's. Emery manages two FOSS projects and is always looking for ways to improve them. Some of their projects involve accessibility, so they want to learn more. Emery is often learning from StackExchange and posting questions to the community there. 

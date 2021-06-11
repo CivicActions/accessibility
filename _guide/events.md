@@ -6,7 +6,15 @@ excerpt:
 sidenav: docs
 categories:
   - Accessibility
-
+roles:
+  - Executive
+  - Content designer
+  - Developer
+  - Operations
+  - Procurement
+  - Product manager
+  - Project manager
+  - UX designer
 ---
  
 *   [Blue Beanie Day](https://en.wikipedia.org/wiki/Blue_Beanie_Day)

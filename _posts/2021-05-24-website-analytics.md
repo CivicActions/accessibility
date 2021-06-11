@@ -6,6 +6,15 @@ description: Adding public website analytics to CivicActions Accessibility.
 author: luke-fretwell
 categories: 
 image: card-power.png
+roles:
+  - Executive
+  - Content designer
+  - Developer
+  - Operations
+  - Procurement
+  - Product manager
+  - Project manager
+  - UX designer
 ---
 
 We are now openly sharing [analytics information for the CivicActions Accessibility website](/analytics).

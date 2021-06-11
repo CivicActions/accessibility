@@ -6,7 +6,15 @@ excerpt:
 sidenav: docs
 categories:
   - Accessibility
-
+roles:
+  - Executive
+  - Content designer
+  - Developer
+  - Operations
+  - Procurement
+  - Product manager
+  - Project manager
+  - UX designer
 ---
 
 There is a vibrant community of accessibility advocates on the internet. This is a group dedicated to inclusion, so it is easy to join. There is so much to learn, and digital accessibility best practices are constantly changing. There is no course or certificate that will give you access to everything your organization needs to be compliant with the law. It takes a community of people to work collectively to find or establish better practices for your website.

@@ -6,6 +6,15 @@ description: This includes quick tips, tools and community information.
 author: nira-datta
 categories: Social media
 image: card-power.png
+roles:
+  - Executive
+  - Content designer
+  - Developer
+  - Operations
+  - Procurement
+  - Product manager
+  - Project manager
+  - UX designer
 ---
 
 We've added a [plain language page](/guide/plain-language) to the [CivicActions Accessibility Guide](/guide).

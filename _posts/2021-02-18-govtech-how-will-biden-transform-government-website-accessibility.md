@@ -6,6 +6,15 @@ description: Government Technology published a guest editorial we wrote on the n
 author: luke-fretwell
 categories: 
 image: card-power.png
+roles:
+  - Executive
+  - Content designer
+  - Developer
+  - Operations
+  - Procurement
+  - Product manager
+  - Project manager
+  - UX designer
 ---
 
 *Government Technology* published a guest editorial we wrote on the new Whitehouse.gov accessibility page.

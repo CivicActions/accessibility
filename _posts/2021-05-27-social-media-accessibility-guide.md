@@ -6,6 +6,8 @@ description: This includes tips for text, hashtags, images, video, emoji and rel
 author: luke-fretwell
 categories: Social media
 image: card-power.png
+roles:
+  - Content designer
 ---
 
 We've added a [social media page](/guide/social-media) to the [CivicActions Accessibility Guide](/guide).

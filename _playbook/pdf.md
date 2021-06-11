@@ -6,7 +6,15 @@ excerpt:
 sidenav: docs
 categories:
   - Accessibility
-
+roles:
+  - Executive
+  - Content designer
+  - Developer
+  - Operations
+  - Procurement
+  - Product manager
+  - Project manager
+  - UX designer
 ---
 
 Most PDFs simply do not meet the Section 508 requirements. It is just simply so easy to produce PDFs, but so difficult to produce accessible ones. There are very few tools that allow you to tell the difference between. One free tool and easy tool is the [Tingtun Checker PDF Checker](http://checkers.eiii.eu/en/pdfcheck/), but does not show all errors that could be there. There are other tools that can provide more detailed results but require installation.
