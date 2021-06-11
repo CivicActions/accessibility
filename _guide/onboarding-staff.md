@@ -33,6 +33,12 @@ Bonus videos:
 * [Apple - Accessibility - Sady](https://www.youtube.com/watch?v=su0djsYaDYI) (<2 minutes)
 * [Educause - Presentation Best Practices: Diversity, Equity, and Inclusion](https://www.youtube.com/watch?v=LPYkatM-0dk) (<8 minutes)
 
+Curious how some other people engage with the web?
+* [Apple's VoiceOver screen reader](https://www.youtube.com/watch?v=5R-6WvAihms)
+* [NVDA screen reader](https://www.youtube.com/watch?v=Jao3s_CwdRU)
+* [JAWS screen reader & Braille Keyboard](https://www.youtube.com/watch?v=dEbl5jvLKGQ)
+* [Apple's Voice Control](https://www.youtube.com/watch?v=6y6MQq-Jtz0)
+* [Cerebral palsy User (Sam)](https://www.youtube.com/watch?v=jYmfrrY4Hfk)
 
 ### Trello card - Investigate CivicActions existing resources
 
