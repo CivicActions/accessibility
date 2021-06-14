@@ -61,7 +61,7 @@ Apple, Windows, Chromebook, Linux desktop OS all have built-in accessibility fea
 
 ### Trello card - Take a simple quiz with multiple-choice questions (include links to Google Forms):
 
-Onboarding Quiz (Internal) - [Edit view](https://docs.google.com/forms/d/1O7VV0YRrkDMPPucrrBPHOQIGm8yZ1y6dzuJZe2mHQwA/edit) and [Participant view](https://docs.google.com/forms/d/e/1FAIpQLSdpyp-NLXUzzmbc4zNQqikrgx0V2n1IbmZRYlWSIBstTFbI-Q/viewform)
+Onboarding Quiz (Internal) - [Edit view](https://iainbean.com/posts/2020/an-opinionated-guide-to-accessibility-testing/#1.-The-Tab-key) and [Participant view](https://docs.google.com/forms/d/e/1FAIpQLSdpyp-NLXUzzmbc4zNQqikrgx0V2n1IbmZRYlWSIBstTFbI-Q/viewform)
 
 * Why is accessibility important?
     * It is a legal requirement
