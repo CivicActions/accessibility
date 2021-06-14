@@ -56,7 +56,7 @@ Install an accessibility browser extension like [WebAim's WAVE Toolbar extension
 
 Apple, Windows, Chromebook, Linux desktop OS all have built-in accessibility features. So do mobile systems like Android & iOS.
 
-**Mac users** - enable [Full Keyboard Access](https://www.macobserver.com/tips/quick-tip/navigate-mac-full-keyboard-access/) to be able to test keyboard only navigation.
+**Mac users** - enable [Full Keyboard Access](https://iainbean.com/posts/2020/an-opinionated-guide-to-accessibility-testing/#1.-The-Tab-key) to be able to test keyboard only navigation.
 
 
 ### Trello card - Take a simple quiz with multiple-choice questions (include links to Google Forms):
