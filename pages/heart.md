@@ -70,7 +70,7 @@ HEART addresses the following organization issues: policy, procurement, technica
 
 ### Discover
 
-* Interview digital teams to understand stakeholders’ processes
+* Interview digital teams to understand stakeholders' processes
 * Identify common experiences and challenges 
 * Aggregate additional accessibility resources
 * Highlight strengths and weaknesses of the team
