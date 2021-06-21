@@ -21,19 +21,19 @@
   a,
   .usa-card__heading{
     text-decoration: none;
-    color: black;
+    color: #1b1b1b;
   }
   .usa-card__container {
-    border: 2px solid black;
+    border: 2px solid #1b1b1b;
     color: white;
     text-decoration: underline;
     .usa-card__img {
-      background-color: black;
+      background-color: #1b1b1b;
     }
     &:hover,
     &:focus,
     &:focus-within {
-      background-color: black;
+      background-color: #1b1b1b;
       a,
       .usa-card__heading {
         color: white;
@@ -42,7 +42,15 @@
       .usa-card__img {
         background-color: white;
         i::before {
-          color: black;
+          color: #1b1b1b;
+        }
+      }
+      @media (prefers-reduced-motion) {
+        .usa-card__img {
+          background-color: initial;
+          i::before {
+            color: white;
+          }
         }
       }
     }
