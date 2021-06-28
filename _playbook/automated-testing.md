@@ -44,13 +44,13 @@ Currently CivicActions uses the following approaches.
 
 [Pa11y-ci](https://github.com/pa11y/pa11y-ci) is a continuous integration (CI) runner that can test a few pages or an entire site for accessibility issues. Our projects include pa11y-ci in their CI pipelines and generate reports as artifacts or comments with the results of the testing.
 
-We are currently testing this [accessibility site using pa11y-ci](https://github.com/CivicActions/accessibility/tree/main/.github/workflows#pa11yyml).
+We are currently testing this [accessibility site using pa11y-ci](https://github.com/CivicActions/accessibility/tree/main/.github/workflows#pa11yyml) and [we blogged about it](/posts/automated-accessibility-testing-leveraging-github-actions-and-pa11y-ci-with-axe).
 
 ### Cypress testing with the axe core
 
 [Cypress](https://www.cypress.io/) is a JavaScript testing framework that is used for automated testing. [Axe core](https://github.com/dequelabs/axe-core) is a popular accessibility testing engine. Our projects use [cypress with the axe core](https://github.com/component-driven/cypress-axe) to test components for accessibility issues.
 
-Take a look at [Setting up Cypress with axe for accessibility](https://timdeschryver.dev/blog/setting-up-cypress-with-axe-for-accessibility) article that illustrates the setup.
+Take a look at [Setting up Cypress with axe for accessibility](https://timdeschryver.dev/blog/setting-up-cypress-with-axe-for-accessibility) article that illustrates the setup. We have that set up and [running against the accessibility site](https://github.com/CivicActions/accessibility/tree/main/.github/workflows#cypressyml).
 
 ## Checklist
 
