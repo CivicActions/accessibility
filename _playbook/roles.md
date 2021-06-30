@@ -45,7 +45,7 @@ We've taken these lists, added other roles that we didn't see included and inclu
     * Do images have meaningful alternative text that is related to the other content?
     * Are there large blocks of text, or is it broken up by appropriate headers?
     * Can links be understood without any surrounding content?
-* Resources: [Blog post for content authors](https://www.digitala11y.com/authoring-the-authors-accessibility-best-practices-for-content-authors/) and [Content Design London - Readability Guidelines](readabilityguidelines.co.uk).
+* Resources: [W3C -  Writing for Web Accessibility](https://www.w3.org/WAI/tips/writing/), [Blog post for content authors](https://www.digitala11y.com/authoring-the-authors-accessibility-best-practices-for-content-authors/) and [Content Design London - Readability Guidelines](https://readabilityguidelines.co.uk).
 
 ## Content Designer / Information Architecture
 * See: [UK DWP](https://accessibility-manual.dwp.gov.uk/guidance-for-your-job-role/content-designer)
@@ -92,6 +92,7 @@ We've taken these lists, added other roles that we didn't see included and inclu
   * [W3C WAI's Developer Modules Curriculum](https://www.w3.org/WAI/curricula/developer-modules/)
   * [Helping developers write accessible code](https://blogs.intuit.com/blog/2021/03/30/helping-developers-write-accessible-code/)
   * [A11ycle's Front-End Developer](https://a11ycle.com/digital-accessibility/roles/front-end-developer/)
+  * [W3C - Developing for Web Accessibility](https://www.w3.org/WAI/tips/developing/)
 
 ## HTML & CSS Prototyping
 * [HTML & CSS Prototyping W3C Accessibility Responsibility](https://www.w3.org/community/wai-engage/wiki/HTML/CSS_Prototyping).
@@ -164,7 +165,7 @@ We've taken these lists, added other roles that we didn't see included and inclu
     * Can you understand key information and perform critical tasks on a mobile device?
     * Can you reach everything that's interactive using the tab key?
     * See more from [BBC's Checklists](https://bbc.github.io/accessibility-news-and-you/accessibility-news-and-designers) including information about an [accessibility design review](https://bbc.github.io/accessibility-news-and-you/guides/accessibility-design-review.html).
-* Resources: W3C -  Designing for Web Accessibility, Stop Designing For Only 85% Of Users: Nailing Accessibility In Design, Designing For Accessibility And Inclusion, BBC - How to design for accessibility.
+* Resources: [W3C -  Designing for Web Accessibility](https://www.w3.org/WAI/tips/designing/), [Stop Designing For Only 85% Of Users: Nailing Accessibility In Design](https://www.smashingmagazine.com/2017/10/nailing-accessibility-design/), [Designing For Accessibility And Inclusion](https://www.smashingmagazine.com/2018/04/designing-accessibility-inclusion/), [BBC - How to design for accessibility](https://www.bbc.co.uk/gel/guidelines/how-to-design-for-accessibility) and [Geri Reid's WCAG for designers](https://gerireid.com/wcag-for-designers.html).
 
 We plan to continue to add to this as other role specific advice becomes relevant. The W3C's [ARRM Project - Accessibility Roles and Responsibilities Mapping](https://www.w3.org/WAI/EO/wiki/ARRM_Project_-_Accessibility_Roles_and_Responsibilities_Mapping) will be mapping this out in more detail in the years to come. 
 
