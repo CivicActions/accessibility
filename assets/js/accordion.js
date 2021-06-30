@@ -11,7 +11,7 @@ window.onload = function () {
             target.hidden = expanded;
         }
         accordionHeader.onkeypress = (e) => {
-            console.log(e);
+            
             let expanded = accordionHeader.getAttribute('aria-expanded') === 'true' || false;
             if (e.keyCode == 13 || e.keyCode == 32) {
                 accordionHeader.setAttribute('aria-expanded', !expanded);
