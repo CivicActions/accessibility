@@ -4,97 +4,86 @@ main:
 class:
 ---
 {% comment %}Gather the matching content from pages, playbook, guide, and posts.{% endcomment %}
-{% assign playbook = site.playbook | where: "roles", page.title %}
-{% assign guide = site.guide | where: "roles", page.title %}
-{% assign personas = site.personas | where: "roles", page.title %}
-{% assign projects = site.projects | where: "roles", page.title %}
-{% assign posts = site.posts | where: "roles", page.title %}
-{% assign books = site.data.books.docs | where: "roles", page.title %}
-{% assign tools = site.data.tools.docs | where: "roles", page.title %}
+{% assign playbook = site.playbook | where: "roles", page.title | sort: "title" %}
+{% assign guide = site.guide | where: "roles", page.title | sort: "title" %}
+{% assign personas = site.personas | where: "roles", page.title | sort: "title" %}
+{% assign projects = site.projects | where: "roles", page.title | sort: "title" %}
+{% assign posts = site.posts | where: "roles", page.title | sort: "title" %}
+{% assign books = site.data.books.docs | where: "roles", page.title | sort: "title" %}
+{% assign tools = site.data.tools.docs | where: "roles", page.title | sort: "title" %}
 {% include breadcrumbs.html %}
+
 <div class="guide-main">
     <div class="">
         <div class="grid-container">
             <div class="grid-row grid-gap flex-align-start">
-                <!--
-                {% assign sidenav = site.roles.navigation[page.sidenav] | default: page.sidenav %}
-                {% if sidenav %}
-                <div class="usa-layout-docs__sidenav desktop:grid-col-3{% if page.sticky_sidenav %} usa-sticky-sidenav{% endif %}">
-                    {% include sidenav-roles.html links=sidenav %}
-                </div>
-                {% endif %}
-            -->
                 <div class="usa-layout-docs usa-layout-docs__main usa-prose{% if sidenav %} desktop:grid-col-9{% endif %}">
-                    <!--
-                    {% if page.title %}
-                    <h1>{{ page.title }}</h1>
-                    {% endif %}
-            -->
-
+                    <ul class="jekyllcodex_accordion">
                     {% if personas != empty %}
-                    <h2>Personas</h2>
-                    {% for page in personas %}
-                    <article>
-                        <h3><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></h3>
-                    </article>
-                    {% endfor %}
+
+                        <li><input id="accordion{{ forloop.index }}" type="checkbox" />
+                            <label for="accordion{{ forloop.index }}"><h2>Personas</h2></label>
+                            {% for page in personas %}
+                                <div>{{ page.title }}</div>
+                            {% endfor %}
+                        </li>
+
                     {% endif %}
 
                     {% if tools != empty %}
-                    <h2>Tools</h2>
-                    {% for page in tools %}
-                    <article>
-                        <h3><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></h3>
-                    </article>
-                    {% endfor %}
+                        <li><input id="accordion{{ forloop.index }}" type="checkbox" />
+                            <label for="accordion{{ forloop.index }}"><h2>Tools</h2></label>
+                            {% for page in tools %}
+                            <div>{{ page.title }}</div>
+                            {% endfor %}
+                        </li>
                     {% endif %}
 
                     {% if playbook != empty %}
-                    <h2>Playbook</h2>
-                    {% for page in playbook %}
-                    <article>
-                        <h3><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></h3>
-                    </article>
-                    {% endfor %}
+                        <li><input id="accordion{{ forloop.index }}" type="checkbox" />
+                            <label for="accordion{{ forloop.index }}"><h2>Playbook</h2></label>
+                            {% for page in playbook %}
+                            <div>{{ page.title }}</div>
+                            {% endfor %}
+                        </li>
                     {% endif %}
 
                     {% if books != empty %}
-                    <h2>Books</h2>
-                    {% for page in books %}
-                    <article>
-                        <h3><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></h3>
-                    </article>
-                    {% endfor %}
+                        <li><input id="accordion{{ forloop.index }}" type="checkbox" />
+                            <label for="accordion{{ forloop.index }}"><h2>Books</h2></label>
+                            {% for page in books %}
+                            <div>{{ page.title }}</div>
+                            {% endfor %}
+                        </li>
                     {% endif %}
 
                     {% if guide != empty %}
-                    <h2>Guide</h2>
-                    {% for page in guide %}
-                    <article>
-                        <h3><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></h3>
-                    </article>
-                    {% endfor %}
+                        <li><input id="accordion{{ forloop.index }}" type="checkbox" />
+                            <label for="accordion{{ forloop.index }}"><h2>Guide</h2></label>
+                            {% for page in guide %}
+                            <div>{{ page.title }}</div>
+                            {% endfor %}
+                        </li>
                     {% endif %}
 
                     {% if projects != empty %}
-                    <h2>Projects</h2>
-                    {% for page in projects %}
-                    <article>
-                        <h3><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></h3>
-                    </article>
-                    {% endfor %}
+                        <li><input id="accordion{{ forloop.index }}" type="checkbox" />
+                            <label for="accordion{{ forloop.index }}"><h2>Projects</h2></label>
+                            {% for page in projects %}
+                            <div>{{ page.title }}</div>
+                            {% endfor %}
+                        </li>
                     {% endif %}
 
                     {% if posts != empty %}
-                    <h2>News</h2>
-                    {% for page in posts %}
-                    {% assign author_data = site.people | where:"author", page.author | first %}
-                    <article>
-                        <h3><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></h3>
-                        <p class="text-muted">{{ page.date | date: "%B, %-d %Y"}}</p>
-                    </article>
-                    {% endfor %}
+                        <li><input id="accordion{{ forloop.index }}" type="checkbox" />
+                            <label for="accordion{{ forloop.index }}"><h2>News</h2></label>
+                            {% for page in news %}
+                            <div>{{ page.title }}</div>
+                            {% endfor %}
+                        </li>
                     {% endif %}
+                    </ul>
                 </div>
             </div>
         </div>
