@@ -12,106 +12,122 @@ class:
 {% assign books = site.data.books.docs | where: "roles", page.title | sort: "title" %}
 {% assign tools = site.data.tools.docs | where: "roles", page.title | sort: "title" %}
 {% include breadcrumbs.html %}
-
+<!--<script src="{{ base.url | prepend: site.url }}/assets/js/accordion.js"></script>-->
+<script src="http://127.0.0.1:4000/assets/js/accordion.js"></script>
 <div class="guide-main">
     <div class="">
         <div class="grid-container">
             <div class="grid-row grid-gap flex-align-start">
                 <div class="usa-layout-docs usa-layout-docs__main usa-prose{% if sidenav %} desktop:grid-col-9{% endif %}">
-                    <ul class="jekyllcodex_accordion">
+                    <div class="expand-all-accordion"><button class="expand" onClick='expandingAccordions()' aria-expanded="false" data-toggle="1">Expand/Collapse All</button></div>
+<!--                    <div class="close-all-accordion"><button class="close" aria-expanded="true" data-toggle="1" hidden>Collapse all</button></div>-->
+                    <div id="accordionGroup" class="Accordion" data-allow-toggle>
+
                     {% if personas != empty %}
-
-                        <li><input id="accordion1" type="checkbox" />
-                            <label for="accordion1"><h2>Personas</h2></label>
-
-                                <div><ul>
+                        <div class="accordion">
+                            <div class="accordion-heading" data-toggle="1">
+                                <h2>Personas</h2>
+                            </div>
+                            <div class="accordion-body" data-body="1" hidden>
+                                <ul>
                                     {% for page in personas %}
                                     <li><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></li>
                                     {% endfor %}
-                                </ul></div>
-
-                        </li>
-
+                                </ul>
+                            </div>
+                        </div>
                     {% endif %}
 
                     {% if tools != empty %}
-                        <li><input id="accordion2" type="checkbox" />
-                            <label for="accordion2"><h2>Tools</h2></label>
-
-                            <div><ul>
-                                {% for page in tools %}
-                                <li><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></li>
-                                {% endfor %}
-                            </ul></div>
-
-                        </li>
+                        <div class="accordion">
+                            <div class="accordion-heading" data-toggle="1">
+                                <h2>Tools</h2>
+                            </div>
+                            <div class="accordion-body" data-body="1" hidden>
+                                <ul>
+                                    {% for page in tools %}
+                                    <li><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></li>
+                                    {% endfor %}
+                                </ul>
+                            </div>
+                        </div>
                     {% endif %}
 
                     {% if playbook != empty %}
-                        <li><input id="accordion3" type="checkbox" />
-                            <label for="accordion3"><h2>Playbook</h2></label>
-
-                            <div><ul>
-                                {% for page in playbook %}
-                                <li><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></li>
-                                {% endfor %}
-                            </ul></div>
-
-                        </li>
+                        <div class="accordion">
+                            <div class="accordion-heading" data-toggle="1">
+                                <h2>Playbook</h2>
+                            </div>
+                            <div class="accordion-body" data-body="1" hidden>
+                                <ul>
+                                    {% for page in playbook %}
+                                    <li><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></li>
+                                    {% endfor %}
+                                </ul>
+                            </div>
+                        </div>
                     {% endif %}
 
                     {% if books != empty %}
-                        <li><input id="accordion4" type="checkbox" />
-                            <label for="accordion4"><h2>Books</h2></label>
-
-                            <div><ul>
-                                {% for page in books %}
-                                <li><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></li>
-                                {% endfor %}
-                            </ul></div>
-
-                        </li>
+                        <div class="accordion">
+                            <div class="accordion-heading" data-toggle="1">
+                                <h2>Books</h2>
+                            </div>
+                            <div class="accordion-body" data-body="1" hidden>
+                                <ul>
+                                    {% for page in books %}
+                                    <li><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></li>
+                                    {% endfor %}
+                                </ul>
+                            </div>
+                        </div>
                     {% endif %}
 
                     {% if guide != empty %}
-                        <li><input id="accordion5" type="checkbox" />
-                            <label for="accordion5"><h2>Guide</h2></label>
-
-                            <div><ul>
-                                {% for page in guide %}
-                                <li><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></li>
-                                {% endfor %}
-                            </ul></div>
-
-                        </li>
+                        <div class="accordion">
+                            <div class="accordion-heading" data-toggle="1">
+                                <h2>Guide</h2>
+                            </div>
+                            <div class="accordion-body" data-body="1" hidden>
+                                <ul>
+                                    {% for page in guide %}
+                                    <li><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></li>
+                                    {% endfor %}
+                                </ul>
+                            </div>
+                        </div>
                     {% endif %}
 
                     {% if projects != empty %}
-                        <li><input id="accordion6" type="checkbox" />
-                            <label for="accordion6"><h2>Projects</h2></label>
-
-                            <div><ul>
-                                {% for page in projects %}
-                                <li><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></li>
-                                {% endfor %}
-                            </ul></div>
-
-                        </li>
+                        <div class="accordion">
+                            <div class="accordion-heading" data-toggle="1">
+                                <h2>Projects</h2>
+                            </div>
+                            <div class="accordion-body" data-body="1" hidden>
+                                <ul>
+                                    {% for page in projects %}
+                                    <li><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></li>
+                                    {% endfor %}
+                                </ul>
+                            </div>
+                        </div>
                     {% endif %}
 
                     {% if posts != empty %}
-                        <li><input id="accordion7" type="checkbox" />
-                            <label for="accordion7"><h2>News</h2></label>
-
-                            <div><ul>
-                                {% for page in news %}
-                                <li><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></li>
-                                {% endfor %}
-                            </ul></div>
-
-                        </li>
+                        <div class="accordion">
+                            <div class="accordion-heading" data-toggle="1">
+                                <h2>News</h2>
+                            </div>
+                            <div class="accordion-body" data-body="1" hidden>
+                                <ul>
+                                    {% for page in posts %}
+                                    <li><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></li>
+                                    {% endfor %}
+                                </ul>
+                            </div>
+                        </div>
                     {% endif %}
-                    </ul>
+                  </div>
                 </div>
             </div>
         </div>

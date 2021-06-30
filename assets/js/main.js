@@ -12,3 +12,4 @@
 // Adding anchor links to headers on docs layouts only
 anchors.add('{{ _prepended_targets | join: ', ' }}');
 {%- endif -%}
+
