@@ -12,8 +12,8 @@ class:
 {% assign books = site.data.books.docs | where: "roles", page.title | sort: "title" %}
 {% assign tools = site.data.tools.docs | where: "roles", page.title | sort: "title" %}
 {% include breadcrumbs.html %}
-<!--<script src="{{ base.url | prepend: site.url }}/assets/js/accordion.js"></script>-->
-<script src="http://127.0.0.1:4000/assets/js/accordion.js"></script>
+
+<script src="/assets/js/accordion.js"></script>
 <div class="guide-main">
     <div class="">
         <div class="grid-container">
