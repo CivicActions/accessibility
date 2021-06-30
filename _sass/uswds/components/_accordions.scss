@@ -29,14 +29,16 @@ ul.jekyllcodex_accordion {
       cursor: pointer;
       padding: 0.75rem 2.4rem 0.75rem 0;
       margin: 0;
+      position: relative;
       &::before {
         content: "+";
         font-weight: normal;
-        font-size: 130%;
+        font-size: 200%;
         line-height: 1.1rem;
         padding: 0;
         position: absolute;
         right: 0.5rem;
+        top: 45%;
         transition: all 0.15s ease-in-out;
       }
     }
@@ -44,6 +46,9 @@ ul.jekyllcodex_accordion {
     div {
       display: none;
       padding-bottom: 1.2rem;
+      ul li {
+        list-style-type: disc;
+      }
     }
   }
 }

@@ -24,7 +24,9 @@ class:
                         <li><input id="accordion{{ forloop.index }}" type="checkbox" />
                             <label for="accordion{{ forloop.index }}"><h2>Personas</h2></label>
                             {% for page in personas %}
-                                <div>{{ page.title }}</div>
+                                <div><ul>
+                                    <li><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></li>
+                                </ul></div>
                             {% endfor %}
                         </li>
 
@@ -34,7 +36,9 @@ class:
                         <li><input id="accordion{{ forloop.index }}" type="checkbox" />
                             <label for="accordion{{ forloop.index }}"><h2>Tools</h2></label>
                             {% for page in tools %}
-                            <div>{{ page.title }}</div>
+                            <div><ul>
+                                <li><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></li>
+                            </ul></div>
                             {% endfor %}
                         </li>
                     {% endif %}
@@ -43,7 +47,9 @@ class:
                         <li><input id="accordion{{ forloop.index }}" type="checkbox" />
                             <label for="accordion{{ forloop.index }}"><h2>Playbook</h2></label>
                             {% for page in playbook %}
-                            <div>{{ page.title }}</div>
+                            <div><ul>
+                                <li><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></li>
+                            </ul></div>
                             {% endfor %}
                         </li>
                     {% endif %}
@@ -52,7 +58,9 @@ class:
                         <li><input id="accordion{{ forloop.index }}" type="checkbox" />
                             <label for="accordion{{ forloop.index }}"><h2>Books</h2></label>
                             {% for page in books %}
-                            <div>{{ page.title }}</div>
+                            <div><ul>
+                                <li><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></li>
+                            </ul></div>
                             {% endfor %}
                         </li>
                     {% endif %}
@@ -61,7 +69,9 @@ class:
                         <li><input id="accordion{{ forloop.index }}" type="checkbox" />
                             <label for="accordion{{ forloop.index }}"><h2>Guide</h2></label>
                             {% for page in guide %}
-                            <div>{{ page.title }}</div>
+                            <div><ul>
+                                <li><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></li>
+                            </ul></div>
                             {% endfor %}
                         </li>
                     {% endif %}
@@ -70,7 +80,9 @@ class:
                         <li><input id="accordion{{ forloop.index }}" type="checkbox" />
                             <label for="accordion{{ forloop.index }}"><h2>Projects</h2></label>
                             {% for page in projects %}
-                            <div>{{ page.title }}</div>
+                            <div><ul>
+                                <li><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></li>
+                            </ul></div>
                             {% endfor %}
                         </li>
                     {% endif %}
@@ -79,7 +91,9 @@ class:
                         <li><input id="accordion{{ forloop.index }}" type="checkbox" />
                             <label for="accordion{{ forloop.index }}"><h2>News</h2></label>
                             {% for page in news %}
-                            <div>{{ page.title }}</div>
+                            <div><ul>
+                                <li><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></li>
+                            </ul></div>
                             {% endfor %}
                         </li>
                     {% endif %}
