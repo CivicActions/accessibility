@@ -10,6 +10,11 @@ window.onload = function () {
             accordionHeader.setAttribute('aria-expanded', !expanded);
             target.hidden = expanded;
         }
+        accordionHeader.onkeypress = () => {
+            let expanded = accordionHeader.getAttribute('aria-expanded') === 'true' || false;
+            accordionHeader.setAttribute('aria-expanded', !expanded);
+            target.hidden = expanded;
+        }
 
     });
 }
@@ -18,7 +23,7 @@ window.onload = function () {
 
 
      Array.prototype.forEach.call(accordionHeaders, accordionHeader => {
-         
+
          let target = accordionHeader.nextElementSibling;
          let expanded = accordionHeader.getAttribute('aria-expanded') === 'true' || false;
          accordionHeader.setAttribute('aria-expanded', !expanded);
