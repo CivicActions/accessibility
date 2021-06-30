@@ -21,80 +21,94 @@ class:
                     <ul class="jekyllcodex_accordion">
                     {% if personas != empty %}
 
-                        <li><input id="accordion{{ forloop.index }}" type="checkbox" />
-                            <label for="accordion{{ forloop.index }}"><h2>Personas</h2></label>
-                            {% for page in personas %}
+                        <li><input id="accordion1" type="checkbox" />
+                            <label for="accordion1"><h2>Personas</h2></label>
+
                                 <div><ul>
+                                    {% for page in personas %}
                                     <li><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></li>
+                                    {% endfor %}
                                 </ul></div>
-                            {% endfor %}
+
                         </li>
 
                     {% endif %}
 
                     {% if tools != empty %}
-                        <li><input id="accordion{{ forloop.index }}" type="checkbox" />
-                            <label for="accordion{{ forloop.index }}"><h2>Tools</h2></label>
-                            {% for page in tools %}
+                        <li><input id="accordion2" type="checkbox" />
+                            <label for="accordion2"><h2>Tools</h2></label>
+
                             <div><ul>
+                                {% for page in tools %}
                                 <li><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></li>
+                                {% endfor %}
                             </ul></div>
-                            {% endfor %}
+
                         </li>
                     {% endif %}
 
                     {% if playbook != empty %}
-                        <li><input id="accordion{{ forloop.index }}" type="checkbox" />
-                            <label for="accordion{{ forloop.index }}"><h2>Playbook</h2></label>
-                            {% for page in playbook %}
+                        <li><input id="accordion3" type="checkbox" />
+                            <label for="accordion3"><h2>Playbook</h2></label>
+
                             <div><ul>
+                                {% for page in playbook %}
                                 <li><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></li>
+                                {% endfor %}
                             </ul></div>
-                            {% endfor %}
+
                         </li>
                     {% endif %}
 
                     {% if books != empty %}
-                        <li><input id="accordion{{ forloop.index }}" type="checkbox" />
-                            <label for="accordion{{ forloop.index }}"><h2>Books</h2></label>
-                            {% for page in books %}
+                        <li><input id="accordion4" type="checkbox" />
+                            <label for="accordion4"><h2>Books</h2></label>
+
                             <div><ul>
+                                {% for page in books %}
                                 <li><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></li>
+                                {% endfor %}
                             </ul></div>
-                            {% endfor %}
+
                         </li>
                     {% endif %}
 
                     {% if guide != empty %}
-                        <li><input id="accordion{{ forloop.index }}" type="checkbox" />
-                            <label for="accordion{{ forloop.index }}"><h2>Guide</h2></label>
-                            {% for page in guide %}
+                        <li><input id="accordion5" type="checkbox" />
+                            <label for="accordion5"><h2>Guide</h2></label>
+
                             <div><ul>
+                                {% for page in guide %}
                                 <li><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></li>
+                                {% endfor %}
                             </ul></div>
-                            {% endfor %}
+
                         </li>
                     {% endif %}
 
                     {% if projects != empty %}
-                        <li><input id="accordion{{ forloop.index }}" type="checkbox" />
-                            <label for="accordion{{ forloop.index }}"><h2>Projects</h2></label>
-                            {% for page in projects %}
+                        <li><input id="accordion6" type="checkbox" />
+                            <label for="accordion6"><h2>Projects</h2></label>
+
                             <div><ul>
+                                {% for page in projects %}
                                 <li><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></li>
+                                {% endfor %}
                             </ul></div>
-                            {% endfor %}
+
                         </li>
                     {% endif %}
 
                     {% if posts != empty %}
-                        <li><input id="accordion{{ forloop.index }}" type="checkbox" />
-                            <label for="accordion{{ forloop.index }}"><h2>News</h2></label>
-                            {% for page in news %}
+                        <li><input id="accordion7" type="checkbox" />
+                            <label for="accordion7"><h2>News</h2></label>
+
                             <div><ul>
+                                {% for page in news %}
                                 <li><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></li>
+                                {% endfor %}
                             </ul></div>
-                            {% endfor %}
+
                         </li>
                     {% endif %}
                     </ul>
