@@ -19,6 +19,15 @@ We've taken these lists, added other roles that we didn't see included and inclu
 * The lead is responsible for providing an overview of the whole project and ensuring that the components flow together for the user.
 * **Tools:** [Purple Hats](https://github.com/GovTechSG/purple-hats), [MSU's Domain Accessibility Audit](https://github.com/MSU-NatSci/DomainAccessibilityAudit) or [Siteimprove](https://siteimprove.com) and [Accessibility Insights](https://accessibilityinsights.io/).
 
+## Audio and Video Media (AV)
+* [W3C - Making Audio and Video Media Accessible](https://www.w3.org/WAI/media/av/)
+* [Section 508 - Create Accessible Synchronized Media Content](https://www.section508.gov/create/synchronized-media)
+* [Mozilla - Accessible multimedia](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/Multimedia)
+* [AMI - YouTube Accessibility](https://www.ami.ca/youtube-accessibility)
+* [Sitepoint - 8 Steps to Creating Accessible Video](https://www.sitepoint.com/accessible-video/)
+* [Washington.edu - Creating Accessible Videos](https://www.washington.edu/accessibility/videos/)
+* [IU.edu - Make video and audio accessible](https://kb.iu.edu/d/avhj)
+
 ## Back-end Engineer / Developer
 * [W3C Accessibility Responsibility: Back-end Development](https://www.w3.org/community/wai-engage/wiki/Back-end_Development).
 * **Tools:** [axe](https://www.deque.com/axe/) and [Accessibility Insights](https://accessibilityinsights.io/).
