@@ -82,6 +82,9 @@ We've taken these lists, added other roles that we didn't see included and inclu
 * "As a Digital Performance Analyst, most of your considerations will be around presenting statistical data so that they don't exclude anybody that might not be able to perceive complex charts or tables of data."
 * **Tools:** [WebAim's WAVE Toolbar](https://wave.webaim.org/extension/).
 
+## Executives
+* See: [Section508.gov's Executive Guide to Federal IT Accessibility](https://www.section508.gov/tools/playbooks/exec-guide-accessibility)
+
 ## Front End Engineer / Software Engineer
 * See: [USA](https://accessibility.digital.gov/front-end/getting-started/), & [BBC](https://bbc.github.io/accessibility-news-and-you/accessibility-news-and-developers)
 * "As a Software Engineer or Frontend Developer, you have one of the most important roles when it comes to accessibility. A design can have considered accessibility, but it's up to you to build it to work correctly. By using existing libraries and frameworks such as GOV.UK Frontend and DWP CASA, you can get a lot of good practices for accessibility built in, however we need to be mindful of how we apply them."
@@ -120,7 +123,7 @@ We've taken these lists, added other roles that we didn't see included and inclu
     * Ensure that accessibility is being considered with every sprint (or alternative process).
     * Find ways to prioritize common, weird and critical barriers that are discovered in QA.
     * Identify where to include people with disabilities in the process.
-* Resources: [BBC's Product Owner Checklists](https://bbc.github.io/accessibility-news-and-you/accessibility-news-and-product-owners) & [BBC's Project Managers Checklist](https://bbc.github.io/accessibility-news-and-you/accessibility-news-and-product-owners), [Planning and Managing Web Accessibility](https://www.w3.org/WAI/planning-and-managing/), [Managing for Accessibility](https://www.washington.edu/accessibility/managing/) and [Accessibility for Product Managers](https://accessibility-for-teams.com/accessibility-for-product-managers).
+* Resources: [BBC's Product Owner Checklists](https://bbc.github.io/accessibility-news-and-you/accessibility-news-and-product-owners) & [BBC's Project Managers Checklist](https://bbc.github.io/accessibility-news-and-you/accessibility-news-and-product-owners), [Planning and Managing Web Accessibility](https://www.w3.org/WAI/planning-and-managing/), [Managing for Accessibility](https://www.washington.edu/accessibility/managing/), [Section508.gov's Accessibility Playbook](https://www.section508.gov/tools/playbooks/accessibility-playbook-quick-guide) and [Accessibility for Product Managers](https://accessibility-for-teams.com/accessibility-for-product-managers).
 
 ## Procurement Manager 
 * **Tools:** [WebAim's WAVE Toolbar](https://wave.webaim.org/extension/).
