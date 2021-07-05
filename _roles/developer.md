@@ -16,4 +16,3 @@ hero:
     href: /link/
   content: Accessibility resources for developers.
 ---
-

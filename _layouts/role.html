@@ -4,97 +4,130 @@ main:
 class:
 ---
 {% comment %}Gather the matching content from pages, playbook, guide, and posts.{% endcomment %}
-{% assign playbook = site.playbook | where: "roles", page.title %}
-{% assign guide = site.guide | where: "roles", page.title %}
-{% assign personas = site.personas | where: "roles", page.title %}
-{% assign projects = site.projects | where: "roles", page.title %}
-{% assign posts = site.posts | where: "roles", page.title %}
-{% assign books = site.data.books.docs | where: "roles", page.title %}
-{% assign tools = site.data.tools.docs | where: "roles", page.title %}
+{% assign playbook = site.playbook | where: "roles", page.title | sort: "title" %}
+{% assign guide = site.guide | where: "roles", page.title | sort: "title" %}
+{% assign personas = site.personas | where: "roles", page.title | sort: "title" %}
+{% assign projects = site.projects | where: "roles", page.title | sort: "title" %}
+{% assign posts = site.posts | where: "roles", page.title | sort: "title" %}
+{% assign books = site.data.books.docs | where: "roles", page.title | sort: "title" %}
+{% assign tools = site.data.tools.docs | where: "roles", page.title | sort: "title" %}
 {% include breadcrumbs.html %}
+
+<script src="/assets/js/accordion.js"></script>
 <div class="guide-main">
     <div class="">
         <div class="grid-container">
             <div class="grid-row grid-gap flex-align-start">
-                <!--
-                {% assign sidenav = site.roles.navigation[page.sidenav] | default: page.sidenav %}
-                {% if sidenav %}
-                <div class="usa-layout-docs__sidenav desktop:grid-col-3{% if page.sticky_sidenav %} usa-sticky-sidenav{% endif %}">
-                    {% include sidenav-roles.html links=sidenav %}
-                </div>
-                {% endif %}
-            -->
                 <div class="usa-layout-docs usa-layout-docs__main usa-prose{% if sidenav %} desktop:grid-col-9{% endif %}">
-                    <!--
-                    {% if page.title %}
-                    <h1>{{ page.title }}</h1>
-                    {% endif %}
-            -->
+                    <div class="expand-all-accordion"><button class="expand usa-button" onClick='expandingAccordions()' aria-expanded="false" data-toggle="1">Expand/Collapse All</button></div>
+<!--                    <div class="close-all-accordion"><button class="close" aria-expanded="true" data-toggle="1" hidden>Collapse all</button></div>-->
+                    <div id="accordionGroup" class="Accordion" data-allow-toggle>
 
                     {% if personas != empty %}
-                    <h2>Personas</h2>
-                    {% for page in personas %}
-                    <article>
-                        <h3><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></h3>
-                    </article>
-                    {% endfor %}
+                        <div class="accordion">
+                            <div tabIndex='0' class="accordion-heading" data-toggle="1">
+                                <h2>Personas</h2>
+                            </div>
+                            <div class="accordion-body" data-body="1" hidden>
+                                <ul>
+                                    {% for page in personas %}
+                                    <li><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></li>
+                                    {% endfor %}
+                                </ul>
+                            </div>
+                        </div>
                     {% endif %}
 
                     {% if tools != empty %}
-                    <h2>Tools</h2>
-                    {% for page in tools %}
-                    <article>
-                        <h3><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></h3>
-                    </article>
-                    {% endfor %}
+                        <div class="accordion">
+                            <div tabIndex='0' class="accordion-heading" data-toggle="1">
+                                <h2>Tools</h2>
+                            </div>
+                            <div class="accordion-body" data-body="1" hidden>
+                                <ul>
+                                    {% for page in tools %}
+                                    <li><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></li>
+                                    {% endfor %}
+                                </ul>
+                            </div>
+                        </div>
                     {% endif %}
 
                     {% if playbook != empty %}
-                    <h2>Playbook</h2>
-                    {% for page in playbook %}
-                    <article>
-                        <h3><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></h3>
-                    </article>
-                    {% endfor %}
+                        <div class="accordion">
+                            <div tabIndex='0' class="accordion-heading" data-toggle="1">
+                                <h2>Playbook</h2>
+                            </div>
+                            <div class="accordion-body" data-body="1" hidden>
+                                <ul>
+                                    {% for page in playbook %}
+                                    <li><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></li>
+                                    {% endfor %}
+                                </ul>
+                            </div>
+                        </div>
                     {% endif %}
 
                     {% if books != empty %}
-                    <h2>Books</h2>
-                    {% for page in books %}
-                    <article>
-                        <h3><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></h3>
-                    </article>
-                    {% endfor %}
+                        <div class="accordion">
+                            <div tabIndex='0' class="accordion-heading" data-toggle="1">
+                                <h2>Books</h2>
+                            </div>
+                            <div class="accordion-body" data-body="1" hidden>
+                                <ul>
+                                    {% for page in books %}
+                                    <li><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></li>
+                                    {% endfor %}
+                                </ul>
+                            </div>
+                        </div>
                     {% endif %}
 
                     {% if guide != empty %}
-                    <h2>Guide</h2>
-                    {% for page in guide %}
-                    <article>
-                        <h3><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></h3>
-                    </article>
-                    {% endfor %}
+                        <div class="accordion">
+                            <div tabIndex='0' class="accordion-heading" data-toggle="1">
+                                <h2>Guide</h2>
+                            </div>
+                            <div class="accordion-body" data-body="1" hidden>
+                                <ul>
+                                    {% for page in guide %}
+                                    <li><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></li>
+                                    {% endfor %}
+                                </ul>
+                            </div>
+                        </div>
                     {% endif %}
 
                     {% if projects != empty %}
-                    <h2>Projects</h2>
-                    {% for page in projects %}
-                    <article>
-                        <h3><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></h3>
-                    </article>
-                    {% endfor %}
+                        <div class="accordion">
+                            <div tabIndex='0' class="accordion-heading" data-toggle="1">
+                                <h2>Projects</h2>
+                            </div>
+                            <div class="accordion-body" data-body="1" hidden>
+                                <ul>
+                                    {% for page in projects %}
+                                    <li><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></li>
+                                    {% endfor %}
+                                </ul>
+                            </div>
+                        </div>
                     {% endif %}
 
                     {% if posts != empty %}
-                    <h2>News</h2>
-                    {% for page in posts %}
-                    {% assign author_data = site.people | where:"author", page.author | first %}
-                    <article>
-                        <h3><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></h3>
-                        <p class="text-muted">{{ page.date | date: "%B, %-d %Y"}}</p>
-                    </article>
-                    {% endfor %}
+                        <div class="accordion">
+                            <div tabIndex='0' class="accordion-heading" data-toggle="1">
+                                <h2>News</h2>
+                            </div>
+                            <div class="accordion-body" data-body="1" hidden>
+                                <ul>
+                                    {% for page in posts %}
+                                    <li><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></li>
+                                    {% endfor %}
+                                </ul>
+                            </div>
+                        </div>
                     {% endif %}
+                  </div>
                 </div>
             </div>
         </div>
