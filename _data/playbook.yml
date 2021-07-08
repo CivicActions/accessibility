@@ -51,7 +51,7 @@ docs:
   description: 
   icon: <i class="fas fa-file-pdf fa-5x" aria-hidden="true"></i>
 
-- title: Accesible Documents
+- title: Accessible Documents
   url: /documents
   description:
   icon: <i class="fas fa-file fa-5x" aria-hidden="true"></i>
