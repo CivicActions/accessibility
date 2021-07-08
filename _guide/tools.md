@@ -124,6 +124,8 @@ Determine the contrast ratio of two colors using an eyedrop tool on Windows and 
 Open-source, native colour picker for macOS.
 *   [Color Contrast Analyser for Sketch on GitHub](https://github.com/getflourish/Sketch-Color-Contrast-Analyser) \
 Sketch plugin that calculates the color contrast of two layers and evaluates it against the WCAG.
+*   [Figma Accessibility Annotation Kit](https://www.figma.com/community/file/953682768192596304) A community plugin for \
+Figma that helps designers document accessibility considerations to share with developers when handing off designs.
 
 ## Automated testing & continuous integration {#automated-testing}
 
