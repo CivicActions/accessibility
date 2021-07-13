@@ -77,6 +77,7 @@ Browser extension that allows you to navigate a web page via WAI-ARIA landmarks,
 inserts a small button in the bottom corner of your document with information about accessibility errors on the page.
 *   [Firefox AInspector WCAG](https://addons.mozilla.org/en-US/firefox/addon/ainspector-wcag/) - A Firefox Add-on that addresses accessibility compliance \
 using OpenAjax Alliance rulesets. 
+*   [Qualweb](http://qualweb.di.fc.ul.pt/evaluator/) - [Qualweb on GitHub](https://github.com/qualweb) - A set of tools that are being built to align with the W3C's ACT ruleset.
 
 ## Bookmarklets {#bookmarklets}
 
