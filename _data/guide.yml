@@ -64,7 +64,7 @@ docs:
 - title: Semantic HTML
   url: /semantic-html
   description:
-  icon: <i class="far fa-code fa-5x" aria-hidden="true"></i>
+  icon: <i class="far fa-file-code fa-5x" aria-hidden="true"></i>
 
 - title: Glossary
   url: /glossary
