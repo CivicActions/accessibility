@@ -48,7 +48,7 @@ There are lots of checklists, rotating through a few of them will help give diff
 * [VoxMedia](http://accessibility.voxmedia.com/)
 * [PSU](https://accessibility.psu.edu/checklist/)
 * [Yale](https://usability.yale.edu/web-accessibility/articles/wcag2-checklist)
-* [Washington University](https://www.washington.edu/accessibility/checklist/)
+* [University of Washington](https://www.washington.edu/accessibility/checklist/)
 
 ## Checklist
 
