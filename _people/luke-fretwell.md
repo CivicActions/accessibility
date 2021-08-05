@@ -19,4 +19,4 @@ external: true
 
 ---
 
-Luke Fretwell was a contributor to CivicActions Accessibility, and is co-founder and CEO of the digital government platform, [ProudCity](https://proudcity.com/).
+Luke Fretwell was a contributor to CivicActions Accessibility, and is the co-founder and CEO of the digital government platform, [ProudCity](https://proudcity.com/).
