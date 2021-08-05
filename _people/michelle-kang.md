@@ -15,7 +15,8 @@ gitlab:
 drupal:
 speakerdeck: 
 website: https://dribbble.com/mikang
+external: true
 
 ---
 
-Michelle Kang is a team member of CivicActions Accessibility.
+Michelle Kang was a contributor to CivicActions Accessibility.

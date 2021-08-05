@@ -14,8 +14,8 @@ github:
 gitlab: 
 drupal: 
 speakerdeck: 
-website: 
-
+website:
+external: false
 ---
 
 Vanessa Luxen is a team member of CivicActions Accessibility.

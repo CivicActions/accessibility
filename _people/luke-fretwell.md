@@ -15,7 +15,8 @@ gitlab:
 drupal: 
 speakerdeck: 
 website: https://lukefretwell.com/
+external: true
 
 ---
 
-Luke Fretwell is a team member of CivicActions Accessibility, co-founder and CEO of the digital government platform, [ProudCity](https://proudcity.com/).
+Luke Fretwell was a contributor to CivicActions Accessibility, and is co-founder and CEO of the digital government platform, [ProudCity](https://proudcity.com/).
