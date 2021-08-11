@@ -15,6 +15,7 @@ gitlab:
 drupal: https://www.drupal.org/u/jenniferaube
 speakerdeck: 
 website: http://www.jenniferaube.com/
+external: false
 
 ---
 

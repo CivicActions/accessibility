@@ -16,6 +16,7 @@ gitlab:
 drupal:
 speakerdeck:
 website:
+external: false
 
 ---
 

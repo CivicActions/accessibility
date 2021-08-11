@@ -15,6 +15,7 @@ gitlab:
 drupal: https://www.drupal.org/u/dmundra
 speakerdeck: 
 website: https://www.danielmundra.com/
+external: false
 
 ---
 
