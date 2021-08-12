@@ -2,16 +2,54 @@
   @if variable-exists(header-bg) {
     background-color: color($header-bg);
   }
-  .ca-logo {
-    max-width: 200px;
-    margin-right: 12px;
-  }
-  .usa-logo__text {
-    .site-name-logo {
-      margin-top: 37px;
+  .usa-navbar {
+    height: auto !important;
+    align-items: baseline;
+    border-bottom: 0;
+    margin-left: 12px;
+    @media(min-width: 768px) {
+      margin-left: auto;
     }
-    .sup {
-      top: 0;
+  }
+  .usa-menu-btn {
+    align-self: flex-end;
+  }
+
+  .usa-logo__text {
+    a {
+      display: block !important;
+      @media(min-width: 768px) {
+        display: flex !important;
+      }
+    }
+    .ca-logo {
+      max-width: 200px;
+      margin-right: 12px;
+      margin-top: 12px;
+      float: left;
+      @media(min-width: 768px) {
+        margin-top: 0;
+      }
+    }
+    .site-name-logo {
+      margin-top: 22px;
+      float: left;
+      clear: both;
+      @media(min-width: 768px) {
+        float: none;
+        margin-top: 33px;
+      }
+      @media(min-width: 1024px) {
+        margin-top: 37px;
+      }
+    }
+    sup {
+      top: 1.75rem;
+      float: left;
+      @media(min-width: 768px) {
+        float: none;
+        top: 0;
+      }
     }
   }
   .usa-logo {
