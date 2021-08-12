@@ -11,6 +11,7 @@ roles:
 - Developer
 ---
 
+
 Writing semantic HTML can make your site more accessible. When you switch your browser to "read mode", only the main content will be visible. Read mode hides:
 * the header
 * footer
