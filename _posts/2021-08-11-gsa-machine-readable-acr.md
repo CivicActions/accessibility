@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "CivicActions wins contract to produce a machine-readable Voluntary Product Accessibility Template® (VPAT®)"
-date:   2021-07-30 06:00:00 -0800
+date:   2021-08-11 06:00:00 -0800
 description: CivicActions is building the foundation for a new way to approach Accessibility Compliance Reporting with our work with the GSA.
 author: mike-gifford
 categories: 
