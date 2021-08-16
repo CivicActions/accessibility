@@ -18,4 +18,4 @@ website:
 external: false
 ---
 
-Mike Gifford is a CivicActions Accessibility team member and a Drupal Core Accessibility Maintainer. He has been actively involved in the accessibility unconference community and founder of Ottawa's A11yYOW meetup. He's also completed the [DHS Section 508 Standards for Web](https://www.dhs.gov/trusted-tester) certification. 
+Mike Gifford is a CivicActions Accessibility team member and a Drupal Core Accessibility Maintainer. He has been actively involved in the accessibility unconference community and founder of Ottawa's A11yYOW meetup. He's also a certified [IAAP WAS (Web Accessibility Specialist)](https://www.accessibilityassociation.org/s/certification) and has completed the [DHS Section 508 Standards for Web](https://www.dhs.gov/trusted-tester) certification. 
