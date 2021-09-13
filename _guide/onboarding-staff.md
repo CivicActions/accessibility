@@ -149,6 +149,13 @@ Each role in a company may need additional support in how they can best do their
     * DevOps/CI Engineer
 * User Researcher
 
+## Conclusion
+
+Having accesibility in the orientation is key to ensuring that given some basic parameters on how the organization approaches accessibility. To fully integrate accessibility into the culture of an organization it is key that these initial messages are built on and enhanced. Building a champion network within an organization is one of the best ways of ensuring that an organization continues to learn, enhance and extend digital inclusion. Some of the leaders in this space include:
+  - [BBC](https://abilitynet.org.uk/webinars/learn-how-bbc-makes-accessibility-improvements)
+  - [AbilityNet](https://abilitynet.org.uk/news-blogs/how-build-and-grow-your-accessibility-champions-network)
+  - [Leeds City Council](https://digitalinclusionkit.org/creating-a-digital-champions-network/)
+  - [Intuit (Quickbooks)](https://www.last-child.com/intuits-accessibility-champion-program/)
 
 ## Additional resources/examples
 
