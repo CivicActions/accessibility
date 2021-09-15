@@ -42,6 +42,7 @@ TalkBack is the Google screen reader included on Android devices. Switch lets yo
 While not open source, VoiceOver is an industry‑leading screen reader for Apple products, which also gives descriptions in braille.
 *   [Linux Orca](https://help.gnome.org/users/orca/stable/index.html.en) - [Orca on GitLab](https://gitlab.gnome.org/GNOME/orca) - [Orca on Chrome/Chromium](https://wiki.gnome.org/Projects/Orca/Chromium) \
 Orca is a free, open source, flexible, and extensible screen reader that provides access to the graphical desktop via speech and refreshable braille.
+*   [SkipTo Landmarks & Headings](https://skipto.github.io) on [GitHub](https://github.com/skipto/extension) based on [PayPal's skipto HTML project](https://github.com/paypal/skipto) SkipTo provides a browser extension that provides keyboard only user more navigational control. 
 
 ## Site-wide evaluation {#site-wide-evaluation}
 
@@ -49,6 +50,8 @@ Orca is a free, open source, flexible, and extensible screen reader that provide
 Highly-configurable bbc-a11y runs a set of tests against a set of URLs to verify whether each one meets the [BBC accessibility guidelines](https://www.bbc.co.uk/accessibility/forproducts/guides/mobile/).
 *   [Domain Accessibility Audit by MSU College of Natural Science](https://github.com/MSU-NatSci/DomainAccessibilityAudit) on GitHub \
 This web application automatically crawls websites, checks for accessibility violations, and is based on [axe](https://github.com/dequelabs/axe-core).
+*   [Functional Accessibility Evaluator](https://fae.disability.illinois.edu/) on [GitHub](https://github.com/opena11y/fae2) \
+An automated testing tool designed to teach people about universal design. Tests involve multiple manual tests. 
 *   [Pa11y](https://pa11y.org/) - [Pa11y on GitHub](https://github.com/pa11y) \
 A popular command-line interface which loads web pages and highlights any accessibility issues it finds. The Pa11y family of applications includes a [Dashboard](https://github.com/pa11y/dashboard) for monitoring several projects' a11y issues, as well as [continuous integration](https://github.com/pa11y/pa11y-ci) (CI) abilities.
 *   [purple-hats by Government Digital Services, Singapore](https://github.com/GovTechSG/purple-hats) on GitHub \
@@ -121,7 +124,7 @@ Evaluate WAI-ARIA according to the [ARIA in HTML](https://www.w3.org/TR/html-ari
 Allows for testing of contrast of text on top of a semi transparent background.
 *   [Contrast Checker](https://contrast-checker.glitch.me/) - [Contrast Checker on Glitch](https://glitch.com/edit/#!/contrast-checker?path=server.js%3A1%3A0)
 
-### Plugins, apps & integrations
+### Plugins, apps & integrations {#plugins}
 
 *   [Colour Contrast Analyser (CCA) by TPG](https://developer.paciellogroup.com/resources/contrastanalyser/) - [CCAe on GitHub](https://github.com/ThePacielloGroup/CCAe)
 *   [Eye Dropper Chrome Extension](https://eyedropper.org/) - [Eye Dropper on GitHub](https://github.com/kepi/chromeEyeDropper)
