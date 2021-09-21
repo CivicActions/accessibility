@@ -44,7 +44,7 @@ We've taken these lists, added other roles that we didn't see included and inclu
 * [W3C Accessibility Responsibility: Analysis](https://www.w3.org/community/wai-engage/wiki/Accessibility_By_Roles_-_Analysis).
 * **Tools:** [WebAim's WAVE Toolbar](https://wave.webaim.org/extension/).
 
-## Content Author
+## Content Author / Writer
 * See: [USA: Accessibility for content designers](https://accessibility.digital.gov/content-design/getting-started/)
 * W3C WAI - [ARRM Project: Accessibility Roles and Responsibilities Mapping](https://www.w3.org/WAI/EO/wiki/Content_Author_Responsibilities_Mapping).
 * **Tools:** [Sa11y](https://ryersondmp.github.io/sa11y/) and [HemingwayApp](http://www.hemingwayapp.com/)
@@ -54,7 +54,7 @@ We've taken these lists, added other roles that we didn't see included and inclu
     * Do images have meaningful alternative text that is related to the other content?
     * Are there large blocks of text, or is it broken up by appropriate headers?
     * Can links be understood without any surrounding content?
-* Resources: [W3C -  Writing for Web Accessibility](https://www.w3.org/WAI/tips/writing/), [Blog post for content authors](https://www.digitala11y.com/authoring-the-authors-accessibility-best-practices-for-content-authors/) and [Content Design London - Readability Guidelines](https://readabilityguidelines.co.uk).
+* Resources: [W3C -  Writing for Web Accessibility](https://www.w3.org/WAI/tips/writing/), [Blog post for content authors](https://www.digitala11y.com/authoring-the-authors-accessibility-best-practices-for-content-authors/), [Content Design London - Readability Guidelines](https://readabilityguidelines.co.uk) and [Singapore Government Design System - Accessibility for Content](https://www.designsystem.tech.gov.sg/guides/writers-accessibility/).
 
 ## Content Designer / Information Architecture
 * See: [UK DWP: Content Designer](https://accessibility-manual.dwp.gov.uk/guidance-for-your-job-role/content-designer)
@@ -99,12 +99,13 @@ We've taken these lists, added other roles that we didn't see included and inclu
     * On new patterns make sure to complete the rest of the assessment to ensure that the new functionality meets WCAG requirements.
     * See more from [BBC's Checklists](https://bbc.github.io/accessibility-news-and-you/accessibility-news-and-developers).
 * Resources 
-  * [Building Accessible Front-Ends](https://medium.com/capital-one-tech/building-accessible-front-ends-298c03e5bd86) 
-  * [Accessibility Tips for Frontend Developers](https://medium.com/@lizfaria/accessibility-tips-for-frontend-developers-83d094146153)
-  * [W3C WAI's Developer Modules Curriculum](https://www.w3.org/WAI/curricula/developer-modules/)
-  * [Helping developers write accessible code](https://blogs.intuit.com/blog/2021/03/30/helping-developers-write-accessible-code/)
-  * [A11ycle's Front-End Developer](https://a11ycle.com/digital-accessibility/roles/front-end-developer/)
-  * [W3C - Developing for Web Accessibility](https://www.w3.org/WAI/tips/developing/)
+    * [Building Accessible Front-Ends](https://medium.com/capital-one-tech/building-accessible-front-ends-298c03e5bd86) 
+    * [Accessibility Tips for Frontend Developers](https://medium.com/@lizfaria/accessibility-tips-for-frontend-developers-83d094146153)
+    * [W3C WAI's Developer Modules Curriculum](https://www.w3.org/WAI/curricula/developer-modules/)
+    * [Helping developers write accessible code](https://blogs.intuit.com/blog/2021/03/30/helping-developers-write-accessible-code/)
+    * [A11ycle's Front-End Developer](https://a11ycle.com/digital-accessibility/roles/front-end-developer/)
+    * [W3C - Developing for Web Accessibility](https://www.w3.org/WAI/tips/developing/)
+    * [Singapore Government Design System - Accessibility in Code](https://www.designsystem.tech.gov.sg/guides/developers-accessibility/)
 
 ## HTML & CSS Prototyping
 * [HTML & CSS Prototyping W3C Accessibility Responsibility](https://www.w3.org/community/wai-engage/wiki/HTML/CSS_Prototyping).
@@ -177,7 +178,14 @@ We've taken these lists, added other roles that we didn't see included and inclu
     * Can you understand key information and perform critical tasks on a mobile device?
     * Can you reach everything that's interactive using the tab key?
     * See more from [BBC's Checklists](https://bbc.github.io/accessibility-news-and-you/accessibility-news-and-designers) including information about an [accessibility design review](https://bbc.github.io/accessibility-news-and-you/guides/accessibility-design-review.html).
-* Resources: [W3C -  Designing for Web Accessibility](https://www.w3.org/WAI/tips/designing/), [Stop Designing For Only 85% Of Users: Nailing Accessibility In Design](https://www.smashingmagazine.com/2017/10/nailing-accessibility-design/), [Designing For Accessibility And Inclusion](https://www.smashingmagazine.com/2018/04/designing-accessibility-inclusion/), [BBC - How to design for accessibility](https://www.bbc.co.uk/gel/guidelines/how-to-design-for-accessibility) and [Geri Reid's WCAG for designers](https://gerireid.com/wcag-for-designers.html).
+* Resources: 
+    * [W3C -  Designing for Web Accessibility](https://www.w3.org/WAI/tips/designing/)
+    * [Stop Designing For Only 85% Of Users: Nailing Accessibility In Design](https://www.smashingmagazine.com/2017/10/nailing-accessibility-design/)
+    * [Designing For Accessibility And Inclusion](https://www.smashingmagazine.com/2018/04/designing-accessibility-inclusion/)
+    * [BBC - How to design for accessibility](https://www.bbc.co.uk/gel/guidelines/how-to-design-for-accessibility)
+    * [Geri Reid's WCAG for designers](https://gerireid.com/wcag-for-designers.html)
+    * [Singapore Government Design System - Accessibility in Design](https://www.designsystem.tech.gov.sg/guides/designers-accessibility/)
+
 
 We plan to continue to add to this as other role specific advice becomes relevant. The W3C's [ARRM Project - Accessibility Roles and Responsibilities Mapping](https://www.w3.org/WAI/EO/wiki/ARRM_Project_-_Accessibility_Roles_and_Responsibilities_Mapping) will be mapping this out in more detail in the years to come. 
 
