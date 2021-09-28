@@ -104,6 +104,7 @@ Running this bookmarklet will visually number the reading order in which screen-
 Analyse the contrast of the text on a page and highlight elements which may have readability issues.
 *   [WAI-ARIA-Usage](https://github.com/ThePacielloGroup/WAI-ARIA-Usage) by The Paciello Group \
 Evaluate WAI-ARIA according to the [ARIA in HTML](https://www.w3.org/TR/html-aria/) specification.
+*   [Paul Adam's Collection of JavaScript Bookmarklets for Accessibility Testing](https://www.pauljadam.com/bookmarklets.html)
 
 ## Color {#color}
 
