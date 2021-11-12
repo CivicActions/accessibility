@@ -17,6 +17,7 @@
     "simple-jekyll-search": "^1.9.2"
   },
   "devDependencies": {
+    "axe-core": "^4.3.5",
     "cached-path-relative": "^1.0.2",
     "cypress": "^8.7.0",
     "cypress-axe": "^0.13.0",
