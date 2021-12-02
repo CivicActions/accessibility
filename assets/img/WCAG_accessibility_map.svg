@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Produced from https://upload.wikimedia.org/wikipedia/commons/3/37/WMATA_system_map.svg -->
+<!-- Based on https://upload.wikimedia.org/wikipedia/commons/3/37/WMATA_system_map.svg -->
 
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
@@ -10,7 +10,8 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
-   id="svg2"
+   id="map4accessibility4teams"
+   role="img" aria-labelledby="a11y-map a11y-map-description"
    sodipodi:docname="WCAG_accessibility_map.svg"
    inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
    sodipodi:version="0.32"
@@ -82,6 +83,13 @@
 		</inkscape:grid>
 </sodipodi:namedview>
 
+<title id="a11y-map">WCAG Accessibility Map</title>
+<desc id="a11y-map-description">
+	A visual representation of Digital.gov's Accessibility for Teams. 
+	Based on a DC Metro map, product, content, UX, Visual design, and Front end issues are added for each route & stop. 
+	Agile has been added as it is a critical part of effective digital development.
+</desc>
+	
 <g
    id="layer1"
    transform="translate(-2.46946,-2.5)"
@@ -1448,7 +1456,7 @@
    style="font-size:10px;line-height:0%;font-family:ArialMT"
    x="440.20007"
    y="-29.253479"
-   transform="rotate(29.724681)">Unusal words</text>
+   transform="rotate(29.724681)">Unusual words</text>
 
 
 <text
