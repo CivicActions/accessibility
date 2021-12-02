@@ -84,11 +84,7 @@
 </sodipodi:namedview>
 
 <title id="a11y-map">WCAG Accessibility Map</title>
-<desc id="a11y-map-description">
-	A visual representation of Digital.gov's Accessibility for Teams. 
-	Based on a DC Metro map, product, content, UX, Visual design, and Front end issues are added for each route & stop. 
-	Agile has been added as it is a critical part of effective digital development.
-</desc>
+<desc id="a11y-map-description">A visual representation of Digital.gov's Accessibility for Teams. Based on a DC Metro map, product, content, UX, Visual design, and Front end issues are added for each route & stop. Agile has been added as it is a critical part of effective digital development.</desc>
 	
 <g
    id="layer1"
