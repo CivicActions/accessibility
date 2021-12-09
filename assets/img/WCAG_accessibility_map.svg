@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Produced from https://upload.wikimedia.org/wikipedia/commons/3/37/WMATA_system_map.svg -->
+<!-- Based on https://upload.wikimedia.org/wikipedia/commons/3/37/WMATA_system_map.svg -->
 
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
@@ -10,7 +10,8 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
-   id="svg2"
+   id="map4accessibility4teams"
+   role="img" aria-labelledby="a11y-map a11y-map-description"
    sodipodi:docname="WCAG_accessibility_map.svg"
    inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
    sodipodi:version="0.32"
@@ -21,10 +22,26 @@
    height="630px"
    viewBox="0 0 760 630"
    enable-background="new 0 0 760 630"
-   xml:space="preserve"><metadata
-   id="metadata331"><rdf:RDF><cc:Work
-       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata>
+   xml:space="preserve">
+	
+   <metadata id="metadata331">
+     <rdf:RDF>
+       <cc:Work rdf:about="">
+       <dc:format>image/svg+xml</dc:format>
+       <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/" />
+       </cc:Work>
+       <cc:License rdf:about="http://creativecommons.org/licenses/by-sa/4.0/">
+         <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction" />
+         <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution" />
+         <cc:requires rdf:resource="http://creativecommons.org/ns#Notice" />
+         <cc:requires rdf:resource="http://creativecommons.org/ns#Attribution" />
+         <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+         <cc:requires rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+       </cc:License>
+    </rdf:RDF>
+  </metadata>
+	
 <defs
    id="defs3">
 
@@ -82,6 +99,13 @@
 		</inkscape:grid>
 </sodipodi:namedview>
 
+<title id="a11y-map">WCAG Accessibility Map</title>
+<desc id="a11y-map-description">
+	A visual representation of Digital.gov's Accessibility for Teams. 
+	Based on a DC Metro map, product, content, UX, Visual design, and Front end issues are added for each route and stop. 
+	Agile has been added as it is a critical part of effective digital development.
+</desc>
+	
 <g
    id="layer1"
    transform="translate(-2.46946,-2.5)"
@@ -909,52 +933,59 @@
    d="    M224.5,762.5c0,2.761-2.238,5-5,5s-5-2.239-5-5s2.238-5,5-5S224.5,759.739,224.5,762.5z" />
 	</g>
 
-	<text
+
+   <a xlink:href="https://accessibility.civicactions.com/playbook/roles#ux" target="_blank">
+	 <text
    font-size="20"
    id="text321"
    x="40.986485"
    y="306.70428"
-   style="font-size:20px;line-height:0%;font-family:ArialMT">UX</text>
+   style="font-size:20px;line-height:0%;font-family:ArialMT" text-decoration="underline">UX</text>
+   </a>
 
-
+   <a xlink:href="https://accessibility.civicactions.com/agile" target="_blank">
    <text
    font-size="20"
    id="text4246"
    x="54"
    y="178.5"
-   style="font-size:20px;line-height:0%;font-family:ArialMT">Agile</text>
+   style="font-size:20px;line-height:0%;font-family:ArialMT" text-decoration="underline">Agile</text>
+   </a>
 
-
-	<text
+   <a xlink:href="https://accessibility.civicactions.com/playbook/roles#front-end-engineer--software-engineer" target="_blank">
+	 <text
    font-size="20"
    id="text323"
    x="132.34171"
    y="48.081291"
-   style="font-size:20px;line-height:0%;font-family:ArialMT">Front End</text>
+   style="font-size:20px;line-height:0%;font-family:ArialMT" text-decoration="underline">Front End</text>
+   </a>
 
-
-	<text
+   <a xlink:href="https://accessibility.civicactions.com/playbook/roles#content-author--writer" target="_blank">
+	 <text
    transform="translate(556.0291,475.291)"
    font-size="20"
    id="text325"
-   style="font-size:20px;line-height:0%;font-family:ArialMT">Content</text>
+   style="font-size:20px;line-height:0%;font-family:ArialMT" text-decoration="underline">Content</text>
+   </a>
 
-
-	<text
+   <a xlink:href="https://accessibility.civicactions.com/playbook/roles#visual-design--graphic-design" target="_blank">
+	 <text
    font-size="20"
    id="text327"
    x="38.5"
    y="589.28125"
-   style="font-size:20px;line-height:0%;font-family:ArialMT">Visual Design</text>
+   style="font-size:20px;line-height:0%;font-family:ArialMT" text-decoration="underline">Visual Design</text>
+   </a>
 
-
+   <a xlink:href="https://accessibility.civicactions.com/playbook/roles#product-manager--project-manager" target="_blank">
    <text
    font-size="20"
    id="text4251"
    x="432"
    y="619.78125"
-   style="font-size:20px;line-height:0%;font-family:ArialMT">Product</text>
-
+   style="font-size:20px;line-height:0%;font-family:ArialMT" text-decoration="underline">Product</text>
+   </a>
 
 <g
    id="g3911"
@@ -1448,7 +1479,7 @@
    style="font-size:10px;line-height:0%;font-family:ArialMT"
    x="440.20007"
    y="-29.253479"
-   transform="rotate(29.724681)">Unusal words</text>
+   transform="rotate(29.724681)">Unusual words</text>
 
 
 <text
