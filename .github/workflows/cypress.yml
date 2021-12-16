@@ -18,7 +18,7 @@ jobs:
           bundler-cache: true
 
       - name: Install cypress dependencies.
-        run: npm install
+        run: npm ci
 
       - name: Start up jekyll server.
         run: npm run start-detached
