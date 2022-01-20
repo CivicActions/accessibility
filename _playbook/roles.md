@@ -11,13 +11,13 @@ roles:
   - Operations
 ---
 
-Creation of modern digital content involves a great many distinct roles. Most roles only touch on some accessibility issues because they have limited access. The [UK's Department for Work & Pensions' Accessibility Manual (DWP)](https://accessibility-manual.dwp.gov.uk/) has specific [guidance for job role](https://accessibility-manual.dwp.gov.uk/guidance-for-your-job-role). Similarly the USA's GSA has created an [Accessibility for Teams](https://accessibility.digital.gov/) highlights roles that they see in the industry. Sarah Bourne, Director of IT Accessibility, MassIT, [mapped WCAG2 to roles and responsibilities for IAAP](https://www.accessibilityassociation.org/content.asp?contentid=347). Australia's ABC produced [Accessibility Tips for Teams (PDF)](https://about.abc.net.au/wp-content/uploads/2019/06/a11y_Tips4Teams.pdf) as a way to share how everyone plays a role.
+Creation of modern digital content involves a great many distinct roles. Most roles only touch on some accessibility issues because they have limited access. The [UK's Department for Work & Pensions' Accessibility Manual (DWP)](https://accessibility-manual.dwp.gov.uk/) has specific [guidance for job role](https://accessibility-manual.dwp.gov.uk/guidance-for-your-job-role). Similarly the USA's GSA has created an [Accessibility for Teams](https://accessibility.digital.gov/) highlights roles that they see in the industry. Sarah Bourne, Director of IT Accessibility, MassIT, [mapped WCAG2 to roles and responsibilities for IAAP](https://www.accessibilityassociation.org/content.asp?contentid=347). Australia's ABC produced [Accessibility Tips for Teams (PDF)](https://about.abc.net.au/wp-content/uploads/2019/06/a11y_Tips4Teams.pdf) as a way to share how everyone plays a role. Deque has also split up how [Defining Actionable Metrics](https://www.deque.com/blog/accessibility-program-fundamentals-choosing-the-right-accessibility-metrics/) fall within several roles in an organization.
 
 We've taken these lists, added other roles that we didn't see included and included them here. With each role we are including tools that we think would be most useful for that role. Where appropriate we have also included links to the W3C's [Accessibility Responsibility Breakdown](https://www.w3.org/community/wai-engage/wiki/Accessibility_Responsibility_Breakdown) for WCAG 2.0 requirements.
 
 ## Accessibility Lead
 * The lead is responsible for providing an overview of the whole project and ensuring that the components flow together for the user.
-* **Tools:** [Purple Hats](https://github.com/GovTechSG/purple-hats), [MSU's Domain Accessibility Audit](https://github.com/MSU-NatSci/DomainAccessibilityAudit) or [Siteimprove](https://siteimprove.com) and [Accessibility Insights](https://accessibilityinsights.io/).
+* **Tools:** [Purple Hats](https://github.com/GovTechSG/purple-hats), [MSU's Domain Accessibility Audit](https://github.com/MSU-NatSci/DomainAccessibilityAudit) or [Siteimprove](https://siteimprove.com) and [Accessibility Insights](https://accessibilityinsights.io/). Deque defines the [Defining Actionable Metrics](https://www.deque.com/blog/accessibility-program-fundamentals-choosing-the-right-accessibility-metrics/) for the central accessibility function. 
 
 ## Audio and Video Media (AV)
 * [W3C - Making Audio and Video Media Accessible](https://www.w3.org/WAI/media/av/)
@@ -124,6 +124,7 @@ We've taken these lists, added other roles that we didn't see included and inclu
     * Ensure that accessibility is being considered with every sprint (or alternative process).
     * Find ways to prioritize common, weird and critical barriers that are discovered in QA.
     * Identify where to include people with disabilities in the process.
+    * Ensure you are tracking [Actionable Metrics](https://www.deque.com/blog/accessibility-program-fundamentals-choosing-the-right-accessibility-metrics/)
 * Resources: [BBC's Product Owner Checklists](https://bbc.github.io/accessibility-news-and-you/accessibility-news-and-product-owners) & [BBC's Project Managers Checklist](https://bbc.github.io/accessibility-news-and-you/accessibility-news-and-product-owners), [Planning and Managing Web Accessibility](https://www.w3.org/WAI/planning-and-managing/), [Managing for Accessibility](https://www.washington.edu/accessibility/managing/), [Section508.gov's Accessibility Playbook](https://www.section508.gov/tools/playbooks/accessibility-playbook-quick-guide) and [Accessibility for Product Managers](https://accessibility-for-teams.com/accessibility-for-product-managers).
 
 ## Procurement Manager 
