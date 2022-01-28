@@ -47,21 +47,29 @@ We've taken these lists, added other roles that we didn't see included and inclu
 ## Content Author / Writer
 * See: [USA: Accessibility for content designers](https://accessibility.digital.gov/content-design/getting-started/)
 * W3C WAI - [ARRM Project: Accessibility Roles and Responsibilities Mapping](https://www.w3.org/WAI/EO/wiki/Content_Author_Responsibilities_Mapping).
-* **Tools:** [Sa11y](https://ryersondmp.github.io/sa11y/) and [HemingwayApp](http://www.hemingwayapp.com/)
+* **Tools:** [Sa11y](https://ryersondmp.github.io/sa11y/), [Editoria11y](https://itmaybejj.github.io/editoria11y/) and [HemingwayApp](http://www.hemingwayapp.com/)
 * Checklist:
     * Does the content meet your readability target?
     * Are there any [unusual words](https://www.w3.org/WAI/WCAG21/quickref/?versions=2.0#unusual-words) to watch for?
     * Do images have meaningful alternative text that is related to the other content?
     * Are there large blocks of text, or is it broken up by appropriate headers?
     * Can links be understood without any surrounding content?
-* Resources: [W3C -  Writing for Web Accessibility](https://www.w3.org/WAI/tips/writing/), [Blog post for content authors](https://www.digitala11y.com/authoring-the-authors-accessibility-best-practices-for-content-authors/), [Content Design London - Readability Guidelines](https://readabilityguidelines.co.uk) and [Singapore Government Design System - Accessibility for Content](https://www.designsystem.tech.gov.sg/guides/writers-accessibility/).
+    * Have you stated major point(s) first before going into details?
+    * Limit each paragraph to one idea and keep it short.
+    * Use everyday words. If you must use technical terms and acronyms, do you explain them on the first reference? 
+    * Can you omit unneeded words? 
+    * Do you use headings, lists, and simple tables to make reading easier? 
+    * Did you have someone review your work? 
+    * Is it easy to scan and pick out the main points? ARe headings clear and descriptive? 
+    * Are you using inclusive language? 
+* Resources: [W3C -  Writing for Web Accessibility](https://www.w3.org/WAI/tips/writing/), [Blog post for content authors](https://www.digitala11y.com/authoring-the-authors-accessibility-best-practices-for-content-authors/), [Content Design London - Readability Guidelines](https://readabilityguidelines.co.uk), [Singapore Government Design System - Accessibility for Content](https://www.designsystem.tech.gov.sg/guides/writers-accessibility/), [USA OPM Information Management](https://www.opm.gov/information-management/plain-language/), [Canada: Writing principles for web content](https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-style-guide.html#toc5) and [plainlanguage.gov](https://www.plainlanguage.gov).
 
 ## Content Designer / Information Architecture
 * See: [UK DWP: Content Designer](https://accessibility-manual.dwp.gov.uk/guidance-for-your-job-role/content-designer)
 * "Making the content as easy to understand as possible makes it better for everybody. There are common scenarios where people might benefit from simple content. For example, people where English is not their first language or people who have Dyslexia."
 * [W3C Accessibility Responsibility: Architecture](https://www.w3.org/community/wai-engage/wiki/Accessibility_By_Roles_-_Architecture).
 * **Tools:** [WebAim's WAVE Toolbar](https://wave.webaim.org/extension/).
-* Resource: [Blog post: Accessibility: Guidelines for Information Architecture, UX Design, and Visual Design](https://medium.com/design-ibm/accessibility-guidelines-for-information-architecture-ux-design-and-visual-design-5ae33ed1d52d).
+* Resource: [Blog post: Accessibility: Guidelines for Information Architecture, UX Design, and Visual Design](https://medium.com/design-ibm/accessibility-guidelines-for-information-architecture-ux-design-and-visual-design-5ae33ed1d52d), [USA Plain Language Community of Practice](https://digital.gov/communities/plain-language/) and [UK GDS Content design: planning, writing and managing content](https://www.gov.uk/guidance/content-design/writing-for-gov-uk).
 
 ## Customer Experience / Service Design / Content Strategy
 * [W3C Accessibility Responsibility: Content Strategy](https://www.w3.org/community/wai-engage/wiki/Content_Strategy).
