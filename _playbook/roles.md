@@ -73,7 +73,7 @@ We've taken these lists, added other roles that we didn't see included and inclu
 ## Content Designer / Information Architecture
 * See: [UK DWP: Content Designer](https://accessibility-manual.dwp.gov.uk/guidance-for-your-job-role/content-designer) and [UK Service Manual](https://www.gov.uk/service-manual/the-team/what-each-role-does-in-service-team#content-designer)
 * "Making the content as easy to understand as possible makes it better for everybody. There are common scenarios where people might benefit from simple content. For example, people where English is not their first language or people who have Dyslexia."
-* "Reviewing content to make sure it’s accurate, relevant, accessible and written in line with" style guide.
+* "Reviewing content to make sure it's accurate, relevant, accessible and written in line with" style guide.
 * [W3C Accessibility Responsibility: Architecture](https://www.w3.org/community/wai-engage/wiki/Accessibility_By_Roles_-_Architecture).
 * **Tools:** [WebAim's WAVE Toolbar](https://wave.webaim.org/extension/).
 * Resource: [CivicAction's Plain Language Guide](https://accessibility.civicactions.com/guide/plain-language), [Blog post: Accessibility: Guidelines for Information Architecture, UX Design, and Visual Design](https://medium.com/design-ibm/accessibility-guidelines-for-information-architecture-ux-design-and-visual-design-5ae33ed1d52d), [USA Plain Language Community of Practice](https://digital.gov/communities/plain-language/) and [UK GDS Content design: planning, writing and managing content](https://www.gov.uk/guidance/content-design/writing-for-gov-uk).
@@ -86,7 +86,7 @@ We've taken these lists, added other roles that we didn't see included and inclu
 ## Delivery Manager
 * See: [UK DWP: Delivery Manager](https://accessibility-manual.dwp.gov.uk/guidance-for-your-job-role/delivery-manager) and [UK Service Manual](https://www.gov.uk/service-manual/the-team/what-each-role-does-in-service-team#delivery-manager)
 * "As a Delivery Manager you need to make sure that accessibility is considered when sizing up stories and that very feature is fully accessible before it is released."
-* "Making sure accessibility is factored into each feature or activity the team’s working on"
+* "Making sure accessibility is factored into each feature or activity the team's working on"
 * **Tools:** [WebAim's WAVE Toolbar](https://wave.webaim.org/extension/).
 
 ## DevOps
@@ -105,7 +105,7 @@ We've taken these lists, added other roles that we didn't see included and inclu
 ## Front End Engineer / Software Engineer
 * See: [USA: Accessibility for front-end developers](https://accessibility.digital.gov/front-end/getting-started/), [BBC: Accessibility, News and Developers](https://bbc.github.io/accessibility-news-and-you/accessibility-news-and-developers) and [UK Service Manual](https://www.gov.uk/service-manual/the-team/what-each-role-does-in-service-team#developer-and-frontend-developer)
 * "As a Software Engineer or Frontend Developer, you have one of the most important roles when it comes to accessibility. A design can have considered accessibility, but it's up to you to build it to work correctly. By using existing libraries and frameworks such as GOV.UK Frontend and DWP CASA, you can get a lot of good practices for accessibility built in, however we need to be mindful of how we apply them."
-* "Build accessible software with a focus on what users need from your service and how they’ll use it."
+* "Build accessible software with a focus on what users need from your service and how they'll use it."
 * "Front-End Developer maps to [IAAP](https://www.accessibilityassociation.org/)'s HTML and CSS Prototyping and Front-End Development." - [A11ycle.com](https://a11ycle.com/digital-accessibility/roles/)
 * W3C WAI - [ARRM Project: Front-End Developer Responsibilities Mapping](https://www.w3.org/WAI/EO/wiki/Front-End_Developer_Responsibilities_Mapping).
 * [Development W3C Accessibility Responsibility: Front End](https://www.w3.org/community/wai-engage/wiki/Front-end_Development).
