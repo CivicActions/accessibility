@@ -12,18 +12,29 @@ roles:
 
 ## Government open design systems {#government-open-design-systems}
 
-*   [GOV.UK - Design System](https://design-system.service.gov.uk/) -[GOV.UK Design System on GitHub](https://github.com/alphagov/govuk-design-system)
-*   [U.S. Web Design System (USWDS)](https://designsystem.digital.gov/) -[USWDS on GitHub](https://github.com/uswds/uswds)
-*   [USA CMS Design System](https://design.cms.gov/) -[CMS Design System on GitHub](https://github.com/cmsgov/design-system)
-*   [Canada - Web Experience Toolkit (WET)](https://wet-boew.github.io/wet-boew/index.html) -[WET on GitHub](https://github.com/wet-boew/wet-boew)
-*   [Canada - Aurora Design System](https://design.gccollab.ca/) -[Aurora on GitHub](https://design.gccollab.ca/)
-*   [NZ - Design System](https://design-system-alpha.digital.govt.nz/) -[govtnz-design-system on GitHub](https://github.com/GOVTNZ/govtnz-design-system)
-*   [Australia.- Design System](https://designsystem.gov.au/) -[Design System Components on GitHub](https://github.com/govau/design-system-components/)
-*   [British Columbia Government - Design System](https://github.com/bcgov/design-system)
-*   [City of Helsinki Design System](https://github.com/City-of-Helsinki/helsinki-design-system)
-*   [Australia's Health Design System](https://designsystem.health.gov.au/) -[Health on GitHub](https://github.com/healthgovau/health-design-system)
-*   [The New York Public Library's Design System](https://nypl.github.io/nypl-design-system/storybook-static/?path=/story/breadcrumb--breadcrumbs) -[NYPL on GitHub](https://github.com/NYPL/nypl-design-system)
+### USA
+*   [U.S. Web Design System (USWDS)](https://designsystem.digital.gov/) - [USWDS on GitHub](https://github.com/uswds/uswds)
+*   [USA CMS Design System](https://design.cms.gov/) - [CMS Design System on GitHub](https://github.com/cmsgov/design-system)
+*   [California Design System](https://designsystem.webstandards.ca.gov/) - [CDS on GitHub](https://github.com/cagov/design-system)
+
+### UK
+*   [GOV.UK - Design System](https://design-system.service.gov.uk/) - [GOV.UK Design System on GitHub](https://github.com/alphagov/govuk-design-system)
 *   [UK's Department for Work and Pensions Design System on GitHub](https://github.com/dwp/design-system)
+
+### Canada
+*   [Canada - Web Experience Toolkit (WET)](https://wet-boew.github.io/wet-boew/index.html) - [WET on GitHub](https://github.com/wet-boew/wet-boew)
+*   [Canada - Aurora Design System](https://design.gccollab.ca/) - [Aurora on GitHub](https://design.gccollab.ca/)
+*   [British Columbia Government - Design System](https://github.com/bcgov/design-system)
+
+### Australia, NZ & Pacific
+*   [Australia.- Design System](https://designsystem.gov.au/) - [Design System Components on GitHub](https://github.com/govau/design-system-components/)
+*   [Australia's Health Design System](https://designsystem.health.gov.au/) - [Health on GitHub](https://github.com/healthgovau/health-design-system)
+*   [NZ - Design System](https://design-system-alpha.digital.govt.nz/) - [govtnz-design-system on GitHub](https://github.com/GOVTNZ/govtnz-design-system)
+*   [Singapore Government Design System](https://www.designsystem.tech.gov.sg) - [SGDS on GitHub](https://github.com/govtechsg/sgds)
+
+### Municipal
+*   [City of Helsinki Design System](https://github.com/City-of-Helsinki/helsinki-design-system)
+*   [The New York Public Library's Design System](https://nypl.github.io/nypl-design-system/storybook-static/?path=/story/breadcrumb--breadcrumbs) -[NYPL on GitHub](https://github.com/NYPL/nypl-design-system)
 
 
 ## Other open design systems {#other-open-design-systems}
