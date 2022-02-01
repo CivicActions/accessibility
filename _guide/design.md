@@ -12,6 +12,8 @@ roles:
 
 ## Government open design systems {#government-open-design-systems}
 
+Worldwide, government website design is being led by open source initiatives. 
+
 ### USA
 *   [U.S. Web Design System (USWDS)](https://designsystem.digital.gov/) - [USWDS on GitHub](https://github.com/uswds/uswds)
 *   [USA CMS Design System](https://design.cms.gov/) - [CMS Design System on GitHub](https://github.com/cmsgov/design-system)
