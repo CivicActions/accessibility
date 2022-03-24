@@ -205,6 +205,7 @@ We've taken these lists, added other roles that we didn't see included and inclu
     * [BBC - How to design for accessibility](https://www.bbc.co.uk/gel/guidelines/how-to-design-for-accessibility)
     * [Geri Reid's WCAG for designers](https://gerireid.com/wcag-for-designers.html)
     * [Singapore Government Design System - Accessibility in Design](https://www.designsystem.tech.gov.sg/guides/designers-accessibility/)
+    * [A Designer’s Guide to Documenting Accessibility & User Interactions by Stéphanie Walter](https://stephaniewalter.design/blog/a-designers-guide-to-documenting-accessibility-user-interactions/)
 
 
 We plan to continue to add to this as other role specific advice becomes relevant. The W3C's [ARRM Project - Accessibility Roles and Responsibilities Mapping](https://www.w3.org/WAI/EO/wiki/ARRM_Project_-_Accessibility_Roles_and_Responsibilities_Mapping) will be mapping this out in more detail in the years to come. 
