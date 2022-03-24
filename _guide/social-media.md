@@ -64,6 +64,8 @@ Common accessibility-related hashtags:
 ### General
 
 *   [Improving the Accessibility of Social Media in Government](https://digital.gov/resources/improving-the-accessibility-of-social-media-in-government/?dg) (Digital.gov)
+*   [Planning, creating and publishing accessible social media campaigns](https://gcs.civilservice.gov.uk/guidance/digital-communication/planning-creating-and-publishing-accessible-social-media-campaigns/)
+*   [Accessible Social](https://www.accessible-social.com)
 
 
 ### Twitter
