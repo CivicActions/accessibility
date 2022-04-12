@@ -163,6 +163,10 @@ Chrome/Firefox extension and a web-based tool created to help designers and deve
 *   [Color Oracle](http://colororacle.org/) - [Oracle-Mac on GitHub](https://github.com/nvkelso/color-oracle) & [Oracle-Windows on GitHub](https://github.com/nvkelso/color-oracle-java) \
 Color blindness simulator for Windows, Mac, and Linux.
 
+## EPUB3 {#epub}
+
+* [EPUBCheck](https://github.com/w3c/epubcheck)
+
 ## PDFs {#pdfs}
 
 ### Accessibility checkers
