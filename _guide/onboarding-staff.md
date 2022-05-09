@@ -47,7 +47,7 @@ Our team has been working to extend the [CivicActions Accessibility](https://acc
 
 ### Trello card - Install a web accessibility browser extension
 
-Install an accessibility browser extension like [axe DevTool's Web Accessibility Testing for Chrome](https://chrome.google.com/webstore/detail/axe-devtools-web-accessib/lhdoppojpmngadmnindnejefpokejbdd), [WebAim's WAVE Toolbar extension/plugin](https://wave.webaim.org/extension/) or [Microsoft's Accessibility Insights](https://accessibilityinsights.io/). Take the time to learn the basics of whichever one you choose because everyone has a role in producing accessible websites.  
+Install an accessibility browser extension. Take the time to learn the basics of whichever one you choose because everyone has a role in producing accessible websites.  
   * [axe DevTool's Web Accessibility Testing for Chrome](https://chrome.google.com/webstore/detail/axe-devtools-web-accessib/lhdoppojpmngadmnindnejefpokejbdd)  
   * [WAVE](https://www.youtube.com/watch?v=ITUDiTgAZY0&t=270s)
   * [Accessibility Insights](https://www.youtube.com/watch?v=U6NY8Cxym5g)  
