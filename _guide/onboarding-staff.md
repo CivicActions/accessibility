@@ -47,9 +47,26 @@ Our team has been working to extend the [CivicActions Accessibility](https://acc
 
 ### Trello card - Install a web accessibility browser extension
 
-Install an accessibility browser extension like [WebAim's WAVE Toolbar extension/plugin](https://wave.webaim.org/extension/) or [Microsoft's Accessibility Insights](https://accessibilityinsights.io/). Take the time to learn the basics of whichever one you choose because everyone has a role in producing accessible websites.
+Install an accessibility browser extension like [axe DevTool's Web Accessibility Testing for Chrome](https://chrome.google.com/webstore/detail/axe-devtools-web-accessib/lhdoppojpmngadmnindnejefpokejbdd), [WebAim's WAVE Toolbar extension/plugin](https://wave.webaim.org/extension/) or [Microsoft's Accessibility Insights](https://accessibilityinsights.io/). Take the time to learn the basics of whichever one you choose because everyone has a role in producing accessible websites.  
+  * [axe DevTool's Web Accessibility Testing for Chrome](https://chrome.google.com/webstore/detail/axe-devtools-web-accessib/lhdoppojpmngadmnindnejefpokejbdd)  
   * [WAVE](https://www.youtube.com/watch?v=ITUDiTgAZY0&t=270s)
-  * [Accessibility Insights](https://www.youtube.com/watch?v=U6NY8Cxym5g)
+  * [Accessibility Insights](https://www.youtube.com/watch?v=U6NY8Cxym5g)  
+  
+
+### Trello card - Install a color contrast checker  
+Install a color contrast checker browser extension, such as [ColorZilla for Chrome](https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp), [ColorZilla for Chrome](https://addons.mozilla.org/en-US/firefox/addon/colorzilla/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) or use a free site like [Coolors Color Contrast Checker](https://coolors.co/contrast-checker/112a46-acc8e5)  
+
+
+### Trello card - Install an accessibility linter in your text editor    
+Install an accessibility linter in your text editor, such as [axe Accessibility Linter for VS Code - recommended](https://marketplace.visualstudio.com/items?itemName=deque-systems.vscode-axe-linter). Please note, an accessiblity linter is required for front end dev work.    
+
+
+### Trello card for Design - Install a color contrast checker in Figma   
+Make sure all Figma projects include a color contrast checker, such as [Contrast](https://www.figma.com/community/plugin/748533339900865323/Contrast), or [A11y - Color Contrast Checker](https://www.figma.com/community/plugin/733159460536249875). Make sure all Sketch/Invison projects include a color checker such as [Stark](https://www.getstark.co/).  A color contrast checker that shows WCAG levels is required for design work.  
+
+
+### Trello card for Copywriting, Press releases, Blog posts Presentation writing, etc - Install a color contrast checker in Figma   
+Make sure all copy is checked for readablity levels. The recommended level is grade 7-8 for the general public in the US. We recommend using the [Flesch Grade Level Readability Scale](https://readabilityformulas.com/free-readability-formula-tests.php), or [Hemmingway](https://hemingwayapp.com/).  Microsoft 365 flavored Word [includes a checker based on Flesch-Kinkaid](https://support.microsoft.com/en-us/office/get-your-document-s-readability-and-level-statistics-85b4969e-e80a-4777-8dd3-f7fc3c8b3fd2).
 
 
 ### Trello card - Investigate and possibly configure accessibility settings in your operating system
