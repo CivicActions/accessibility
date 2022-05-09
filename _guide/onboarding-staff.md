@@ -76,7 +76,7 @@ Apple, Windows, Chromebook, Linux desktop OS all have built-in accessibility fea
 **Mac users** - enable [Full Keyboard Access](https://iainbean.com/posts/2020/an-opinionated-guide-to-accessibility-testing/#1.-The-Tab-key) to be able to test keyboard only navigation.
 
 
-### Trello card - Take a simple quiz with multiple-choice questions (include links to Google Forms):
+### Trello card - Take a this quiz with multiple-choice questions (include links to Google Forms):
 
 Onboarding Quiz (Internal) - [Edit view](https://docs.google.com/forms/d/1O7VV0YRrkDMPPucrrBPHOQIGm8yZ1y6dzuJZe2mHQwA/edit) and [Participant view](https://docs.google.com/forms/d/e/1FAIpQLSdpyp-NLXUzzmbc4zNQqikrgx0V2n1IbmZRYlWSIBstTFbI-Q/viewform)
 
@@ -100,7 +100,7 @@ Onboarding Quiz (Internal) - [Edit view](https://docs.google.com/forms/d/1O7VV0Y
     * Microsoft's Accessibility Insights
     * Firefox's Inclusive Widget
     * NVDA Screen Reader
-* There are many forms of disabilities that are not obvious to an observer.
+* There are many forms of disabilities that are not initally clear to an observer.
     * True
     * False
 * What are the 6 checks displayed in the summary when you run the WAVE Web Accessibility Evaluation Tool on a site?
@@ -126,7 +126,7 @@ Onboarding Quiz (Internal) - [Edit view](https://docs.google.com/forms/d/1O7VV0Y
 
 ### Trello card - Join the #accessibility slack channel & report your score
 
-We want everyone at CivicActions to get an 80% or higher in this quiz. If you don't score high enough, feel free to engage with the Accessibility Team or to simply take the exam again. 
+We want everyone at CivicActions to get an 80% or higher in this quiz. If you don't score high enough, feel free to engage with the Accessibility Team or retake the exam. 
 
 
 ## Trello card - Participate in our Basic workshop (1hr)
