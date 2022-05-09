@@ -57,12 +57,12 @@ Install an accessibility browser extension. Take the time to learn the basics of
 Install a color contrast checker browser extension, such as [ColorZilla for Chrome](https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp), [ColorZilla for Chrome](https://addons.mozilla.org/en-US/firefox/addon/colorzilla/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) or use a free site like [Coolors Color Contrast Checker](https://coolors.co/contrast-checker/112a46-acc8e5)  
 
 
-### Trello card - Install an accessibility linter in your text editor    
-Install an accessibility linter in your text editor, such as [axe Accessibility Linter for VS Code - recommended](https://marketplace.visualstudio.com/items?itemName=deque-systems.vscode-axe-linter). Please note, an accessiblity linter is required for front end dev work.  
+### Trello card - Install an accessibility linter in your text editor  
+Install an accessibility linter in your text editor, such as [axe Accessibility Linter for VS Code - recommended](https://marketplace.visualstudio.com/items?itemName=deque-systems.vscode-axe-linter). Please note, an accessiblity linter is required for front end dev work.
 
 
 ### Trello card for Design - Install a color contrast checker in Figma   
-Make sure all Figma projects include a color contrast checker, such as [Contrast](https://www.figma.com/community/plugin/748533339900865323/Contrast), or [A11y - Color Contrast Checker](https://www.figma.com/community/plugin/733159460536249875). Make sure all Sketch/Invison projects include a color checker such as [Stark](https://www.getstark.co/).  A color contrast checker that shows WCAG levels is required for design work.  
+Make sure all Figma projects include a color contrast checker, such as [Contrast](https://www.figma.com/community/plugin/748533339900865323/Contrast), or [A11y - Color Contrast Checker](https://www.figma.com/community/plugin/733159460536249875). Make sure all Sketch/Invison projects include a color checker such as [Stark](https://www.getstark.co/).  A color contrast checker that shows WCAG levels is required for design work.
 
 
 ### Trello card for Copywriting, Press releases, Blog posts Presentation writing, etc - Install a color contrast checker in Figma   
