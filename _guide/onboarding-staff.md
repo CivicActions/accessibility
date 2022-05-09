@@ -58,7 +58,7 @@ Install a color contrast checker browser extension, such as [ColorZilla for Chro
 
 
 ### Trello card - Install an accessibility linter in your text editor    
-Install an accessibility linter in your text editor, such as [axe Accessibility Linter for VS Code - recommended](https://marketplace.visualstudio.com/items?itemName=deque-systems.vscode-axe-linter). Please note, an accessiblity linter is required for front end dev work.    
+Install an accessibility linter in your text editor, such as [axe Accessibility Linter for VS Code - recommended](https://marketplace.visualstudio.com/items?itemName=deque-systems.vscode-axe-linter). Please note, an accessiblity linter is required for front end dev work.  
 
 
 ### Trello card for Design - Install a color contrast checker in Figma   
@@ -66,7 +66,7 @@ Make sure all Figma projects include a color contrast checker, such as [Contrast
 
 
 ### Trello card for Copywriting, Press releases, Blog posts Presentation writing, etc - Install a color contrast checker in Figma   
-Make sure all copy is checked for readablity levels. The recommended level is grade 7-8 for the general public in the US. We recommend using the [Flesch Grade Level Readability Scale](https://readabilityformulas.com/free-readability-formula-tests.php), or [Hemmingway](https://hemingwayapp.com/).  Microsoft 365 flavored Word [includes a checker based on Flesch-Kinkaid](https://support.microsoft.com/en-us/office/get-your-document-s-readability-and-level-statistics-85b4969e-e80a-4777-8dd3-f7fc3c8b3fd2).
+Make sure all copy is checked for readablity levels. The recommended level is grade 7-8 for the general public in the US. We recommend using the [Flesch Grade Level Readability Scale](https://readabilityformulas.com/free-readability-formula-tests.php), or [Hemmingway](https://hemingwayapp.com/). Microsoft 365 flavored Word [includes a checker based on Flesch-Kinkaid](https://support.microsoft.com/en-us/office/get-your-document-s-readability-and-level-statistics-85b4969e-e80a-4777-8dd3-f7fc3c8b3fd2).
 
 
 ### Trello card - Investigate and possibly configure accessibility settings in your operating system
