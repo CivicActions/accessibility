@@ -47,7 +47,7 @@ Our team has been working to extend the [CivicActions Accessibility](https://acc
 
 ### Trello card - Install a web accessibility browser extension
 
-Install an accessibility browser extension. Take the time to learn the basics of whichever one you choose because everyone has a role in producing accessible websites.  
+Install an accessibility browser extension. Take the time to learn the basics of whichever one you choose because everyone has a role in producing accessible websites. 
   * [axe DevTool's Web Accessibility Testing for Chrome](https://chrome.google.com/webstore/detail/axe-devtools-web-accessib/lhdoppojpmngadmnindnejefpokejbdd)  
   * [WAVE](https://www.youtube.com/watch?v=ITUDiTgAZY0&t=270s)
   * [Accessibility Insights](https://www.youtube.com/watch?v=U6NY8Cxym5g)  
@@ -62,10 +62,10 @@ Install an accessibility linter in your text editor, such as [axe Accessibility 
 
 
 ### Trello card for Design - Install a color contrast checker in Figma   
-Make sure all Figma projects include a color contrast checker, such as [Contrast](https://www.figma.com/community/plugin/748533339900865323/Contrast), or [A11y - Color Contrast Checker](https://www.figma.com/community/plugin/733159460536249875). Make sure all Sketch/Invison projects include a color checker such as [Stark](https://www.getstark.co/).  A color contrast checker that shows WCAG levels is required for design work.
+Make sure all Figma projects include a color contrast checker, such as [Contrast](https://www.figma.com/community/plugin/748533339900865323/Contrast), or [A11y - Color Contrast Checker](https://www.figma.com/community/plugin/733159460536249875). Make sure all Sketch/Invison projects include a color checker such as [Stark](https://www.getstark.co/). A color contrast checker that shows WCAG levels is required for design work.
 
 
-### Trello card for Copywriting, Press releases, Blog posts Presentation writing, etc - Install a color contrast checker in Figma   
+### Trello card for copywriting, press releases, blog/social posts presentation writing, etc - use a readability checker  
 Make sure all copy is checked for readablity levels. The recommended level is grade 7-8 for the general public in the US. We recommend using the [Flesch Grade Level Readability Scale](https://readabilityformulas.com/free-readability-formula-tests.php), or [Hemmingway](https://hemingwayapp.com/). Microsoft 365 flavored Word [includes a checker based on Flesch-Kinkaid](https://support.microsoft.com/en-us/office/get-your-document-s-readability-and-level-statistics-85b4969e-e80a-4777-8dd3-f7fc3c8b3fd2).
 
 
