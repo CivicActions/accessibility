@@ -57,5 +57,5 @@ CivicActions hereby pledges to build and maintain digital tools with the followi
 - Document process for choosing representative sample of pages for reviews
 - Detail what testing processes have been set up for each projects and what common code has been shared
 
-Henry Poole, CEO
+Authorized by Henry Poole, CEO
 May 19, 2022
