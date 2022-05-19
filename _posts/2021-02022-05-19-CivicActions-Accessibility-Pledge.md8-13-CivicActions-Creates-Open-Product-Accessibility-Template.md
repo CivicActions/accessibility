@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "CivicActions Accessibility Pledge"
-date:   2021-05-19
+date:   2022-05-19
 description: Our committment to accessibility is encapsulated in this pledge.
 author: mike-gifford
 categories: 
