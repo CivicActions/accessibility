@@ -11,10 +11,10 @@ permalink: /about/people/daniel-mundra
 linkedin: 
 twitter: 
 github: https://github.com/dmundra
-gitlab: 
+gitlab: https://gitlab.com/dmundra
 drupal: https://www.drupal.org/u/dmundra
 speakerdeck: 
-website: https://www.danielmundra.com/
+website: https://danielmundra.com/
 external: false
 
 ---
