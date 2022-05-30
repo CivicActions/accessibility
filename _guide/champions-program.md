@@ -155,7 +155,7 @@ Many joined CivicActions because they wanted to work for an impact-driven organi
 -   Customizable checklists for how to evaluate an existing project, individual pages, and critical user paths.
 -   Customizable checklists to ensure a new project is thinking about accessibility throughout the project and where and how often progress should be reported to the client, the Accessibility working group, CA
 -   User pathways for critical tasks and impacts on personas with barriers (permanent, temporary or situational).  
-    Note: if pathways haven’t been defined in a project, the accessibility champion should advocate for them to be defined.
+    Note: if pathways haven't been defined in a project, the accessibility champion should advocate for them to be defined.
 -   Some additional ideas for metrics:
     -   Content design - Reading level improvements and increased use of plain language.
     -   UX design - These should be comparable between someone with a disability as someone without a disability: time to complete key tasks, completion rate, digital uptake or adoption rate, error rate, user satisfaction; running a certain percentage of user tests with users with a disability.
@@ -166,11 +166,11 @@ Many joined CivicActions because they wanted to work for an impact-driven organi
 ## Resources
 
 * Minnesota State Government: Accessibility Challenge - Nurture More Champions [Part 1](https://mn.gov/mnit/media/blog/?id=38-516010) & [Part 2](https://mn.gov/mnit/media/blog/?id=38-518320)
-* [LinkedIN’s Program](https://engineering.linkedin.com/blog/2019/05/scaling-accessibility-through-a11y-champions-program)    
+* [LinkedIN's Program](https://engineering.linkedin.com/blog/2019/05/scaling-accessibility-through-a11y-champions-program)    
 * Intuit (Quickbooks)
-     * [The A11y Global Collective: Scaling Accessibility — Intuit’s Accessibility Champions Program (YouTube)](https://www.youtube.com/watch?v=np6sIWUTPlE)
-     * [The A11y Global Collective: Scaling Accessibility — Intuit’s Accessibility Champions Program Slides (PDF)](http://www.last-child.com/wp-content/uploads/2021/09/Accessibility-Champions.pdf)
-     * [Intuit’s Accessibility Champion Program](https://www.last-child.com/intuits-accessibility-champion-program/)
+     * [The A11y Global Collective: Scaling Accessibility — Intuit's Accessibility Champions Program (YouTube)](https://www.youtube.com/watch?v=np6sIWUTPlE)
+     * [The A11y Global Collective: Scaling Accessibility — Intuit's Accessibility Champions Program Slides (PDF)](http://www.last-child.com/wp-content/uploads/2021/09/Accessibility-Champions.pdf)
+     * [Intuit's Accessibility Champion Program](https://www.last-child.com/intuits-accessibility-champion-program/)
      * [Lessons Learned from an Intuit Accessibility Champion (Blog)](https://www.intuit.com/blog/innovation/lessons-learned-from-an-intuit-accessibility-champion/)
 * AbilityNet
      * [How to build accessibility into your organisation - BBC Accessibility Champions](https://www.abilitynet.org.uk/news-blogs/how-build-accessibility-your-organisation-bbc-accessibility-champions)
