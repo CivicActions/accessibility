@@ -32,6 +32,7 @@ Bonus videos:
 * [Apple - Introducing Voice Control on Mac and iOS](https://www.youtube.com/watch?v=aqoXFCCTfm4) (<2 minutes)
 * [Apple - Accessibility - Sady](https://www.youtube.com/watch?v=su0djsYaDYI) (<2 minutes)
 * [Educause - Presentation Best Practices: Diversity, Equity, and Inclusion](https://www.youtube.com/watch?v=LPYkatM-0dk) (<8 minutes)
+* [DC Government: Disability Sensitivity Training Video](https://www.youtube.com/watch?v=Gv1aDEFlXq8&t=4s) - Quite funny
 
 Curious how some other people engage with the web?
 * [Apple's VoiceOver screen reader](https://www.youtube.com/watch?v=5R-6WvAihms)
