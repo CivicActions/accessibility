@@ -48,9 +48,9 @@ Our team has been working to extend the [CivicActions Accessibility](https://acc
 
 Install an accessibility browser extension. Take the time to learn the basics of whichever one you choose because everyone has a role in producing accessible websites.
 
-* [axe DevTool's Web Accessibility Testing for Chrome](https://chrome.google.com/webstore/detail/axe-devtools-web-accessib/lhdoppojpmngadmnindnejefpokejbdd)
-* [WAVE](https://www.youtube.com/watch?v=ITUDiTgAZY0&t=270s)
-* [Accessibility Insights](https://www.youtube.com/watch?v=U6NY8Cxym5g)
+* [Deque's axe DevTool for Chrome](https://chrome.google.com/webstore/detail/axe-devtools-web-accessib/lhdoppojpmngadmnindnejefpokejbdd) - [Youtube: Intro to axe DevTools](https://www.youtube.com/watch?v=iRGB40c_YJc)
+* [WebAim's WAVE](https://wave.webaim.org/) - [Youtube: Intro to WAVE](https://www.youtube.com/watch?v=ITUDiTgAZY0&t=270s)
+* [Microsoft's Accessibility Insights](https://accessibilityinsights.io/) - [Youtube: Intro to Accessibility Insights](https://www.youtube.com/watch?v=U6NY8Cxym5g)
 
 ### Trello card - Install a color contrast checker
 
@@ -66,7 +66,7 @@ Make sure all Figma projects include a color contrast checker, such as [Contrast
 
 ### Trello card for copywriting, press releases, blog/social posts presentation writing, etc - use a readability checker
 
-Make sure all copy is checked for readablity levels. The recommended level is grade 7-8 for the general public in the US. We recommend using the [Flesch Grade Level Readability Scale](https://readabilityformulas.com/free-readability-formula-tests.php), or [Hemmingway](https://hemingwayapp.com/). Microsoft 365 flavored Word [includes a checker based on Flesch-Kinkaid](https://support.microsoft.com/en-us/office/get-your-document-s-readability-and-level-statistics-85b4969e-e80a-4777-8dd3-f7fc3c8b3fd2).
+Make sure all copy is checked for readablity levels. The recommended level is grade 7-8 for the general public in the US. We recommend using the [Flesch Grade Level Readability Scale](https://readabilityformulas.com/free-readability-formula-tests.php), or [Hemmingway](https://hemingwayapp.com/). Microsoft's Office 365 also [includes a checker based on Flesch-Kinkaid](https://support.microsoft.com/en-us/office/get-your-document-s-readability-and-level-statistics-85b4969e-e80a-4777-8dd3-f7fc3c8b3fd2).
 
 ### Trello card - Investigate and possibly configure accessibility settings in your operating system
 
