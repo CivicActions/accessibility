@@ -75,3 +75,8 @@ docs:
   url: /onboarding-staff
   description: 
   icon: <i class="fas fa-chalkboard-teacher fa-5x" aria-hidden="true"></i>
+  
+- title: Champions program
+  url: /champions-program
+  description: 
+  icon: <i class="fas fa-people-group fa-5x" aria-hidden="true"></i>
