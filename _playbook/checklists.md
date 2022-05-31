@@ -13,8 +13,7 @@ roles:
   - Project manager
   - UX designer
 ---
-
-Checklists can be very useful, but there is no single checklist that will cover all WCAG issues. An organization can choose to build one or customize one to meet their needs. Ultimately though, it is useful to change the review process on a regular basis to ensure that people continue to learn new ways to create better content. 
+Checklists while helpful are insufficient to move an organization beyond a limited compliance mindset. There is no single checklist that will even cover all WCAG issues. As Intopia has has warned, [a checklist mentality can actually be harmful for inclusion](https://intopia.digital/articles/announcing-the-accessibility-not-checklist/). That said, if approached as part of a broader strategy they can be very helpful. We recommend that team might want to choose one which has already been built or customize one to better meet their needs. Ultimately though, it is useful to regularly review your checklists to ensure that your team continues to learn how to create more inclusive content. 
 
 Tools like [Accessibility Insights](https://accessibilityinsights.io/) have an assessment component that guides users through a fine tooth manual review of a webpage. Using this tool, organizations could:
 
@@ -52,6 +51,7 @@ There are lots of checklists, rotating through a few of them will help give diff
 * [tmobile's A11yEngineer](https://github.com/tmobile/magentaA11y)
 * [dev.to's Web Accessibility Cheat Sheet](https://dev.to/codegino/web-accessibility-cheat-sheet-3774#aria)
 * [The Book on Accessibility](https://www.thebookonaccessibility.com/)
+* [Intopia's Accessibility Not-Checklist](https://not-checklist.intopia.digital/)
 
 ## Checklist
 
