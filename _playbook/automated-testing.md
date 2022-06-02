@@ -46,6 +46,8 @@ Currently CivicActions uses the following approaches.
 
 We are currently testing this [accessibility site using pa11y-ci](https://github.com/CivicActions/accessibility/tree/main/.github/workflows#pa11yyml) and [we blogged about it](/posts/automated-accessibility-testing-leveraging-github-actions-and-pa11y-ci-with-axe).
 
+Pa11y by default uses the [HTML_CodeSniffer](https://squizlabs.github.io/HTML_CodeSniffer/) accessibility engine, but it is recommended to switch to Pa11y with axe, which is [described in this UK Government Accessibility Manual](https://accessibility-manual.dwp.gov.uk/best-practice/automated-testing-using-axe-core-and-pa11y).  
+
 ### Cypress testing with the axe core
 
 [Cypress](https://www.cypress.io/) is a JavaScript testing framework that is used for automated testing. [Axe core](https://github.com/dequelabs/axe-core) is a popular accessibility testing engine. Our projects use [cypress with the axe core](https://github.com/component-driven/cypress-axe) to test components for accessibility issues.
