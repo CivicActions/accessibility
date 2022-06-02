@@ -37,7 +37,7 @@ Attend the practice area calls and engage in the Slack channel / keep up with be
 -   Page level
 -   Identify common problems
 -   Professional Development (Prodev)
--   Take EdX course (with certificate) - eventually this may be part of onboarding (16-20 hours total over 1 to 4 weeks)
+-   [Take EdX course (with certificate)](https://www.edx.org/course/web-accessibility-introduction) - eventually this may be part of onboarding (16-20 hours total over 1 to 4 weeks)
     
 ### Level 2 — Experienced
 
