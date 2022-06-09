@@ -16,7 +16,8 @@ Worldwide, government website design is being led by open source initiatives.
 
 ### USA
 *   [U.S. Web Design System (USWDS)](https://designsystem.digital.gov/) - [USWDS on GitHub](https://github.com/uswds/uswds)
-*   [USA CMS Design System](https://design.cms.gov/) - [CMS Design System on GitHub](https://github.com/cmsgov/design-system)
+*   [USA CMS Design System](https://design.cms.gov/) - [CMS on GitHub](https://github.com/cmsgov/design-system)
+*   [VA.gov Design System](https://design.va.gov) - [VA on GitHub](https://github.com/department-of-veterans-affairs/vets-design-system-documentation)
 *   [California Design System](https://designsystem.webstandards.ca.gov/) - [CDS on GitHub](https://github.com/cagov/design-system)
 
 ### UK
