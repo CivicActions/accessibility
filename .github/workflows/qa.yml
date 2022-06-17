@@ -55,7 +55,7 @@ jobs:
           time: '2m'
 
       - name: Comment on pull request.
-        uses: thollander/actions-comment-pull-request@master
+        uses: thollander/actions-comment-pull-request@v1
         with:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           message: "You can test changes in this branch at [https://accessibility-qa.civicactions.com/](https://accessibility-qa.civicactions.com/). If you pushed additional changes and need to reapply them, remove and readd the label 'qa-pull-request'. The QA repo can be accessed at [https://github.com/CivicActions/accessibility-qa](https://github.com/CivicActions/accessibility-qa)."
