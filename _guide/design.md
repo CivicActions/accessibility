@@ -18,7 +18,7 @@ Worldwide, government website design is being led by open source initiatives.
 *   [U.S. Web Design System (USWDS)](https://designsystem.digital.gov/) - [USWDS on GitHub](https://github.com/uswds/uswds)
 *   [USA CMS Design System](https://design.cms.gov/) - [CMS on GitHub](https://github.com/cmsgov/design-system)
 *   [VA.gov Design System](https://design.va.gov) - [VA on GitHub](https://github.com/department-of-veterans-affairs/vets-design-system-documentation)
-*   [California Design System](https://designsystem.webstandards.ca.gov/) - [CDS on GitHub](https://github.com/cagov/design-system)
+*   [California Design System](https://designsystem.webstandards.ca.gov/) - [CDS on GitHub](https://github.com/cagov/design-system) - Uses Web Components
 
 ### UK
 *   [GOV.UK - Design System](https://design-system.service.gov.uk/) - [GOV.UK Design System on GitHub](https://github.com/alphagov/govuk-design-system)
@@ -37,7 +37,7 @@ Worldwide, government website design is being led by open source initiatives.
 
 ### Municipal
 *   [City of Helsinki Design System](https://github.com/City-of-Helsinki/helsinki-design-system)
-*   [The New York Public Library's Design System](https://nypl.github.io/nypl-design-system/storybook-static/?path=/story/breadcrumb--breadcrumbs) -[NYPL on GitHub](https://github.com/NYPL/nypl-design-system)
+*   [The New York Public Library's Design System](https://nypl.github.io/nypl-design-system/reservoir/v1/?path=/story/welcome--page) -[NYPL on GitHub](https://github.com/NYPL/nypl-design-system)
 
 
 ## Other open design systems {#other-open-design-systems}
@@ -48,7 +48,7 @@ Worldwide, government website design is being led by open source initiatives.
 *   [VMWare's Clarity Design System](https://clarity.design/) - [Clarity on GitHub](https://github.com/vmware/clarity) [Clarity's Accessibility](https://clarity.design/get-started/support/#accessibility-support)
 *   [Emulsify](https://www.emulsify.info/) - [Emulsify on GitHub](https://github.com/emulsify-ds) [Emulsify's Accessibility](https://docs.emulsify.info/usage/accessibility-testing)
 *   [ING's Lion Design System](https://lion-web-components.netlify.app/?path=/story/*) - [Lion on GitHub](https://github.com/ing-bank/lion) [Lion's Accessibility](https://lion-web.netlify.app/blog/ing-open-sources-lion/#accessibility) - Uses Web Components
-*   [Talend's Coral Design System](https://design.talend.com/) - [Coral on GitHub](https://github.com/Talend/ui/)
+*   [Talend's Coral Design System](https://design.talend.com/) - [Coral on GitHub](https://github.com/Talend/ui/) - Uses React Components
 *   [Orange Digital Accessibility](https://a11y-guidelines.orange.com/en/) - [Orange a11y-guidelines on GitHub](https://github.com/Orange-OpenSource/a11y-guidelines)
 *   [Google's Material Design](https://material.io/) - [Material on GitHub](https://github.com/material-components) [Material's Accessibility](https://material.io/design/usability/accessibility.html#understanding-accessibility) - Uses Web Components
 *   [Adobe's Spectrum](https://spectrum.adobe.com/) - [Spectrum's Inclusive Design](https://spectrum.adobe.com/page/inclusive-design/) - Uses Web Components
