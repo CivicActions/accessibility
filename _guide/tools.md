@@ -15,9 +15,9 @@ Digital accessibility tools.
 
 *   [A11yFirst for CKEditor](http://a11yfirst.web.illinois.edu/) - [Accessibility First on GitHub](https://github.com/a11yfirst/distribution) \
 Series of plugins for supporting a11y best practices within the WYSIWYG editor, CKEditor.
-*   [Sa11y Ryerson Digital Media Projects](https://ryersondmp.github.io/sa11y/#install) - [Sa11y on GitHub](https://github.com/ryersondmp/sa11y) \
-Sa11y is an accessibility QA tool built on [Tota11y](https://khan.github.io/tota11y/) that visually highlights common accessibility and usability \
-issues and is geared towards content authors.
+*   [Sa11y, the accessibility quality
+assurance assistant](https://sa11y.netlify.app/) \
+An in-page accessibility checker that visually highlights common accessibility and usability issues. Geared towards content authors, Sa11y straightforwardly identifies errors or warnings at the source with a simple tooltip on how to fix them. Available as a JavaScript plugin, bookmarklet, and WordPress plugin. 
 *   [Editoria11y](https://github.com/itmaybejj/editoria11y) - Editoria11y was initially built on Sa11y and highlights common issues inline with the \
 content editor. Presently there is a Drupal module that leverages CKEditor, but they are working on a WordPress module too. 
 *   [retextjs: retext-readability plugin](https://github.com/retextjs/retext-readability) \
