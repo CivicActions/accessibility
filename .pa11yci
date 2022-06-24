@@ -2,7 +2,7 @@
   "defaults": {
     "concurrency": 1,
     "standard": "WCAG2AA",
-    "runners": ["axe"],
+    "runners": ["axe", "htmlcs"],
     "ignore": [
       "color-contrast",
       "frame-tested"
