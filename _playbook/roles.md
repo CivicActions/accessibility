@@ -109,7 +109,7 @@ We've taken these lists, added other roles that we didn't see included and inclu
 * "Front-End Developer maps to [IAAP](https://www.accessibilityassociation.org/)'s HTML and CSS Prototyping and Front-End Development." - [A11ycle.com](https://a11ycle.com/digital-accessibility/roles/)
 * W3C WAI - [ARRM Project: Front-End Developer Responsibilities Mapping](https://www.w3.org/WAI/EO/wiki/Front-End_Developer_Responsibilities_Mapping).
 * [Development W3C Accessibility Responsibility: Front End](https://www.w3.org/community/wai-engage/wiki/Front-end_Development).
-* **Tools:** [Accessibility Insights](https://accessibilityinsights.io/).
+* **Tools:** [Accessibility Insights](https://accessibilityinsights.io/) and [axe DevTools](https://deque.com/axe/devtools/).
 * Checklist
     * Run the FastPass's automated axe checks on every page.
     * Check that the Tab stops follow a logical order when navigating with a keyboard.
