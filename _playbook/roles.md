@@ -53,7 +53,7 @@ We've taken these lists, added other roles that we didn't see included and inclu
 ## Content Author / Writer
 * See: [USA: Accessibility for content designers](https://accessibility.digital.gov/content-design/getting-started/)
 * W3C WAI - [ARRM Project: Accessibility Roles and Responsibilities Mapping](https://www.w3.org/WAI/EO/wiki/Content_Author_Responsibilities_Mapping).
-* **Tools:** [Sa11y](https://ryersondmp.github.io/sa11y/), [Editoria11y](https://itmaybejj.github.io/editoria11y/) and [HemingwayApp](http://www.hemingwayapp.com/)
+* **Tools:** [Sa11y](https://ryersondmp.github.io/sa11y/), [Editoria11y](https://itmaybejj.github.io/editoria11y/), [retextjs](https://github.com/retextjs) and [HemingwayApp](http://www.hemingwayapp.com/)
 * Checklist:
     * Does the content meet your readability target?
     * Are there any [unusual words](https://www.w3.org/WAI/WCAG21/quickref/?versions=2.0#unusual-words) to watch for?
@@ -109,7 +109,7 @@ We've taken these lists, added other roles that we didn't see included and inclu
 * "Front-End Developer maps to [IAAP](https://www.accessibilityassociation.org/)'s HTML and CSS Prototyping and Front-End Development." - [A11ycle.com](https://a11ycle.com/digital-accessibility/roles/)
 * W3C WAI - [ARRM Project: Front-End Developer Responsibilities Mapping](https://www.w3.org/WAI/EO/wiki/Front-End_Developer_Responsibilities_Mapping).
 * [Development W3C Accessibility Responsibility: Front End](https://www.w3.org/community/wai-engage/wiki/Front-end_Development).
-* **Tools:** [Accessibility Insights](https://accessibilityinsights.io/).
+* **Tools:** [Accessibility Insights](https://accessibilityinsights.io/) and [axe DevTools](https://deque.com/axe/devtools/).
 * Checklist
     * Run the FastPass's automated axe checks on every page.
     * Check that the Tab stops follow a logical order when navigating with a keyboard.
@@ -155,7 +155,7 @@ We've taken these lists, added other roles that we didn't see included and inclu
 * See: [UK DWP: <abbr title="Quality Assurance">QA</abbr> Tester](https://accessibility-manual.dwp.gov.uk/guidance-for-your-job-role/qa-tester), [BBC: Accessibility, News and Testers](https://bbc.github.io/accessibility-news-and-you/accessibility-news-and-testers) and [UK Service Manual](https://www.gov.uk/service-manual/the-team/what-each-role-does-in-service-team#quality-assurers-and-testers)
 * "As QA Tester, you're responsible for checking if the finished product is actually accessible. This means running automated tests, manually checking the pages against the WCAG criteria, and testing usability with assistive technology."
 * [W3C Accessibility Responsibility: Quality Control](https://www.w3.org/community/wai-engage/wiki/Quality_Control).
-* **Tools:** [Purple Hats](https://github.com/GovTechSG/purple-hats), [MSU's Domain Accessibility Audit](https://github.com/MSU-NatSci/DomainAccessibilityAudit) or [Siteimprove](https://siteimprove.com) and [Accessibility Insights](https://accessibilityinsights.io/).
+* **Tools:** [Purple Hats](https://github.com/GovTechSG/purple-hats), [MSU's Domain Accessibility Audit](https://github.com/MSU-NatSci/DomainAccessibilityAudit) or [Siteimprove](https://siteimprove.com), [Pa11y](https://accessibility.civicactions.com/posts/automated-accessibility-testing-leveraging-github-actions-and-pa11y-ci-with-axe) and [Accessibility Insights](https://accessibilityinsights.io/).
 * Resources: 
     * [BBC's Checklist](https://bbc.github.io/accessibility-news-and-you/accessibility-news-and-testers), [Paul Adams Checklist](https://pauljadam.com/demos/mobilechecklist.html).
     * [A11ycle's Quality Assurance](https://a11ycle.com/digital-accessibility/roles/quality-assurance/)
