@@ -188,7 +188,7 @@ We've taken these lists, added other roles that we didn't see included and inclu
 * See: [USA: Accessibility for visual designers](https://accessibility.digital.gov/visual-design/getting-started/) and [UK Service Manual](https://www.gov.uk/service-manual/the-team/what-each-role-does-in-service-team#designer)
 * "Everyone benefits from designs that are easier to see. People with different visual abilities see your designs in varying ways—the diverse nature of impairments creates a wide variation in how your designs are perceived. A clean and clear visual presentation helps everyone make sense of a website's information and functionality."
 * W3C WAI - [Accessibility Responsibility: Graphic Design](https://www.w3.org/community/wai-engage/wiki/Accessibility_By_Roles_-_Graphic_Design) and [ARRM Project: Visual Designer Responsibilities Mapping](https://www.w3.org/WAI/EO/wiki/Visual_Designer_Responsibilities_Mapping).
-* **Tools:** [Open source color contrast tools](/guide/tools#color).
+* **Tools:** [Open source color contrast tools](/guide/tools#color) and [DigitalA11y's Accessibility Tools and Resources for Designers](https://www.digitala11y.com/accessibility-tools-and-resources-for-designers/)
 * Checklist:
     * Is there enough contrast between text and its background color?
     * Are buttons and links semantically defined?
