@@ -99,9 +99,9 @@ Running Pa11y on 49 URLs:
 ✔ 49/49 URLs passed
 ```
 
-As you can see, at the time of this writing we have all our pages passing! To see examples of us fixing reported accessibility issues check out [pull request #128](https://github.com/CivicActions/accessibility/pull/128).
+As you can see, at the time of this writing we have all our pages passing! To see examples of us fixing reported accessibility issues check out [pull request #128 on this site](https://github.com/CivicActions/accessibility/pull/128).
 
-Note: we have also noticed that pa11y-ci intermittently throws an error when trying to test many pages. Here is an open issue to find a solution to that: [issue #128](https://github.com/pa11y/pa11y-ci/issues/128).
+Note: we have also noticed that pa11y-ci intermittently throws an error when trying to test many pages. Here is an open issue to find a solution to that: [issue #128 on the pa11y-ci repository](https://github.com/pa11y/pa11y-ci/issues/128).
 
 ## Running pa11y-ci in a GitHub action
 Now that we have it running locally, here is how we configure it to run every time we submit a pull request in GitHub.
@@ -195,9 +195,9 @@ As noted in our [playbook for automated testing](/playbook/automated-testing):
 * [Automated accessibility testing with Travis CI](https://andrewmee.com/posts/automated-accessibility-testing-node-travis-ci-pa11y/)
 * [How to Automate Web Accessibility Testing](https://medium.com/@f3igao/how-to-automate-web-accessibility-testing-921512bdd4bf)
 * Examples of applying the above steps to Jekyll sites:
-  * [BBC's "Accessibility, News and You"](https://github.com/bbc/accessibility-news-and-you) can be seen in [this pull request](https://github.com/dmundra/accessibility-news-and-you/pull/1).
-  * [GSA's "Accessibility for Teams"](https://github.com/GSA/accessibility-for-teams) can be seen in [this pull request](https://github.com/dmundra/accessibility-for-teams/pull/1).
-  * [18F Accessibility Guide](https://github.com/18F/accessibility) can be seen in this [pull request](https://github.com/dmundra/accessibility-1/pull/1).
+  * [BBC's "Accessibility, News and You"](https://github.com/dmundra/accessibility-news-and-you/pull/1).
+  * [GSA's "Accessibility for Teams"](https://github.com/dmundra/accessibility-for-teams/pull/1).
+  * [18F Accessibility Guide](https://github.com/dmundra/accessibility-1/pull/1).
 * What are other Jekyll sites doing?
   * [The Pa11y website](https://github.com/pa11y/pa11y.github.io) uses Travis CI and pa11y-ci.
   * The [18F Accessibility Guide](https://github.com/18F/accessibility) uses CircleCI and axe.
