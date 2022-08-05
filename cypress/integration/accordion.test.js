@@ -12,10 +12,18 @@ describe('Accordion', () => {
     })
 
     it("can all be expanded and collapsed", () => {
-        cy.visit("/roles/procurement")
+        cy.visit('/roles/procurement')
         cy.get('button').contains('Expand All').click()
         cy.get('.accordion-body').should('not.have.attr', 'hidden')
         cy.get('button').contains('Collapse All').click()
         cy.get('.accordion-body').should('have.attr', 'hidden')
     });
+
+    it('can be expanded individually', () => {
+        cy.visit('/roles/procurement')
+        cy.get('.accordion-heading').contains('Tools').focus().type('{enter}')
+        cy.get('.accordion-body li').contains('WAVE Browser Extensions').should('be.visible')
+        cy.get('.accordion-heading').contains('Tools').focus().type('{enter}')
+        cy.get('.accordion-body li').contains('WAVE Browser Extensions').should('not.be.visible')
+    })
 })
