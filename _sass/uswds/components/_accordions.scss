@@ -13,12 +13,9 @@
       &::before {
         content: "+";
         font-weight: normal;
-        font-size: 200%;
-        line-height: 1.1rem;
         padding: 0;
         position: absolute;
         right: 0.5rem;
-        top: 40%;
         transition: all 0.15s ease-in-out;
       }
     &[aria-expanded=true] {

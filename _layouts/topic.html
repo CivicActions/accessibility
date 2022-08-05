@@ -19,10 +19,10 @@ layout: default
 
                     {% if playbook != empty %}
                         <div class="accordion">
-                            <div tabIndex='0' class="accordion-heading" data-toggle="1">
-                                <h2>Playbook</h2>
-                            </div>
-                            <div class="accordion-body" data-body="1" hidden>
+                            <h2>
+                                <button class="accordion-heading">Playbook</button>
+                            </h2>
+                            <div class="accordion-body" hidden>
                                 <ul>
                                     {% for page in playbook %}
                                     <li><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></li>
@@ -34,10 +34,10 @@ layout: default
 
                     {% if guide != empty %}
                         <div class="accordion">
-                            <div tabIndex='0' class="accordion-heading" data-toggle="1">
-                                <h2>Guide</h2>
-                            </div>
-                            <div class="accordion-body" data-body="1" hidden>
+                            <h2>
+                                <button class="accordion-heading">Guide</button>
+                            </h2>
+                            <div class="accordion-body" hidden>
                                 <ul>
                                     {% for page in guide %}
                                     <li><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></li>
@@ -49,10 +49,10 @@ layout: default
 
                     {% if personas != empty %}
                         <div class="accordion">
-                            <div tabIndex='0' class="accordion-heading" data-toggle="1">
-                                <h2>Personas</h2>
-                            </div>
-                            <div class="accordion-body" data-body="1" hidden>
+                            <h2>
+                                <button class="accordion-heading">Personas</button>
+                            </h2>
+                            <div class="accordion-body" hidden>
                                 <ul>
                                     {% for page in personas %}
                                     <li><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></li>
@@ -64,10 +64,10 @@ layout: default
 
                     {% if projects != empty %}
                         <div class="accordion">
-                            <div tabIndex='0' class="accordion-heading" data-toggle="1">
-                                <h2>Project</h2>
-                            </div>
-                            <div class="accordion-body" data-body="1" hidden>
+                            <h2>
+                                <button class="accordion-heading">Project</button>
+                            </h2>
+                            <div class="accordion-body" hidden>
                                 <ul>
                                     {% for page in projects %}
                                     <li><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></li>
@@ -79,10 +79,10 @@ layout: default
 
                     {% if posts != empty %}
                         <div class="accordion">
-                            <div tabIndex='0' class="accordion-heading" data-toggle="1">
-                                <h2>News</h2>
-                            </div>
-                            <div class="accordion-body" data-body="1" hidden>
+                            <h2>
+                                <button class="accordion-heading">News</button>
+                            </h2>
+                            <div class="accordion-body" hidden>
                                 <ul>
                                     {% for page in posts %}
                                     {% assign author_data = site.people | where:"author", page.author | first %}
