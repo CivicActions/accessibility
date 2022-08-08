@@ -19,16 +19,16 @@ class:
         <div class="grid-container">
             <div class="grid-row grid-gap flex-align-start">
                 <div class="usa-layout-docs usa-layout-docs__main usa-prose{% if sidenav %} desktop:grid-col-9{% endif %}">
-                    <div class="expand-all-accordion"><button class="expand usa-button" onClick='expandingAccordions()' aria-expanded="false" data-toggle="1">Expand/Collapse All</button></div>
+                    <div class="expand-all-accordion"><button class="expand usa-button" onClick='expandingAccordions(this)' aria-live="polite" aria-expanded="false" data-open="false">Expand All</button></div>
 
                     <div id="accordionGroup" class="Accordion" data-allow-toggle>
 
                     {% if personas != empty %}
                         <div class="accordion">
-                            <div tabIndex='0' class="accordion-heading" data-toggle="1">
-                                <h2>Personas</h2>
-                            </div>
-                            <div class="accordion-body" data-body="1" hidden>
+                            <h2>
+                                <button class="accordion-heading">Personas</button>
+                            </h2>
+                            <div class="accordion-body" hidden>
                                 <ul>
                                     {% for page in personas %}
                                     <li><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></li>
@@ -40,10 +40,10 @@ class:
 
                     {% if tools != empty %}
                         <div class="accordion">
-                            <div tabIndex='0' class="accordion-heading" data-toggle="1">
-                                <h2>Tools</h2>
-                            </div>
-                            <div class="accordion-body" data-body="1" hidden>
+                            <h2>
+                                <button class="accordion-heading">Tools</button>
+                            </h2>
+                            <div class="accordion-body" hidden>
                                 <ul>
                                     {% for page in tools %}
                                     <li><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></li>
@@ -55,10 +55,10 @@ class:
 
                     {% if playbook != empty %}
                         <div class="accordion">
-                            <div tabIndex='0' class="accordion-heading" data-toggle="1">
-                                <h2>Playbook</h2>
-                            </div>
-                            <div class="accordion-body" data-body="1" hidden>
+                            <h2>
+                                <button class="accordion-heading">Playbook</button>
+                            </h2>
+                            <div class="accordion-body" hidden>
                                 <ul>
                                     {% for page in playbook %}
                                     <li><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></li>
@@ -70,10 +70,10 @@ class:
 
                     {% if books != empty %}
                         <div class="accordion">
-                            <div tabIndex='0' class="accordion-heading" data-toggle="1">
-                                <h2>Books</h2>
-                            </div>
-                            <div class="accordion-body" data-body="1" hidden>
+                            <h2>
+                                <button class="accordion-heading">Books</button>
+                            </h2>
+                            <div class="accordion-body" hidden>
                                 <ul>
                                     {% for page in books %}
                                     <li><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></li>
@@ -85,10 +85,10 @@ class:
 
                     {% if guide != empty %}
                         <div class="accordion">
-                            <div tabIndex='0' class="accordion-heading" data-toggle="1">
-                                <h2>Guide</h2>
-                            </div>
-                            <div class="accordion-body" data-body="1" hidden>
+                            <h2>
+                                <button class="accordion-heading">Guide</button>
+                            </h2>
+                            <div class="accordion-body" hidden>
                                 <ul>
                                     {% for page in guide %}
                                     <li><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></li>
@@ -100,10 +100,10 @@ class:
 
                     {% if projects != empty %}
                         <div class="accordion">
-                            <div tabIndex='0' class="accordion-heading" data-toggle="1">
-                                <h2>Projects</h2>
-                            </div>
-                            <div class="accordion-body" data-body="1" hidden>
+                            <h2>
+                                <button class="accordion-heading">Projects</button>
+                            </h2>
+                            <div class="accordion-body" hidden>
                                 <ul>
                                     {% for page in projects %}
                                     <li><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></li>
@@ -115,10 +115,10 @@ class:
 
                     {% if posts != empty %}
                         <div class="accordion">
-                            <div tabIndex='0' class="accordion-heading" data-toggle="1">
-                                <h2>News</h2>
-                            </div>
-                            <div class="accordion-body" data-body="1" hidden>
+                            <h2>
+                                <button class="accordion-heading">News</button>
+                            </h2>
+                            <div class="accordion-body" hidden>
                                 <ul>
                                     {% for page in posts %}
                                     <li><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></li>
