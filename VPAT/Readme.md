@@ -18,7 +18,7 @@
 - [Karl Groves - Why a Third Party Should Prepare Your VPAT/GPAT](https://karlgroves.com/2011/07/07/why-a-third-party-should-prepare-your-vpatgpat)
 - [Karl Groves - Get your VPAT/ GPAT in a hurry](https://karlgroves.com/2016/08/22/get-your-vpat-gpat-in-a-hurry)
 - [MW19 - How to Read a VPAT: Assessing Accessibility Conformance Reports](https://mw19.mwconf.org/paper/how-to-read-a-vpat-assessing-accessibility-conformance-reports/)
-- [MicroAssist - VPAT: The Ultimate Buyer’s Guide](https://www.microassist.com/digital-accessibility/vpat/)
+- [MicroAssist - VPAT: The Ultimate Buyer's Guide](https://www.microassist.com/digital-accessibility/vpat/)
 - [AccessibilityOz - How to Read a VPAT](https://www.accessibilityoz.com/2019/09/how-to-read-a-vpat/)
 - [TPGi - What is a VPAT?](https://www.tpgi.com/voluntary-product-accessibility-template-vpat/)
 - [Deque - Understanding Your VPAT)](https://www.deque.com/vpat/)
