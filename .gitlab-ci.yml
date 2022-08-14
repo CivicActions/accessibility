@@ -13,8 +13,10 @@ default:
     key:
       files:
         - package-lock.json
+        - Gemfile.lock
     paths:
-      - .npm/
+      - ./.npm
+      - vendor/ruby
 
 pa11y-tests:
   stage: test
