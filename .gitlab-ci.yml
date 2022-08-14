@@ -1,0 +1,14 @@
+stages:
+- build
+- test
+
+install-dependencies:
+  stage: build
+  script:
+    - npm ci
+
+pa11y-tests:
+  stage: test
+  script:
+    - npm run start-detached
+    - npm run pa11y-ci:sitemap
