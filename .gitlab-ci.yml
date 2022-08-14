@@ -1,4 +1,4 @@
-image: ruby:latest
+image: ruby:2
 
 stages:
 - test
@@ -8,6 +8,12 @@ default:
     - apt-get update
     - apt-get install -y nodejs npm
     - npm ci
+  cache:
+    key:
+      files:
+        - package-lock.json
+    paths:
+      - .npm/
 
 pa11y-tests:
   stage: test
