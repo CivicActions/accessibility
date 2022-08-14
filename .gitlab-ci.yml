@@ -1,11 +1,12 @@
+image: ruby:latest
+
 stages:
-- build
 - test
 
-install-dependencies:
-  image: node:latest
-  stage: build
-  script:
+default:
+  before_script:
+    - apt-get update
+    - apt-get install -y nodejs
     - npm ci
 
 pa11y-tests:
