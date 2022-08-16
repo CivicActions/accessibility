@@ -11,7 +11,6 @@ cache:
 
 default:
   before_script:
-    - curl -s https://packages.gitlab.com/gpg.key | sudo apt-key add -
     - apt-get update
     - apt-get install -y nodejs npm
     - apt-get install -yq gconf-service libasound2 libatk1.0-0 libc6 libcairo2 libcups2 libdbus-1-3 libexpat1 libfontconfig1 libgcc1 libgconf-2-4 libgdk-pixbuf2.0-0 libglib2.0-0 libgtk-3-0 libnspr4 libpango-1.0-0 libpangocairo-1.0-0 libstdc++6 libx11-6 libx11-xcb1 libxcb1 libxcomposite1 libxcursor1 libxdamage1 libxext6 libxfixes3 libxi6 libxrandr2 libxrender1 libxss1 libxtst6 ca-certificates fonts-liberation libnss3 lsb-release xdg-utils wget libgbm1 xvfb
@@ -25,7 +24,7 @@ pa11y-tests:
     - npm run pa11y-ci:sitemap
 
 cypress-tests:
-  image: cypress/browsers:node12.14.1-chrome85-ff81
+  image: cypress/browsers:node16.14.2-slim-chrome103-ff102
   stage: test
   script:
     - npm run cypress-tests
