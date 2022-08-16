@@ -27,7 +27,7 @@ cypress-tests:
   image: cypress/browsers:node16.14.2-slim-chrome103-ff102
   stage: test
   script:
-    - apt-get install -y libffi-dev ruby-dev ruby
+    - apt-get install -y gcc libffi-dev ruby-dev ruby
     - gem install bundler -v 2.2.17
     - gem install ffi -v 1.15.5
     - bundle install -j $(nproc) --path vendor/ruby
