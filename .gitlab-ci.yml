@@ -28,6 +28,7 @@ cypress-tests:
   image: cypress/browsers:node16.14.2-slim-chrome103-ff102
   stage: test
   script:
+    - npm run start-detached
     - npm run cypress-tests
   artifacts:
     when: always
