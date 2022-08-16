@@ -24,6 +24,11 @@ pa11y-tests:
   script:
     - npm run start-detached
     - npm run pa11y-ci:sitemap
+
+cypress-tests:
+  image: cypress/browsers:node12.14.1-chrome85-ff81
+  stage: test
+  script:
     - npm run cypress-tests
   artifacts:
     when: always
