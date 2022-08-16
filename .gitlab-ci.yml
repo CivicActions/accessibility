@@ -28,7 +28,8 @@ cypress-tests:
   stage: test
   script:
     - apt-get install -y ruby
-    - gem install bundler ffi
+    - gem install bundler -v 2.2.17
+    - gem install ffi -v 1.15.5
     - bundle install -j $(nproc) --path vendor/ruby
     - npm ci --cache .npm --prefer-offline
     - npm run start-detached
