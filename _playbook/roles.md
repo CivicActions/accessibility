@@ -25,7 +25,7 @@ We've taken these lists, added other roles that we didn't see included and inclu
 
 ## Accessibility Lead
 * The lead is responsible for providing an overview of the whole project and ensuring that the components flow together for the user.
-* **Tools:** [Purple Hats](https://github.com/GovTechSG/purple-hats), [MSU's Domain Accessibility Audit](https://github.com/MSU-NatSci/DomainAccessibilityAudit) or [Siteimprove](https://siteimprove.com), [The Book on Accessibility](https://www.thebookonaccessibility.com/team/coaches/) and [Accessibility Insights](https://accessibilityinsights.io/). Deque defines the [Defining Actionable Metrics](https://www.deque.com/blog/accessibility-program-fundamentals-choosing-the-right-accessibility-metrics/) for the central accessibility function. 
+* **Tools:** [Purple Hats](https://github.com/GovTechSG/purple-hats), [MSU's Domain Accessibility Audit](https://github.com/MSU-NatSci/DomainAccessibilityAudit) or [Siteimprove](https://siteimprove.com), [The Book on Accessibility](https://www.thebookonaccessibility.com/team/coaches/) and [Accessibility Insights](https://accessibilityinsights.io/). Deque defines the [Defining Actionable Metrics](https://www.deque.com/blog/accessibility-program-fundamentals-choosing-the-right-accessibility-metrics/) for the central accessibility function. The UK has provided a [great description the accessibility specialist role](https://www.gov.uk/guidance/accessibility-specialist). 
 
 ## Audio and Video Media (AV)
 * [W3C - Making Audio and Video Media Accessible](https://www.w3.org/WAI/media/av/)
@@ -68,7 +68,7 @@ We've taken these lists, added other roles that we didn't see included and inclu
     * Can you omit unneeded words? 
     * Do you use headings, lists, and simple tables to make reading easier? 
     * Did you have someone review your work? 
-    * Is it easy to scan and pick out the main points? ARe headings clear and descriptive? 
+    * Is it easy to scan and pick out the main points? Are headings clear and descriptive? 
     * Are you using inclusive language? 
 * Resources: [CivicAction's Plain Language Guide](https://accessibility.civicactions.com/guide/plain-language), [W3C -  Writing for Web Accessibility](https://www.w3.org/WAI/tips/writing/), [Blog post for content authors](https://www.digitala11y.com/authoring-the-authors-accessibility-best-practices-for-content-authors/), [Content Design London - Readability Guidelines](https://readabilityguidelines.co.uk), [Singapore Government Design System - Accessibility for Content](https://www.designsystem.tech.gov.sg/guides/writers-accessibility/), [USA OPM Information Management](https://www.opm.gov/information-management/plain-language/), [Canada: Writing principles for web content](https://www.canada.ca/en/treasury-board-secretariat/services/government-communications/canada-content-style-guide.html#toc5), [The Book on Accessibility](https://www.thebookonaccessibility.com/roles/cms-authors/) and [plainlanguage.gov](https://www.plainlanguage.gov).
 
