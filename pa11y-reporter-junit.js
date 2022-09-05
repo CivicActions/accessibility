@@ -13,12 +13,18 @@ module.exports = function (options) {
       // Create a test suite
       const suite = builder.testSuite().name(results.pageUrl);
 
-      results.issues.forEach(issue => {
+      if (results.issues.length > 0) {
+        results.issues.forEach(issue => {
+          suite.testCase()
+            .className(issue.code)
+            .name(`[${results.pageUrl}] ${issue.selector}`)
+            .failure(`${issue.message}\n\nContext: ${issue.context}`);
+        });
+      } else {
         suite.testCase()
-          .className(issue.code)
-          .name(`[${results.pageUrl}] ${issue.selector}`)
-          .failure(`${issue.message}\n\nContext: ${issue.context}`);
-      });
+          .className(results.pageUrl)
+          .name('No accessibility errors');
+      }
     },
 
     // also store errors
