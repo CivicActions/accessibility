@@ -9,6 +9,10 @@
     ],
     "chromeLaunchConfig": {
       "args": ["--disable-dev-shm-usage", "--no-sandbox", "--disable-gpu"]
-    }
+    },
+    "reporters": [
+      "cli",
+      ["./pa11y-reporter-junit.js", { "fileName": "./pa11y-report-junit.xml" }]
+    ]
   }
 }

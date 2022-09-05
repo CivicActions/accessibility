@@ -30,5 +30,6 @@ pa11y-tests:
     reports:
       junit:
         - cypress/results/*.xml
+        - pa11y-report-junit.xml
     expire_in: 1 day
 

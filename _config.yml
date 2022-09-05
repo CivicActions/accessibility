@@ -1,5 +1,5 @@
 title: CivicActions Accessibility
-description: 
+description:
 # baseurl: /compliance-as-code # the subpath of your site, e.g. /blog
 # url: https://govthinktank.github.io/compliance-as-code/ # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -14,7 +14,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-redirect-from
   - jekyll-feed
-  
+
 # Configuration for setting the site width to 100%
 # To enable, uncomment the following line
 # site_width: wide
@@ -131,3 +131,6 @@ exclude:
   - cypress.json
   - .gitignore
   - .github
+  - .pa11yci
+  - pa11y-reporter-junit.js
+  - pa11y-report-junit.xml
