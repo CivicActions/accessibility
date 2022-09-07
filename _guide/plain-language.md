@@ -45,12 +45,12 @@ Try:
 
 * Using active voice throughout your site 
 * Writing one idea per sentence
-* Using the simpler synonym. For example, use not  utilize.
+* Using the simpler synonym. For example, 'use' not 'utilize'.
 * Keeping the reading level between 6th and 8th grade reading level. Remember to remove proper nouns and titles.
 
 ### Write for your audience 
 
-Before writing, asking yourself: What are your reader's needs? What do they need to know or do after reading your content?
+Before writing, ask yourself: What are your reader's needs? What do they need to know or do after reading your content?
 
 ### Make it actionable
 
