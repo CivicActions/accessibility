@@ -23,4 +23,16 @@ describe('Submenu is reachable', () => {
     cy.get('.usa-accordion__button').contains('About').type('{enter}')
     cy.get('.usa-nav__submenu-item').should('be.visible')
   })
+
+  it('by using the tab key', () => {
+    cy.visit('/')
+    cy.window().focus()
+    cy.realPress('Tab')
+    cy.realPress('Tab')
+    cy.realPress('Tab')
+    cy.realPress('Enter')
+    cy.realPress('Tab')
+    cy.realPress('Enter')
+    cy.get('.usa-nav__submenu-item').should('be.visible')
+  })
 })
