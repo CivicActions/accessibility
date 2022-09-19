@@ -11,3 +11,5 @@ site
 pa11y_report
 pa11y_output.json
 cypress/results
+cypress/fixtures
+pa11y-report-junit.xml
