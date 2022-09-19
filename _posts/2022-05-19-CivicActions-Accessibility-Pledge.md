@@ -45,14 +45,12 @@ CivicActions hereby pledges to build and maintain digital tools with the followi
 - Testing with users with disabilities where possible to see that people with lived experience evaluate critical tasks
 - Incorporate structured WCAG-EM evaluations into contractual annual reviews with our clients
 
-1. Upon onboarding, we will inform our teams, partners, and clients about why accessibility is important and set collective priorities
-
+2. Upon onboarding, we will inform our teams, partners, and clients about why accessibility is important and set collective priorities
 - We will define and document success for accessibility in Human Centered Design, Customer Experiences and Section 508 compliance, among other priorities
 - These agreed-to accessibility priorities will be incorporated into our Project Charters and regularly reviewed by our team
 - We will have designated accessibility champions on all projects and work to have IAAP Certified and/or DHS 508 Certified staff
 
-1. As a company, CivicActions will set annual goals and report against them publicly on CivicActions.com/accessibility-reports
-
+3. As a company, CivicActions will set annual goals and report against them publicly on CivicActions.com/accessibility-reports (Future Location)
 - Strive for no accessibility errors as much as can be identified through our automated testing process
 - Document process for choosing representative sample of pages for reviews
 - Detail what testing processes have been set up for each projects and what common code has been shared
