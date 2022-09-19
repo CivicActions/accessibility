@@ -11,6 +11,8 @@ categories:
 
 ## Building an accessible culture through our Champions Program
 
+CivicActions created our [Accessibility Pledge](https://accessibility.civicactions.com/posts/CivicActions-Accessibility-Pledge) to help us keep a focus on delivering inclusive digital services. We knew that a handful of accessibility experts wouldn't be sufficient to deliver on this pledge, so we created this program. 
+
 Accessibility Champions at CivicActions are known as "Champions" (ACs). Champions are responsible for fostering awareness and action on digital accessibility. We have ACs on both client teams (VA, WeCMS, etc.) and in functional teams (other practice areas). Larger projects may choose to have multiple ACs to support different sites/applications. ACs are a conduit of information from the Accessibility Practice Area to their functional and/or client teams. They also support bringing concerns and findings from their functional and/or client teams to the Accessibility Practice Area. Our Champions support their team(s) in building accessibility confidence. The AC is a support role, and it is assumed that anyone can bring their concerns to the attention of the Accessibility Practice Area. Project managers are responsible for ensuring that each of their teams has an accessibility champion. Ideally teams would find folks willing to volunteer for this role.
 
 ### Objectives of the Accessibility Practice Area
