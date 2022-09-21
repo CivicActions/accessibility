@@ -37,7 +37,7 @@ cypress-tests:
     entrypoint: [""]
   stage: test
   script:
-    - apt-get install -y ruby
+    - apt-get install -y ruby bundler
     - bundle install -j $(nproc) --path vendor/ruby
     - npm ci --cache .npm --prefer-offline
     - npm run start-detached
