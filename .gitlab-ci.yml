@@ -30,7 +30,11 @@ pa11y-tests:
     expire_in: 1 day
 
 cypress-tests:
-  image: cypress/included:9.7.0
+  image:
+    name: cypress/included:9.7.0
+    # cypress/included images have entrypoint set to "cypress"
+    # which conflicts with GitLab CI wrapper shell script
+    entrypoint: [""]
   stage: test
   script:
     - apt-get install -y nodejs npm
