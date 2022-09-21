@@ -41,7 +41,7 @@ cypress-tests:
     - gem install jekyll bundler:2.1.4
     - bundle install -j $(nproc) --path vendor/ruby
     - npm ci --cache .npm --prefer-offline
-    - npm run start-detached
+    - bundle exec jekyll serve --detach -j $(nproc) --path vendor/ruby
     - npm run cypress-tests
   artifacts:
     when: always
