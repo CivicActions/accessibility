@@ -37,8 +37,8 @@ cypress-tests:
     entrypoint: [""]
   stage: test
   script:
-    - apt-get install -y ruby-full build-essential zlib1g-dev libffi7
-    - gem install --no-document ffi -- --disable-system-libffi
+    - apt-get install -y ruby-full build-essential zlib1g-dev
+    - gem install --no-document ffi -- --enable-system-libffi
     - gem install --no-document jekyll bundler:2.1.4
     - bundle install -j $(nproc) --path vendor/ruby
     - npm ci --cache .npm --prefer-offline
