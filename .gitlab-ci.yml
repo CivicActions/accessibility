@@ -29,9 +29,12 @@ pa11y-tests:
 cypress-tests:
   image: docker
   stage: test
+  services:
+    - docker:dind
   script:
     - docker run -dit -v $PWD:/app -w /app -p 4000:4000 ruby:2 /bin/bash -c "bundle install; bundle exec jekyll serve --host 0.0.0.0"
-    - curl --head -X GET --retry 10 --retry-connrefused --retry-delay 5 http://localhost:4000
+    - apk add curl
+    - curl --head -X GET --retry 20 --retry-connrefused --retry-delay 5 http://localhost:4000
     - docker run -it -v $PWD:/e2e -w /e2e --entrypoint=cypress cypress/included:9.7.0 run --browser chrome --headless --config "baseUrl=http://host.docker.internal:4000/"
   artifacts:
     when: always
