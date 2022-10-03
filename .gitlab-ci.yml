@@ -30,20 +30,12 @@ pa11y-tests:
     expire_in: 1 day
 
 cypress-tests:
-  image:
-    name: cypress/included:9.7.0
-    # cypress/included images have entrypoint set to "cypress"
-    # which conflicts with GitLab CI wrapper shell script
-    entrypoint: [""]
+  image: docker
   stage: test
   script:
-    - apt-get install -y ruby-full build-essential zlib1g-dev
-    - gem install --no-document ffi -- --enable-system-libffi
-    - gem install --no-document jekyll bundler:2.1.4
-    - bundle install -j $(nproc) --path vendor/ruby
-    - npm ci --cache .npm --prefer-offline
-    - npm run start-detached
-    - npm run cypress-tests
+    - docker run -dit -v $PWD:/app -w /app -p 4000:4000 ruby:2 /bin/bash -c "bundle install; bundle exec jekyll serve --host 0.0.0.0"
+    - curl --head -X GET --retry 10 --retry-connrefused --retry-delay 5 http://localhost:4000
+    - docker run -it -v $PWD:/e2e -w /e2e --entrypoint=cypress cypress/included:9.7.0 run --browser chrome --headless --config "baseUrl=http://host.docker.internal:4000/"
   artifacts:
     when: always
     paths:
