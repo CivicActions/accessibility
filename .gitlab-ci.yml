@@ -36,7 +36,7 @@ cypress-tests:
     - apk add curl
     - apk add bash
     - bash -c 'while [[ "$(curl -s -o /dev/null -w ''%{http_code}'' docker:4000)" != "200" ]]; do sleep 5; done'
-    - docker run -v $PWD:/e2e -w /e2e --entrypoint=cypress cypress/included:9.7.0 run --browser chrome --headless --config "baseUrl=http://host.docker.internal:4000/"
+    - docker run -v $PWD:/e2e -w /e2e --entrypoint=cypress cypress/included:9.7.0 run --browser chrome --headless --config "baseUrl=http://docker:4000/"
   artifacts:
     when: always
     paths:
