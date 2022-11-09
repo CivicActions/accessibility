@@ -1,6 +1,6 @@
 // ./pa11y-reporter-junit.js
 
-// Copied from https://github.com/macieklewkowicz/pa11y-reporter-junit and modified it for pa11y-ci
+// Copied from https://github.com/macieklewkowicz/pa11y-reporter-junit and modified it to work with pa11y-ci
 
 const builder = require('junit-report-builder');
 const fs = require('fs');
