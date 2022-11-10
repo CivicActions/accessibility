@@ -86,4 +86,3 @@ Cypress.Commands.add("getSitemapLocations", () => {
       return urls;
     });
 });
-

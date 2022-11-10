@@ -4,6 +4,7 @@ describe('Images', () => {
   it('alt text is tracked', () => {
     const filename = 'cypress/results/accessibility.civicactions.com-images-and-alt-texts.csv'
     cy.writeFile(filename, 'URL,SRC,ALT\n')
+    // Get pages from sitemap (see commands.js).
     cy.getSitemapLocations().then(pages => {
       pages.forEach(page => {
         if (path.extname(page[0]) !== '.pdf') {
