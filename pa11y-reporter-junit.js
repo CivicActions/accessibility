@@ -1,5 +1,7 @@
 // ./pa11y-reporter-junit.js
 
+// Copied from https://github.com/macieklewkowicz/pa11y-reporter-junit and modified it to work with pa11y-ci
+
 const builder = require('junit-report-builder');
 const fs = require('fs');
 
@@ -21,6 +23,7 @@ module.exports = function (options) {
             .failure(`${issue.message}\n\nContext: ${issue.context}`);
         });
       } else {
+        // Identify passing test for a given URL if there are no accessibility errors.
         suite.testCase()
           .className(results.pageUrl)
           .name('No accessibility errors');
