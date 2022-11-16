@@ -33,7 +33,7 @@ cypress-tests:
     - docker:dind
   script:
     - docker network create ca-a11y-net
-    - docker run -dit --net ca-a11y-net --name ca-a11y-web -v $PWD:/app -w /app -p 4000:4000 ruby:2 /bin/bash -c "bundle install; bundle exec jekyll serve --host 0.0.0.0"
+    - docker run -dit --net ca-a11y-net --name ca-a11y-web -v $PWD:/app -w /app -p 4000:4000 ruby:2 /bin/bash -c "bundle install; bundle exec jekyll serve"
     - apk add curl
     - apk add bash
     - bash -c 'while [[ "$(curl -s -o /dev/null -w ''%{http_code}'' docker:4000)" != "200" ]]; do sleep 5; done'
