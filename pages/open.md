@@ -18,5 +18,5 @@ CivicActions Accessibility is an open, agile project and community. We work iter
 Open source accessibility projects CivicActions contributes to:
 
 * [USWDS Color Tool](https://github.com/CivicActions/uswds-color-tool) (CivicActions Project)
-* [USWDS](https://github.com/uswds/uswds/issues?q=is%3Aissue+label%3A%22topic%3A+accessibility%22)
+* [USWDS](https://github.com/uswds/uswds/issues?q=is%3Aissue+label%3A%22Affects%3A+Accessibility+%F0%9F%9F%A1%22+)
 * [Drupal](https://www.drupal.org/project/issues/search/drupal?issue_tags=accessibility)
