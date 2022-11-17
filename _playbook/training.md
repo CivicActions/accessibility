@@ -29,10 +29,10 @@ Public sector employees must be encouraged to take advantage of these resources 
 ## Checklist
 
 * Schedule time to participate in [Global Accessibility Awareness Day](https://globalaccessibilityawarenessday.org/) and [International Day of People With Disabilities](https://idpwd.org/) (Dec 3rd).
-* Follow more [accessibility Twitter people/organizations](https://github.com/joe-watkins/top-people-to-follow-in-web-accessibility).
+* Follow more [accessibility people/organizations](https://github.com/joe-watkins/top-people-to-follow-in-web-accessibility) on Social Media.
 * Read and [share books on accessibility best practices](https://pressbooks.library.ryerson.ca/catalog/accessibility).
 * Subscribe to [free accessibility videos & podcasts](/guide/resources).
-* Ensure key staff are regularly taking new training courses.
+* Ensure key staff are regularly taking new training courses like [Web.dev's Learn Accessibility](https://web.dev/learn/accessibility/). 
 
 ## Key questions
 
