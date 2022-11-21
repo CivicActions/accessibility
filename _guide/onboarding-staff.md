@@ -67,7 +67,7 @@ Make sure all Figma projects include a color contrast checker, such as [Contrast
 
 ### Trello card for copywriting, press releases, blog/social posts presentation writing, etc - use a readability checker
 
-Make sure all copy is checked for readablity levels. The recommended level is grade 7-8 for the general public in the US. We recommend using the [Flesch Grade Level Readability Scale](https://readabilityformulas.com/free-readability-formula-tests.php), or [Hemmingway](https://hemingwayapp.com/). Microsoft's Office 365 also [includes a checker based on Flesch-Kinkaid](https://support.microsoft.com/en-us/office/get-your-document-s-readability-and-level-statistics-85b4969e-e80a-4777-8dd3-f7fc3c8b3fd2).
+Make sure all copy is checked for readability levels. The recommended level is grade 7-8 for the general public in the US. We recommend using the [Flesch Grade Level Readability Scale](https://readabilityformulas.com/free-readability-formula-tests.php), or [Hemmingway](https://hemingwayapp.com/). Microsoft's Office 365 also [includes a checker based on Flesch-Kinkaid](https://support.microsoft.com/en-us/office/get-your-document-s-readability-and-level-statistics-85b4969e-e80a-4777-8dd3-f7fc3c8b3fd2).
 
 ### Trello card - Investigate and possibly configure accessibility settings in your operating system
 
