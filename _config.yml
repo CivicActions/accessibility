@@ -134,3 +134,4 @@ exclude:
   - .pa11yci
   - pa11y-reporter-junit.js
   - pa11y-report-junit.xml
+  - .gitlab-ci.yml
