@@ -28,7 +28,7 @@ jobs:
 
       - name: Publish test results.
         uses: EnricoMi/publish-unit-test-result-action@v1
-        if: always()
+        if: github.actor != 'dependabot[bot]'
         with:
           files: cypress/results/*.xml
           check_name: "Cypress Test Results"
