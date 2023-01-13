@@ -1,5 +1,6 @@
 stages:
 - test
+- publish
 
 cache:
   key: ${CI_COMMIT_REF_SLUG}
@@ -45,3 +46,13 @@ cypress-tests:
       junit:
         - cypress/results/*.xml
     expire_in: 1 day
+
+pages:
+  stage: publish
+  script:
+    - cp -r _site public
+  artifacts:
+    paths:
+      # The folder that contains the built files to be published. This
+      # must be called "public".
+      - public
