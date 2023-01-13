@@ -56,7 +56,7 @@ pages:
       # The folder that contains the built files to be published. This
       # must be called "public".
       - public
-#  only:
-#    # Trigger a new build and deploy only when there is a push to the
-#    # below branch(es)
-#    - main
+  only:
+    # Trigger a new build and deploy only when there is a push to the
+    # below branch(es)
+    - main
