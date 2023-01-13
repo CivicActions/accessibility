@@ -50,7 +50,7 @@ cypress-tests:
 pages:
   stage: publish
   script:
-    - cp -r _site public
+    - bundle exec jekyll build -b "/civicactions-accessibility" -d public
   artifacts:
     paths:
       # The folder that contains the built files to be published. This
