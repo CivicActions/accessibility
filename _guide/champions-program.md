@@ -39,8 +39,10 @@ Attend the practice area calls and engage in the Slack channel / keep up with be
 -   Page level
 -   Identify common problems
 -   Professional Development (Prodev)
--   [Take EdX course (with certificate)](https://www.edx.org/course/web-accessibility-introduction) - eventually this may be part of onboarding (16-20 hours total over 1 to 4 weeks)
-    
+-   [Take EdX course (with certificate)](https://www.edx.org/course/web-accessibility-introduction)
+   
+All CivicActions employees are encouraged to get the EdX Certification. It is estimated to take 16-20 hours over a period of 1 to 4 weeks.
+
 ### Level 2 — Experienced
 
 Either Certified or presently working to become certified through the IAAP a [Certified Professional in Accessibility Core Competencies(CPACC)](https://www.accessibilityassociation.org/s/certified-professional) or [Web Accessibility Specialist(WAS)](https://www.accessibilityassociation.org/s/wascertification) or a DHS [Trusted Tester Certified](https://www.dhs.gov/trusted-tester). Contribute to the website, contribute to articles or lead Onboarding Workshops. Bio added to the accessibility site.
