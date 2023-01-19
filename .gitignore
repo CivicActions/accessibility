@@ -14,3 +14,4 @@ cypress/results
 cypress/fixtures
 pa11y-report-junit.xml
 vendor
+public
