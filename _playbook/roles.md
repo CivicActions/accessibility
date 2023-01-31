@@ -19,6 +19,7 @@ Creation of modern digital content involves a great many distinct roles. There h
 * [NZ Government - Web Accessibility Guidance project](https://govtnz.github.io/web-a11y-guidance/roles/)
 * [International Association of Accessibility Professionals (IAAP) - Mapping WCAG2 to Project Roles and Model ICT Accessibility Policy Report](https://www.accessibilityassociation.org/content.asp?contentid=347)
 * [Deque Labs - Defining Actionable Metrics](https://www.deque.com/blog/accessibility-program-fundamentals-choosing-the-right-accessibility-metrics/) 
+* [PEAT Works - Accessibility Staff Training for Specific Roles](https://www.peatworks.org/digital-accessibility-toolkits/staff-training-resources/accessibility-staff-training-for-specific-roles/)
 
 
 We've taken these lists, added other roles that we didn't see included and included them here. With each role we are including tools that we think would be most useful for that role. Where appropriate we have also included links to the W3C's [Accessibility Responsibility Breakdown](https://www.w3.org/community/wai-engage/wiki/Accessibility_Responsibility_Breakdown) for WCAG 2.0 requirements.
