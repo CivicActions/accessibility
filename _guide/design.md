@@ -45,7 +45,7 @@ Worldwide, government website design is being led by open source initiatives.
 *   [Okta's Odyssey Design System](https://github.com/okta/odyssey)
 *   [IBM's Carbon open source design system](https://www.carbondesignsystem.com/) - [Carbon on GitHub](https://github.com/carbon-design-system/carbon) [Carbon's Accessibility](https://www.carbondesignsystem.com/guidelines/accessibility/overview/) - Uses Web Components
 *   [Impact Design System](https://demos.creative-tim.com/impact-design-system/index.html) - [Impact Desigh System on GitHub](https://github.com/creativetimofficial/impact-design-system)
-*   [VMWare's Clarity Design System](https://clarity.design/) - [Clarity on GitHub](https://github.com/vmware/clarity) [Clarity's Accessibility](https://clarity.design/get-started/support/#accessibility-support)
+*   [VMWare's Clarity Design System](https://clarity.design/) - [Clarity on GitHub](https://github.com/vmware/clarity) [Clarity's Accessibility](https://clarity.design/get-started/support/#accessibility-support) - Uses Web Components
 *   [Emulsify](https://www.emulsify.info/) - [Emulsify on GitHub](https://github.com/emulsify-ds) [Emulsify's Accessibility](https://docs.emulsify.info/usage/accessibility-testing)
 *   [ING's Lion Design System](https://lion-web-components.netlify.app/?path=/story/*) - [Lion on GitHub](https://github.com/ing-bank/lion) [Lion's Accessibility](https://lion-web.netlify.app/blog/ing-open-sources-lion/#accessibility) - Uses Web Components
 *   [Talend's Coral Design System](https://design.talend.com/) - [Coral on GitHub](https://github.com/Talend/ui/) - Uses React Components
