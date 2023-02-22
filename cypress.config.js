@@ -1,7 +1,8 @@
 const { defineConfig } = require('cypress')
 
 module.exports = defineConfig({
-  video: true,
+  // Re-enable if you want to see videos of the tests.
+  video: false,
   videosFolder: 'cypress/results',
   reporter: 'junit',
   reporterOptions: {
@@ -9,6 +10,11 @@ module.exports = defineConfig({
     toConsole: false,
   },
   screenshotsFolder: 'cypress/results/screenshots',
+  // Disable Google Analytics, tag manager, translation services.
+  blockHosts: [
+    '*googletagmanager.com',
+    '*googleapis.com'
+  ],
   e2e: {
     // We've imported your old cypress plugins here.
     // You may want to clean this up later by importing these.
