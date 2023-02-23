@@ -55,7 +55,7 @@ Worldwide, government website design is being led by open source initiatives.
 *   [Microsoft's Fluent](https://www.microsoft.com/design/fluent/#/) [Fluent UI on GitHub](https://github.com/microsoft/fluentui)
 *   [Bridge Lab's Bold](https://bold.bridge.ufsc.br/en/) - [Bold on GitHub](https://github.com/laboratoriobridge/bold) [Bold's Accessibility](https://bold.bridge.ufsc.br/en/design-guidelines/accessibility/)
 *   [Shopify's Polaris](https://polaris.shopify.com/) - [Polaris on GitHub](https://github.com/topics/shopify-polaris) [Polaris' Accessibility](https://polaris.shopify.com/foundations/accessibility)
-*   [Intuit's Quickbooks Design System](https://designsystem.quickbooks.com/) - [Intuit on GitHub](https://github.com/intuit/design-systems-cli) [Quickbooks' Accessibility](https://designsystem.quickbooks.com/bolt/accessibility/)
+*   [Intuit's Design-systems-cli](https://intuit.github.io/design-systems-cli/) - [Intuit on GitHub](https://github.com/intuit/design-systems-cli) [Quickbooks' Accessibility](https://designsystem.quickbooks.com/bolt/accessibility/)
 *   [Spark Design System](https://sparkdesignsystem.com/) - [Spark on GitHub](https://github.com/sparkdesignsystem/spark-design-system) [Spark's Accessibility](https://sparkdesignsystem.com/principles/accessibility-guidelines/#accessibility-guidelines)
 *   [Redhat's Patternfly](https://www.patternfly.org/) - [Patternfly on GitHub](https://github.com/patternfly/patternfly)
 *   [SAP's UI5](https://sap.github.io/ui5-webcomponents/) - [UI5 on GitHub](https://github.com/SAP/ui5-webcomponents) - Uses Web Components
