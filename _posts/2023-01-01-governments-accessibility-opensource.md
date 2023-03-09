@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Mike Gifford Presented in at Inclusive Design & Accessibility Meetup in the Netherlands
-date: 2023-01-01 08:00:00 -0800
+date: 2023-02-01 08:00:00 -0800
 description: 
 author: mike-gifford
 categories: 
