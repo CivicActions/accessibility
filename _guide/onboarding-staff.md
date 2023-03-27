@@ -122,7 +122,7 @@ Onboarding Quiz (Internal) - [Edit view](https://docs.google.com/forms/d/1O7VV0Y
   * Ask the person if there is anything you can do to communicate with them more effectively
   * All of the above
 
-### Trello card - Join the #free-and-open-source Slack channel & report your score
+### Trello card - Join the #accessibility Slack channel & report your score
 
 We want everyone at CivicActions to get an 80% or higher in this quiz. If you don't score high enough, feel free to engage with the Free Culture Team.
 
