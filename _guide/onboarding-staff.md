@@ -124,7 +124,7 @@ Onboarding Quiz (Internal) - [Edit view](https://docs.google.com/forms/d/1O7VV0Y
 
 ### Trello card - Join the #accessibility Slack channel & report your score
 
-We want everyone at CivicActions to get an 80% or higher in this quiz. If you don't score high enough, feel free to engage with the Free Culture Team.
+We want everyone at CivicActions to get an 80% or higher in this quiz. If you don't score high enough, feel free to engage with the Accessibility Team or retake the exam.
 
 ## Trello card - Participate in our Basic workshop (1hr)
 
