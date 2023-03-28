@@ -59,7 +59,7 @@ Install a color contrast checker browser extension, such as [ColorZilla for Chro
 
 ### Trello card - Developers, install an accessibility linter in your text editor or Integrated Development Environment (IDE)
 
-Install an accessibility linter in your text editor, such as [axe Accessibility Linter for VS Code - recommended](https://marketplace.visualstudio.com/items?itemName=deque-systems.vscode-axe-linter). Please note, an accessiblity linter is required for front end dev work.
+Install an accessibility linter in your text editor, such as [axe Accessibility Linter for VS Code - recommended](https://marketplace.visualstudio.com/items?itemName=deque-systems.vscode-axe-linter). Please note, an accessibility linter is required for front end dev work.
 
 ### Trello card for Design - Designers, install a color contrast checker in Figma
 
@@ -67,7 +67,7 @@ Make sure all Figma projects include a color contrast checker, such as [Contrast
 
 ### Trello card for copywriting, press releases, blog/social posts presentation writing, etc - use a readability checker
 
-Make sure all copy is checked for readability levels. The recommended level is grade 7-8 for the general public in the US. We recommend using the [Flesch Grade Level Readability Scale](https://readabilityformulas.com/free-readability-formula-tests.php), or [Hemmingway](https://hemingwayapp.com/). Microsoft's Office 365 also [includes a checker based on Flesch-Kinkaid](https://support.microsoft.com/en-us/office/get-your-document-s-readability-and-level-statistics-85b4969e-e80a-4777-8dd3-f7fc3c8b3fd2).
+Make sure all copy is checked for readability levels. The recommended level is grade 7-8 for the general public in the US. We recommend using the [Flesch Grade Level Readability Scale](https://readabilityformulas.com/free-readability-formula-tests.php), or [Hemingway](https://hemingwayapp.com/). Microsoft's Office 365 also [includes a checker based on Flesch-Kinkaid](https://support.microsoft.com/en-us/office/get-your-document-s-readability-and-level-statistics-85b4969e-e80a-4777-8dd3-f7fc3c8b3fd2).
 
 ### Trello card - Investigate and possibly configure accessibility settings in your operating system
 
@@ -75,7 +75,7 @@ Apple, Windows, Chromebook, Linux desktop OS all have built-in accessibility fea
 
 **Mac users** - enable [Full Keyboard Access](https://iainbean.com/posts/2020/an-opinionated-guide-to-accessibility-testing/#1.-The-Tab-key) to be able to test keyboard only navigation.
 
-### Trello card - Take a this quiz with multiple-choice questions (include links to Google Forms):
+### Trello card - Take this quiz with multiple-choice questions (include links to Google Forms):
 
 Onboarding Quiz (Internal) - [Edit view](https://docs.google.com/forms/d/1O7VV0YRrkDMPPucrrBPHOQIGm8yZ1y6dzuJZe2mHQwA/edit) and [Participant view](https://docs.google.com/forms/d/e/1FAIpQLSdpyp-NLXUzzmbc4zNQqikrgx0V2n1IbmZRYlWSIBstTFbI-Q/viewform)
 
@@ -99,7 +99,7 @@ Onboarding Quiz (Internal) - [Edit view](https://docs.google.com/forms/d/1O7VV0Y
   * Microsoft's Accessibility Insights
   * Firefox's Inclusive Widget
   * NVDA Screen Reader
-* There are many forms of disabilities that are not initally clear to an observer.
+* There are many forms of disabilities that are not initially clear to an observer.
   * True
   * False
 * What are the 6 checks displayed in the summary when you run the WAVE Web Accessibility Evaluation Tool on a site?
@@ -117,12 +117,12 @@ Onboarding Quiz (Internal) - [Edit view](https://docs.google.com/forms/d/1O7VV0Y
   * All of the above
 * Attach a screenshot of a WAVE or Accessibility Insights report of a government website.
 * What is a best practice to engage with clients and team members that have disabilities?
-  * Always speak loudly and make sure to over emphasize with your lips
+  * Always speak loudly and make sure to overemphasize with your lips
   * With deaf people, look at the interpreter, not the person who you are talking with
   * Ask the person if there is anything you can do to communicate with them more effectively
   * All of the above
 
-### Trello card - Join the #accessibility slack channel & report your score
+### Trello card - Join the #accessibility Slack channel & report your score
 
 We want everyone at CivicActions to get an 80% or higher in this quiz. If you don't score high enough, feel free to engage with the Accessibility Team or retake the exam.
 
@@ -164,7 +164,7 @@ Each role in a company may need additional support in how they can best do their
 
 ## Conclusion
 
-Having accesibility in the orientation is key to ensuring that given some basic parameters on how the organization approaches accessibility. To fully integrate accessibility into the culture of an organization it is key that these initial messages are built on and enhanced. Building a champion network within an organization is one of the best ways of ensuring that an organization continues to learn, enhance and extend digital inclusion. Some of the leaders in this space include:
+Having accessibility in the orientation is key to ensuring that given some basic parameters on how the organization approaches accessibility. To fully integrate accessibility into the culture of an organization it is key that these initial messages are built on and enhanced. Building a champion network within an organization is one of the best ways of ensuring that an organization continues to learn, enhance and extend digital inclusion. Some of the leaders in this space include:
 
 * [BBC](https://abilitynet.org.uk/webinars/learn-how-bbc-makes-accessibility-improvements)
 * [AbilityNet](https://abilitynet.org.uk/news-blogs/how-build-and-grow-your-accessibility-champions-network)
