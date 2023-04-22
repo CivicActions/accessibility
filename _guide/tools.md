@@ -129,15 +129,16 @@ Allows for testing of contrast of text on top of a semi transparent background.
 
 ### Plugins, apps & integrations {#plugins}
 
-*   [Colour Contrast Analyser (CCA) by TPG](https://developer.paciellogroup.com/resources/contrastanalyser/) - [CCAe on GitHub](https://github.com/ThePacielloGroup/CCAe)
-*   [Eye Dropper Chrome Extension](https://eyedropper.org/) - [Eye Dropper on GitHub](https://github.com/kepi/chromeEyeDropper)
+* [Colour Contrast Analyser (CCA) by TPG](https://developer.paciellogroup.com/resources/contrastanalyser/) - [CCAe on GitHub](https://github.com/ThePacielloGroup/CCAe)
+* [Eye Dropper Chrome Extension](https://eyedropper.org/) - [Eye Dropper on GitHub](https://github.com/kepi/chromeEyeDropper)
 Determine the contrast ratio of two colors using an eyedrop tool on Windows and Mac.
-*   [Pika MacOS Color Picker](https://superhighfives.com/pika) - [Pika on GitHub](https://github.com/superhighfives/pika) \
+* [Pika MacOS Color Picker](https://superhighfives.com/pika) - [Pika on GitHub](https://github.com/superhighfives/pika) \
 Open-source, native colour picker for macOS.
-*   [Color Contrast Analyser for Sketch on GitHub](https://github.com/getflourish/Sketch-Color-Contrast-Analyser) \
+* [Color Contrast Analyser for Sketch on GitHub](https://github.com/getflourish/Sketch-Color-Contrast-Analyser) \
 Sketch plugin that calculates the color contrast of two layers and evaluates it against the WCAG.
-*   [Figma Accessibility Annotation Kit](https://www.figma.com/community/file/953682768192596304) A community plugin for \
+* [Figma Accessibility Annotation Kit](https://www.figma.com/community/file/953682768192596304) A community plugin for \
 Figma that helps designers document accessibility considerations to share with developers when handing off designs.
+* [Storybook: storybook-addon-a11y](https://storybook.js.org/addons/@storybook/addon-a11y) - a Storybook addon which uses axe to improve the accessibility of UI components.
 
 ## Automated testing & continuous integration {#automated-testing}
 
@@ -173,6 +174,8 @@ Color blindness simulator for Windows, Mac, and Linux.
 
 *   [PAC 3](https://www.access-for-all.ch/en/pdf-accessibility-checker.html)
 *   [PAVE](https://pave-pdf.org/) 
+*   [VeraPDF](https://github.com/verapdf)
+*   [simplA11yPDFCrawler](https://github.com/accessibility-luxembourg/simplA11yPDFCrawler)
 
 ### Parsing/manipulating PDFs (not a11y-focused)
 
