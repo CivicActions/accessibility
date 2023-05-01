@@ -20,9 +20,10 @@ Worldwide, government website design is being led by open source initiatives.
 *   [VA.gov Design System](https://design.va.gov) - [VA on GitHub](https://github.com/department-of-veterans-affairs/vets-design-system-documentation)
 *   [California Design System](https://designsystem.webstandards.ca.gov/) - [CDS on GitHub](https://github.com/cagov/design-system) - Uses Web Components
 
-### UK
+### Europe & the UK
 *   [GOV.UK - Design System](https://design-system.service.gov.uk/) - [GOV.UK Design System on GitHub](https://github.com/alphagov/govuk-design-system)
 *   [UK's Department for Work and Pensions Design System on GitHub](https://github.com/dwp/design-system)
+*   [Iceland's design system mono repository](https://github.com/island-is/island.is)
 
 ### Canada
 *   [Canada - Web Experience Toolkit (WET)](https://wet-boew.github.io/wet-boew/index.html) - [WET on GitHub](https://github.com/wet-boew/wet-boew)
