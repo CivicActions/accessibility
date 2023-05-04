@@ -115,6 +115,7 @@ Evaluate WAI-ARIA according to the [ARIA in HTML](https://www.w3.org/TR/html-ari
 *   [LeonardoColor.io](https://leonardocolor.io/#)  - [Leonardo on GitHub](https://github.com/adobe/leonardo)
 *   [Contrast-Ratio.com](https://contrast-ratio.com) - [Contrast-Ratio on GitHub](https://github.com/LeaVerou/contrast-ratio)
 *   [Who Can Use](https://whocanuse.com/) - [Who Can Use on GitHub](https://github.com/CoreyGinnivan/whocanuse)
+*   [Colour Contrast Analyser (CCA) by TPGi](https://www.tpgi.com/color-contrast-checker/) - [CCA on GitHub](https://github.com/ThePacielloGroup/CCAe)
 
 ### Creating palettes
 
