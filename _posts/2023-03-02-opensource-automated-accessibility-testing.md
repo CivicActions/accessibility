@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Opensource.cpm: How I do automated accessibility testing for my website"
+title:  "Opensource.com: How I do automated accessibility testing for my website"
 date:   2023-03-02 08:00:00 -0800
 description: Opensource published a guest editorial we wrote on automated accessibility testing.
 author: daniel-mundra
