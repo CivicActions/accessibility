@@ -108,38 +108,56 @@ Evaluate WAI-ARIA according to the [ARIA in HTML](https://www.w3.org/TR/html-ari
 
 ## Color {#color}
 
-### Contrast Tools
+### Web based contrast tools
+
+*   [Contrast Finder by Tanaguru](https://contrast-finder.tanaguru.com/) - [Contrast Finder GitHub Page](https://github.com/Tanaguru/Contrast-Finder)
+*   [Contrast-Ratio.com](https://contrast-Ratio.com) - [Contrast-Ratio GitHub Page]([https://github.com/LeaVerou/contrast-ratio](https://github.com/siege-media/contrast-ratio)) \
+Allows for testing of contrast of text on top of a semi transparent background.
+*   [Contrast Checker](https://contrast-checker.glitch.me/) - [Contrast Checker on Glitch](https://glitch.com/edit/#!/contrast-checker?path=server.js%3A1%3A0)
 *   [ButtonBuddy](https://buttonbuddy.dev/) - [ButtonBuddy on GitHub](https://github.com/5t3ph/buttonbuddy)
 *   [ACD (Previously ColorCube)](http://accessiblecolor.design) - [ColorCube on GitHub](https://github.com/oomphinc/colorcube)
-*   [Contrast Finder by Tanaguru](https://contrast-finder.tanaguru.com/) - [Contrast Finder GitHub Page](https://github.com/Tanaguru/Contrast-Finder)
 *   [LeonardoColor.io](https://leonardocolor.io/#)  - [Leonardo on GitHub](https://github.com/adobe/leonardo)
 *   [Contrast-Ratio.com](https://contrast-ratio.com) - [Contrast-Ratio on GitHub](https://github.com/LeaVerou/contrast-ratio)
 *   [Who Can Use](https://whocanuse.com/) - [Who Can Use on GitHub](https://github.com/CoreyGinnivan/whocanuse)
 *   [Colour Contrast Analyser (CCA) by TPGi](https://www.tpgi.com/color-contrast-checker/) - [CCA on GitHub](https://github.com/ThePacielloGroup/CCAe)
 
-### Creating palettes
+### Creating color palettes
 
 *   [Accessible color palette builder](https://toolness.github.io/accessible-color-matrix/) - [Accessible Color Palette on GitHub](https://github.com/toolness/accessible-color-matrix)
 *   [Contrast Grid](https://contrast-grid.eightshapes.com/) - [Contrast Grid on GitHub](https://github.com/EightShapes/contrast-grid)
 
-### Quick tests
 
-*   [Contrast-Ratio.com](https://contrast-Ratio.com) - [Contrast-Ratio GitHub Page](https://github.com/LeaVerou/contrast-ratio) \
-Allows for testing of contrast of text on top of a semi transparent background.
-*   [Contrast Checker](https://contrast-checker.glitch.me/) - [Contrast Checker on Glitch](https://glitch.com/edit/#!/contrast-checker?path=server.js%3A1%3A0)
-
-### Plugins, apps & integrations {#plugins}
+### Color browser plugins and apps {#plugins}
 
 * [Colour Contrast Analyser (CCA) by TPG](https://developer.paciellogroup.com/resources/contrastanalyser/) - [CCAe on GitHub](https://github.com/ThePacielloGroup/CCAe)
 * [Eye Dropper Chrome Extension](https://eyedropper.org/) - [Eye Dropper on GitHub](https://github.com/kepi/chromeEyeDropper)
 Determine the contrast ratio of two colors using an eyedrop tool on Windows and Mac.
 * [Pika MacOS Color Picker](https://superhighfives.com/pika) - [Pika on GitHub](https://github.com/superhighfives/pika) \
 Open-source, native colour picker for macOS.
+
+### Color integrations for design tools
 * [Color Contrast Analyser for Sketch on GitHub](https://github.com/getflourish/Sketch-Color-Contrast-Analyser) \
 Sketch plugin that calculates the color contrast of two layers and evaluates it against the WCAG.
-* [Figma Accessibility Annotation Kit](https://www.figma.com/community/file/953682768192596304) A community plugin for \
+
+## Design tool accessibility integrations
+
+### Figma
+* [Accessibility Annotation Kit](https://www.figma.com/community/file/953682768192596304) - a community plugin for \
 Figma that helps designers document accessibility considerations to share with developers when handing off designs.
-* [Storybook: storybook-addon-a11y](https://storybook.js.org/addons/@storybook/addon-a11y) - a Storybook addon which uses axe to improve the accessibility of UI components.
+* [Accessibility Checklist for Designers](https://www.figma.com/community/file/1233184772650050315/Accessibility-Checklist-for-Designers) - a checklist was created on the base of WCAG 2.1 AA standards.
+* [Inclusive Design illustrations](https://www.figma.com/community/file/946569165254852480/Inclusive-Design-illustrations) -  character stickersheets and illustrations from Microsoft Inclusive Design's toolkit.
+* [Intopia's accessibility annotation kit](https://www.figma.com/community/file/1022394680250523675/Intopia's-accessibility-annotation-kit) - communicate your accessibility requirements to developers and testers.
+* [A11y Annotation Kit](https://www.figma.com/community/file/953682768192596304/A11y-Annotation-Kit) - document accessibility considerations to share with developers when handing off designs.
+* [Twitter's Accessibility Annotation Library](https://www.figma.com/community/file/976946194228458698/Accessibility-Annotation-Library) - efficient, and scalable way for designers to communicate needs to engineers.
+
+### Sketch
+* [Sketch Accessibility Assistant](https://github.com/ygev/sketch-accessibility-assistant) - a linter for compliant color contrast and type based on WCAG 2.1.
+* [Sketch cluse.cc](https://cluse.cc/) or [cluse on GitHub](https://github.com/ygev/cluse) - Sketch Plugin to check and adjust color contrast accessibility
+
+### Storybook
+* [storybook-addon-a11y](https://storybook.js.org/addons/@storybook/addon-a11y) or [Addon A11y on GitHub](https://github.com/storybookjs/storybook/tree/master/addons/a11y#getting-started) - a Storybook addon which uses axe to improve the accessibility of UI components.
+* [storybook-a11y-report](https://storybook.js.org/addons/storybook-a11y-report) or [A11y Report on GitHub](https://github.com/kalbeekatz/storybook-a11y-report) - crawl Storybook pages and produce a report
+* [Aria Live](https://storybook.js.org/addons/storybook-addon-aria-live) or [Addon Aria Live on GitHub](https://github.com/AriPerkkio/storybook-addon-aria-live) - an utility tool for inspecting announcements of ARIA live regions
 
 ## Automated testing & continuous integration {#automated-testing}
 
