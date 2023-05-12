@@ -11,7 +11,7 @@ for item in items:
   time = item[ "published_parsed" ]
   title = item[ "title" ]
   author = item[ "author" ].replace(' ', '-').lower()
-  fileName = str(time.tm_year) + '-' + str(time.tm_mon) + '-' + str(time.tm_mday) + '-' + title + '.md'
+  fileName = str(time.tm_year) + '-' + str(time.tm_mon) + '-' + str(time.tm_mday) + '-' + title.replace(' ', '-').replace(':', '').replace('&', '').lower() + '.md'
   fileName = fileName.replace('/', '')
   f = open('_posts/' + fileName, 'w')
   value = md(item["content"][0]['value'])
