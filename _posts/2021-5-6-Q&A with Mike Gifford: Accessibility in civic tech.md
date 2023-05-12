@@ -6,9 +6,13 @@ author: allison-carroll
 ---
 [*Mike Gifford*](https://civicactions.com/team/mike-gifford) *is a Senior Strategist at CivicActions, a* [*Drupal*](https://www.drupal.org/u/mgifford) *core maintainer, and accessibility advocate. He's passionate about changing the conversation around accessibility in civic tech by moving beyond compliance to view these needs for what they are: a* [human right](https://www.un.org/development/desa/disabilities/convention-on-the-rights-of-persons-with-disabilities.html)*.*
 
-![](https://cdn-images-1.medium.com/max/300/1*8872YgkIHydqOGBqnLf_XQ.jpeg)Senior Strategist Mike Gifford in his natural habitat**The world of civic tech is deep and wide. Why accessibility? What approach should we be taking as we attempt to learn about issues within the accessibility community?**
+![](https://cdn-images-1.medium.com/max/300/1*8872YgkIHydqOGBqnLf_XQ.jpeg)Senior Strategist Mike Gifford in his natural habitat
 
-![](https://cdn-images-1.medium.com/max/267/1*gayAWvkTqT9vCEDA--WQWg.jpeg)Photo of Alan and Mike, courtesy of Mike's [Flickr](https://www.flickr.com/photos/mgifford/43726252162/in/photolist-7YWkEH-aPgReD-28fT1Pz-28fT32K-GjYrLW-ST6bc5-24pNY74-28wDTtS-29BX7V6-24pNZ9e-2dVjQ4W-2dVjR9b-24pP2fD-2dVjQZd-2eWDw4U-24pP1oD-2dCqXCK-kzhBxV-MFpXty-MFpWmo-MFpVbN-29BWv1S-29BWtnm-29Gc2zV-29Gc1Bx-pZftbo-29BWeWo-29BWspu-pZfqg5-FrMc1Q-FrMcyJ-P1edeT-E92xUC-AQ6Kn-FrMbBd-SwY22Z-SwY3bc-SwY2VH-SwY3xz-SwY2ux-SwY2ht-SEFn7Q)**Mike:** For me, it started withempathy and friendship. Alan Shain, who's been a roommate and friend since 1990, has cerebral palsy. He's a former bureaucrat and a comic who has been active in the Canadian arts community.
+**The world of civic tech is deep and wide. Why accessibility? What approach should we be taking as we attempt to learn about issues within the accessibility community?**
+
+![](https://cdn-images-1.medium.com/max/267/1*gayAWvkTqT9vCEDA--WQWg.jpeg)Photo of Alan and Mike, courtesy of Mike's [Flickr](https://www.flickr.com/photos/mgifford/43726252162/in/photolist-7YWkEH-aPgReD-28fT1Pz-28fT32K-GjYrLW-ST6bc5-24pNY74-28wDTtS-29BX7V6-24pNZ9e-2dVjQ4W-2dVjR9b-24pP2fD-2dVjQZd-2eWDw4U-24pP1oD-2dCqXCK-kzhBxV-MFpXty-MFpWmo-MFpVbN-29BWv1S-29BWtnm-29Gc2zV-29Gc1Bx-pZftbo-29BWeWo-29BWspu-pZfqg5-FrMc1Q-FrMcyJ-P1edeT-E92xUC-AQ6Kn-FrMbBd-SwY22Z-SwY3bc-SwY2VH-SwY3xz-SwY2ux-SwY2ht-SEFn7Q)
+
+**Mike:** For me, it started with empathy and friendship. Alan Shain, who's been a roommate and friend since 1990, has cerebral palsy. He's a former bureaucrat and a comic who has been active in the Canadian arts community.
 
 He's taught me the importance of the disability rights movement. Knowing him got me thinking more about humanity and the abilities we possess, and the notion that we are all only "temporarily able-bodied." We have some abilities right now, but that may change drastically tomorrow. As we grow older, things inevitably happen to our bodies. Yet, we have a big aversion to the idea of our own mortality, so we often overlook that.
 
