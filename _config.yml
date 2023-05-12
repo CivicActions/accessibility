@@ -136,3 +136,4 @@ exclude:
   - pa11y-report-junit.xml
   - .gitlab-ci.yml
   - public
+  - medium-posts-script
