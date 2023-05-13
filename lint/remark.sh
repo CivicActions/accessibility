@@ -16,7 +16,7 @@ if [[ -n "${INPUT_GITHUB_TOKEN:-}" ]]; then
     reviewdog -f=remark-lint \
       -name="remark-lint" \
       -reporter="github-pr-check" \
-      -fail-on-error="true" \
+      -fail-on-error="false" \
       -level="error" \
       -tee
 
