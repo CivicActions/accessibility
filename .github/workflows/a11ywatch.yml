@@ -1,0 +1,31 @@
+name: a11ywatch
+
+on: [pull_request]
+
+jobs:
+  build:
+    name: Building site and running a11ywatch
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout source.
+        uses: actions/checkout@v2
+
+      - name: Install jekyll site dependencies.
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: 2.6
+          bundler-cache: true
+
+      - name: Install npm dependencies.
+        run: npm ci
+
+      - name: Start up jekyll server.
+        run: npm run start-detached
+
+      - uses: a11ywatch/github-action@v1.14.0
+        with:
+          WEBSITE_URL: http://127.0.0.1:4000
+          SITE_WIDE: true
+          SITEMAP: true
+          LIST: true
