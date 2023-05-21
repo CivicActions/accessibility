@@ -4,9 +4,7 @@ title: "Launching a community of practice for accessibility in government servic
 date: 2021-5-20 08:00:00 -0800
 author: nira-datta
 ---
-#### On Global Accessibility Awareness Day, we're excited to be announcing the
-launch of our initiative to advance accessibility awareness and best practices
-in government digital services.
+#### On Global Accessibility Awareness Day, we're excited to be announcing the launch of our initiative to advance accessibility awareness and best practices in government digital services.
 
 ![](https://cdn-
 images-1.medium.com/max/1024/1*8IEjR1LlAgV_Q18WqPfJSQ.jpeg)Photo by [Porapak

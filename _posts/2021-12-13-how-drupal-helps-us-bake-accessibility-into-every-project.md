@@ -4,8 +4,7 @@ title: "How Drupal helps us bake accessibility into every project"
 date: 2021-12-13 08:00:00 -0800
 author: civicactions
 ---
-#### Learn key features of Drupal that help make your site useful to people of
-all abilities
+#### Learn key features of Drupal that help make your site useful to people of all abilities
 
 ![](https://cdn-
 images-1.medium.com/max/1024/1*GswpaA5TtwCBYjmph6SIMw.jpeg)Photo by [Cliff
