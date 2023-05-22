@@ -27,5 +27,5 @@ jobs:
         with:
           WEBSITE_URL: http://127.0.0.1:4000
           SITE_WIDE: true
-          SITEMAP: true
+          FAIL_ERRORS_COUNT: 0
           LIST: true
