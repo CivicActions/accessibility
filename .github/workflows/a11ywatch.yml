@@ -23,7 +23,7 @@ jobs:
       - name: Start up jekyll server.
         run: bundle exec jekyll serve --detach -c _config.yml,_config_local.yml
 
-      - uses: a11ywatch/github-action@v1.14.0
+      - uses: a11ywatch/github-action@v2.0.0
         with:
           WEBSITE_URL: http://localhost:4000
           SITE_WIDE: true
