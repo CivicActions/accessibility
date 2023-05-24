@@ -29,4 +29,3 @@ jobs:
           SITE_WIDE: true
           SITEMAP: true
           LIST: true
-          TLD: true
