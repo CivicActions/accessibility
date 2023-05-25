@@ -127,8 +127,7 @@ research sources to validate our assumptions on behaviors, needs and
 challenges. Details of the post-it notes are intentionally not-visible, and
 are shown for example purposes only._
 
-### Step 2: Created user journey maps to identify pain points and possible
-solutions
+### Step 2: Created user journey maps to identify pain points and possible solutions
 
 Based on the proto-personas, we created user journey maps across the medical
 appointment experience:
@@ -153,8 +152,7 @@ caregiver support to prepare for the medical appointment. Details of the post-
 it notes are intentionally not-visible, and are shown for example purposes
 only._
 
-### Step 3: Mapped each solution across multiple disability types, creating
-our accessibility use case map
+### Step 3: Mapped each solution across multiple disability types, creating our accessibility use case map
 
 But what might benefit someone with one type of disability, might be a barrier
 for others. For instance, text-to-speech software is helpful for a blind
@@ -212,8 +210,7 @@ improvements like "sending an SMS notification with a link to pre-check-in"
 was one of our highest impact solutions. This meant it was impactful for the
 greatest number of disabilities.
 
-### Step 6: Prioritized recommendations based on the Accessibility Impact
-Score
+### Step 6: Prioritized recommendations based on the Accessibility Impact Score
 
 Using a prioritization matrix, we prioritized each recommendation based on its
 total Accessibility Impact Score.
