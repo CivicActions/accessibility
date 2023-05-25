@@ -228,10 +228,10 @@ There are many caveats with our framework, for instance:
   * It's not intersectional — it doesn't consider people who live with more than one disability
   * We didn't test it with users living with disabilities.
 
-#### Ideally, disabled Veterans would be part of our process
-
 > This is our first attempt at designing for disabled Veterans when resources
 > are limited, time-frames are tight, and priorities conflict.
+
+#### Ideally, disabled Veterans would be part of our process
 
 What would we have done differently without those constraints? We would have
 included disabled Veterans throughout all six steps of the process. This way
