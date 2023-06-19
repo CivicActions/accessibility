@@ -24,6 +24,7 @@ Worldwide, government website design is being led by open source initiatives.
 *   [GOV.UK - Design System](https://design-system.service.gov.uk/) - [GOV.UK Design System on GitHub](https://github.com/alphagov/govuk-design-system)
 *   [UK's Department for Work and Pensions Design System on GitHub](https://github.com/dwp/design-system)
 *   [Iceland's design system mono repository](https://github.com/island-is/island.is)
+*   [Portugal's Ágora Design System](https://zeroheight.com/1be481dc2/p/2861fa-boas-vindas)
 
 ### Canada
 *   [Canada - Web Experience Toolkit (WET)](https://wet-boew.github.io/wet-boew/index.html) - [WET on GitHub](https://github.com/wet-boew/wet-boew)
