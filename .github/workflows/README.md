@@ -38,6 +38,10 @@ Run Cypress tests with Axe to check accessibility of the site with axe by intera
 
 Run a11ywatch GitHub action to check accessibility of the site.
 
+## accessibility-alt-text-bot.yml
+
+This action reminds users to add a meaningful alternative text to their images.
+
 # References
 
 * https://github.com/pa11y/pa11y
