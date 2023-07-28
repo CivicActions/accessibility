@@ -29,3 +29,7 @@ We can use machine learning to support accessibility, but in many cases it is be
 
 * What algorithms are you using in your organization?
 * Have those been assessed for bias?
+
+## See also
+
+* [The Ethics of Inclusive AI](https://www.govloop.com/community/blog/the-ethics-of-inclusive-ai/) by Mike Gifford and Emily Ryan
