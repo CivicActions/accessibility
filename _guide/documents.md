@@ -24,3 +24,6 @@ For Microsoft Word/Powerpoint, portable document formats and electronic publicat
 *   [Toronto Metropolitan University: How to Create Accessible Documents](https://www.ryerson.ca/accessibility/guides-resources/accessible-documents/) and [Understanding Document Accessibility](https://de.ryerson.ca/wa/documents/)
 *   [Toronto Metropolitan University: Understanding Document Accessibility](https://pressbooks.library.ryerson.ca/docs/) (Free E-book)
 *   [AbilityNet: Creating Accessible Documents](https://abilitynet.org.uk/factsheets/creating-accessible-documents-0) (UK's AbilityNet)
+
+## See also
+* [Document Playbook](/playbook/documents)
