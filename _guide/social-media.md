@@ -49,8 +49,9 @@ Basic information on social media and accessibility.
 
 ## Hashtags
 
-Common accessibility-related hashtags:
+Remember that it is easier to read and for assistive technolgy to pronounce if hashtags are written in #CamelCaseLetters. Each unique word in a hashtag should start with a capital letter. 
 
+Common accessibility-related hashtags:
 
 *   #accessibility
 *   #a11y
