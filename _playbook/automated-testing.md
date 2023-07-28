@@ -66,3 +66,7 @@ Take a look at [Setting up Cypress with axe for accessibility](https://timdeschr
 * Are you using a variety of automated testing tools to help identify potential problems?
 * How are you ensuring that you aren't relying too heavily on automated tests?
 * Have automated processes been set up to optimize use of developer time?
+
+## See also
+* [How I do automated accessibility testing for my website](https://opensource.com/article/23/2/automated-accessibility-testing) by Daniel Mundra
+* [Automated accessibility testing: Leveraging GitHub Actions and pa11y-ci with axe](https://accessibility.civicactions.com/posts/automated-accessibility-testing-leveraging-github-actions-and-pa11y-ci-with-axe) by Daniel Mundra
