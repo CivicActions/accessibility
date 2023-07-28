@@ -108,10 +108,11 @@ If you're not a federal employee, you can also find [online training](https://ww
 
 ### Guides
 
-* [Federal plain language guidelines](https://www.plainlanguage.gov/guidelines/)
-* [Guide to accessibility for teams](https://accessibility.digital.gov/content-design/plain-language/)
-* [Steps to make your content plain language](https://www.accessibility.sa.gov.au/your-role/content/plain-language)
-* [Content Design London — Readability Guidelines](https://readabilityguidelines.co.uk/)
+* [USA Federal plain language guidelines](https://www.plainlanguage.gov/guidelines/)
+* [USDS: Guide to accessibility for teams](https://accessibility.digital.gov/content-design/plain-language/)
+* [California.gov Content Style Guide: Write in Plain Language](https://designsystem.webstandards.ca.gov/style/content/write-in-plain-language/)
+* [South Australia: Steps to make your content plain language](https://www.accessibility.sa.gov.au/your-role/content/plain-language)
+* [Content Design London: Readability Guidelines](https://readabilityguidelines.co.uk/)
 
 ### Videos
 
