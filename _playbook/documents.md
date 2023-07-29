@@ -109,3 +109,6 @@ For publishing accessible electronic documents.
 *   [How to Create Accessible Documents](https://www.ryerson.ca/accessibility/guides-resources/accessible-documents/) (Ryerson University)
 *   [Understanding Document Accessibility](https://de.ryerson.ca/wa/documents/) (Ryerson University)
 *   [SCULPT - Shaping documents and content for everyday accessible and inclusive practice](https://www.worcestershire.gov.uk/WCCSculpt) (Worcestershire County Council, UK)
+
+## See also
+* [Document Guide](/guide/documents)
