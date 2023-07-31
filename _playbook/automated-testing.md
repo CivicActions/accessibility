@@ -69,4 +69,3 @@ Take a look at [Setting up Cypress with axe for accessibility](https://timdeschr
 
 ## See also
 * [How I do automated accessibility testing for my website](https://opensource.com/article/23/2/automated-accessibility-testing) by Daniel Mundra
-* [Automated accessibility testing: Leveraging GitHub Actions and pa11y-ci with axe](https://accessibility.civicactions.com/posts/automated-accessibility-testing-leveraging-github-actions-and-pa11y-ci-with-axe) by Daniel Mundra
