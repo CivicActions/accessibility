@@ -19,7 +19,7 @@ roles:
 
 Most PDFs simply do not meet the Section 508 requirements. It is just simply so easy to produce PDFs, but so difficult to produce accessible ones. There are very few tools that allow you to tell the difference between. 
 
-The Luxembourg government has several open source accessibility projects inclucing their [simplA11yPDFCrawler](https://github.com/accessibility-luxembourg/simplA11yPDFCrawler).This small government has created a great tool which collects and scans PDFs for known accessibility errors. [VeraPDF](https://verapdf.org/home/) or [VeraPDF on GitHub](https://github.com/verapdf) is another option open source option that can provide more detailed results has a more complicated installation. 
+The Luxembourg government has several open source accessibility projects inclucing their [simplA11yPDFCrawler](https://github.com/accessibility-luxembourg/simplA11yPDFCrawler). This small government has created a great tool which collects and scans PDFs for known accessibility errors. [VeraPDF](https://verapdf.org/home/) or [VeraPDF on GitHub](https://github.com/verapdf) is another open source option that can provide more detailed results but has a more complicated installation. 
 
 It is possible to create PDF files that meet requirements of Section 508, but it is often overlooked or not done properly. Often the source documents used to create them do not have proper semantics. It is always more expensive to try to remediate a PDF than to implement accessibility best practices into the authoring tool.
 
