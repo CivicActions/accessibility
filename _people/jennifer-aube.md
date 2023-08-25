@@ -2,21 +2,21 @@
 type: team
 published: 1
 author: jennifer-aube
-name: Jennifer Aube
+name: Jennifer Houde
 image: jennifer-aube.jpg
 categories:
  - 
 sidenav: docs
-permalink: /about/people/jennifer-aube
-linkedin: https://www.linkedin.com/in/jennifer-aube-81119a91/
+permalink: /about/people/jennifer-houde
+linkedin: https://ca.linkedin.com/in/jennifer-houde-81119a91
 twitter: 
-github: https://github.com/jaube05
+github: https://github.com/jhoude5
 gitlab: 
-drupal: https://www.drupal.org/u/jenniferaube
+drupal: https://www.drupal.org/u/jenniferhoude
 speakerdeck: 
-website: http://www.jenniferaube.com/
-external: false
+website:
+external: true
 
 ---
 
-Jennifer Aube is a team member of CivicActions Accessibility.
+Jennifer Houde was a team member of CivicActions Accessibility.
