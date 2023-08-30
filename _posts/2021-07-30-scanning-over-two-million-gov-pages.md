@@ -23,4 +23,4 @@ We tested against 2.1 AA requirements, the current best practice for digital acc
 
 These problems are happening because accessibility has been an afterthought, even in government. In order for accessibility success to scale in the enterprise we need to take a more holistic approach. For this we have developed our [HEART](https://accessibility.civicactions.com/heart) framework.
 
-Learn more by [reading our FCW article](https://fcw.com/articles/2021/07/22/fed-website-accessibility.aspx).
+Learn more by [reading our NEXTGOV/FCW article](https://www.nextgov.com/digital-government/2021/07/what-we-learned-about-accessibility-by-scanning-more-than-2-million-federal-gov-web-pages/259227/).
