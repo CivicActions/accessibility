@@ -17,7 +17,7 @@ roles:
   - UX designer
 ---
 
-On July 22 Mike Gifford and [Luke Fretwell](https://proudcity.com/contacts/luke-fretwell/) had [this article](https://fcw.com/articles/2021/07/22/fed-website-accessibility.aspx) published in FCW (Federal Computer Week) to highlight months of work scanning federal .gov web pages.
+On July 22 Mike Gifford and [Luke Fretwell](https://proudcity.com/contacts/luke-fretwell/) had [this article](https://www.nextgov.com/digital-government/2021/07/what-we-learned-about-accessibility-by-scanning-more-than-2-million-federal-gov-web-pages/259227/) published in FCW (Federal Computer Week) to highlight months of work scanning federal .gov web pages.
 
 We tested against 2.1 AA requirements, the current best practice for digital accessibility standards. The open source tools we used were [Domain Accessibility Audit](https://github.com/MSU-NatSci/DomainAccessibilityAudit) (to crawl the pages) and [axe](https://github.com/dequelabs/axe-core) (to perform the actual accessibility scans).
 
