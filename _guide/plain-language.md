@@ -73,6 +73,12 @@ Always run your content through a readability tool. You can use  [Hemingway App]
 * proper nouns
 * titles 
 * any domain-specific language you have to use. For example, a medical term you might need to include in your content.
+ 
+### Listen to your text in Reader Mode
+
+There are many tools to help with the readability of your site. Some of them offer a text to speach functionality that makes it easy for people to listen to what you have written. In our testing, [Microsoft's Immersive Reader](https://support.microsoft.com/en-us/topic/use-immersive-reader-in-microsoft-edge-78a7a17d-52e1-47ee-b0ac-eff8539015e1) is one of the best. 
+
+Simply hearing how text read out loud can help authors better understand where improvements can be made. 
 
 ### Do more "just enough" user testing with your audience
 
