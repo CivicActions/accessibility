@@ -118,7 +118,7 @@ Allows for testing of contrast of text on top of a semi transparent background.
 *   [ButtonBuddy](https://buttonbuddy.dev/) - [ButtonBuddy on GitHub](https://github.com/5t3ph/buttonbuddy)
 *   [ACD (Previously ColorCube)](http://accessiblecolor.design) - [ColorCube on GitHub](https://github.com/oomphinc/colorcube)
 *   [LeonardoColor.io](https://leonardocolor.io/#)  - [Leonardo on GitHub](https://github.com/adobe/leonardo)
-*   [Contrast-Ratio.com](https://contrast-ratio.com) - [Contrast-Ratio on GitHub](https://github.com/LeaVerou/contrast-ratio)
+*   [Colour Contrast Checker](https://colourcontrast.cc) - [Colour Contrast Checker on GitHub](https://github.com/Pushedskydiver/Colour-Contrast-Checker)
 *   [Who Can Use](https://whocanuse.com/) - [Who Can Use on GitHub](https://github.com/CoreyGinnivan/whocanuse)
 *   [Colour Contrast Analyser (CCA) by TPGi](https://www.tpgi.com/color-contrast-checker/) - [CCA on GitHub](https://github.com/ThePacielloGroup/CCAe)
 
