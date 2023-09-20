@@ -58,7 +58,7 @@ WCAG guidelines should be seen not as the goal to strive for, but a floor from w
 Other governments around the world began implementing accessibility regulations. In Canada there was the Accessible Canada Act (ACA) and also several provincial acts like Accessibility for Ontarians with Disabilities Act (AODA). Accessibility legislation occurs at all levels of government, and although there may be differences, web standards usually follow the WCAG recommendations.
 
 
-## Harmonised European Standard & European Accessibility Act {#harmonised-european-standard-&-european-accessibility-act}
+## Harmonised European Standard & European Accessibility Act {#harmonised-european-standard-european-accessibility-act}
 
 Europe is currently seen as the leader in digital accessibility best practices. The Harmonised European Standard (EN 301 549) is a living document first published by the European Telecommunications Standards Institute (ETSI) in 2014. The latest version, 3.1.1, was published in November 2019 and embraces WCAG 2.1 AA as the minimum accessibility standard for countries in the EU. Governments in the EU are given the freedom to choose how they want to implement the standard within their own countries, and after the W3C releases WCAG 2.2, it will be reviewed for consideration for an upcoming release of EN 301 549.
 
