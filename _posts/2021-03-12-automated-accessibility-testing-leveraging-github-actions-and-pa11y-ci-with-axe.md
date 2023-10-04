@@ -206,4 +206,4 @@ Thank you to [Melinda Burgess](https://civicactions.com/team/melinda-burgess), [
 
 ## What about GitLab?
 
-We published a related post on how do the same [automated accessibility testing on GitLab using Pa11y CI and Cypress](https://opensource.com/article/23/2/automated-accessibility-testing).
+We published a related post on how to do the same [automated accessibility testing on GitLab using Pa11y CI and Cypress](https://opensource.com/article/23/2/automated-accessibility-testing).
