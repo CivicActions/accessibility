@@ -21,7 +21,7 @@ People with disabilities suffer from considerable discrimination, some of which 
 
 When talking about people with a lived experience of disability, we want to be respectful of how people want to be identified. This changes over time, and so it is important to stay up-to-date to see that we are using the language that embraces the equality we are trying to achieve.
 
-How can we avoid ableist assumptions and [Inspiration porn](https://en.wikipedia.org/wiki/Inspiration_porn)?
+How can we avoid ableist assumptions and [Inspiration Sensationalism](https://en.wikipedia.org/wiki/Inspiration_Sensationalism)?
 
 Resources to help you avoid unintentionally offending people:
 
