@@ -203,3 +203,7 @@ As noted in our [playbook for automated testing](/playbook/automated-testing):
   * The [18F Accessibility Guide](https://github.com/18F/accessibility) uses CircleCI and axe.
 
 Thank you to [Melinda Burgess](https://civicactions.com/team/melinda-burgess), [Luke Fretwell](/about/people/luke-fretwell), and [Mike Gifford](/about/people/mike-gifford) for your support, thoughts, and feedback.
+
+## What about GitLab?
+
+We published a related post on how to do the same [automated accessibility testing on GitLab using Pa11y CI and Cypress](https://opensource.com/article/23/2/automated-accessibility-testing).
