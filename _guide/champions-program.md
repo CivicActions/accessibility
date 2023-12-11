@@ -41,7 +41,7 @@ Attend the practice area calls and engage in the Slack channel / keep up with be
 -   Professional Development (Prodev)
 -   [Take EdX course (with certificate)](https://www.edx.org/course/web-accessibility-introduction)
    
-All CivicActions employees are encouraged to get the EdX Certification. It is estimated to take 16-20 hours over a period of 1 to 4 weeks.
+All CivicActions employees are encouraged to get the EdX Certification. The course is free, but the certification costs $99. Staff can use their [Profesional Development](https://guidebook.civicactions.com/en/latest/employee-benefits/professional-development/) (ProDev) to pay for the certificate. New staff can get access early access to their ProDev funds to pay for this certificte. It is estimated to take 16-20 hours over a period of 1 to 4 weeks. 
 
 ### Level 2 — Experienced
 
