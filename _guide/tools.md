@@ -187,6 +187,7 @@ Color blindness simulator for Windows, Mac, and Linux.
 ## EPUB3 {#epub}
 
 * [EPUBCheck](https://github.com/w3c/epubcheck)
+* [Ace, by DAISY](https://github.com/daisy/ace)
 
 ## PDFs {#pdfs}
 
