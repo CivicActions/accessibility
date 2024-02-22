@@ -34,7 +34,7 @@ Plugin for the popular open source ATOM Editor from GitHub.
 
 *   [NVDA](https://www.nvaccess.org/) - [NVDA on GitHub](https://github.com/nvaccess/nvda/) \
 Available for PCs running Microsoft Windows 7 SP1 and later, NVDA is a fast, functional, and free screen reader.
-*   [ChromeVox Chrome Extension](https://chrome.google.com/webstore/detail/screen-reader/kgejglhpjiefppelpmljglcjbhoiplfn) - [ChromeVox as part of ChromeOS on GitHub](https://github.com/chromium/chromium/blob/master/docs/accessibility/chromevox.md) - [Install and Setup Instructions from Web Accessibility for Developers Guide (with video)](https://pressbooks.library.ryerson.ca/wafd/chapter/chromevox-screen-reader-install-and-setup/) \
+*   [ChromeVox Chrome Extension](https://chrome.google.com/webstore/detail/screen-reader/kgejglhpjiefppelpmljglcjbhoiplfn) - [ChromeVox as part of ChromeOS on GitHub](https://github.com/chromium/chromium/blob/master/docs/accessibility/os/chromevox.md) - [Install and Setup Instructions from Web Accessibility for Developers Guide (with video)](https://pressbooks.library.ryerson.ca/wafd/chapter/chromevox-screen-reader-install-and-setup/) \
 A fully featured screen reader for the web built using only web technologies such as HTML and Javascript. This extension specifically works within the Chrome browser to read content aloud.
 *   Android [Talkback](https://support.google.com/accessibility/android/answer/6283677?hl=en) & [Switch](https://support.google.com/accessibility/android/answer/6122836?hl=en) - on [GitHub](https://github.com/google/talkback) \
 TalkBack is the Google screen reader included on Android devices. Switch lets you interact with your Android device using one or more switches instead of the touchscreen, useful if you can't interact directly with your device.
@@ -42,7 +42,7 @@ TalkBack is the Google screen reader included on Android devices. Switch lets yo
 While not open source, VoiceOver is an industry‑leading screen reader for Apple products, which also gives descriptions in braille.
 *   [Linux Orca](https://help.gnome.org/users/orca/stable/index.html.en) - [Orca on GitLab](https://gitlab.gnome.org/GNOME/orca) - [Orca on Chrome/Chromium](https://wiki.gnome.org/Projects/Orca/Chromium) \
 Orca is a free, open source, flexible, and extensible screen reader that provides access to the graphical desktop via speech and refreshable braille.
-*   [SkipTo Landmarks & Headings](https://skipto.github.io) on [GitHub](https://github.com/skipto/extension) based on [PayPal's skipto HTML project](https://github.com/paypal/skipto) SkipTo provides a browser extension that provides keyboard only user more navigational control. 
+*   [SkipTo Landmarks & Headings](https://paypal.github.io/skipto/) on [GitHub](https://github.com/skipto/extension) based on [PayPal's skipto HTML project](https://github.com/paypal/skipto) SkipTo provides a browser extension that provides keyboard only user more navigational control. 
 
 ## Site-wide evaluation {#site-wide-evaluation}
 
