@@ -1,0 +1,80 @@
+{
+  "ignorePatterns": [
+    {
+      "NOTE: Authenticated sites below": "",
+      "pattern": "^https://github.com/settings/two_factor_authentication/configure$"
+    },
+    {
+      "pattern": "^https://docs.google.com/.*"
+    },
+    {
+      "pattern": "^http://ci.civicactions.net/$"
+    },
+    {
+      "pattern": "^https://app.skills-base.com/.*"
+    },
+    {
+      "pattern": "^https://app.statuscake.com/.*"
+    },
+    {
+      "pattern": "^https://docs.google.com/.*"
+    },
+    {
+      "pattern": "^https://www.linkedin.com/company/civicactions/$"
+    },
+    {
+      "NOTE: Sites with captcha protection below": "",
+      "pattern": "^https://.*drupal.org/.*"
+    },
+    {
+      "pattern": "^https://.*.lastpass.com/.*"
+    },
+    {
+      "pattern": "^https://twitter.com/.*"
+    },
+    {
+      "pattern": "^https://support.yubico.com/.*"
+    },
+    {
+      "pattern": "^https://.*.zendesk.com/.*"
+    },
+    {
+      "pattern": "^https://support.zoom.us/.*"
+    },
+    {
+      "pattern": "^https://identity.trinet.com/.*"
+    },
+    {
+      "pattern": "^https://.*.ecosia.org/.*"
+    },
+    {
+      "NOTE: Unreliable sites below": "",
+      "pattern": "^https://nedjo.ca/.*"
+    },
+    {
+      "pattern": "^http://linux.die.net/.*"
+    },
+    {
+      "pattern": "^https://linux.die.net/.*"
+    },
+    {
+      "pattern": "^https://duckduckgo.com/.*"
+    },
+    {
+      "pattern": "^https://askubuntu.com/.*"
+    }
+  ],
+  "httpHeaders": [
+    {
+      "urls": [
+        "https://github.com/",
+        "https://guides.github.com/",
+        "https://help.github.com/",
+        "https://docs.github.com/"
+      ],
+      "headers": {
+        "Accept-Encoding": "zstd, br, gzip, deflate"
+      }
+    }
+  ]
+}

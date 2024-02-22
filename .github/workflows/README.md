@@ -42,6 +42,10 @@ Run a11ywatch GitHub action to check accessibility of the site.
 
 This action reminds users to add a meaningful alternative text to their images.
 
+## link-check.yml
+
+This action checks all markdown links for issues.
+
 # References
 
 * https://github.com/pa11y/pa11y
