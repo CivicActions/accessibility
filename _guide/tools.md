@@ -42,7 +42,7 @@ TalkBack is the Google screen reader included on Android devices. Switch lets yo
 While not open source, VoiceOver is an industry‑leading screen reader for Apple products, which also gives descriptions in braille.
 *   [Linux Orca](https://help.gnome.org/users/orca/stable/index.html.en) - [Orca on GitLab](https://gitlab.gnome.org/GNOME/orca) - [Orca on Chrome/Chromium](https://wiki.gnome.org/Projects/Orca/Chromium) \
 Orca is a free, open source, flexible, and extensible screen reader that provides access to the graphical desktop via speech and refreshable braille.
-*   [SkipTo Landmarks & Headings](https://skipto.github.io) on [GitHub](https://github.com/skipto/extension) based on [PayPal's skipto HTML project](https://github.com/paypal/skipto) SkipTo provides a browser extension that provides keyboard only user more navigational control. 
+*   [SkipTo Landmarks & Headings](https://paypal.github.io/skipto/) on [GitHub](https://github.com/skipto/extension) based on [PayPal's skipto HTML project](https://github.com/paypal/skipto) SkipTo provides a browser extension that provides keyboard only user more navigational control. 
 
 ## Site-wide evaluation {#site-wide-evaluation}
 
