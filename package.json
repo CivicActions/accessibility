@@ -4,6 +4,7 @@
   "license": "Creative Commons Attribution-ShareAlike 4.0 International Public License",
   "scripts": {
     "postinstall": "bundle",
+    "build": "bundle exec jekyll build",
     "start": "bundle exec jekyll serve",
     "start-detached": "bundle exec jekyll serve --detach",
     "setup-uswds": "npm run sync-assets && npm run sync-sass",
@@ -11,7 +12,8 @@
     "sync-sass": "rsync -avr --delete node_modules/uswds/src/stylesheets/ _sass/uswds/src/",
     "pa11y-ci:home": "pa11y-ci http://127.0.0.1:4000",
     "pa11y-ci:sitemap": "pa11y-ci --sitemap http://127.0.0.1:4000/sitemap.xml --sitemap-find https://accessibility.civicactions.com --sitemap-replace http://127.0.0.1:4000 --sitemap-exclude \"/*.pdf\"",
-    "cypress-tests": "cypress run --browser chrome --headless"
+    "cypress-tests": "cypress run --browser chrome --headless",
+    "link-checker": "bundle exec htmlproofer --ignore-status-codes \"999,403,0\" --ignore-urls \"/fonts.gstatic.com/\" --enforce_https \"false\" ./_site"
   },
   "dependencies": {
     "simple-jekyll-search": "^1.9.2"

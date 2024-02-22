@@ -137,4 +137,3 @@ exclude:
   - .gitlab-ci.yml
   - public
   - medium-posts-script
-  - markdown.links.config.json
