@@ -112,7 +112,7 @@ Evaluate WAI-ARIA according to the [ARIA in HTML](https://www.w3.org/TR/html-ari
 ### Web based contrast tools
 
 *   [Contrast Finder by Tanaguru](https://contrast-finder.tanaguru.com/) - [Contrast Finder GitHub Page](https://github.com/Tanaguru/Contrast-Finder)
-*   [Contrast-Ratio.com](https://contrast-Ratio.com) - [Contrast-Ratio GitHub Page]([https://github.com/LeaVerou/contrast-ratio](https://github.com/siege-media/contrast-ratio)) \
+*   [Contrast-Ratio.com](https://contrast-Ratio.com) - [Contrast-Ratio GitHub Page](https://github.com/siege-media/contrast-ratio) \
 Allows for testing of contrast of text on top of a semi transparent background.
 *   [Contrast Checker](https://contrast-checker.glitch.me/) - [Contrast Checker on Glitch](https://glitch.com/edit/#!/contrast-checker?path=server.js%3A1%3A0)
 *   [ButtonBuddy](https://buttonbuddy.dev/) - [ButtonBuddy on GitHub](https://github.com/5t3ph/buttonbuddy)

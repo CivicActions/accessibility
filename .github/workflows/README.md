@@ -42,6 +42,10 @@ Run a11ywatch GitHub action to check accessibility of the site.
 
 This action reminds users to add a meaningful alternative text to their images.
 
+## link-check.yml
+
+This action checks content links for issues using https://github.com/gjtorikian/html-proofer.
+
 # References
 
 * https://github.com/pa11y/pa11y
@@ -50,7 +54,6 @@ This action reminds users to add a meaningful alternative text to their images.
 * https://engineering.18f.gov/accessibility-scanning/
 * https://medium.com/@f3igao/how-to-automate-web-accessibility-testing-921512bdd4bf
 * https://stackoverflow.com/questions/58858429/how-to-run-a-github-actions-step-even-if-the-previous-step-fails-while-still-f
-* https://docs.gitlab.com/ee/user/project/merge_requests/accessibility_testing.html
 * https://stackoverflow.com/questions/57915432/write-output-of-npm-run-start-to-a-file
 * https://github.com/marketplace/actions/comment-pull-request
 * https://pre-commit.com/
@@ -58,4 +61,5 @@ This action reminds users to add a meaningful alternative text to their images.
 * https://stackoverflow.com/questions/62325286/run-github-actions-when-pull-requests-have-a-specific-label
 * https://github.com/marketplace/actions/push-directory-to-another-repository
 * https://github.com/marketplace/actions/find-and-replace
-* https://github.com/marketplace/actions/publish-unit-test-results
+* https://github.com/gjtorikian/html-proofer
+* https://danielsieger.com/blog/2021/03/28/check-broken-links-jekyll.html
