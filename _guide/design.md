@@ -64,3 +64,4 @@ Worldwide, government website design is being led by open source initiatives.
 *   [Phase2's Outline](https://outline.phase2tech.com/) - [Outline on GitHub](https://github.com/phase2/outline) - Uses Web Components
 *   [Washington Post's Design System (UiKit)](https://build.washingtonpost.com)
 *   [GitHub's Primer](https://primer.style/) - [Primer on GitHub](https://github.com/primer)
+*   [Jstor's Pharos](https://pharos.jstor.org/) - [Pharos on GitHub](https://github.com/ithaka/pharos)
