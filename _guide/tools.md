@@ -93,8 +93,6 @@ Simulate touch events (swipe, rotate, pinch) with a mouse.
 On click, every focusable element will receive a red border, so you can see where the keyboard cursor is.
 *   [What has focus?](https://codepen.io/svinkle/pen/WgYRxq) on Codepen (MIT Licence) \
 When something receives keyboard focus via Tab key, the current element will be logged to the JavaScript console so you can determine which element currently has focus.
-*   [Visual ARIA Bookmarklet](https://accdc.github.io/visual-aria/github-bookmarklet/visual-aria.htm) - [Visual ARIA on GitHub](https://github.com/accdc/visual-aria) \
-Watch ARIA usage within web technologies, including ARIA 1.1 structural, live region, and widget roles, as well as help with nesting and focus management.
 *   [Reading Order Bookmarklet](https://adrianroselli.com/2019/04/reading-order-bookmarklet.html) \
 Running this bookmarklet will visually number the reading order in which screen-reading software will announce different parts of the page, to check to see that it matches the visual order (up to down, left to right).
 *   [Accessibility and Contrast Bookmarklet](https://ada.is/blog/2016/02/12/contrast-bookmarklet/) - [Contrast Bookmarklet on GitHub](https://github.com/AdaRoseCannon/contrast-widget) \
@@ -197,7 +195,6 @@ Color blindness simulator for Windows, Mac, and Linux.
 ### Parsing/manipulating PDFs (not a11y-focused)
 
 *   [PDF Parser](https://www.pdfparser.org/)
-*   [PyPDF2](https://pythonhosted.org/PyPDF2/index.html)
 
 ## Other lists of tools {#other-lists-of-tools}
 
