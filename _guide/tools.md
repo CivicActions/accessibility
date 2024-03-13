@@ -79,16 +79,12 @@ Extremely flexible and popular testing suite from Google that can be run directl
 Tools from IBM that can automate accessibility testing from a browser, or when added to a continuous integration environment.
 *   [Explore ARIA Landmarks Browser Extension](http://matatk.agrip.org.uk/landmarks/) - [Landmarks on GitHub](https://github.com/matatk/landmarks) \
 Browser extension that allows you to navigate a web page via WAI-ARIA landmarks, using the keyboard or a pop-up menu.
-*   [Tota11y by Khan Academy](https://khan.github.io/tota11y/) - [Tota11y on GitHub](https://github.com/Khan/tota11y) A single JavaScript file that \
-inserts a small button in the bottom corner of your document with information about accessibility errors on the page.
 *   [Firefox AInspector WCAG](https://addons.mozilla.org/en-US/firefox/addon/ainspector-wcag/) - A Firefox Add-on that addresses accessibility compliance \
 using OpenAjax Alliance rulesets. 
 *   [Qualweb](http://qualweb.di.fc.ul.pt/evaluator/) - [Qualweb on GitHub](https://github.com/qualweb) - A set of tools that are being built to align with the W3C's ACT ruleset.
 
 ## Bookmarklets {#bookmarklets}
 
-*   [Tota11y](https://khan.github.io/tota11y/) - [Tota11y on GitHub](https://github.com/Khan/tota11y) \
-From the people at Khan Academy, tota11y is typically used as a browser bookmarklet that helps visualize how your site performs with assistive technologies.
 *   [ANDI by SSA.gov](https://www.ssa.gov/accessibility/andi/) - [ANDI on GitHub](https://github.com/SSAgov/ANDI) \
 A free accessibility testing tool that offers detection of problems and shows what a screen reader should say for interactive elements. It also gives realistic recommendations to improve accessibility, and checks 508 compliance.
 *   [Touch Bookmarklet](https://louisremi.github.io/touch-devtool/) - [Touch on GitHub](https://github.com/louisremi/touch-devtool) \
@@ -97,8 +93,6 @@ Simulate touch events (swipe, rotate, pinch) with a mouse.
 On click, every focusable element will receive a red border, so you can see where the keyboard cursor is.
 *   [What has focus?](https://codepen.io/svinkle/pen/WgYRxq) on Codepen (MIT Licence) \
 When something receives keyboard focus via Tab key, the current element will be logged to the JavaScript console so you can determine which element currently has focus.
-*   [Visual ARIA Bookmarklet](https://accdc.github.io/visual-aria/github-bookmarklet/visual-aria.htm) - [Visual ARIA on GitHub](https://github.com/accdc/visual-aria) \
-Watch ARIA usage within web technologies, including ARIA 1.1 structural, live region, and widget roles, as well as help with nesting and focus management.
 *   [Reading Order Bookmarklet](https://adrianroselli.com/2019/04/reading-order-bookmarklet.html) \
 Running this bookmarklet will visually number the reading order in which screen-reading software will announce different parts of the page, to check to see that it matches the visual order (up to down, left to right).
 *   [Accessibility and Contrast Bookmarklet](https://ada.is/blog/2016/02/12/contrast-bookmarklet/) - [Contrast Bookmarklet on GitHub](https://github.com/AdaRoseCannon/contrast-widget) \
@@ -201,7 +195,6 @@ Color blindness simulator for Windows, Mac, and Linux.
 ### Parsing/manipulating PDFs (not a11y-focused)
 
 *   [PDF Parser](https://www.pdfparser.org/)
-*   [PyPDF2](https://pythonhosted.org/PyPDF2/index.html)
 
 ## Other lists of tools {#other-lists-of-tools}
 
