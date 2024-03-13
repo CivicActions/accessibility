@@ -23,7 +23,7 @@ They are also investing in prevention by participating in and leading initiative
 
 While we have yet to uniformly implement global accessibility standards, the European Commission strategy has started working more closely with the W3C's Web Accessibility Initiative (WAI) to implement best practices.
 
-[A handful of organizations are sponsoring WAI projects](https://www.w3.org/WAI/about/sponsoring/). The European Commission is giving substantial contributions to the [authoritative guide (the WAI-Guide)](https://ec.europa.eu/digital-single-market/en/content/wai-guide) for scalable assessments. This public-facing work both contributes to the practice of open government, and ensures that the tools they develop can be maintained by a broader community.
+[A handful of organizations are sponsoring WAI projects](https://www.w3.org/WAI/about/sponsoring/). This public-facing work both contributes to the practice of open government, and ensures that the tools they develop can be maintained by a broader community.
 
 ## Checklist
 
