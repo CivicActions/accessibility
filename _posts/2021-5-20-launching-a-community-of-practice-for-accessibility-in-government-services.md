@@ -73,7 +73,7 @@ scanning/) on their website.
 
 We're also talking about:
 
-  * Why we need [accessibility compliance as code](https://gcn.com/articles/2021/02/04/accessibility-compliance-as-code.aspx)
+  * Why we need [accessibility compliance as code](https://web.archive.org/web/20210204213719/https://gcn.com/articles/2021/02/04/accessibility-compliance-as-code.aspx)
   * How to [integrate accessibility early](https://www.smashingmagazine.com/2021/04/bake-layers-accessibility-testing-process/) and throughout your process
   * Why [anchor links are a must for government agencies](https://github.com/CivicActions/accessibility/issues/261)
   * How to run [automated testing on your GitHub-hosted Jekyll site](https://accessibility.civicactions.com/posts/automated-accessibility-testing-leveraging-github-actions-and-pa11y-ci-with-axe)
