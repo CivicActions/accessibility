@@ -202,7 +202,7 @@ As noted in our [playbook for automated testing](/playbook/automated-testing):
   * [The Pa11y website](https://github.com/pa11y/pa11y.github.io) uses Travis CI and pa11y-ci.
   * The [18F Accessibility Guide](https://github.com/18F/accessibility) uses CircleCI and axe.
 
-Thank you to [Melinda Burgess](https://civicactions.com/team/melinda-burgess), [Luke Fretwell](/about/people/luke-fretwell), and [Mike Gifford](/about/people/mike-gifford) for your support, thoughts, and feedback.
+Thank you to Melinda Burgess, Luke Fretwell, and Mike Gifford for your support, thoughts, and feedback.
 
 ## What about GitLab?
 
