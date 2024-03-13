@@ -79,16 +79,12 @@ Extremely flexible and popular testing suite from Google that can be run directl
 Tools from IBM that can automate accessibility testing from a browser, or when added to a continuous integration environment.
 *   [Explore ARIA Landmarks Browser Extension](http://matatk.agrip.org.uk/landmarks/) - [Landmarks on GitHub](https://github.com/matatk/landmarks) \
 Browser extension that allows you to navigate a web page via WAI-ARIA landmarks, using the keyboard or a pop-up menu.
-*   [Tota11y by Khan Academy](https://khan.github.io/tota11y/) - [Tota11y on GitHub](https://github.com/Khan/tota11y) A single JavaScript file that \
-inserts a small button in the bottom corner of your document with information about accessibility errors on the page.
 *   [Firefox AInspector WCAG](https://addons.mozilla.org/en-US/firefox/addon/ainspector-wcag/) - A Firefox Add-on that addresses accessibility compliance \
 using OpenAjax Alliance rulesets. 
 *   [Qualweb](http://qualweb.di.fc.ul.pt/evaluator/) - [Qualweb on GitHub](https://github.com/qualweb) - A set of tools that are being built to align with the W3C's ACT ruleset.
 
 ## Bookmarklets {#bookmarklets}
 
-*   [Tota11y](https://khan.github.io/tota11y/) - [Tota11y on GitHub](https://github.com/Khan/tota11y) \
-From the people at Khan Academy, tota11y is typically used as a browser bookmarklet that helps visualize how your site performs with assistive technologies.
 *   [ANDI by SSA.gov](https://www.ssa.gov/accessibility/andi/) - [ANDI on GitHub](https://github.com/SSAgov/ANDI) \
 A free accessibility testing tool that offers detection of problems and shows what a screen reader should say for interactive elements. It also gives realistic recommendations to improve accessibility, and checks 508 compliance.
 *   [Touch Bookmarklet](https://louisremi.github.io/touch-devtool/) - [Touch on GitHub](https://github.com/louisremi/touch-devtool) \
