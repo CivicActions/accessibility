@@ -15,8 +15,6 @@ and people around the world organize events to raise awareness about digital acc
 2020 was the 10th anniversary, and also the launch of the [GAAD Foundation](https://gaad.foundation/). 
 
 I represented Drupal in [Funka's We4Authors Accessibility Cluster](https://accessibilitycluster.com/). Yesterday, [Funka](https://www.funka.com/) organized a pre-GAAD event to highlight the importance of authoring tools.
-[Authoring tools with built-in accessibility!](https://accessibilitycluster.com/main-results/pre-gaad-event-19-may-2021-at-13:00-16:00-cet---authoring-tools-with-built-in-accessibility! 
-) was a wonderful success with over hundred participants from over 35 countries around the world. 
 
 The We4Authors Cluster is a multi-CMS (Content Management System) group that is working to better support authors. Authors need to be subject matter experts, not accessibility experts, and CMS tools can help make their job easier. It should be simple for everyone to produce accessible content. For folks familiar with the W3C's Web Accessibility Initiative, it is essentially
 looking at implementing [Authoring Tool Accessibility Guidelines (ATAG) 2.0 - Part B](https://www.w3.org/TR/ATAG20/#part_b). By bringing together leaders in CMS solutions that are popular with governments in the 
