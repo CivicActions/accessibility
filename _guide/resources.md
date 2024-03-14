@@ -20,7 +20,7 @@ General and digital-specific accessibility books we recommend.
 *   [Agile Accessibility Explained](https://www.amazon.com/Agile-Accessibility-Explained-sustainable-development/dp/1689182733/ref=sr_1_2?dchild=1&keywords=Agile+Accessibility+Explained&qid=1615337578&sr=8-2) Dylan Anthony Barrell
 *   [Design for Real Life](https://abookapart.com/products/design-for-real-life) - Sara Wachter-Boettcher and Eric Meyer
 *   [Designing Connected Content: Plan and Model Digital Products for Today and Tomorrow](https://www.amazon.com/Designing-Connected-Content-Products-Tomorrow/dp/0134763386) - Mike Atherton
-*   [End of Average](http://www.toddrose.com/endofaverage) - Todd Rose
+*   [End of Average](https://www.toddrose.com/endofaverage) - Todd Rose
 *   [Inclusive Design for a Digital World: Designing with Accessibility in Mind](https://www.amazon.com/Inclusive-Design-Digital-World-Accessibility/dp/148425015X) - Regine M. Gilbert
 *   [Inclusive Design Patterns](https://www.amazon.com/Inclusive-Design-Patterns-Heydon-Pickering-ebook/dp/B01MAXK8XR) - Heydon Pickering
 *   [Mismatch: How Inclusion Shapes Design](https://mitpress.mit.edu/books/mismatch) - Kat Holmes
@@ -42,7 +42,7 @@ General and digital-specific accessibility books we recommend.
 *   [A11yweekly.com](https://a11yweekly.com/) by David A. Kennedy
 *   [Accessibility Matters Newsletter](https://www.accessibilityassociation.org/content.asp?contentid=167) - by the IAAP
 *   [Microassist's Accessibility in the News](https://www.microassist.com/digital-access/news/) -  by Jack McElaney
-*   More available from [WebAxe who maintains a terrific list](http://www.webaxe.org/digital-accessibility-newsletters/)
+*   More available from [WebAxe who maintains a terrific list](https://www.webaxe.org/digital-accessibility-newsletters/)
 
 
 ## Podcasts {#podcasts}
