@@ -13,7 +13,7 @@ Digital accessibility tools.
 
 ## Authoring {#authoring}
 
-*   [A11yFirst for CKEditor](http://a11yfirst.web.illinois.edu/) - [Accessibility First on GitHub](https://github.com/a11yfirst/distribution) \
+*   [A11yFirst for CKEditor](https://a11yfirst.web.illinois.edu/) - [Accessibility First on GitHub](https://github.com/a11yfirst/distribution) \
 Series of plugins for supporting a11y best practices within the WYSIWYG editor, CKEditor.
 *   [Sa11y, the accessibility quality
 assurance assistant](https://sa11y.netlify.app/) \
@@ -26,7 +26,7 @@ A plugin for [retext](https://github.com/retext-project/retext) that scans text 
 Another plugin for [retext](https://github.com/retext-project/retext) that checks text content for possible insensitive, inconsiderate language.
 *   [Zettlr: Markdown Editor](https://www.zettlr.com/) - [Zettlr on GitHub](https://github.com/Zettlr/Zettlr) \
 Open source Markdown editor that simplifies the content creation experience by avoiding the clutter seen in many common word processing solutions.
-*   [Drupal](http://drupal.org/) is a very accessible CMS and [these modules can enhance its accessibility](https://accessibility.civicactions.com/guide/resources#drupal-accessibility-modules)
+*   [Drupal](https://drupal.org/) is a very accessible CMS and [these modules can enhance its accessibility](https://accessibility.civicactions.com/guide/resources#drupal-accessibility-modules)
 *   [ATOM Plugin - web-accessibility-checker package](https://atom.io/packages/web-accessibility-checker) An accessibility \
 Plugin for the popular open source ATOM Editor from GitHub.
 
@@ -77,11 +77,11 @@ This tool runs a set of tests against a set of URLs to verify whether each one m
 Extremely flexible and popular testing suite from Google that can be run directly on pages, from the command line, or as a Node module.
 *   [IBM Equal Access Toolkit](https://www.ibm.com/able/toolkit/) - [equal-access on GitHub](https://github.com/IBMa/equal-access) \
 Tools from IBM that can automate accessibility testing from a browser, or when added to a continuous integration environment.
-*   [Explore ARIA Landmarks Browser Extension](http://matatk.agrip.org.uk/landmarks/) - [Landmarks on GitHub](https://github.com/matatk/landmarks) \
+*   [Explore ARIA Landmarks Browser Extension](https://matatk.agrip.org.uk/landmarks/) - [Landmarks on GitHub](https://github.com/matatk/landmarks) \
 Browser extension that allows you to navigate a web page via WAI-ARIA landmarks, using the keyboard or a pop-up menu.
 *   [Firefox AInspector WCAG](https://addons.mozilla.org/en-US/firefox/addon/ainspector-wcag/) - A Firefox Add-on that addresses accessibility compliance \
 using OpenAjax Alliance rulesets. 
-*   [Qualweb](http://qualweb.di.fc.ul.pt/evaluator/) - [Qualweb on GitHub](https://github.com/qualweb) - A set of tools that are being built to align with the W3C's ACT ruleset.
+*   [Qualweb](https://qualweb.di.fc.ul.pt/evaluator/) - [Qualweb on GitHub](https://github.com/qualweb) - A set of tools that are being built to align with the W3C's ACT ruleset.
 
 ## Bookmarklets {#bookmarklets}
 
@@ -110,7 +110,7 @@ Evaluate WAI-ARIA according to the [ARIA in HTML](https://www.w3.org/TR/html-ari
 Allows for testing of contrast of text on top of a semi transparent background.
 *   [Contrast Checker](https://contrast-checker.glitch.me/) - [Contrast Checker on Glitch](https://glitch.com/edit/#!/contrast-checker?path=server.js%3A1%3A0)
 *   [ButtonBuddy](https://buttonbuddy.dev/) - [ButtonBuddy on GitHub](https://github.com/5t3ph/buttonbuddy)
-*   [ACD (Previously ColorCube)](http://accessiblecolor.design) - [ColorCube on GitHub](https://github.com/oomphinc/colorcube)
+*   [ACD (Previously ColorCube)](https://accessiblecolor.design) - [ColorCube on GitHub](https://github.com/oomphinc/colorcube)
 *   [LeonardoColor.io](https://leonardocolor.io/#)  - [Leonardo on GitHub](https://github.com/adobe/leonardo)
 *   [Colour Contrast Checker](https://colourcontrast.cc) - [Colour Contrast Checker on GitHub](https://github.com/Pushedskydiver/Colour-Contrast-Checker)
 *   [Who Can Use](https://whocanuse.com/) - [Who Can Use on GitHub](https://github.com/CoreyGinnivan/whocanuse)
@@ -169,13 +169,11 @@ Testing with [Nightwatch](https://nightwatchjs.org/) on GitHub
 Simulates color blindness, low vision, dyslexia and more.
 *   [Funkify Chrome Extension](https://www.funkify.org/) \
 Not open source, but a free version is available which simulates dyslexia and cognitive/motor/vision conditions.
-*   [ChromeLens Extension](http://chromelens.xyz/) - [ChromeLens on GitHub](https://github.com/chromelens/chromelens) \
-Chrome extension that offers vision simulators, testing, and a tab focus order visualizer.
 *   [Sim Daltonism](https://michelf.ca/projects/sim-daltonism/) - [sim-daltonism on GitHub](https://github.com/michelf/sim-daltonism/) \
 iOS/Mac app that lets you visualize colors as they are perceived with various types of color blindness.
 *   [A11Y: Color blindness empathy test](https://vinceumo.github.io/A11Y-Color-Blindness-Empathy-Test/) [on GitHub](https://github.com/vinceumo/A11Y-Color-Blindness-Empathy-Test-browser-extensions)
 Chrome/Firefox extension and a web-based tool created to help designers and developers better understand color blindness and visual imparity.
-*   [Color Oracle](http://colororacle.org/) - [Oracle-Mac on GitHub](https://github.com/nvkelso/color-oracle) & [Oracle-Windows on GitHub](https://github.com/nvkelso/color-oracle-java) \
+*   [Color Oracle](https://colororacle.org/) - [Oracle-Mac on GitHub](https://github.com/nvkelso/color-oracle) & [Oracle-Windows on GitHub](https://github.com/nvkelso/color-oracle-java) \
 Color blindness simulator for Windows, Mac, and Linux.
 
 ## EPUB3 {#epub}
