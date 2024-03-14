@@ -31,7 +31,7 @@ One could also look to use a tool like WebAim's WAVE, ANDI, or Tota11y to scan a
     * See if the alt text effectively describes the images on the page.
     * Ensure that there is sufficient color contrast.
 * Do keyboard only testing (using just tab, shift-tab, arrow keys & escape) to navigate the page.
-* Evaluate page for plain language using free tools like the [HemingwayApp](http://www.hemingwayapp.com/).
+* Evaluate page for plain language using free tools like the [HemingwayApp](https://www.hemingwayapp.com/).
 * Magnify the page up to 200% and look for usability and readability issues.
 
 There are lots of checklists, rotating through a few of them will help give different people different things to think about accessibility:
