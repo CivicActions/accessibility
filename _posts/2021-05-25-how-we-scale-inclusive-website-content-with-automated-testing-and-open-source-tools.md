@@ -169,4 +169,4 @@ You should keep tweaking the tools and double-check your content to make sure it
   * [Readability Check](https://marketplace.visualstudio.com/items?itemName=jemcclin.readabilitycheck).
   * [status-stats-jbrains package](https://atom.io/packages/status-stats-jbrains).
 
-Thank you to [Michelle Kang](/about/people/michelle-kang), [Marlena Medford](https://civicactions.com/team/marlena-medford), [Luke Fretwell](/about/people/luke-fretwell), and [Mike Gifford](/about/people/mike-gifford) for your support, thoughts, and feedback.
+Thank you to Michelle Kang, Marlena Medford, Luke Fretwell, and Mike Gifford for your support, thoughts, and feedback.
