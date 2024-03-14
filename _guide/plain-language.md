@@ -68,7 +68,7 @@ Use bulleted lists to make content easy to scan. Remember: website users don't r
 
 ### Test your content with a readability tool
 
-Always run your content through a readability tool. You can use  [Hemingway App](http://www.hemingwayapp.com/), [Readable.io](https://readable.io/), or [turn on Flesch-Kincaid](https://support.microsoft.com/en-us/topic/get-your-document-s-readability-and-level-statistics-85b4969e-e80a-4777-8dd3-f7fc3c8b3fd2) if editing in Microsoft Word.  Try to get the reading grade level lower than 8th grade. Before using the tool, remember to remove:
+Always run your content through a readability tool. You can use  [Hemingway App](https://www.hemingwayapp.com/), [Readable.io](https://readable.io/), or [turn on Flesch-Kincaid](https://support.microsoft.com/en-us/topic/get-your-document-s-readability-and-level-statistics-85b4969e-e80a-4777-8dd3-f7fc3c8b3fd2) if editing in Microsoft Word.  Try to get the reading grade level lower than 8th grade. Before using the tool, remember to remove:
 
 * proper nouns
 * titles 
