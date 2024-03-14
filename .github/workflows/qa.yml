@@ -23,12 +23,12 @@ jobs:
       - name: Install jekyll site dependencies.
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: 2.6
+          ruby-version: 3.3
           bundler-cache: true
 
       - name: Build jekyll site.
         run: bundle exec jekyll build
-        
+
       - name: Replace contents of robots.txt.
         uses: jacobtomlinson/gha-find-replace@master
         with:
