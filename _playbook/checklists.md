@@ -43,7 +43,7 @@ There are lots of checklists, rotating through a few of them will help give diff
 * [Elsevier's WCAG 2.1 Checklist](https://romeo.elsevier.com/accessibility_checklist/)
 * [A11yProject](https://www.a11yproject.com/checklist/)
 * [Heydon Works](https://github.com/Heydon/inclusive-design-checklist)
-* [VoxMedia](http://accessibility.voxmedia.com/)
+* [VoxMedia](https://accessibility.voxmedia.com/)
 * [PSU](https://accessibility.psu.edu/checklist/)
 * [Yale](https://usability.yale.edu/web-accessibility/articles/wcag2-checklist)
 * [University of Washington](https://www.washington.edu/accessibility/checklist/)
