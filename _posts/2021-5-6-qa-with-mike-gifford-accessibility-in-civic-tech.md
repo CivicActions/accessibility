@@ -4,7 +4,7 @@ title: "Q&A with Mike Gifford: Accessibility in civic tech"
 date: 2021-5-6 08:00:00 -0800
 author: allison-carroll
 ---
-[_Mike Gifford_](https://civicactions.com/team/mike-gifford) _is a Senior
+_Mike Gifford_ _is a Senior
 Strategist at CivicActions, a_ [_Drupal_](https://www.drupal.org/u/mgifford)
 _core maintainer, and accessibility advocate. He's passionate about changing
 the conversation around accessibility in civic tech by moving beyond
