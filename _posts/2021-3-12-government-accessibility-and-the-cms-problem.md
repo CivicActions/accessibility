@@ -60,7 +60,7 @@ widespread.
 
  **Resources**
 
-  * [Presentation Slide Deck](https://docs.google.com/presentation/d/1S_K8VcxJ6_IQJ1dT4YJmq3GsMkWAkCU7kavImugu3KI/edit#slide=id.ga784c5ac4b_0_358)
+  * [Presentation Slide Deck](https://docs.google.com/presentation/d/1S_K8VcxJ6_IQJ1dT4YJmq3GsMkWAkCU7kavImugu3KI)
   * [Presentation Overview](https://events.drupal.org/europe2020/sessions/top-cms-tools-are-working-together-build-more-inclusive-world)
   * [We4Authors](https://accessibilitycluster.com/)
   * [About Funka](https://www.funka.com/en/about-funka2/)

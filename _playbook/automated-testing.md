@@ -31,7 +31,7 @@ Government Digital Services in both the [United Kingdom](https://github.com/alph
 However, it is important to note that, no matter the tool, [automated testing only catches about one third of accessibility issues](https://alphagov.github.io/accessibility-tool-audit/), so it cannot be relied upon to determine if a site complies. To better ensure that their digital tools are accessible to keyboard-only and assistive technology users, automated tests need to be done along with a robust manual testing plan.
 
 List of popular automated testing tools
-* [Wave](http://wave.webaim.org/extension/)
+* [Wave](https://wave.webaim.org/extension/)
 * [Tenon](https://tenon.io/)
 * [SiteImprove](https://chrome.google.com/webstore/detail/siteimprove-browser-exten/amoojkmllfodlpgmdnclkgdnejgpeada)
 * [See more tools in our guide](/guide/tools)

@@ -56,7 +56,7 @@ We've taken these lists, added other roles that we didn't see included and inclu
 ## Content Author / Writer
 * See: [USA: Accessibility for content designers](https://accessibility.digital.gov/content-design/getting-started/)
 * W3C WAI - [ARRM Project: Accessibility Roles and Responsibilities Mapping](https://www.w3.org/WAI/EO/wiki/Content_Author_Responsibilities_Mapping).
-* **Tools:** [Sa11y](https://ryersondmp.github.io/sa11y/), [Editoria11y](https://itmaybejj.github.io/editoria11y/), [retextjs](https://github.com/retextjs) and [HemingwayApp](http://www.hemingwayapp.com/)
+* **Tools:** [Sa11y](https://ryersondmp.github.io/sa11y/), [Editoria11y](https://itmaybejj.github.io/editoria11y/), [retextjs](https://github.com/retextjs) and [HemingwayApp](https://www.hemingwayapp.com/)
 * Checklist:
     * Does the content meet your readability target?
     * Are there any [unusual words](https://www.w3.org/WAI/WCAG21/quickref/?versions=2.0#unusual-words) to watch for?

@@ -159,7 +159,7 @@ started](https://www.microassist.com/digital-accessibility/the-value-of-
 digital-accessibility-statements-a-checklist-for-getting-started/).
 
 The W3C has an [accessibility statement
-generator](https://www.w3.org/WAI/planning/statements/generator/#create) which
+generator](https://www.w3.org/WAI/planning/statements/generator) which
 adds in section for technical information that might help a user better
 navigate the site. [Disability:IN](https://disabilityin.org/resource/digital-
 accessibility-statement-best-practices/) and the UK's [Government Digital
