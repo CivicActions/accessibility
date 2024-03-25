@@ -13,7 +13,7 @@
     "pa11y-ci:home": "pa11y-ci http://127.0.0.1:4000",
     "pa11y-ci:sitemap": "pa11y-ci --sitemap http://127.0.0.1:4000/sitemap.xml --sitemap-find https://accessibility.civicactions.com --sitemap-replace http://127.0.0.1:4000 --sitemap-exclude \"/*.pdf\"",
     "cypress-tests": "cypress run --browser chrome --headless",
-    "link-checker": "bundle exec htmlproofer --ignore-status-codes \"999,429,403,302,0\" --ignore-urls \"/fonts.gstatic.com/\" ./_site"
+    "link-checker": "bundle exec htmlproofer --ignore-status-codes \"999,429,403,302,0\" --ignore-urls \"/fonts.gstatic.com/\" --ignore_files \"./_site/VPAT/Drupal9AccessibilityConformanceReport-December2020.html\" ./_site"
   },
   "dependencies": {
     "simple-jekyll-search": "^1.9.2"

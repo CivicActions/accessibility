@@ -97,7 +97,7 @@ Automated readability tools won't catch everything. You'll need to test your con
 
 ## Find a plain language tool
 
-* [Hemingway App](http://www.hemingwayapp.com/)
+* [Hemingway App](https://www.hemingwayapp.com/)
 * [Readable.io](https://readable.io/)
 * [Flesch-Kincaid](https://support.microsoft.com/en-us/topic/get-your-document-s-readability-and-level-statistics-85b4969e-e80a-4777-8dd3-f7fc3c8b3fd2) (available in tools like Microsoft Word)
 * [OpenAdvocate WriteClearly](https://www.openadvocate.org/writeclearly/) - [OpenAdvocate on GitHub](https://github.com/openadvocate/writeclearly-server)
