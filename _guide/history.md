@@ -40,8 +40,6 @@ Additionally, since the WCAG process requires a great deal of negotiation—the 
 
 Rather than guidelines based on specific accommodations for particular disabilities, the W3C's Web Accessibility Initiative (WAI) settled on four key principles—known by the acronym POUR—which have guided digital accessibility. To be accessible, digital content must be:
 
-
-
 *   Perceivable: users must be able to perceive the information being presented
 *   Operable: users must be able to operate the interface
 *   Understandable: users must be able to understand the information as well as the operation of the user interface
