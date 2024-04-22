@@ -102,19 +102,12 @@ Automated readability tools won't catch everything. You'll need to test your con
 * [Flesch-Kincaid](https://support.microsoft.com/en-us/topic/get-your-document-s-readability-and-level-statistics-85b4969e-e80a-4777-8dd3-f7fc3c8b3fd2) (available in tools like Microsoft Word)
 * [OpenAdvocate WriteClearly](https://www.openadvocate.org/writeclearly/) - [OpenAdvocate on GitHub](https://github.com/openadvocate/writeclearly-server)
 
-## Get trained in plain language 
-
-The Center for Plain Language offers training for federal employees. You can take:
-
-* An [introductory class](https://www.plainlanguage.gov/training/introductory-classes/) to plain language
-* A [bootcamp class](https://www.plainlanguage.gov/training/train-the-trainer-bootcamp/) to become a plain language trainer at your organization
-If you're not a federal employee, you can also find [online training](https://www.plainlanguage.gov/training/online-training/) and look at our resources below.
-
 ## Helpful plain language resources 
 
 ### Guides
 
 * [USA Federal plain language guidelines](https://www.plainlanguage.gov/guidelines/)
+* [USA Federal online training resources](https://www.plainlanguage.gov/training/online-training/)
 * [USDS: Guide to accessibility for teams](https://accessibility.digital.gov/content-design/plain-language/)
 * [California.gov Content Style Guide: Write in Plain Language](https://designsystem.webstandards.ca.gov/style/content/write-in-plain-language/)
 * [South Australia: Steps to make your content plain language](https://www.accessibility.sa.gov.au/your-role/content/plain-language)
