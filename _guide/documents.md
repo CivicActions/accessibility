@@ -19,6 +19,7 @@ For Microsoft Word/Powerpoint, portable document formats and electronic publicat
 *   [Why GOV.UK content should be published in HTML and not PDF](https://gds.blog.gov.uk/2018/07/16/why-gov-uk-content-should-be-published-in-html-and-not-pdf/) (UK Government Digital Service)
 *   [Gov.uk: Publishing accessible documents](https://www.gov.uk/guidance/publishing-accessible-documents) (UK Government Digital Service)
 *   [Canada.ca: Digital Accessibility Toolkit](https://a11y.canada.ca/en/guides/)
+*   [Worcestershire County Council: SCULPT for Accessibility](https://www.worcestershire.gov.uk/council-services/business/digital-worcestershire/sculpt-accessibility)
 
 ## Other
 *   [Toronto Metropolitan University: How to Create Accessible Documents](https://www.ryerson.ca/accessibility/guides-resources/accessible-documents/) and [Understanding Document Accessibility](https://de.ryerson.ca/wa/documents/)
