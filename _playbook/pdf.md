@@ -31,7 +31,7 @@ Visit [Creating Accessible Documents](/playbook/documents).
 
 ## Checklist
 
-* Check that the PDFs are accessible prior to allowing them to be posted to the website (ideally with a tool like the [CommonLook PDF Validator](https://commonlook.com/best-pdf-validator-is-free-for-everyone/)).
+* Check that the PDFs are accessible prior to allowing them to be posted to the website (ideally with a tool like the [CommonLook PDF Validator](https://allyant.com/commonlook-accessibility-suite/cl-pdf-validator/)).
 * Track source files, so that additional improvements can be made, if barriers are identified.
 * Encourage teams to build documents in HTML first.
 * Test PDFs with assistive technology.
