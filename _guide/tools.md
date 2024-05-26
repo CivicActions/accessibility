@@ -56,8 +56,8 @@ An automated testing tool designed to teach people about universal design. Tests
 A collection of reporting tools that run on Amazon's S3 infrastructure. Geared to crawl a large number of webpages, like Gov.uk.
 *   [Pa11y](https://pa11y.org/) - [Pa11y on GitHub](https://github.com/pa11y) \
 A popular command-line interface which loads web pages and highlights any accessibility issues it finds. The Pa11y family of applications includes a [Dashboard](https://github.com/pa11y/dashboard) for monitoring several projects' a11y issues, as well as [continuous integration](https://github.com/pa11y/pa11y-ci) (CI) abilities.
-*   [purple-hats by Government Digital Services, Singapore](https://github.com/GovTechSG/purple-hats) on GitHub \
-Powered by [axe](https://github.com/dequelabs/axe-core), purple-hats is a customisable, automated accessibility testing tool.
+*   [Purple A11y by Government Digital Services, Singapore](https://github.com/GovTechSG/purple-a11y) and [Purple A11y Desktop](https://github.com/GovTechSG/purple-a11y-desktop) on GitHub \
+Powered by [axe](https://github.com/dequelabs/axe-core), Purple A11y (previously Purple Hats) is a customisable, automated accessibility testing tool.
 * [Unlighthouse](https://unlighthouse.dev/) on [Unlighthouse on GitHub](https://github.com/harlan-zw/unlighthouse), helps you crawl your site with Google Lighthouse. 
 
 ## Page level evaluation {#page-level-evaluation}
