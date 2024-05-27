@@ -9,7 +9,7 @@ jobs:
 
     steps:
       - name: Checkout source.
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
 
       - name: Install jekyll site dependencies.
         uses: ruby/setup-ruby@v1
@@ -23,7 +23,7 @@ jobs:
       - name: Start up jekyll server.
         run: bundle exec jekyll serve --detach -c _config.yml,_config_local.yml
 
-      - uses: a11ywatch/github-action@v2.0.0
+      - uses: a11ywatch/github-action@v2.1.10
         with:
           WEBSITE_URL: http://localhost:4000
           SITE_WIDE: true
