@@ -19,4 +19,4 @@ external: false
 
 ---
 
-Daniel Mundra is a team member of CivicActions Accessibility. He works with co-workers on improving how accessibility testing is included in our projects and community. He setup automated testing on the CivicActions Accessibility website using Pa11y CI, cypress, axe, and GitHub actions. He advocates for automated testing and also shares solutions with colleagues outside of CivicActions for example [the General Services Administration’s 18F team](https://guides.18f.gov/engineering/tools/accessibility-scanning/).
+Daniel Mundra is a team member of CivicActions Accessibility. He works with co-workers on improving how accessibility testing is included in our projects and community. He setup automated testing on the CivicActions Accessibility website using Pa11y CI, cypress, axe, and GitHub actions. He advocates for automated testing and also shares solutions with colleagues outside of CivicActions for example [the General Services Administration's 18F team](https://guides.18f.gov/engineering/tools/accessibility-scanning/).
