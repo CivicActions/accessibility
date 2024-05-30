@@ -17,7 +17,7 @@ Automated testing can occur at different layers of the process of creating digit
 * Developers can run automated checks as part of their continuous integration (CI) process
 * Everyone can look at the accessibility of a single page
 * Editors can be given accessibility issues within a WYSIWYG editor
-* Whole websites can now be easily crawled for bugs
+* Whole websites can now be regularly crawled for bugs
 * Designers can evaluate problems with contrast issues in their designs
 
 All of this is now possible with a range of proprietary and open source tools. With the rapid development of automated testing, there are now multiple options to gather information on a single website—or an entire government.
@@ -29,7 +29,7 @@ All of this is now possible with a range of proprietary and open source tools. W
 * Continuous Integration tests incorporate accessibility tools like axe and errors block commits.
 * Patterns and pages are regularly reviewed to see that they test patterns available to authors.
 * Site-wide scans are used to track errors over time and catch both common and weird issues.
-* Creators of digital content all have some browser extension that allows them to quickly evaluate page-level accessibility.
+* Creators of digital content all have some browser extension to quickly evaluate page-level accessibility.
 
 ### Key questions
 
@@ -53,7 +53,7 @@ However, it is important to note that, no matter the tool, [automated testing on
 
 ## CivicActions Approach
 
-Currently CivicActions uses the following approaches that open source.
+Currently CivicActions uses the following approaches that are open source.
 
 ### Pa11y CI
 
@@ -74,4 +74,4 @@ Take a look at [Setting up Cypress with axe for accessibility](https://timdeschr
 * [Wave](https://wave.webaim.org/extension/)
 * [Tenon](https://tenon.io/)
 * [SiteImprove](https://chrome.google.com/webstore/detail/siteimprove-browser-exten/amoojkmllfodlpgmdnclkgdnejgpeada)
-* [See more tools in our guide](/guide/tools)
+* [See more tools on our dedicated tools page](/guide/tools)
