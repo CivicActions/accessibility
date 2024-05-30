@@ -16,10 +16,6 @@ The pa11y-ci commands can also be run locally to generate the same test results:
 
 Run remark-lint with reviewdog on pull requests to check for readibility and other text checks.
 
-## pre-commit.yml
-
-Run pre-commit hooks to clean up site based on configurations in .pre-commit-config.yaml include searching and replacing smart quotes defined in .pre-commit-search-and-replace.yaml.
-
 ## backlog-issues.yml
 
 Automatically place new/reopened issues in to the project board.
