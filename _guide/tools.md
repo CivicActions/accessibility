@@ -50,8 +50,6 @@ Orca is a free, open source, flexible, and extensible screen reader that provide
 Highly-configurable bbc-a11y runs a set of tests against a set of URLs to verify whether each one meets the [BBC accessibility guidelines](https://www.bbc.co.uk/accessibility/forproducts/guides/mobile/).
 *   [Domain Accessibility Audit by MSU College of Natural Science](https://github.com/MSU-NatSci/DomainAccessibilityAudit) on GitHub \
 This web application automatically crawls websites, checks for accessibility violations, and is based on [axe](https://github.com/dequelabs/axe-core).
-*   [Functional Accessibility Evaluator](https://fae.disability.illinois.edu/) on [GitHub](https://github.com/opena11y/fae2) \
-An automated testing tool designed to teach people about universal design. Tests involve multiple manual tests. 
 *   [GOV.UK Accessibility Reports](https://github.com/alphagov/govuk-accessibility-reports#govuk-accessibility-reports) on GitHub \
 A collection of reporting tools that run on Amazon's S3 infrastructure. Geared to crawl a large number of webpages, like Gov.uk.
 *   [Pa11y](https://pa11y.org/) - [Pa11y on GitHub](https://github.com/pa11y) \
