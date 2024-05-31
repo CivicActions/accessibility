@@ -30,10 +30,6 @@ This pipeline requires a personal access token or organizational one with the ke
 
 Run Cypress tests with Axe to check accessibility of the site with axe by interacting with the menu, search, and with different screen sizes.
 
-## a11ywatch.yml
-
-Run a11ywatch GitHub action to check accessibility of the site.
-
 ## accessibility-alt-text-bot.yml
 
 This action reminds users to add a meaningful alternative text to their images.
@@ -41,6 +37,10 @@ This action reminds users to add a meaningful alternative text to their images.
 ## link-check.yml
 
 This action checks content links for issues using https://github.com/gjtorikian/html-proofer.
+
+## auto-update.yml
+
+Updating branch that is configured to auto-merge.
 
 # References
 
