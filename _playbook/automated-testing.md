@@ -11,14 +11,33 @@ roles:
 
 ---
 
-Automated testing can occur at different layers of the process of creating digital content. 
-- Developers can run automated checks as part of their continuous integration (CI) process
-- Everyone can look at the accessibility of a single page
-- Editors can be given accessibility issues within a WYSIWYG editor
-- Whole websites can now be easily crawled for bugs 
-- Designers can evaluate problems with contrast issues in their designs
+## Overview
+
+Automated testing can occur at different layers of the process of creating digital content:
+* Developers can run automated checks as part of their continuous integration (CI) process
+* Everyone can look at the accessibility of a single page
+* Editors can be given accessibility issues within a WYSIWYG editor
+* Whole websites can now be regularly crawled for bugs
+* Designers can evaluate problems with contrast issues in their designs
 
 All of this is now possible with a range of proprietary and open source tools. With the rapid development of automated testing, there are now multiple options to gather information on a single website—or an entire government.
+
+## A guide to automated testing
+
+### Checklist
+
+* Continuous Integration tests incorporate accessibility tools like axe and errors block commits.
+* Patterns and pages are regularly reviewed to see that they test patterns available to authors.
+* Site-wide scans are used to track errors over time and catch both common and weird issues.
+* Creators of digital content all have some browser extension to quickly evaluate page-level accessibility.
+
+### Key questions
+
+* Are you using a variety of automated testing tools to help identify potential problems?
+* How are you ensuring that you aren't relying too heavily on automated tests?
+* Have automated processes been set up to optimize use of developer time?
+
+### Use Deque's aXe tool
 
 Deque's [aXe](https://www.deque.com/axe/) has changed the playing field for site reviews. Because of its flexible design, it can be executed from the command line, from within the browser, or even from a WYSIWYG editor. Being executed from the command line means that it is much easier to simply add accessibility checking to any scripts that are being run. It can be appended to a script crawling to ensure security best practices are maintained, or simply added to a continuous integration script.
 
@@ -28,23 +47,19 @@ The Axe accessibility engine is now built into [Google's Lighthouse](https://dev
 
 Government Digital Services in both the [United Kingdom](https://github.com/alphagov/accessibility-monitoring) and [Singapore](https://github.com/GovTechSG/purple-hats) have leveraged Deque's open-source axe-core accessibility engine to create tools that crawl and gather accessibility barriers for both public-facing websites and internal web-based communications. Similar open-source accessibility engines have been built by IBM & Deque, and there are proprietary tools available from firms like WebAim, Tenon & Siteimprove.
 
-However, it is important to note that, no matter the tool, [automated testing only catches about one third of accessibility issues](https://alphagov.github.io/accessibility-tool-audit/), so it cannot be relied upon to determine if a site complies. To better ensure that their digital tools are accessible to keyboard-only and assistive technology users, automated tests need to be done along with a robust manual testing plan.
+### Automated testing caveat 
 
-List of popular automated testing tools
-* [Wave](https://wave.webaim.org/extension/)
-* [Tenon](https://tenon.io/)
-* [SiteImprove](https://chrome.google.com/webstore/detail/siteimprove-browser-exten/amoojkmllfodlpgmdnclkgdnejgpeada)
-* [See more tools in our guide](/guide/tools)
+However, it is important to note that, no matter the tool, [automated testing only catches about one third of accessibility issues](https://alphagov.github.io/accessibility-tool-audit/), so it cannot be relied upon to determine if a site complies. To better ensure that their digital tools are accessible to keyboard-only and assistive technology users, automated tests need to be done along with a robust manual testing plan.
 
 ## CivicActions Approach
 
-Currently CivicActions uses the following approaches.
+Currently CivicActions uses the following approaches that are open source.
 
-### Pa11y-ci
+### Pa11y CI
 
-[Pa11y-ci](https://github.com/pa11y/pa11y-ci) is a continuous integration (CI) runner that can test a few pages or an entire site for accessibility issues. Our projects include pa11y-ci in their CI pipelines and generate reports as artifacts or comments with the results of the testing.
+[Pa11y CI](https://github.com/pa11y/pa11y-ci) is a continuous integration (CI) runner that can test a few pages or an entire site for accessibility issues. Our projects include Pa11y CI in their CI pipelines and generate reports as artifacts or comments with the results of the testing.
 
-We are currently testing this [accessibility site using pa11y-ci](https://github.com/CivicActions/accessibility/tree/main/.github/workflows#pa11yyml) and [we blogged about it](/posts/automated-accessibility-testing-leveraging-github-actions-and-pa11y-ci-with-axe).
+We are currently testing this [accessibility site using Pa11y CI](https://github.com/CivicActions/accessibility/tree/main/.github/workflows#pa11yyml) and [we blogged about it here](/posts/automated-accessibility-testing-leveraging-github-actions-and-pa11y-ci-with-axe) and [on opensource.com](https://opensource.com/article/23/2/automated-accessibility-testing).
 
 Pa11y by default uses the [HTML_CodeSniffer](https://squizlabs.github.io/HTML_CodeSniffer/) accessibility engine, but it is recommended to switch to Pa11y with axe, which is [described in this UK Government Accessibility Manual](https://accessibility-manual.dwp.gov.uk/best-practice/automated-testing-using-axe-core-and-pa11y).  
 
@@ -54,18 +69,9 @@ Pa11y by default uses the [HTML_CodeSniffer](https://squizlabs.github.io/HTML_Co
 
 Take a look at [Setting up Cypress with axe for accessibility](https://timdeschryver.dev/blog/setting-up-cypress-with-axe-for-accessibility) article that illustrates the setup. We have that set up and [running against the accessibility site](https://github.com/CivicActions/accessibility/tree/main/.github/workflows#cypressyml).
 
-## Checklist
+## List of popular automated testing tools
 
-* Continuous Integration tests incorporate accessibility tools like axe and errors block commits.
-* Patterns and pages are regularly reviewed to see that they test patterns available to authors.
-* Site-wide scans are used to track errors over time and catch both common and weird issues.
-* Creators of digital content all have some browser extension that allows them to quickly evaluate page-level accessibility.
-
-## Key questions
-
-* Are you using a variety of automated testing tools to help identify potential problems?
-* How are you ensuring that you aren't relying too heavily on automated tests?
-* Have automated processes been set up to optimize use of developer time?
-
-## See also
-* [How I do automated accessibility testing for my website](https://opensource.com/article/23/2/automated-accessibility-testing) by Daniel Mundra
+* [Wave](https://wave.webaim.org/extension/)
+* [Tenon](https://tenon.io/)
+* [SiteImprove](https://chrome.google.com/webstore/detail/siteimprove-browser-exten/amoojkmllfodlpgmdnclkgdnejgpeada)
+* [See more tools on our dedicated tools page](/guide/tools)
