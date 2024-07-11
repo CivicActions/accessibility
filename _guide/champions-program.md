@@ -173,7 +173,7 @@ Many joined CivicActions because they wanted to work for an impact-driven organi
 * [LinkedIN's Program](https://engineering.linkedin.com/blog/2019/05/scaling-accessibility-through-a11y-champions-program)    
 * Intuit (Quickbooks)
      * [The A11y Global Collective: Scaling Accessibility — Intuit's Accessibility Champions Program (YouTube)](https://www.youtube.com/watch?v=np6sIWUTPlE)
-     * [Intuit's Accessibility Champion Program](https://www.last-child.com/intuits-accessibility-champion-program/)
+     * [Intuit's Accessibility Champion Program](https://web.archive.org/web/20220216065658/https://www.last-child.com/intuits-accessibility-champion-program/)
      * [Lessons Learned from an Intuit Accessibility Champion (Blog)](https://www.intuit.com/blog/innovation/lessons-learned-from-an-intuit-accessibility-champion/)
 * AbilityNet
      * [How to build accessibility into your organisation - BBC Accessibility Champions](https://www.abilitynet.org.uk/news-blogs/how-build-accessibility-your-organisation-bbc-accessibility-champions)
