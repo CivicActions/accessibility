@@ -12,7 +12,7 @@ roles:
 ---
 
 
-When a contractor builds a house, they tend to use standard and expected materials that are appropriate for their purpose—i.e. concrete, wood, shingles, etc. Using standard materials helps to ensure the house is built well. If other materials are used instead, the house might require additional work to achieve the same end result. If the Three Little Pigs have taught us anything, unless it’s reinforced, a house made of straw can’t be expected to withstand strong winds.
+When a contractor builds a house, they tend to use standard and expected materials that are appropriate for their purpose—i.e. concrete, wood, shingles, etc. Using standard materials helps to ensure the house is built well. If other materials are used instead, the house might require additional work to achieve the same end result. If the Three Little Pigs have taught us anything, unless it's reinforced, a house made of straw can't be expected to withstand strong winds.
 
 This same principle is true when building a website—there are standard building blocks for each section, typically referred to as semantic HTML tags. Using these tags gives the resulting website more structure and context than building with other, generic tags. Semantic HTML tags also provide some default accessibility to the page elements that would otherwise need to be reinforced using additional, custom code.
 
@@ -29,7 +29,7 @@ Semantic markup refers to the HTML tags that define the meaning and structure of
 
 There are also other, generic tags such as `<div>` and `<span>` that do not define any meaning and therefore are not considered semantic tags.
 
-Here’s an example of the same element written with and without semantic tags:
+Here's an example of the same element written with and without semantic tags:
 
 **Example 1 - Generic tags:**
 ```
@@ -53,9 +53,9 @@ Here’s an example of the same element written with and without semantic tags:
 </nav>
 ```
 
-In the first example, using generic tags, without the visual of the website itself, it’s hard to clearly understand what the purpose of this code is for. There are 3 links, grouped together but why exactly it’s not clear.
+In the first example, using generic tags, without the visual of the website itself, it's hard to clearly understand what the purpose of this code is for. There are 3 links, grouped together but why exactly it's not clear.
 
-In the second example we clearly see semantic tags for a navigation menu (`<nav>`), containing an unordered list (`<ul>`) with 3 links. There still is no visual but from just the implicit meaning of the tags, it’s understood that the purpose of this code is to provide a navigational list element for the website.
+In the second example we clearly see semantic tags for a navigation menu (`<nav>`), containing an unordered list (`<ul>`) with 3 links. There still is no visual but from just the implicit meaning of the tags, it's understood that the purpose of this code is to provide a navigational list element for the website.
 
 ## Why use semantic HTML?
 Besides providing clear structure and contextual information to your HTML document, semantic tags will also inherit default styles from the user-agent stylesheets. Each browser, or user-agent, provides a basic set of CSS rules that define how semantic HTML elements will visually render. These rules can include underlining links, a larger font-weight for bold text, backgrounds on buttons, etc. By already having basic styles on certain elements, specifying additional CSS is not always needed which can make your work more efficient.
@@ -76,13 +76,13 @@ Using the keyboard, try to tab to the two buttons. Notice that only the first, s
 
 ## Landmarks
 People using assistive technology often navigate a webpage by using the landmarks on a page. However, these sections need to first be identified as such in order for this to be possible. The 7 sections that should be identified on each page are:
-* `role=”banner”`:  Semantic equivalent is `<header>`
-* `role=”navigation”`: Semantic equivalent is `<nav>`
-* `role=”search”`: Semantic equivalent is `<search>`
-* `role=”main”`: Semantic equivalent is `<main>`
-* `role=”complementary”`: Semantic equivalent is `<aside>`
-* `role=”form”`: Semantic equivalent is `<form>`
-* `role=”contentinfo”`: Semantic equivalent is `<footer>`
+* `role="banner"`:  Semantic equivalent is `<header>`
+* `role="navigation"`: Semantic equivalent is `<nav>`
+* `role="search"`: Semantic equivalent is `<search>`
+* `role="main"`: Semantic equivalent is `<main>`
+* `role="complementary"`: Semantic equivalent is `<aside>`
+* `role="form"`: Semantic equivalent is `<form>`
+* `role="contentinfo"`: Semantic equivalent is `<footer>`
 
 Structuring web pages using the equivalent semantic tag rather than the role attribute, means these sections will be identified by default, no landmark role will be forgotten, and the user will be able to clearly understand the structure and layout of the page as well as navigate directly to a particular landmark if they choose.
 
