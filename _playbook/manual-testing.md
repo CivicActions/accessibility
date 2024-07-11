@@ -1,6 +1,6 @@
 ---
 layout: playbook
-title: Do manual testing
+title: How to do manual testing
 description: 
 excerpt: 
 sidenav: docs
@@ -13,33 +13,76 @@ roles:
   - UX designer
 ---
 
-Manual testing is key to any comprehensive accessibility testing plan. We have designed websites in a very mouse-centric way, but there are many people who cannot use a mouse to navigate a site. Although it doesn't catch everything, basic keyboard only testing can catch many problems that automatic testing will miss. 
+A comprehensive accessibility testing plan must include manual testing. As automated testing generally only catches about [20-30% of accessibility errors](https://www.levelaccess.com/blog/automated-accessibility-testing-tools-how-much-do-scans-catch/), without manual testing the majority of issues are going to be missed.
 
-If you need easy steps to get started here are some great resources:
-* [Knowability Keyboard Testing Basics](https://knowbility.org/blog/2018/keyboard-testing-basics/)
-* [WebAIM's Keyboard Testing Guide](https://webaim.org/techniques/keyboard/#testing)
-* [Berkeley's How to do keyboard testing](https://webaccess.berkeley.edu/resources/tips-and-how-tos/how-do-keyboard-testing)
+There are various types of manual testing that can be incorporated into your testing plan, some are easier than others to work in based on resources, expertise, available tools, etc. You can create your testing plan based on what works for you and your team; the most important thing is that some amount of manual testing is consistently part of the process.
 
-Testing should also zoom in so that the page is at least 200% and ideally at 300% with just your browser and not suffer any loss of content or functionality. Just determining if the page still reads well and that navigational elements don't overlap is useful.
 
-Many browsers are now coming out with dark mode and reader mode options. These can be useful for a range of people with disabilities, but also for people looking to optimize their time online. Pages need to be set up properly to access this. 
+## Keyboard testing
 
-It is also useful to test sites with Custom CSS stylesheets & Windows High Contrast Mode to determine if there are any elements which are obscured.
+Keyboard testing can catch a high volume of potential accessibility issues. Keyboard testing can identify if semantic elements were not used—which typically lead to larger issues with other devices. It can also identify if the reading order is incorrect and if there are keyboard traps on the page, among other issues.
 
-## Checklist
+Keyboard testing is easy to do and requires no specific expertise or hardware—other than a keyboard—so this type of  testing can be shared among various project team members. It is one of the most important manual tests that should be included in any testing plan. 
 
-* Keyboard testing is done on the website, and with new patterns as they are added to the site.
-* Testing the tab order to make sure that users can tab through the page in a logical way.
-* Dark mode works effectively, even when forced by a browser extension.
-* Reader mode works.
-* Screen can be magnified 200%.
-* Interactions work with touch interaction (smartphone/tablet).
-* Site works in Windows High Contrast Mode.
-* Confirming that focused elements are visibly different from a default state.
-* Confirming that color is not used to convey meaning and if it does an alternate visual cue is provided.
+**To do keyboard testing:**
+1. Confirm that all interactive elements are available and actionable using the keyboard only.
+   * Use TAB to move forward through the page and SHIFT + TAB to go backwards.
+   * SPACE and ENTER are the most common keys to activate elements but for more custom elements [WebAIM provides a good resource](https://webaim.org/techniques/keyboard/#testing).
+2. Confirm that while tabbing, all interactive elements have a visible focus indicator when receiving focus.
+   * Typically, this is a colored border around the element.
+3. Confirm that while tabbing, the order of tabbing moves logically through the page. It should follow a typical reading order - top to bottom, left to right.
 
-## Key questions
 
-* What are teams doing to see that accessibility is maintained as the site evolves?
-* Do your personas include multiple forms of navigation to ensure that developers are reminded about the variety of ways that users consume content?
-* Does your team have access to an [empathy lab](https://accessibility.blog.gov.uk/2020/11/12/how-we-made-our-accessibility-empathy-lab-virtual/) or a range of devices that they can use for testing?
+## Zoom and resizing
+The purpose of zoom testing is to confirm that at 200% there are no visual or functional issues from the page resizing. It is also important to specifically test text resizing, that it is working as expected.
+
+Zoom testing is another testing type that can be completed without any specialized hardware, software or expertise, making it relatively easy to add to a basic testing plan.
+
+**To test content zoom:**
+1. Set your browser width to 1280 pixels.
+2. Use CTRL + or CMD + to zoom in to 200%.
+3. Confirm that:
+   * You can see each element and all the text that you could previously
+   * You can use and interact with each element (both with keyboard and mouse)
+   * Confirm that horizontal scrolling is not present except for a few exceptions (i.e. data tables, images, charts, etc.)
+
+**To test text resizing:**
+1. Within your browser, update your settings to increase text size.
+   * Chrome: Settings > Appearance > Font size
+   * Firefox: Settings > Language & Appearance > Fonts
+   * Edge: Settings > Appearance > Fonts
+2. Confirm that all text on the page resizes appropriately based on the indicated browser size.
+
+## Contrast and use of color
+The most basic rule in color contrast testing is to confirm that all elements have a contrast ratio of at least 4.5:1 against their background. There are some nuances with this requirement where a lower ratio can pass if necessary, however it is always best to aim higher whenever possible. 
+
+Color use within a page or product should also be evaluated to ensure that it is not the only means of conveying information. This is especially helpful for folks using your product who may be colorblind or have low vision.
+
+While testing color does not require any specific testing tools, there are some available that are helpful and may make testing easier:
+* [Contrast finder](https://app.contrast-finder.org/)
+* [WebAIM Contrast Checker](https://webaim.org/resources/contrastchecker/)
+* [Colorblindly plugin for Chrome](https://chromewebstore.google.com/detail/colorblindly/floniaahmccleoclneebhhmnjgdfijgg?pli=1)
+* Built-in browser rendering for color blindness
+
+**To test color contrast:**
+1. Small text (20px or smaller) has at least a 4.5:1 contrast ratio
+2. Large text (greater than 20px) has at least a 3:1 contrast ratio
+3. Non-text elements have at least a 3:1 contrast ratio to their background and to neighboring elements. For example:
+   * Graphics - sections in a pie chart must meet requirements
+   * UI elements - colors indicating if a checkbox or radio button is selected must meet requirements
+
+**To test use of color:**
+1. Identify all links and confirm that each has an underline.
+2. Identify any data elements (i.e. charts, tables, maps, etc.) and confirm that the information within each is presented with more than just color.
+   * For example, in a table if yes is indicated by coloring a cell green, does it also use another indicator? A checkmark, a pattern, etc.?
+3. Confirm that any instructions given do not refer to color. (e.g. Click the blue button)
+
+
+## Next steps
+When you are ready to learn more, here are some further guides and resources for accessibility testing:
+
+* [Screen reader testing](https://accessibility.civicactions.com/playbook/AT)
+* [Implement automated testing](https://accessibility.civicactions.com/playbook/automated-testing)
+* [Additional Tools](https://accessibility.civicactions.com/guide/tools)
+
+
