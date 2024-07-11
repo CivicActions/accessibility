@@ -72,7 +72,7 @@ Using the keyboard, try to tab to the two buttons. Notice that only the first, s
 
 <button>A semantic button</button>
 
-<div style="background:black; padding: 10px; color:white; display:inline;">Generic button</div>
+<p><div style="background:black; padding: 10px; color:white; display:inline;">Generic button</div></p>
 
 ## Landmarks
 People using assistive technology often navigate a webpage by using the landmarks on a page. However, these sections need to first be identified as such in order for this to be possible. The 7 sections that should be identified on each page are:
