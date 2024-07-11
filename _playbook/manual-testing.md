@@ -26,10 +26,10 @@ Keyboard testing is easy to do and requires no specific expertise or hardware—
 
 **To do keyboard testing:**
 1. Confirm that all interactive elements are available and actionable using the keyboard only.
-   - Use TAB to move forward through the page and SHIFT + TAB to go backwards.
-   - SPACE and ENTER are the most common keys to activate elements but for more custom elements [WebAIM provides a good resource](https://webaim.org/techniques/keyboard/#testing).
+   * Use TAB to move forward through the page and SHIFT + TAB to go backwards.
+   * SPACE and ENTER are the most common keys to activate elements but for more custom elements [WebAIM provides a good resource](https://webaim.org/techniques/keyboard/#testing).
 2. Confirm that while tabbing, all interactive elements have a visible focus indicator when receiving focus.
-   - Typically, this is a colored border around the element.
+   * Typically, this is a colored border around the element.
 3. Confirm that while tabbing, the order of tabbing moves logically through the page. It should follow a typical reading order - top to bottom, left to right.
 
 
@@ -42,15 +42,15 @@ Zoom testing is another testing type that can be completed without any specializ
 1. Set your browser width to 1280 pixels.
 2. Use CTRL + or CMD + to zoom in to 200%.
 3. Confirm that:
-   - You can see each element and all the text that you could previously
-   - You can use and interact with each element (both with keyboard and mouse)
-   - Confirm that horizontal scrolling is not present except for a few exceptions (i.e. data tables, images, charts, etc.)
+   * You can see each element and all the text that you could previously
+   * You can use and interact with each element (both with keyboard and mouse)
+   * Confirm that horizontal scrolling is not present except for a few exceptions (i.e. data tables, images, charts, etc.)
 
 **To test text resizing:**
 1. Within your browser, update your settings to increase text size.
-   - Chrome: Settings > Appearance > Font size
-   - Firefox: Settings > Language & Appearance > Fonts
-   - Edge: Settings > Appearance > Fonts
+   * Chrome: Settings > Appearance > Font size
+   * Firefox: Settings > Language & Appearance > Fonts
+   * Edge: Settings > Appearance > Fonts
 2. Confirm that all text on the page resizes appropriately based on the indicated browser size.
 
 ## Contrast and use of color
@@ -68,13 +68,13 @@ While testing color does not require any specific testing tools, there are some 
 1. Small text (20px or smaller) has at least a 4.5:1 contrast ratio
 2. Large text (greater than 20px) has at least a 3:1 contrast ratio
 3. Non-text elements have at least a 3:1 contrast ratio to their background and to neighboring elements. For example:
-   - Graphics - sections in a pie chart must meet requirements
-   - UI elements - colors indicating if a checkbox or radio button is selected must meet requirements
+   * Graphics - sections in a pie chart must meet requirements
+   * UI elements - colors indicating if a checkbox or radio button is selected must meet requirements
 
 **To test use of color:**
 1. Identify all links and confirm that each has an underline.
 2. Identify any data elements (i.e. charts, tables, maps, etc.) and confirm that the information within each is presented with more than just color.
-   - For example, in a table if yes is indicated by coloring a cell green, does it also use another indicator? A checkmark, a pattern, etc.?
+   * For example, in a table if yes is indicated by coloring a cell green, does it also use another indicator? A checkmark, a pattern, etc.?
 3. Confirm that any instructions given do not refer to color. (e.g. Click the blue button)
 
 
