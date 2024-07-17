@@ -1,8 +1,8 @@
 ---
 layout: guide
 title: Semantic HTML and accessibility
-description: Basic information on semantic HTML and accessibility.
-excerpt: Basic information on semantic HTML and accessibility.
+description: The importance of using semantic HTML tags and the accessibility benefits these can provide.
+excerpt: The importance of using semantic HTML tags and the accessibility benefits these can provide.
 sidenav: docs
 categories:
 - Accessibility 
