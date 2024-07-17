@@ -1,8 +1,8 @@
 ---
 layout: playbook
 title: How to do manual testing
-description: 
-excerpt: 
+description: A comprehensive guide to basic manual testing, including how to do keyboard testing, zoom testing and color contrast testing.
+excerpt: A comprehensive guide to basic manual testing, including how to do keyboard testing, zoom testing and color contrast testing.
 sidenav: docs
 categories:
   - Testing
