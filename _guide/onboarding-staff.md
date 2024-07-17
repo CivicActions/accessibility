@@ -169,7 +169,7 @@ Having accessibility in the orientation is key to ensuring that given some basic
 * [BBC](https://abilitynet.org.uk/webinars/learn-how-bbc-makes-accessibility-improvements)
 * [AbilityNet](https://abilitynet.org.uk/news-blogs/how-build-and-grow-your-accessibility-champions-network)
 * [Leeds City Council](https://digitalinclusionkit.org/creating-a-digital-champions-network/)
-* [Intuit (Quickbooks)](https://www.last-child.com/intuits-accessibility-champion-program/)
+* [Intuit (Quickbooks)](https://web.archive.org/web/20220216065658/https://www.last-child.com/intuits-accessibility-champion-program/)
 
 ## Additional resources/examples
 
