@@ -1,8 +1,8 @@
 ---
 layout: playbook
 title: Screen reader testing
-description: 
-excerpt: 
+description: A guide to common, popular screen readers such as JAWS and NVDA and a basic screen reader test plan.
+excerpt: A guide to common, popular screen readers such as JAWS and NVDA and a basic screen reader test plan.
 sidenav: docs
 categories:
   - Accessibility
