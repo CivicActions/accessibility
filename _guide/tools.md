@@ -46,6 +46,8 @@ Orca is a free, open source, flexible, and extensible screen reader that provide
 
 ## Site-wide evaluation {#site-wide-evaluation}
 
+*   [Accessibility Cloud](https://www.accessibilitycloud.com/) \
+An accessibility testing platform that offers automatic and manual testing for various guidelines and legal requirements.
 *   [bbc-a11y](https://github.com/bbc/bbc-a11y/blob/master/guides/using/using-bbc-a11y-in-your-project.md) on GitHub \
 Highly-configurable bbc-a11y runs a set of tests against a set of URLs to verify whether each one meets the [BBC accessibility guidelines](https://www.bbc.co.uk/accessibility/forproducts/guides/mobile/).
 *   [Domain Accessibility Audit by MSU College of Natural Science](https://github.com/MSU-NatSci/DomainAccessibilityAudit) on GitHub \
@@ -83,6 +85,8 @@ using OpenAjax Alliance rulesets.
 
 ## Bookmarklets {#bookmarklets}
 
+*   [Accessibility Cloud Lite](https://www.accessibilitycloud.com/lite/) \
+Tests any web page, highlight problems, and get solution suggestions.
 *   [ANDI by SSA.gov](https://www.ssa.gov/accessibility/andi/) - [ANDI on GitHub](https://github.com/SSAgov/ANDI) \
 A free accessibility testing tool that offers detection of problems and shows what a screen reader should say for interactive elements. It also gives realistic recommendations to improve accessibility, and checks 508 compliance.
 *   [Touch Bookmarklet](https://louisremi.github.io/touch-devtool/) - [Touch on GitHub](https://github.com/louisremi/touch-devtool) \
