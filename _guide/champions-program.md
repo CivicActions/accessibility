@@ -1,6 +1,6 @@
 ---
 layout: guide
-title: CivicActions’ Accessibility Champions Program
+title: CivicActions' Accessibility Champions Program
 description: Outlining the basics of CivicActions' Accessibility Champions Program
 excerpt: 
 sidenav: docs
@@ -10,7 +10,7 @@ categories:
 ---
 
 ## Building an accessible culture through our Champions Program
-The CivicActions [Accessibility Pledge](https://accessibility.civicactions.com/posts/CivicActions-Accessibility-Pledge) confirms our commitment to delivering inclusive digital services. We don’t take this pledge lightly. We know it takes a lot of buy-in and dedication to build a culture of accessibility. It’s not something that a few accessibility experts sprinkled throughout the company can deliver on alone. It takes company-wide effort. The Accessibility Champions program was created to offer CivicActioners a path for increasing leadership and confidence in furthering accessibility initiatives across projects and roles. This community of Accessibility Champions (ACs) are integral to creating and spreading an accessible culture throughout CivicActions.
+The CivicActions [Accessibility Pledge](https://accessibility.civicactions.com/posts/CivicActions-Accessibility-Pledge) confirms our commitment to delivering inclusive digital services. We don't take this pledge lightly. We know it takes a lot of buy-in and dedication to build a culture of accessibility. It's not something that a few accessibility experts sprinkled throughout the company can deliver on alone. It takes company-wide effort. The Accessibility Champions program was created to offer CivicActioners a path for increasing leadership and confidence in furthering accessibility initiatives across projects and roles. This community of Accessibility Champions (ACs) are integral to creating and spreading an accessible culture throughout CivicActions.
 
 Champions are responsible for fostering awareness and action on digital accessibility within their teams. ACs are a conduit of information from the [Accessibility Practice Area](https://guidebook.civicactions.com/en/latest/practice-areas/accessibility/) to their functional and/or client teams. They also bring concerns, findings, and practices from their functional and/or client teams to the Accessibility Practice Area to share knowledge across teams. Our Champions support their team(s) in building accessibility confidence and by advocating for continual improvement.
 
@@ -42,15 +42,15 @@ Champions typically have interest in…
 ## Benefits of becoming a Champion
 The Champions program makes it easier to:
 - **Increase your organizational impact:** Many joined CivicActions because they wanted to work for an impact-driven organization. Helping make websites more accessible can have an impact on millions of people. 
-- **Advance your career:** We also want to support people in their growth within the company. “Accessibility Champion" looks good on your resume. It will help CivicActions become better innovators and win work.
+- **Advance your career:** We also want to support people in their growth within the company. "Accessibility Champion" looks good on your resume. It will help CivicActions become better innovators and win work.
 - **Build cross-functional relationships:** The work of accessibility is multidisciplinary and brings you into contact with specialists, leaders, and stakeholders from areas you may not otherwise interact with. These connections improve team communication and can have a lasting impact on your career and exposure to related expertise.
 
 ## Expectations for Champions
 Champions are not expected to be accessibility experts, but they are expected to grow their accessibility knowledge and to support their teams in maturing accessibility practices. Having all of the answers is not required, but a willingness to find answers, foster communication between their client or functional team and the Accessibility Practice Area, and advocate for improved processes and practices is essential.
 
 A champion will…
-- Take responsibility for iteratively making the client’s project more accessible
-- Recommend process, tooling or other changes to make accessibility a bigger part of the the client team’s growth
+- Take responsibility for iteratively making the client's project more accessible
+- Recommend process, tooling or other changes to make accessibility a bigger part of the the client team's growth
 - Work with the Accessibility Practice Area group to surface and codify best practices to share across the company
 - Surface opportunities for learning and process improvement 
 - Help their functional role have a clear understanding of accessibility expectations for that role
