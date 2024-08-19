@@ -22,7 +22,7 @@ We are building a program in which:
 * We share what we learn with the wider community
 
 ## Program recruitment
-All CivicActioners are encouraged to become Accessibility Champions. Champions come in all sizes and shapes and it is expected that there will be differences in the needs that functional and client teams have. We have ACs on client teams and in functional teams (other practice areas). Teams may decide that they need to have people with more or less experience to lead. Some teams will will have only one, but some may have more Champions, particularly if there is mentoring or a distribution of labor involved.
+All CivicActioners are encouraged to become Accessibility Champions. Champions come in all sizes and shapes and it is expected that there will be differences in the needs that functional and client teams have. We have ACs on client teams and in functional teams (other practice areas). Teams may decide that they need to have people with more or less experience to lead. Some teams will have only one, but some may have more Champions, particularly if there is mentoring or a distribution of labor involved.
 
 ### Who makes a good Champion?
 Generally individuals volunteer for this role because they are interested in expanding their accessibility skillset and are passionate about leveling up the accessibility practices of their team. People who are motivating to others, self-directed, self-aware, in tune with team needs, and who have a bias toward action tend to make great Accessibility Champions.
