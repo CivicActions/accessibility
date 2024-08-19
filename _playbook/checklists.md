@@ -13,7 +13,7 @@ roles:
   - Project manager
   - UX designer
 ---
-The purpose of an accessibility checklist is to help identify accessibility issues in your product, website, or document. However, incorporating checklists  into an accessibility strategy can often be tricky.  One of the most common pitfalls when using or thinking about checklists is making sure you don’t get stuck in a limited compliance mindset. There is no single checklist that covers all possible accessibility issues and as Intopia warned, [a checklist mentality can actually be harmful for inclusion](https://intopia.digital/articles/announcing-the-accessibility-not-checklist/). That said, if approached as part of a broader strategy, they can be very helpful when used thoughtfully. Access Armada has some interesting suggestions on [more strategic approaches to checklists](https://www.accessarmada.com/blog/building-accessibility-checklists-that-are-actually-useful/). 
+The purpose of an accessibility checklist is to help identify accessibility issues in your product, website, or document. However, incorporating checklists  into an accessibility strategy can often be tricky.  One of the most common pitfalls when using or thinking about checklists is making sure you don't get stuck in a limited compliance mindset. There is no single checklist that covers all possible accessibility issues and as Intopia warned, [a checklist mentality can actually be harmful for inclusion](https://intopia.digital/articles/announcing-the-accessibility-not-checklist/). That said, if approached as part of a broader strategy, they can be very helpful when used thoughtfully. Access Armada has some interesting suggestions on [more strategic approaches to checklists](https://www.accessarmada.com/blog/building-accessibility-checklists-that-are-actually-useful/). 
 
 ## What makes a good accessibility checklist
 * The checklist should build on automated testing approaches.
@@ -22,7 +22,7 @@ The purpose of an accessibility checklist is to help identify accessibility issu
 * Allow for iteration of the checklists is needed - they may need to change depending on the element or learnings after going through the process a few times. 
 
 ## Example checklists
-Sometimes, you don’t need to reinvent the wheel. If there’s already an existing checklist available, you can customize it to fit the needs of your team and product. Below are a few examples of existing accessibility checklists:
+Sometimes, you don't need to reinvent the wheel. If there's already an existing checklist available, you can customize it to fit the needs of your team and product. Below are a few examples of existing accessibility checklists:
 
 * [W3C's Web Accessibility Initiative (WAI)](https://www.w3.org/WAI/test-evaluate/preliminary/)
   * Basic checklist, not designed to be fully robust but rather to give you a starting point 
@@ -38,7 +38,7 @@ Sometimes, you don’t need to reinvent the wheel. If there’s already an exist
   * This checklist can be customized directly on the site by specific WCAG standards and it can be filtered to display items by either topic or role
 
 ## Create your own checklist
-While there are many checklists already out there and that can be customized to fit your needs, you don’t necessarily need to use something preexisting. Using an existing automated scanning tool, you could create your own simple checklist process.
+While there are many checklists already out there and that can be customized to fit your needs, you don't necessarily need to use something preexisting. Using an existing automated scanning tool, you could create your own simple checklist process.
 
 For example, using a tool like [WebAim's WAVE](https://wave.webaim.org/), organizations could create a checklist to:
 
