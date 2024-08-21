@@ -24,7 +24,7 @@ Social media is used to create and share ideas, information, and interests. Acce
      - Use static images instead of animated GIFs
      - Make sure images have strong color contrast.
 3. All videos should have captions and transcripts. 
-     - Don’t forget to review any auto-generated text.
+     - Don't forget to review any auto-generated text.
 4. Be thoughtful about the use of hashtags.
      - If using hashtags, write them in camel case. This means that each unique word in a hashtag should start with a capital letter. This makes it easier for assistive technology to pronounce hashtags. For example, #WebAccessibility
 5. Limit the use of emoji and special characters.
@@ -34,8 +34,8 @@ Social media is used to create and share ideas, information, and interests. Acce
 
 ## Resources
 
-- [Accessible Social’s free resource and education hub for social media](https://www.accessible-social.com/)
-- [Digital.gov’s toolkit for improving the accessibility of social media in government](https://digital.gov/resources/improving-the-accessibility-of-social-media-in-government/)
+- [Accessible Social's free resource and education hub for social media](https://www.accessible-social.com/)
+- [Digital.gov's toolkit for improving the accessibility of social media in government](https://digital.gov/resources/improving-the-accessibility-of-social-media-in-government/)
 - [Planning, creating and publishing accessible social media campaigns](https://gcs.civilservice.gov.uk/guidance/digital-communication/planning-creating-and-publishing-accessible-social-media-campaigns/)
 - [How to make images accessible for people on X (formerly Twitter)](https://help.x.com/en/using-x/picture-descriptions)
 
