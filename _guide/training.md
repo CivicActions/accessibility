@@ -19,11 +19,11 @@ roles:
  
 # Training and Certifications
 
-Ready to learn more about accessibility? Whether you’re just starting or already have some basic knowledge of accessibility, we have resources that can help with your continued education.  
+Ready to learn more about accessibility? Whether you're just starting or already have some basic knowledge of accessibility, we have resources that can help with your continued education.  
 
 ## Certificates for demonstrating accessibility knowledge
 
-At CivicActions we encourage all employees to start with the W3C’s EdX course. It provides a solid introduction to the topic for anyone whose work relates to the creation of digital content and products. The additional courses listed here are well-regarded in the United States, and IAAP’s CPACC and WAS courses are internationally recognized.
+At CivicActions we encourage all employees to start with the W3C's EdX course. It provides a solid introduction to the topic for anyone whose work relates to the creation of digital content and products. The additional courses listed here are well-regarded in the United States, and IAAP's CPACC and WAS courses are internationally recognized.
 
 - [W3Cx: Introduction to Web Accessibility](https://www.edx.org/learn/web-accessibility/the-world-wide-web-consortium-w3c-introduction-to-web-accessibility)
 - [Certified Professional in Accessibility Core Competencies (CPACC)](https://www.accessibilityassociation.org/s/certified-professional)
