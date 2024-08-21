@@ -1,6 +1,6 @@
 ---
 layout: guide
-title: Plain language
+title: Plain Language
 description: How to use plain language to make your content accessible.
 excerpt: 
 sidenav: docs
@@ -16,8 +16,6 @@ roles:
   - Project manager
   - UX designer
 ---
-
-# Plain Language
 
 Plain language helps make your content accessible by allowing your audience to quickly understand it the first time they interact with it. This helps people with different cognitive abilities, people whose first language isn't English, and those that rely on audio to listen to text. 
 
