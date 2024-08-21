@@ -77,7 +77,7 @@ Automated readability tools won't catch everything. You'll need to test your con
 
 * [Federal Plain Language guidelines](https://www.plainlanguage.gov/guidelines/)
 * [Plain Language Association International guidelines](https://plainlanguagenetwork.org/plain-language/what-is-plain-language/)
-* [WCAG 2.1 Reading level success criterion ](https://www.w3.org/WAI/WCAG21/Understanding/reading-level.html)
+* [WCAG 2.1 Reading level success criterion](https://www.w3.org/WAI/WCAG21/Understanding/reading-level.html)
 
 ## Next steps
 
