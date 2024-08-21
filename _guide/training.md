@@ -1,6 +1,6 @@
 ---
 layout: guide
-title: Training and certifications
+title: Training and Certifications
 description: Resources that can help increase your accessibility knowledge. 
 excerpt: 
 sidenav: docs
@@ -17,8 +17,6 @@ roles:
   - UX designer
 ---
  
-# Training and Certifications
-
 Ready to learn more about accessibility? Whether you're just starting or already have some basic knowledge of accessibility, we have resources that can help with your continued education.  
 
 ## Certificates for demonstrating accessibility knowledge
