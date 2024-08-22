@@ -14,12 +14,12 @@ Social media is used to create and share ideas, information, and interests. Acce
 
 ## Basic guidelines for social media
 
-1. Keep text as clear and simple as possible by using [plain language](https://accessibility.civicactions.com/guide/plain-language). 
-     * Use short sentences and choose words your audience uses. 
-     * Don't use all-caps. 
-     * Spell out abbreviations or acronyms. 
+1. Keep text as clear and simple as possible by using [plain language](plain-language.md).
+     * Use short sentences and choose words your audience uses.
+     * Don't use all-caps.
+     * Spell out abbreviations or acronyms.
      * Include descriptive text before links. For example, "Read the help page for more info: (LINK)"
-2. Add alternative text to all contextual images.  
+2. Add alternative text to all contextual images.
      * Avoid images with text on them.
      * Use static images instead of animated GIFs
      * Make sure images have strong color contrast.
@@ -43,5 +43,5 @@ Social media is used to create and share ideas, information, and interests. Acce
 
 When you are ready to learn more, here are some further guides and resources that may help your social media:
 
-* [Plain language guidelines](https://accessibility.civicactions.com/guide/plain-language)
-* [Additional tools](https://accessibility.civicactions.com/guide/tools)
+* [Plain language guidelines](plain-language.md)
+* [Additional tools](tools.md)
