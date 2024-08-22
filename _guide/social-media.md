@@ -18,7 +18,7 @@ Social media is used to create and share ideas, information, and interests. Acce
      * Use short sentences and choose words your audience uses. 
      * Don't use all-caps. 
      * Spell out abbreviations or acronyms. 
-     * Include descriptive text before links. For example, "Read the help page for more info: [LINK]"
+     * Include descriptive text before links. For example, "Read the help page for more info: (LINK)"
 2. Add alternative text to all contextual images.  
      * Avoid images with text on them.
      * Use static images instead of animated GIFs
