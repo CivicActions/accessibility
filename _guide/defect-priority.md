@@ -21,7 +21,7 @@ Note that:
 
 Teams may evaluate an issue further with respect to its impact on specific content, functionality, or usability. Reasons for adjustment should be included in the ticket description, and when new patterns or examples are identified they should be considered for inclusion in the table.
 
-<table>
+<table class="usa-table">
   <thead>
     <tr>
       <th>Access failure</th>
