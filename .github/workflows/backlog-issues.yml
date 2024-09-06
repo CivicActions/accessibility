@@ -15,5 +15,5 @@ jobs:
       - name: Backlog to project board
         uses: actions/add-to-project@v1.0.2
         with:
-          github-token: ${{ secrets.ADD_TO_PROJECT_PAT }}
+          github-token: ${{ secrets.ADD_TO_CA_A11Y_PROJECT_PAT }}
           project-url: https://github.com/orgs/CivicActions/projects/5
