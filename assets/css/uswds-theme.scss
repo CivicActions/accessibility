@@ -183,3 +183,14 @@ $theme-sidenav-breakpoint: '{{ site.data.navigation.sidenav-breakpoint | default
 
 // import user custom styles
 @import 'uswds-theme-custom-styles';
+
+// table style overrides
+main .usa-table td {
+  vertical-align: top;
+  font-size: 1.1rem;
+}
+main .usa-table td ul,
+main .usa-table td li,
+main .usa-table td strong {
+  font-size: inherit;
+}
