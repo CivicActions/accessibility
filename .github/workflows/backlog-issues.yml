@@ -13,8 +13,7 @@ jobs:
 
     steps:
       - name: Backlog to project board
-        uses: rachmari/actions-add-new-issue-to-column@1a459ef92308ba7c9c9dc2fcdd72f232495574a9
+        uses: actions/add-to-project@v1.0.2
         with:
-          action-token: ${{ secrets.GITHUB_TOKEN }}
-          project-url: 'https://github.com/CivicActions/accessibility/projects/1'
-          column-name: 'Backlog'
+          github-token: ${{ secrets.ADD_TO_PROJECT_PAT }}
+          project-url: https://github.com/orgs/CivicActions/projects/5
