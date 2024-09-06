@@ -13,7 +13,7 @@ roles:
   - UX designer
 ---
  
-CivicActions teams use this guidance to prioritize accessibility issues based on the degree of content interference caused by a WCAG success criterion failure. We [treat accessibility issues as bugs](https://github.com/readme/guides/fix-accessibility-bugs), and have adapted priority definitions from [Deque’s issue impact classification](https://github.com/dequelabs/axe-core/blob/develop/doc/issue_impact.md).
+CivicActions teams use this guidance to prioritize accessibility issues based on the degree of content interference caused by a WCAG success criterion failure. We [treat accessibility issues as bugs](https://github.com/readme/guides/fix-accessibility-bugs), and have adapted priority definitions from [Deque's issue impact classification](https://github.com/dequelabs/axe-core/blob/develop/doc/issue_impact.md).
 
 Note that:
 * The list is illustrative, not exhaustive, and
