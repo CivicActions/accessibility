@@ -21,7 +21,7 @@ Note that:
 
 Teams may evaluate an issue further with respect to its impact on specific content, functionality, or usability. Reasons for adjustment should be included in the ticket description, and when new patterns or examples are identified they should be considered for inclusion in the table.
 
-<table>
+<table class="usa-table">
   <thead>
     <tr>
       <th>Access failure</th>
@@ -39,15 +39,14 @@ Teams may evaluate an issue further with respect to its impact on specific conte
           <li><a href="https://www.w3.org/WAI/WCAG22/quickref/#three-flashes-or-below-threshold">four flashes or above threshold (2.3.1)</a></li>
         </ul>
       </td>
-     <td><strong>Highest user impact</strong>
-  <ul>
-    <li>Dire, resolve immediately</li>
-    <li>Forces user to abandon essential workflow</li>
-    <li>Users with disabilities fundamentally blocked</li>
-    <li>Creates immediate organizational risk</li>
-    <li>Everything else can wait for this</li>
-  </ul>
-</td>
+      <td><strong>Highest user impact</strong>
+        <ul>
+          <li>Dire, resolve immediately</li>
+          <li>Forces user to abandon essential workflow</li>
+          <li>Users with disabilities fundamentally blocked</li>
+          <li>Creates immediate organizational risk</li>
+          <li>Everything else can wait for this</li>
+        </ul>
       </td>
       <td><strong>Do now</strong><br />
         Bypass release cycle

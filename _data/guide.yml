@@ -80,3 +80,8 @@ docs:
   url: /champions-program
   description: 
   icon: <i class="fas fa-group fa-5x" aria-hidden="true"></i>
+
+- title: Accessibility bug classification
+  url: /defect-priority
+  description: 
+  icon: <i class="far fa-file-alt fa-5x" aria-hidden="true"></i>
