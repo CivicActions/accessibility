@@ -17,7 +17,7 @@ hero:
   content: Accessibility resources for designers.
 ---
 
-The practice of design has an important role to play in moving accessibility thinking earlier in the product development process (“shifting left”). Design encompasses a wide variety of tasks and skills. Depending on their area of expertise, a designer could plan and write content, conduct research, or create visual mockups. These types of duties are usually broken down into three main categories.
+The practice of design has an important role to play in moving accessibility thinking earlier in the product development process ("shifting left"). Design encompasses a wide variety of tasks and skills. Depending on their area of expertise, a designer could plan and write content, conduct research, or create visual mockups. These types of duties are usually broken down into three main categories.
 
 ## User Experience (UX) Designer
 
@@ -55,7 +55,7 @@ Duties for this role include conducting user interviews, testing designs for usa
 ### Accessibility resources for user researchers
 
 * [Nielsen Norman Group's How to Conduct Usability Studies for Accessibility](https://www.nngroup.com/reports/how-to-conduct-usability-studies-accessibility/)
-* [UK Department of Work and Pensions’ User Research Accessibility Manual](https://accessibility-manual.dwp.gov.uk/guidance-for-your-job-role/user-researcher) 
+* [UK Department of Work and Pensions' User Research Accessibility Manual](https://accessibility-manual.dwp.gov.uk/guidance-for-your-job-role/user-researcher) 
 
 ## Visual Designer
 
@@ -73,7 +73,7 @@ Duties for this role include designing mockups and prototypes, creating user flo
 
 ### Accessibility resources for visual designers
 
-* [DigitalA11y’s Accessibility Tools and Resources for Designers](https://www.digitala11y.com/accessibility-tools-and-resources-for-designers/)
+* [DigitalA11y's Accessibility Tools and Resources for Designers](https://www.digitala11y.com/accessibility-tools-and-resources-for-designers/)
 * [Digital.gov's Accessibility for Visual Designers](https://digital.gov/guides/accessibility-for-teams/visual-design/#content-start)
 * [WAVE Browser Extensions](https://wave.webaim.org/extension/)
 
