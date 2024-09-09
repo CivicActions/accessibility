@@ -1,4 +1,5 @@
 ---
+layout: page
 title: Accessibility Conformance Report (ACR)
 description: Learn how an Accessibility Conformance Report (ACR) can improve your procurement process. 
 ---
