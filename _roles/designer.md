@@ -1,20 +1,13 @@
 ---
-layout: role
+layout: role-default
 title: Designer
 description: Learn the accessibility roles of designers in product development, including UX design, visual design, and user research.
 excerpt: 
 sidenav: docs
+redirect_from:
+  - /roles/ux-designer
 categories:
   - Design
-hero:
-  image: 
-  callout:
-    alt:
-    text: "Designer"
-  link:
-    text: Link to more about that priority
-    href: /link/
-  content: Accessibility resources for designers.
 ---
 
 The practice of design has an important role to play in moving accessibility thinking earlier in the product development process ("shifting left"). Design encompasses a wide variety of tasks and skills. Depending on their area of expertise, a designer could plan and write content, conduct research, or create visual mockups. These types of duties are usually broken down into three main categories.

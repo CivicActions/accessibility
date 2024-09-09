@@ -1,0 +1,30 @@
+---
+layout: default
+main:
+class:
+---
+{% include breadcrumbs.html %}
+</div>
+<div class="guide-main">
+  <div class="">
+    <div class="grid-container">
+      <div class="grid-row grid-gap">
+        {% assign sidenav = site.data.navigation[page.sidenav] | default: page.sidenav %}
+        {% if sidenav %}
+        <div class="usa-layout-docs__sidenav desktop:grid-col-3{% if page.sticky_sidenav %} usa-sticky-sidenav{% endif %}">
+          {% include sidenav-roles.html links=sidenav %}
+        </div>
+        {% endif %}
+        <div class="usa-layout-docs anchor-links usa-layout-docs__main usa-prose{% if sidenav %} desktop:grid-col-9{% endif %}">
+          {% if page.title %}
+          <h1>{{ page.title }}</h1>
+          {% endif %}
+          <!-- content -->
+          {% include anchor_headings.html html=content anchorBody="<span aria-hidden='true'>
+                    <svg class='usa-icon' aria-hidden='true' focusable='false' role='img'><use xlink:href='/assets/uswds-icons/sprite.svg#link'></use></svg>
+                </span><span class='sr-only'>Anchor link</span>" anchorClass="anchor-link" anchorAttrs="aria-labelledby=%html_id%" h_max=3 %}
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

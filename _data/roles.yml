@@ -3,40 +3,40 @@ docs:
 
 - title: Executive
   url: /executive
-  description: 
+  description:
   icon: <i class="fas fa-power-off fa-5x" aria-hidden="true"></i>
 
 - title: Procurement
   url: /procurement
-  description: 
+  description:
   icon: <i class="fas fa-power-off fa-5x" aria-hidden="true"></i>
 
 - title: Developer
   url: /developer
-  description: 
+  description:
   icon: <i class="fas fa-power-off fa-5x" aria-hidden="true"></i>
 
 - title: Product manager
   url: /product-manager
-  description: 
+  description:
   icon: <i class="fas fa-power-off fa-5x" aria-hidden="true"></i>
 
 - title: Project manager
   url: /project-manager
-  description: 
+  description:
   icon: <i class="fas fa-power-off fa-5x" aria-hidden="true"></i>
 
 - title: Operations
   url: /operations
-  description: 
+  description:
   icon: <i class="fas fa-power-off fa-5x" aria-hidden="true"></i>
 
-- title: UX designer
-  url: /ux-designer
-  description: 
+- title: Designer
+  url: /designer
+  description:
   icon: <i class="fas fa-power-off fa-5x" aria-hidden="true"></i>
 
 - title: Content designer
   url: /content-designer
-  description: 
+  description:
   icon: <i class="fas fa-power-off fa-5x" aria-hidden="true"></i>
