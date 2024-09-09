@@ -1,19 +1,26 @@
 ---
 layout: about
-title: Contact form
-description: Ways to connect with us.
+title: Contact Us
+description: Connect with the CivicActions Accessibility team.
 permalink: /about/contact
 sidenav: docs
 redirect_from:
 - /contact
 
 ---
-Fill out the form below with your email address and reason for contacting us.
+We love helping people improve accessibility in their products and services. Tell us about your accessibility challenge or reason for contacting us, and we'll get in touch.
 
 {% include contact.html %}
 
-## Other ways to contact us
+## More ways to reach us
 * Email: [accessibility@civicactions.com](mailto:accessibility@civicactions.com)
-* GitHub: [Submit an issue](https://github.com/CivicActions/accessibility/issues)
-* Twitter: [@civicactions](https://twitter.com/civicactions)
 * LinkedIN: [@civicactions](https://www.linkedin.com/company/civicactions/)
+* X: [@civicactions](https://twitter.com/civicactions)
+* Visit our main website: [CivicActions.com](https://civicactions.com/)
+
+
+## Feedback
+Bugs? Comments? Suggestions? We welcome your feedback and ideas for our site.
+
+[Submit a Github issue](https://github.com/CivicActions/accessibility/issues)
+
