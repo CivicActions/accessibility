@@ -1,25 +1,21 @@
-# VPAT (Voluntary Product Accessibility Template)
+# Accessibility Conformance Report (ACR)
 
-## This is an effort to make VPATs more than marketing.
+An Accessibility Conformance Report (ACR) is a document that measures how well  information and communication technology (ICT) products comply with [Section 508 Standards](https://www.access-board.gov/ict/). These reports are mainly used in government and education procurement, but can also be used by private sector organizations. During procurement, vendors are encouraged to create an ACR to show how an ICT meets the specific accessibility requirements that are being requested. 
 
-* The text is posted on GitHub in MarkDown so that it is easier for others to contribute.
-* There are links to the Drupal issue queue where issues are being disciussed
-* The Authoring Tool sections highlights ATAG 2.0 - Part A & B.
+An ACR is often created using a Voluntary Product Accessibility Template (VPAT), which comes in a few standard formats for reporting accessibility conformance. When evaluating our own work on websites, we use [OpenACR](https://github.com/GSA/openacr) along with the VPAT 2.5 WCAG (November 2023) template. OpenACR is a tool developed by CivicActions and maintained by the General Services Administration (GSA). To learn more about its development, [read our case study](https://civicactions.com/case-studies/open-acr/). 
 
-**Please submit Pull Requests and issues.**
+OpenACR reads and formats ACR results in YAML, a machine-readable format that can be easily stored and updated, and allows accessibility claims of digital products and services to be easily compared. Related to this, the [OpenACR web editor](https://acreditor.section508.gov/) provides a step-by-step interface for using OpenACR to create machine-readable ACR documents. 
 
+## Our example
 
-## Links & Resources
+CivicActions prioritizes creating ACRs to show how the products we use meet accessibility standards set by Section 508. To see an example of how to create an ACR, view the report created for Drupal 9.1. 
 
-* [Section508.gov - VPAT](https://www.section508.gov/sell/vpat)
-* [ITI - VPAT Documentation](https://www.itic.org/policy/accessibility/vpat)
-* [Wikipedia - VPAT](https://en.wikipedia.org/wiki/Voluntary_Product_Accessibility_Template)
-* [PEAT - PEAT Talks Recap: How and Why to Make VPATs a Priority](https://www.peatworks.org/peat-talks-recap-how-and-why-to-make-vpats-a-priority/)
-* [Karl Groves - Why a Third Party Should Prepare Your VPAT/GPAT](https://karlgroves.com/2011/07/07/why-a-third-party-should-prepare-your-vpatgpat)
-* [Karl Groves - Get your VPAT/ GPAT in a hurry](https://karlgroves.com/2016/08/22/get-your-vpat-gpat-in-a-hurry)
-* [MW19 - How to Read a VPAT: Assessing Accessibility Conformance Reports](https://mw19.mwconf.org/paper/how-to-read-a-vpat-assessing-accessibility-conformance-reports/)
-* [MicroAssist - VPAT: The Ultimate Buyer's Guide](https://www.microassist.com/digital-accessibility/vpat/)
-* [AccessibilityOz - How to Read a VPAT](https://www.accessibilityoz.com/2019/09/how-to-read-a-vpat/)
-* [TPGi - What is a VPAT?](https://www.tpgi.com/voluntary-product-accessibility-template-vpat/)
-* [Deque - Understanding Your VPAT)](https://www.deque.com/vpat/)
-* [Level Access - How to get a VPAT](https://www.levelaccess.com/how-to-get-a-vpat/)
+[Drupal 9.1 Accessibility Conformance Report](https://accessibility.civicactions.com/VPAT/Drupal9AccessibilityConformanceReport.html)
+
+## Resources
+
+* [OpenACR web editor](https://acreditor.section508.gov/)
+* [CivicActions OpenACR Case Study](https://civicactions.com/case-studies/open-acr/)
+* [GSA Accessibility Conformance Report (ACR)](https://www.section508.gov/sell/acr/)
+* [Free VPAT and other resources from ITI](https://www.itic.org/policy/accessibility/vpat)
+* [How to read a VPAT](https://www.accessibilityoz.com/2019/09/how-to-read-a-vpat/)
