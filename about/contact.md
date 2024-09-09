@@ -8,7 +8,7 @@ redirect_from:
 - /contact
 
 ---
-We love helping people improve accessibility in their products and services. Tell us about your accessibility challenge or reason for contacting us, and we’ll get in touch.
+We love helping people improve accessibility in their products and services. Tell us about your accessibility challenge or reason for contacting us, and we'll get in touch.
 
 {% include contact.html %}
 
