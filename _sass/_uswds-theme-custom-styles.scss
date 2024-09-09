@@ -273,3 +273,13 @@ a.anchor-link:focus, a.anchor-link:hover {
   font-size: large;
   opacity: 1
 }
+
+main .usa-table td {
+  vertical-align: top;
+  font-size: 1.1rem;
+}
+main .usa-table td ul,
+main .usa-table td li,
+main .usa-table td strong {
+  font-size: inherit;
+}
