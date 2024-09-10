@@ -1,4 +1,5 @@
 ---
+layout: page
 redirect_from:
   - /VPAT/Drupal9AccessibilityConformanceReport.html
 ---
