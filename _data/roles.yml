@@ -35,8 +35,3 @@ docs:
   url: /designer
   description:
   icon: <i class="fas fa-power-off fa-5x" aria-hidden="true"></i>
-
-- title: Content designer
-  url: /content-designer
-  description:
-  icon: <i class="fas fa-power-off fa-5x" aria-hidden="true"></i>

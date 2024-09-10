@@ -6,6 +6,7 @@ excerpt:
 sidenav: docs
 redirect_from:
   - /roles/ux-designer
+  - /roles/content-designer
 categories:
   - Design
 ---
