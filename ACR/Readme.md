@@ -18,7 +18,7 @@ OpenACR reads and formats ACR results in YAML, a machine-readable format that ca
 
 CivicActions prioritizes creating ACRs to show how the products we use meet accessibility standards set by Section 508. To see an example of how to create an ACR, view the report created for Drupal 9.1. 
 
-[Drupal 9.1 Accessibility Conformance Report](https://accessibility.civicactions.com/VPAT/Drupal9AccessibilityConformanceReport.html)
+[Drupal 9.1 Accessibility Conformance Report](https://accessibility.civicactions.com/ACR/Drupal9AccessibilityConformanceReport.html)
 
 ## Resources
 
