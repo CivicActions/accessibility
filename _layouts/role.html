@@ -18,6 +18,12 @@ class:
     <div class="">
         <div class="grid-container">
             <div class="grid-row grid-gap flex-align-start">
+                {% assign sidenav = site.data.navigation[page.sidenav] | default: page.sidenav %}
+                {% if sidenav %}
+                <div class="usa-layout-docs__sidenav desktop:grid-col-3{% if page.sticky_sidenav %} usa-sticky-sidenav{% endif %}">
+                    {% include sidenav-roles.html links=sidenav %}
+                </div>
+                {% endif %}
                 <div class="usa-layout-docs usa-layout-docs__main usa-prose{% if sidenav %} desktop:grid-col-9{% endif %}">
                     <div class="expand-all-accordion"><button class="expand usa-button" onClick='expandingAccordions(this)' aria-live="polite" aria-expanded="false" data-open="false">Expand All</button></div>
 
