@@ -1,8 +1,11 @@
 ---
-layout: page
+layout: about
 title: Accessibility Conformance Report (ACR)
 description: Learn how an Accessibility Conformance Report (ACR) can improve your procurement process.
-permalink: /VPAT
+permalink: /ACR/
+redirect_from:
+  - /VPAT
+  - /VPAT/
 ---
 
 An Accessibility Conformance Report (ACR) is a document that measures how well  information and communication technology (ICT) products comply with [Section 508 Standards](https://www.access-board.gov/ict/). These reports are mainly used in government and education procurement, but can also be used by private sector organizations. During procurement, vendors are encouraged to create an ACR to show how an ICT meets the specific accessibility requirements that are being requested. 
@@ -15,7 +18,7 @@ OpenACR reads and formats ACR results in YAML, a machine-readable format that ca
 
 CivicActions prioritizes creating ACRs to show how the products we use meet accessibility standards set by Section 508. To see an example of how to create an ACR, view the report created for Drupal 9.1. 
 
-[Drupal 9.1 Accessibility Conformance Report](https://accessibility.civicactions.com/VPAT/Drupal9AccessibilityConformanceReport.html)
+[Drupal 9.1 Accessibility Conformance Report](https://accessibility.civicactions.com/ACR/Drupal9AccessibilityConformanceReport.html)
 
 ## Resources
 
