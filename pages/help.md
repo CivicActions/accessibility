@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Help
+title: Get accessibility help
 description: How to get accessibility support from CivicActions Accessibility.
 permalink: /help
 
