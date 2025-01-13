@@ -91,7 +91,7 @@ Articles and talks about beginning and growing Accessibility Champion programs t
   * [14 tips to build an accessibility champions' network](https://abilitynet.org.uk/news-blogs/14-tips-build-accessibility-champions-network)
   * [Creating an accessibility champions network (YouTube)](https://www.youtube.com/watch?v=tWY_YBz5mSI)
 * Aimée Danger
-  * [Accessibility Champions Program](https://www.aimeedanger.com/portfolio/accessibility-champions-program/)
-  * [Accessibility Champions Program + Empathy Lab (PDF)](https://www.aimeedanger.com/wp-content/uploads/2021/06/ACEL-0330-1.pdf)
+  * [Accessibility Champions Program](https://web.archive.org/web/20240723233130/https://www.aimeedanger.com/portfolio/accessibility-champions-program/)
+  * [Accessibility Champions Program + Empathy Lab (PDF)](https://web.archive.org/web/20240518005238/https://www.aimeedanger.com/wp-content/uploads/2021/06/ACEL-0330-1.pdf)
 * GDS/BBC Webinar: [Accessibility Culture eats WCAG compliance for breakfast](https://www.youtube.com/watch?v=BktMJzjf7xs&t=1s&ab_channel=UKGovDesign)
 * Sagar Barbhaya - [Expand Your Outreach with an Accessibility Champions Program](https://www.youtube.com/watch?v=8hIVafzpFkw&ab_channel=A11yBytes)
