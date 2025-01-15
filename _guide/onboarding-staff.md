@@ -8,9 +8,9 @@ categories:
   - Accessibility
 ---
 
-A common understanding of accessibility allows teams to work together toward building accessible products and services. When hiring new team members, it’s important to not assume they’re knowledgeable about accessibility. Instead, it’s best to ensure that all team members understand the basics by creating an accessibility onboarding program that every new member participates in. 
+A common understanding of accessibility allows teams to work together toward building accessible products and services. When hiring new team members, it's important to not assume they're knowledgeable about accessibility. Instead, it's best to ensure that all team members understand the basics by creating an accessibility onboarding program that every new member participates in. 
 
-As part of [our Accessibility Pledge](https://accessibility.civicactions.com/posts/CivicActions-Accessibility-Pledge) at CivicActions, we’ve added an introduction to accessibility in our onboarding process. This has helped to advance our accessibility maturity and build a robust culture that has internalized accessibility. We’d like to share our onboarding process here in the hopes that other companies can take inspiration when building their own accessibility onboarding processes. 
+As part of [our Accessibility Pledge](https://accessibility.civicactions.com/posts/CivicActions-Accessibility-Pledge) at CivicActions, we've added an introduction to accessibility in our onboarding process. This has helped to advance our accessibility maturity and build a robust culture that has internalized accessibility. We'd like to share our onboarding process here in the hopes that other companies can take inspiration when building their own accessibility onboarding processes. 
 
 ## Prepare for an accessibility workshop
 All new team members attend a one hour workshop that talks about the basics of accessibility. Before the workshop takes place, we ask them to prepare by watching videos, reviewing internal company materials, and installing accessibility tools that are relevant to their area of practice.
@@ -48,9 +48,9 @@ These are some tools we recommend that could help test accessibility on your pro
     * Browsers may need to be configured to enable tabbing on links. 
     * Enabling these features makes it easy to do regular keyboard testing. 
     * Search for these settings:
-      * Chrome: “Pressing Tab on a webpage highlights links, as well as form fields.”
-      * Firefox: “Use the tab key to move focus between form controls and links.”
-      * Safari (Advanced tab): “Press Tab to highlight each item on a web page.” 
+      * Chrome: "Pressing Tab on a webpage highlights links, as well as form fields."
+      * Firefox: "Use the tab key to move focus between form controls and links."
+      * Safari (Advanced tab): "Press Tab to highlight each item on a web page." 
 
 #### Tools for each practice area
 
@@ -78,7 +78,7 @@ Our accessibility workshop is one hour long and covers the basics of accessibili
     * We discuss the different types of disabilities (hearing, motor, cognitive, and visual) and how they can be permanent, temporary, or situational. 
     * We describe different assistive technologies people use, such as auto-captioning, text-to-speech, screen readers, and more. 
 * Accessibility in our organization
-    * We emphasize how CivicActions promotes accessibility with [our Accessibility Pledge](https://accessibility.civicactions.com/posts/CivicActions-Accessibility-Pledge) and how we’re continuously working toward developing products built with a wide range of diversity in mind from the beginning.
+    * We emphasize how CivicActions promotes accessibility with [our Accessibility Pledge](https://accessibility.civicactions.com/posts/CivicActions-Accessibility-Pledge) and how we're continuously working toward developing products built with a wide range of diversity in mind from the beginning.
     * We talk about our accessibility practice area and give information about internal meetings and professional development. 
     * We review [our Champions program](https://accessibility.civicactions.com/guide/champions-program) and promote other next steps to learn more about accessibility.
 * Introduction to accessibility tools
@@ -91,7 +91,7 @@ Each role in a company may need additional support in how they can best do their
 * [Digital.gov's Accessibility for Teams](https://accessibility.digital.gov/)
 
 ## Take a quiz
-After watching videos, reviewing company materials, and attending the accessibility workshop, we encourage new team members to take an accessibility quiz to help gauge their understanding of our training. Our goal is for them to score 80% or higher on this quiz or to reach out to the accessibility team with any questions they may have. To see an example of an accessibility quiz, view the quiz that we’ve created for new team members. 
+After watching videos, reviewing company materials, and attending the accessibility workshop, we encourage new team members to take an accessibility quiz to help gauge their understanding of our training. Our goal is for them to score 80% or higher on this quiz or to reach out to the accessibility team with any questions they may have. To see an example of an accessibility quiz, view the quiz that we've created for new team members. 
 
 [CivicActions accessibility quiz](https://docs.google.com/forms/d/e/1FAIpQLSdpyp-NLXUzzmbc4zNQqikrgx0V2n1IbmZRYlWSIBstTFbI-Q/viewform)
 
