@@ -1,7 +1,7 @@
 ---
 layout: guide
-title: Tools
-description: 
+title: Build up your accessibility toolbox
+description: Digital tools that can help make content accessible.
 excerpt: 
 sidenav: docs
 categories:
@@ -9,202 +9,104 @@ categories:
 
 ---
 
-Digital accessibility tools.
+Digital accessibility tools can help ensure that the content you create is meeting accessibility guidelines. This page lists a variety of tools that designers, developers, and others can use to make web content more accessible. 
 
-## Authoring {#authoring}
+## Screen readers
+Screen readers help people who are blind or visually impaired read text on a screen. We recommend using these common screen readers and testing your content with multiple screen readers and devices. 
 
-*   [A11yFirst for CKEditor](https://a11yfirst.web.illinois.edu/) - [Accessibility First on GitHub](https://github.com/a11yfirst/distribution) \
-Series of plugins for supporting a11y best practices within the WYSIWYG editor, CKEditor.
-*   [Sa11y, the accessibility quality
-assurance assistant](https://sa11y.netlify.app/) \
-An in-page accessibility checker that visually highlights common accessibility and usability issues. Geared towards content authors, Sa11y straightforwardly identifies errors or warnings at the source with a simple tooltip on how to fix them. Available as a JavaScript plugin, bookmarklet, and WordPress plugin. 
-*   [Editoria11y](https://github.com/itmaybejj/editoria11y) - Editoria11y was initially built on Sa11y and highlights common issues inline with the \
-content editor. Presently there is a Drupal module that leverages CKEditor, but they are working on a WordPress module too. 
-*   [retextjs: retext-readability plugin](https://github.com/retextjs/retext-readability) \
-A plugin for [retext](https://github.com/retext-project/retext) that scans text content for readability (defaults to age 16 reading level, but is configurable) and warns developers of issues.
-*   [retextjs: retext-equality plugin](https://github.com/retextjs/retext-equality) \
-Another plugin for [retext](https://github.com/retext-project/retext) that checks text content for possible insensitive, inconsiderate language.
-*   [Zettlr: Markdown Editor](https://www.zettlr.com/) - [Zettlr on GitHub](https://github.com/Zettlr/Zettlr) \
-Open source Markdown editor that simplifies the content creation experience by avoiding the clutter seen in many common word processing solutions.
-*   [Drupal](https://drupal.org/) is a very accessible CMS and [these modules can enhance its accessibility](https://accessibility.civicactions.com/guide/resources#drupal-accessibility-modules)
-*   [ATOM Plugin - web-accessibility-checker package](https://atom.io/packages/web-accessibility-checker) An accessibility \
-Plugin for the popular open source ATOM Editor from GitHub.
+* [JAWS](https://www.freedomscientific.com/products/software/jaws/) (Job Access With Speech): This screen reader provides speech and Braille output for Windows. It requires a paid license to run. 
+* [NVDA](https://www.nvaccess.org/about-nvda/): (Non-Visual Desktop Access): This is another common screen reader for Windows that’s free and doesn’t require a license. 
+* [Talkback](https://support.google.com/accessibility/android/answer/6283677?hl=en): A Google screen reader included on Android devices. All Android devices come with this screen reader by default
+* [VoiceOver](https://www.apple.com/accessibility/vision/): While not open source, VoiceOver is a screen reader that’s a default on all Apple devices (desktop and mobile) and gives descriptions in braille.
 
-## Assistive technology {#assistive-technology}
+Learn more about [screen reader testing](https://accessibility.civicactions.com/playbook/AT).
 
-*   [NVDA](https://www.nvaccess.org/) - [NVDA on GitHub](https://github.com/nvaccess/nvda/) \
-Available for PCs running Microsoft Windows 7 SP1 and later, NVDA is a fast, functional, and free screen reader.
-*   [ChromeVox Chrome Extension](https://chrome.google.com/webstore/detail/screen-reader/kgejglhpjiefppelpmljglcjbhoiplfn) - [ChromeVox as part of ChromeOS on GitHub](https://github.com/chromium/chromium/blob/master/docs/accessibility/os/chromevox.md) - [Install and Setup Instructions from Web Accessibility for Developers Guide (with video)](https://pressbooks.library.ryerson.ca/wafd/chapter/chromevox-screen-reader-install-and-setup/) \
-A fully featured screen reader for the web built using only web technologies such as HTML and Javascript. This extension specifically works within the Chrome browser to read content aloud.
-*   Android [Talkback](https://support.google.com/accessibility/android/answer/6283677?hl=en) & [Switch](https://support.google.com/accessibility/android/answer/6122836?hl=en) - on [GitHub](https://github.com/google/talkback) \
-TalkBack is the Google screen reader included on Android devices. Switch lets you interact with your Android device using one or more switches instead of the touchscreen, useful if you can't interact directly with your device.
-*   [Apple VoiceOver](https://www.apple.com/accessibility/vision/) \
-While not open source, VoiceOver is an industry‑leading screen reader for Apple products, which also gives descriptions in braille.
-*   [Linux Orca](https://help.gnome.org/users/orca/stable/index.html.en) - [Orca on GitLab](https://gitlab.gnome.org/GNOME/orca) - [Orca on Chrome/Chromium](https://wiki.gnome.org/Projects/Orca/Chromium) \
-Orca is a free, open source, flexible, and extensible screen reader that provides access to the graphical desktop via speech and refreshable braille.
-*   [SkipTo Landmarks & Headings](https://paypal.github.io/skipto/) on [GitHub](https://github.com/skipto/extension) based on [PayPal's skipto HTML project](https://github.com/paypal/skipto) SkipTo provides a browser extension that provides keyboard only user more navigational control. 
+## Authoring
+An authoring tool is software that can be used to create or modify content for use by others. These tools should allow authors to create accessible content from the beginning, without having to come up with a workaround. Output should conform to WCAG Level A and Level AA Success Criteria and Conformance Requirements. These are some authoring tools we recommend.
 
-## Site-wide evaluation {#site-wide-evaluation}
+* [Sa11y](https://sa11y.netlify.app/): This is an accessibility quality assurance assistant that visually highlights common accessibility and usability issues on a web page.
+* [Editoria11y](https://github.com/itmaybejj/editoria11y): This highlights common issues inline within the content editor.
+* [Drupal](https://drupal.org/): This is a content management system and has modules that can enhance its accessibility.
 
-*   [bbc-a11y](https://github.com/bbc/bbc-a11y/blob/master/guides/using/using-bbc-a11y-in-your-project.md) on GitHub \
-Highly-configurable bbc-a11y runs a set of tests against a set of URLs to verify whether each one meets the [BBC accessibility guidelines](https://www.bbc.co.uk/accessibility/forproducts/guides/mobile/).
-*   [Domain Accessibility Audit by MSU College of Natural Science](https://github.com/MSU-NatSci/DomainAccessibilityAudit) on GitHub \
-This web application automatically crawls websites, checks for accessibility violations, and is based on [axe](https://github.com/dequelabs/axe-core).
-*   [GOV.UK Accessibility Reports](https://github.com/alphagov/govuk-accessibility-reports#govuk-accessibility-reports) on GitHub \
-A collection of reporting tools that run on Amazon's S3 infrastructure. Geared to crawl a large number of webpages, like Gov.uk.
-*   [Pa11y](https://pa11y.org/) - [Pa11y on GitHub](https://github.com/pa11y) \
-A popular command-line interface which loads web pages and highlights any accessibility issues it finds. The Pa11y family of applications includes a [Dashboard](https://github.com/pa11y/dashboard) for monitoring several projects' a11y issues, as well as [continuous integration](https://github.com/pa11y/pa11y-ci) (CI) abilities.
-*   [Purple A11y by Government Digital Services, Singapore](https://github.com/GovTechSG/purple-a11y) and [Purple A11y Desktop](https://github.com/GovTechSG/purple-a11y-desktop) on GitHub \
-Powered by [axe](https://github.com/dequelabs/axe-core), Purple A11y (previously Purple Hats) is a customisable, automated accessibility testing tool.
-* [Unlighthouse](https://unlighthouse.dev/) on [Unlighthouse on GitHub](https://github.com/harlan-zw/unlighthouse), helps you crawl your site with Google Lighthouse. 
+## Automated testing
+Automated accessibility testing should occur at different stages when creating digital content, from design to development. We recommend getting started with these tools and learning more about how to [implement automated testing](https://accessibility.civicactions.com/playbook/automated-testing). 
 
-## Page level evaluation {#page-level-evaluation}
+* [Cypress with axe core](https://github.com/component-driven/cypress-axe): This combines the JavaScript testing framework of Cypress with the popular accessibility testing engine, axe core. 
+* [Pa11y CI](https://github.com/pa11y/pa11y-ci): This is a continuous integration (CI) runner that can test a few pages or an entire site for accessibility issues. 
 
-*   [A11ygator](https://a11ygator.chialab.io/) - [A11ygator on GitHub](https://github.com/chialab/a11ygator-app) \
-An application and Twitter bot that quickly tests single pages against WCAG.
-*   [Accessibility Insights by Microsoft](https://accessibilityinsights.io/) - [Accessibility Insights GitHub Page](https://github.com/microsoft/accessibility-insights-web) \
-Feature-rich testing suite for reviewing/auditing a11y on web sites, Android apps and Windows apps. 
-*   [Accessibility Toolbar Plugin](https://webworks.ga/acc_toolbar/) - [ACC Toolbar on GitHub](https://github.com/mickidum/acc_toolbar) \
-A component you can add to your site which adds tools that give people with vision disabilities a way to change text size, contrast level, etc...
-*   [axe by Deque](https://www.deque.com/axe/) - [axe GitHub Page](https://github.com/dequelabs/axe-core) \
-A leading testing toolkit that powers many other projects and offers different levels of usage, through browser extension tests or within continuous \
-integration via their API.
-*   [bbc-a11y](https://github.com/bbc/bbc-a11y/blob/master/guides/using/checking-a-website.md) on GitHub \
-This tool runs a set of tests against a set of URLs to verify whether each one meets the [BBC accessibility guidelines](https://www.bbc.co.uk/accessibility/forproducts/guides/mobile/). Can be run from the command line and added to continuous integration pipelines.
-*   [Google Lighthouse](https://developers.google.com/web/tools/lighthouse/) - [Lighthouse on GitHub](https://github.com/GoogleChrome/lighthouse) \
-Extremely flexible and popular testing suite from Google that can be run directly on pages, from the command line, or as a Node module.
-*   [IBM Equal Access Toolkit](https://www.ibm.com/able/toolkit/) - [equal-access on GitHub](https://github.com/IBMa/equal-access) \
-Tools from IBM that can automate accessibility testing from a browser, or when added to a continuous integration environment.
-*   [Explore ARIA Landmarks Browser Extension](https://matatk.agrip.org.uk/landmarks/) - [Landmarks on GitHub](https://github.com/matatk/landmarks) \
-Browser extension that allows you to navigate a web page via WAI-ARIA landmarks, using the keyboard or a pop-up menu.
-*   [Firefox AInspector WCAG](https://addons.mozilla.org/en-US/firefox/addon/ainspector-wcag/) - A Firefox Add-on that addresses accessibility compliance \
-using OpenAjax Alliance rulesets. 
-*   [Qualweb](https://qualweb.di.fc.ul.pt/evaluator/) - [Qualweb on GitHub](https://github.com/qualweb) - A set of tools that are being built to align with the W3C's ACT ruleset.
+## Bookmarklets
+Bookmarklets provide quick, automated checks for accessibility issues. They can test for a wide variety of issues, such as testing interactive elements, focus, touch events, and reading order. These are some of the bookmarklets that we recommend, but there are many more out there! 
 
-## Bookmarklets {#bookmarklets}
+* [Accessibility and Contrast Bookmarklet](https://ada.is/blog/2016/02/12/contrast-bookmarklet/): Analyze the contrast of the text on a page and highlight elements which may have readability issues.
+* [ANDI by SSA.gov](https://www.ssa.gov/accessibility/andi/): A free accessibility testing tool that offers detection of problems, checks for 508 compliance and shows what a screen reader will typically say for interactive elements. It also gives realistic recommendations to improve accessibility.
+* [Reading Order Bookmarklet](https://adrianroselli.com/2019/04/reading-order-bookmarklet.html): Running this bookmarklet will visually number the reading order in which screen-reading software will announce different parts of the page to check to see that it matches the visual order.
+* [W3C markup validator](https://validator.w3.org/favelets.html): Checking your HTML for errors catches a lot of accessibility issues, especially with forms and images.
 
-*   [ANDI by SSA.gov](https://www.ssa.gov/accessibility/andi/) - [ANDI on GitHub](https://github.com/SSAgov/ANDI) \
-A free accessibility testing tool that offers detection of problems and shows what a screen reader should say for interactive elements. It also gives realistic recommendations to improve accessibility, and checks 508 compliance.
-*   [Touch Bookmarklet](https://louisremi.github.io/touch-devtool/) - [Touch on GitHub](https://github.com/louisremi/touch-devtool) \
-Simulate touch events (swipe, rotate, pinch) with a mouse.
-*   [Outline ⭐️ Bookmarklet](https://codepen.io/svinkle/pen/grYjPa) on Codepen (MIT Licence) \
-On click, every focusable element will receive a red border, so you can see where the keyboard cursor is.
-*   [What has focus?](https://codepen.io/svinkle/pen/WgYRxq) on Codepen (MIT Licence) \
-When something receives keyboard focus via Tab key, the current element will be logged to the JavaScript console so you can determine which element currently has focus.
-*   [Reading Order Bookmarklet](https://adrianroselli.com/2019/04/reading-order-bookmarklet.html) \
-Running this bookmarklet will visually number the reading order in which screen-reading software will announce different parts of the page, to check to see that it matches the visual order (up to down, left to right).
-*   [Accessibility and Contrast Bookmarklet](https://ada.is/blog/2016/02/12/contrast-bookmarklet/) - [Contrast Bookmarklet on GitHub](https://github.com/AdaRoseCannon/contrast-widget) \
-Analyse the contrast of the text on a page and highlight elements which may have readability issues.
-*   [WAI-ARIA-Usage](https://github.com/ThePacielloGroup/WAI-ARIA-Usage) by The Paciello Group \
-Evaluate WAI-ARIA according to the [ARIA in HTML](https://www.w3.org/TR/html-aria/) specification.
-*   [Paul Adam's Collection of JavaScript Bookmarklets for Accessibility Testing](https://www.pauljadam.com/bookmarklets.html)
+## Color contrast checker
+Color contrast is an important part of accessibility. Text and background colors must have enough contrast so that the content on the page can be easily seen. Web Content Accessibility Guidelines (WCAG) 2 suggest a minimum contrast of 4:5:1. W3C has an [Understanding SC 1.4.3 page](https://www.w3.org/TR/UNDERSTANDING-WCAG20/visual-audio-contrast-contrast.html) that explains this in greater detail. These tools can help quickly check if the colors on a page meet these guidelines.
 
-## Color {#color}
+* [WebAIM contrast checker](https://webaim.org/resources/contrastchecker/): Colors can be checked on this webpage, using a bookmarklet, or using their API. 
+* [ColorZilla for Chrome](https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp) or [ColorZilla for Firefox](https://addons.mozilla.org/en-US/firefox/addon/colorzilla/): A color picker that can be used in Chrome or Firefox browsers.
+* [Coolors Color Contrast Checker](https://coolors.co/contrast-checker/112a46-acc8e5): Check colors on the webpage.
 
-### Web based contrast tools
-
-*   [Contrast Finder by Tanaguru](https://contrast-finder.tanaguru.com/) - [Contrast Finder GitHub Page](https://github.com/Tanaguru/Contrast-Finder)
-*   [Contrast-Ratio.com](https://contrast-Ratio.com) - [Contrast-Ratio GitHub Page](https://github.com/siege-media/contrast-ratio) \
-Allows for testing of contrast of text on top of a semi transparent background.
-*   [Contrast Checker](https://contrast-checker.netlify.app/)
-*   [ButtonBuddy](https://buttonbuddy.dev/) - [ButtonBuddy on GitHub](https://github.com/5t3ph/buttonbuddy)
-*   [ACD (Previously ColorCube)](https://accessiblecolor.design) - [ColorCube on GitHub](https://github.com/oomphinc/colorcube)
-*   [LeonardoColor.io](https://leonardocolor.io/#)  - [Leonardo on GitHub](https://github.com/adobe/leonardo)
-*   [Colour Contrast Checker](https://colourcontrast.cc) - [Colour Contrast Checker on GitHub](https://github.com/Pushedskydiver/Colour-Contrast-Checker)
-*   [Who Can Use](https://whocanuse.com/) - [Who Can Use on GitHub](https://github.com/CoreyGinnivan/whocanuse)
-*   [Colour Contrast Analyser (CCA) by TPGi](https://www.tpgi.com/color-contrast-checker/) - [CCA on GitHub](https://github.com/ThePacielloGroup/CCAe)
-
-### Creating color palettes
-
-*   [Accessible color palette builder](https://toolness.github.io/accessible-color-matrix/) - [Accessible Color Palette on GitHub](https://github.com/toolness/accessible-color-matrix)
-*   [Contrast Grid](https://contrast-grid.eightshapes.com/) - [Contrast Grid on GitHub](https://github.com/EightShapes/contrast-grid)
-
-
-### Color browser plugins and apps {#plugins}
-
-* [Colour Contrast Analyser (CCA) by TPG](https://developer.paciellogroup.com/resources/contrastanalyser/) - [CCAe on GitHub](https://github.com/ThePacielloGroup/CCAe)
-* [Eye Dropper Chrome Extension](https://eyedropper.org/) - [Eye Dropper on GitHub](https://github.com/kepi/chromeEyeDropper)
-Determine the contrast ratio of two colors using an eyedrop tool on Windows and Mac.
-* [Pika MacOS Color Picker](https://superhighfives.com/pika) - [Pika on GitHub](https://github.com/superhighfives/pika) \
-Open-source, native colour picker for macOS.
-
-### Color integrations for design tools
-* [Color Contrast Analyser for Sketch on GitHub](https://github.com/getflourish/Sketch-Color-Contrast-Analyser) \
-Sketch plugin that calculates the color contrast of two layers and evaluates it against the WCAG.
-
-## Design tool accessibility integrations
+## Design tool integrations
+Different design tools can be added to Figma, Sketch, and Storybook to ensure that accessibility criteria is being met. There are plenty of different integrations available, but these are the ones we recommend to start with. 
 
 ### Figma
-* [Accessibility Annotation Kit](https://www.figma.com/community/file/953682768192596304) - a community plugin for \
-Figma that helps designers document accessibility considerations to share with developers when handing off designs.
-* [Accessibility Checklist for Designers](https://www.figma.com/community/file/1233184772650050315/Accessibility-Checklist-for-Designers) - a checklist was created on the base of WCAG 2.1 AA standards.
-* [Inclusive Design illustrations](https://www.figma.com/community/file/946569165254852480/Inclusive-Design-illustrations) -  character stickersheets and illustrations from Microsoft Inclusive Design's toolkit.
-* [Intopia's accessibility annotation kit](https://www.figma.com/community/file/1022394680250523675/Intopia's-accessibility-annotation-kit) - communicate your accessibility requirements to developers and testers.
-* [A11y Annotation Kit](https://www.figma.com/community/file/953682768192596304/A11y-Annotation-Kit) - document accessibility considerations to share with developers when handing off designs.
-* [Twitter's Accessibility Annotation Library](https://www.figma.com/community/file/976946194228458698/Accessibility-Annotation-Library) - efficient, and scalable way for designers to communicate needs to engineers.
+* [Accessibility Annotation Kit](https://www.figma.com/community/file/953682768192596304): This kit helps designers document accessibility considerations to share with developers when handing off designs.
+* [Accessibility Checklist for Designers](https://www.figma.com/community/file/1233184772650050315/Accessibility-Checklist-for-Designers): A checklist that was created on the base of WCAG 2.1 AA standards and helps check designs for accessibility.
+* [Include—Accessibility Annotations](https://www.figma.com/community/plugin/1208180794570801545/includeaccessibility-annotations): This plugin guides designers through a series of checks and creates multiple annotation layers in an annotations frame.
 
 ### Sketch
-* [Sketch Accessibility Assistant](https://github.com/ygev/sketch-accessibility-assistant) - a linter for compliant color contrast and type based on WCAG 2.1.
-* [Sketch cluse.cc](https://cluse.cc/) or [cluse on GitHub](https://github.com/ygev/cluse) - Sketch Plugin to check and adjust color contrast accessibility
+* [Sketch Accessibility Assistant](https://github.com/ygev/sketch-accessibility-assistant): A linter that checks Sketch elements to make sure they pass AA+ compliance for WCAG 2.1.
+* [Sketch Cluse](https://cluse.cc/): Sketch plugin to check and adjust color contrast.
 
 ### Storybook
-* [storybook-addon-a11y](https://storybook.js.org/addons/@storybook/addon-a11y) or [Addon A11y on GitHub](https://github.com/storybookjs/storybook/tree/master/addons/a11y#getting-started) - a Storybook addon which uses axe to improve the accessibility of UI components.
-* [storybook-a11y-report](https://storybook.js.org/addons/storybook-a11y-report) or [A11y Report on GitHub](https://github.com/kalbeekatz/storybook-a11y-report) - crawl Storybook pages and produce a report
-* [Aria Live](https://storybook.js.org/addons/storybook-addon-aria-live) or [Addon Aria Live on GitHub](https://github.com/AriPerkkio/storybook-addon-aria-live) - an utility tool for inspecting announcements of ARIA live regions
+* [Storybook-addon-a11y](https://storybook.js.org/addons/@storybook/addon-a11y): A Storybook addon which uses axe to improve the accessibility of UI components.
+* [Aria Live](https://storybook.js.org/addons/storybook-addon-aria-live): A utility tool for inspecting announcements of ARIA live regions
 
-## Automated testing & continuous integration {#automated-testing}
+## EPUB
+An electronic publication (EPUB) is an e-book file format and is a technical standard set by the International Digital Publishing Forum (IDPF). These are some helpful tools that can check for accessibility in this format. 
 
-*   [Cypress-axe](https://github.com/component-driven/cypress-axe) \
-Testing with [Cypress](https://www.cypress.io/) on GitHub
-*   [Jest-axe](https://github.com/nickcolley/jest-axe) \
-Testing with [Jest](https://jestjs.io/) on GitHub
-*   [Nightwatch aXe-core](https://github.com/rikki-iki/nightwatch-axe-core) \
-Testing with [Nightwatch](https://nightwatchjs.org/) on GitHub
+* [EPUBCheck](https://github.com/w3c/epubcheck): The official conformance checker for EPUB publications, maintained by the DAISY Consortium on behalf of W3C
+* [Ace, by DAISY](https://github.com/daisy/ace): Assists with the evaluation of accessibility features of EPUB publications and is also maintained by the DAISY Consortium. 
 
-## Simulators & building empathy {#simulators}
+## Evaluation
+Evaluation tools are software programs or online services that can help determine if your website content meets accessibility guidelines. These are the tools we recommend to help evaluate content at a site or page level. 
 
-*   [Metamatrix Web Disability Simulator Chrome Extension](https://chrome.google.com/webstore/detail/web-disability-simulator/olioanlbgbpmdlgjnnampnnlohigkjla) on [Metamatrix on GitHub](https://github.com/Metamatrix/web-disability-simulator) \
-Simulates color blindness, low vision, dyslexia and more.
-*   [Funkify Chrome Extension](https://www.funkify.org/) \
-Not open source, but a free version is available which simulates dyslexia and cognitive/motor/vision conditions.
-*   [Sim Daltonism](https://michelf.ca/projects/sim-daltonism/) - [sim-daltonism on GitHub](https://github.com/michelf/sim-daltonism/) \
-iOS/Mac app that lets you visualize colors as they are perceived with various types of color blindness.
-*   [A11Y: Color blindness empathy test](https://vinceumo.github.io/A11Y-Color-Blindness-Empathy-Test/) [on GitHub](https://github.com/vinceumo/A11Y-Color-Blindness-Empathy-Test-browser-extensions)
-Chrome/Firefox extension and a web-based tool created to help designers and developers better understand color blindness and visual imparity.
-*   [Color Oracle](https://colororacle.org/) - [Oracle-Mac on GitHub](https://github.com/nvkelso/color-oracle) & [Oracle-Windows on GitHub](https://github.com/nvkelso/color-oracle-java) \
-Color blindness simulator for Windows, Mac, and Linux.
+### Site level evaluation tools
+* [Domain Accessibility Audit](https://github.com/MSU-NatSci/DomainAccessibilityAudit): This web application by MSU College of Natural Science automatically crawls websites and checks for accessibility violations. It’s based on axe by Deque Systems, Inc.
+* [Pa11y](https://pa11y.org/): A popular command-line interface which loads web pages and highlights any accessibility issues it finds.
 
-## EPUB3 {#epub}
+### Page level evaluation tools
+* [Deque's axe Browser extension](https://www.deque.com/axe/browser-extensions/): Test web applications and identify accessibility issues.
+* [WebAim's WAVE](https://wave.webaim.org/): A suite of web evaluation tools that helps authors make their web content more accessible.
+* [Microsoft's Accessibility Insights](https://accessibilityinsights.io/): Provides quick checks with WCAG success criteria codes, as well as guided evaluation reports.
 
-* [EPUBCheck](https://github.com/w3c/epubcheck)
-* [Ace, by DAISY](https://github.com/daisy/ace)
+## PDF
+A portable document format (PDF) is a file format that helps share and print documents. They can be opened and viewed on any device. Although PDFs [should generally be avoided](https://accessibility.civicactions.com/playbook/pdf), it is possible to create files that meet section 508 compliance. These are some tools we recommend to make a PDF accessible. 
 
-## PDFs {#pdfs}
+* [PAVE](https://pave-pdf.org/): Automatically makes corrections to a PDF while leaving the visual representation unchanged. 
+* [VeraPDF](https://verapdf.org/home/): Will evaluate all parts of a PDF and conformance levels. 
+* [simplA11yPDFCrawler](https://github.com/accessibility-luxembourg/simplA11yPDFCrawler): Analyzes PDF documents and detects accessibility issues. 
 
-### Accessibility checkers
+## Simulators that help build empathy
+When working to make content accessible, it can be helpful to learn how people with disabilities experience the web. These simulators help develop an understanding of how to make content accessible. 
 
-*   [PAC 3](https://www.access-for-all.ch/en/pdf-accessibility-checker.html)
-*   [PAVE](https://pave-pdf.org/) 
-*   [VeraPDF](https://github.com/verapdf)
-*   [simplA11yPDFCrawler](https://github.com/accessibility-luxembourg/simplA11yPDFCrawler)
+* [A11Y: Color blindness empathy test](https://vinceumo.github.io/A11Y-Color-Blindness-Empathy-Test/): A web-based tool created to help designers and developers better understand color blindness and visual imparity.
+* [Funkify Chrome Extension](https://www.funkify.org/): Not open source, but a free version is available which simulates dyslexia, different cognitive conditions, and vision impairments.
+* [Metamatrix Web Disability Simulator Chrome Extension](https://chrome.google.com/webstore/detail/web-disability-simulator/olioanlbgbpmdlgjnnampnnlohigkjla): Simulates color blindness, low vision, dyslexia and more.
 
-### Parsing/manipulating PDFs (not a11y-focused)
+## Resources
+These are a few other lists that contain helpful accessibility tools.
 
-*   [PDF Parser](https://www.pdfparser.org/)
+* [Accessibility Lists of Lists](https://github.com/accessibility/a11y-lists-of-lists)
+* [Web Accessibility Evaluation Tools List](https://www.w3.org/WAI/ER/tools/)
 
-## Other lists of tools {#other-lists-of-tools}
+## Next Steps
+When you are ready to learn more, here are some further guides and resources that may help:
 
-*   [Donna Bungard's An Incomplete List of Tools for Accessibility](https://docs.google.com/spreadsheets/d/1WEujpG4RNEGTcBHOwvVYsixAZPnhkcnJujVoLdMZM4o/edit?disco=AAAALK-X_iI&usp=comment_email_discussion&usp_dm=false&ts=600ee792)
-Google spreadsheet tracking the feature sets and various aspects of several popular tools.
-*   [Paul J Adam's Resources List](https://pauljadam.com/resources.html)
-*   [Accessibility Lists of Lists](https://github.com/accessibility/a11y-lists-of-lists#development-and-testing-resources)
-*   [Web Accessibility Evaluation Tools List](https://www.w3.org/WAI/ER/tools/)
+* [Invest in accessibility training](https://accessibility.civicactions.com/playbook/training)
+* [Join the global accessibility community](https://accessibility.civicactions.com/playbook/community)
+* [Learning resources](https://accessibility.civicactions.com/guide/resources)
 
-## Videos {#videos}
-
-*   [WebAim's WAVE](https://webaim.org/blog/wave-webinar-and-intro-video/) \
-Introduction to the WAVE Toolbar.
-*   [Microsoft's Accessibility Insights](https://www.youtube.com/channel/UCQHGtwrr3cZxC-UutftMMbw) \
-Introductory Videos about use of Accessibility Insights.
-*   [Deque's Axe](https://www.youtube.com/watch?v=f_pW2EpwqG8) \
-Get started with using axe.
