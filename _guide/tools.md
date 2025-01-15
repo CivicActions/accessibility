@@ -15,9 +15,9 @@ Digital accessibility tools can help ensure that the content you create is meeti
 Screen readers help people who are blind or visually impaired read text on a screen. We recommend using these common screen readers and testing your content with multiple screen readers and devices. 
 
 * [JAWS](https://www.freedomscientific.com/products/software/jaws/) (Job Access With Speech): This screen reader provides speech and Braille output for Windows. It requires a paid license to run. 
-* [NVDA](https://www.nvaccess.org/about-nvda/): (Non-Visual Desktop Access): This is another common screen reader for Windows that’s free and doesn’t require a license. 
+* [NVDA](https://www.nvaccess.org/about-nvda/): (Non-Visual Desktop Access): This is another common screen reader for Windows that's free and doesn't require a license. 
 * [Talkback](https://support.google.com/accessibility/android/answer/6283677?hl=en): A Google screen reader included on Android devices. All Android devices come with this screen reader by default
-* [VoiceOver](https://www.apple.com/accessibility/vision/): While not open source, VoiceOver is a screen reader that’s a default on all Apple devices (desktop and mobile) and gives descriptions in braille.
+* [VoiceOver](https://www.apple.com/accessibility/vision/): While not open source, VoiceOver is a screen reader that's a default on all Apple devices (desktop and mobile) and gives descriptions in braille.
 
 Learn more about [screen reader testing](https://accessibility.civicactions.com/playbook/AT).
 
@@ -75,7 +75,7 @@ An electronic publication (EPUB) is an e-book file format and is a technical sta
 Evaluation tools are software programs or online services that can help determine if your website content meets accessibility guidelines. These are the tools we recommend to help evaluate content at a site or page level. 
 
 ### Site level evaluation tools
-* [Domain Accessibility Audit](https://github.com/MSU-NatSci/DomainAccessibilityAudit): This web application by MSU College of Natural Science automatically crawls websites and checks for accessibility violations. It’s based on axe by Deque Systems, Inc.
+* [Domain Accessibility Audit](https://github.com/MSU-NatSci/DomainAccessibilityAudit): This web application by MSU College of Natural Science automatically crawls websites and checks for accessibility violations. It's based on axe by Deque Systems, Inc.
 * [Pa11y](https://pa11y.org/): A popular command-line interface which loads web pages and highlights any accessibility issues it finds.
 
 ### Page level evaluation tools
