@@ -16,7 +16,7 @@ Creating modern digital content involves a wide array of specialized roles, each
 For each role, we outline responsibilities and recommend tools that support accessibility practices. This guide aims to highlight how every role can contribute to accessibility, fostering collaboration toward more inclusive digital experiences.
 
 ## Developer
-Developers play a critical part in adding accessibility into the product development lifecycle. They’re responsible for implementing best practices and ensuring the product is shipped with accessibility in mind. They bring a diverse set of skills depending on their area of focus. Developers can create interfaces, build robust back end systems, and test their work to make sure it meets quality standards. Accessibility specialists work alongside these roles, guiding technical solutions and ensuring alignment with accessibility guidelines.
+Developers play a critical part in adding accessibility into the product development lifecycle. They're responsible for implementing best practices and ensuring the product is shipped with accessibility in mind. They bring a diverse set of skills depending on their area of focus. Developers can create interfaces, build robust back end systems, and test their work to make sure it meets quality standards. Accessibility specialists work alongside these roles, guiding technical solutions and ensuring alignment with accessibility guidelines.
 
 [Learn more about developer roles](https://accessibility.civicactions.com/roles/developer)
 
@@ -52,7 +52,7 @@ The practice of design has a vital role to play in moving accessibility thinking
 * [Accessibility for visual designers](https://digital.gov/guides/accessibility-for-teams/visual-design/#content-start)
 
 ## Executive
-Executives play a pivotal role in driving accessibility as a strategic priority across an organization. From providing the vision to setting expectations and allocating resources, leaders at all levels influence how accessibility is integrated into processes and culture. By championing accessibility, executives can foster innovation, expand market reach, and demonstrate their organization’s commitment to equity.
+Executives play a pivotal role in driving accessibility as a strategic priority across an organization. From providing the vision to setting expectations and allocating resources, leaders at all levels influence how accessibility is integrated into processes and culture. By championing accessibility, executives can foster innovation, expand market reach, and demonstrate their organization's commitment to equity.
 
 [Learn more about executive roles](https://accessibility.civicactions.com/roles/executive)
 
@@ -82,7 +82,7 @@ Product and project managers are key to ensuring accessibility is prioritized th
 * [Accessibility manual for delivery managers](https://accessibility-manual.dwp.gov.uk/guidance-for-your-job-role/delivery-manager)
 
 ## Operations
-Operations roles are essential in supporting accessibility by providing the insights and strategies needed to drive inclusive outcomes. They can uncover patterns and insights to measure the impact of accessibility efforts, evaluate how well digital products meet accessibility standards, and highlight areas for improvement. Treating accessibility as a quality assurance factor is a great way to integrate accessibility and inclusion across an organization’s activities. These roles ensure that accessibility is not just a goal but a measurable and sustainable practice.
+Operations roles are essential in supporting accessibility by providing the insights and strategies needed to drive inclusive outcomes. They can uncover patterns and insights to measure the impact of accessibility efforts, evaluate how well digital products meet accessibility standards, and highlight areas for improvement. Treating accessibility as a quality assurance factor is a great way to integrate accessibility and inclusion across an organization's activities. These roles ensure that accessibility is not just a goal but a measurable and sustainable practice.
 
 [Learn more about operations roles](https://accessibility.civicactions.com/roles/operations)
 
