@@ -9,10 +9,10 @@ author: mike-gifford
 ![The white house from the front lawn.](https://cdn-
 images-1.medium.com/max/1024/1*V8aSWXLIN2m6Uaf2zwheAQ.jpeg)
 
-With the inauguration on January 20, the WhiteHouse.gov team released a new
+With the inauguration on January 20, 2021, the [Biden Administration's] WhiteHouse.gov team released a new
 website. A noticeable and well received feature of the new site is that it
 once again has an [accessibility
-statement](https://www.whitehouse.gov/accessibility/) which is linked in the
+statement](https://bidenwhitehouse.archives.gov/accessibility/) which is linked in the
 footer of every page — a best practice that demonstrates this administration's
 commitment to serving all Americans of all abilities.
 
