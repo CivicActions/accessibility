@@ -23,7 +23,7 @@ The [CivicActions accessibility statement](https://civicactions.com/accessibilit
 
 ## Why provide an accessibility statement?
 
-In some cases there is a legal requirement, which is a very compelling reason to have one. For example, all US Federal agencies must maintain an accessibility statement with certain information as defined by the [Office of Management and Budget (OMB) memorandum](https://www.whitehouse.gov/omb/management/ofcio/m-24-08-strengthening-digital-accessibility-and-the-management-of-section-508-of-the-rehabilitation-act/) from December 2023.
+In some cases there is a legal requirement, which is a very compelling reason to have one. For example, all US Federal agencies must maintain an accessibility statement with certain information as defined by the [Office of Management and Budget (OMB) memorandum](https://bidenwhitehouse.archives.gov/omb/management/ofcio/m-24-08-strengthening-digital-accessibility-and-the-management-of-section-508-of-the-rehabilitation-act/) from December 2023.
 
 However, even if there isn't a legally mandated requirement, providing an accessibility statement on your website shows site visitors that you value accessibility as a  social responsibility and that providing access to information is a priority for your organization.
 

@@ -19,7 +19,7 @@ abilities enables more of society to access essential services. It makes for a
 more inclusive world.
 
 Creating accessible websites is a [growing
-priority](https://www.whitehouse.gov/accessibility/) within the government.
+priority](https://bidenwhitehouse.archives.gov/accessibility/) within the [Biden Administration's] government.
 But accessibility goes beyond [compliance
 requirements](https://www.section508.gov/about-us). It's something we can
 consider at every step of a service, holistically across government, to
