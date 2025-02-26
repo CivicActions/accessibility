@@ -48,6 +48,20 @@ We want your input. We need your help to make this resource better. Please visit
 
 If you want to replicate this site, you are free to do so. It is a [Jekyll](https://jekyllrb.com/) site sitting on [GitHub Pages](https://pages.github.com/). There are lots of resources that can help you learn how to fork this project and build on it. 
 
+## Draft Governance Model
+
+```mermaid
+graph TD;
+A["Legal System"]-->|Legislation| B["CivicActions"];
+B-->|Bylaws| C["Executive Director"];
+C-->D[Accessibility Lead];
+D-->|GOVERNANCE.md| E["Maintainers"];
+D-->|OWNERS.YAML| F["Code owners"];
+D-->|GOVERNANCE.md| G["Reviewers"];
+D-->|COC TEAM CHARTER| H["CoC Team"];
+H-->|Code_of_Conduct.md| I["Contributors"];
+H-->|CONTRIBUTING.MD| I;
+```
 
 ## Contacts
 
