@@ -51,7 +51,7 @@ If you want to replicate this site, you are free to do so. It is a [Jekyll](http
 ## Draft Governance Model
 
 ```mermaid
-graph Governance;
+graph TD;
 A["Legal System"]-->|Legislation| B["CivicActions"];
 B-->|Bylaws| C["Executive Director"];
 C-->D[Accessibility Lead];
