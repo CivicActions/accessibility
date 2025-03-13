@@ -113,5 +113,5 @@ Procurement plays a vital role in advancing accessibility by ensuring that produ
 ## Recommended reading
 * [Accessibility Program Fundamentals: Choosing the right accessibility metrics](https://www.deque.com/blog/accessibility-program-fundamentals-choosing-the-right-accessibility-metrics/)
 * [Accessibility for teams – Digital.gov](https://digital.gov/guides/accessibility-for-teams/)
-* [Accessibility Responsibility Breakdown - WAI-Engage](https://www.w3.org/community/wai-engage/wiki/Accessibility_Responsibility_Breakdown)
+* [W3C's Accessibility Roles and Responsibilities Mapping (ARRM)](https://www.w3.org/WAI/planning/arrm/)
 
