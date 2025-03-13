@@ -13,7 +13,7 @@ roles:
 
 Creating modern digital content involves a wide array of specialized roles, each contributing to the development process in unique ways. While several efforts have been made to define and categorize these roles, our approach builds on those frameworks by expanding the scope to include roles that are sometimes overlooked.
 
-For each role, we outline responsibilities and recommend tools that support accessibility practices. This guide aims to highlight how every role can contribute to accessibility, fostering collaboration toward more inclusive digital experiences.
+For each role, we outline responsibilities and recommend tools that support accessibility practices. This guide aims to highlight how every role can contribute to accessibility, fostering collaboration toward more inclusive digital experiences. We are happy to announce a draft of [Accessibility Roles and Responsibilities Mapping (ARRM)](https://www.w3.org/WAI/planning/arrm/) has been released by the [Web Accessibility Initiative](https://www.w3.org/WAI/).
 
 ## Developer
 Developers play a critical part in adding accessibility into the product development lifecycle. They're responsible for implementing best practices and ensuring the product is shipped with accessibility in mind. They bring a diverse set of skills depending on their area of focus. Developers can create interfaces, build robust back end systems, and test their work to make sure it meets quality standards. Accessibility specialists work alongside these roles, guiding technical solutions and ensuring alignment with accessibility guidelines.
