@@ -24,8 +24,8 @@ Ready to learn more about accessibility? Whether you're just starting or already
 At CivicActions we encourage all employees to start with the W3C's EdX course. It provides a solid introduction to the topic for anyone whose work relates to the creation of digital content and products. The additional courses listed here are well-regarded in the United States, and IAAP's CPACC and WAS courses are internationally recognized.
 
 * [W3Cx: Introduction to Web Accessibility](https://www.edx.org/learn/web-accessibility/the-world-wide-web-consortium-w3c-introduction-to-web-accessibility)
-* [Certified Professional in Accessibility Core Competencies (CPACC)](https://www.accessibilityassociation.org/s/certified-professional)
-* [Web Accessibility Specialist (WAS)](https://www.accessibilityassociation.org/s/wascertification)
+* [Certified Professional in Accessibility Core Competencies (CPACC)](https://www.accessibilityassociation.org/cpacc)
+* [Web Accessibility Specialist (WAS)](https://www.accessibilityassociation.org/was-exam)
 * [DHS's Section 508 Trusted Tester Conformance Test Process](https://www.dhs.gov/trusted-tester)
 
 ## Champions program for CivicActions employees
