@@ -1,5 +1,3 @@
-# How to work on to the Accessibility site
-
 The site is using the [USWDS theme](https://designsystem.digital.gov/) built with [Jekyll](https://jekyllrb.com/).
 ## How we work
 We as a team have created a [board](https://github.com/CivicActions/accessibility/projects/1) where we can collaborate our work. Here we can track what work is in the backlog or in progress. 
