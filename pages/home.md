@@ -26,7 +26,8 @@ graphics:
       src: /assets/img/circles/git-pull-request.png
       alt: "Project board"
     title: Project board
-    description: [What we're working on](https://github.com/CivicActions/accessibility/projects/1).
+    description: |
+      [What we're working on](https://github.com/CivicActions/accessibility/projects/1).
   - image:
       src: /assets/img/circles/cpu.png
       alt: "Contribute"
