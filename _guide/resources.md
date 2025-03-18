@@ -40,7 +40,7 @@ General and digital-specific accessibility books we recommend.
 ## Newsletters {#newsletters}
 
 *   [A11yweekly.com](https://a11yweekly.com/) by David A. Kennedy
-*   [Accessibility Matters Newsletter](https://www.accessibilityassociation.org/content.asp?contentid=167) - by the IAAP
+*   [Accessibility Matters Newsletter](https://www.accessibilityassociation.org/accessibility-matters-newsletter) - by the IAAP
 *   [Microassist's Accessibility in the News](https://www.microassist.com/digital-access/news/) -  by Jack McElaney
 *   More available from [WebAxe who maintains a terrific list](https://www.webaxe.org/digital-accessibility-newsletters/)
 
