@@ -7,7 +7,7 @@ services:
   #   3. Routes requests to the preview URL to this service
   apache:
     # Use the available version of Apache by not specifying a version
-    image: tugboatqa/php:apache
+    image: tugboatqa/httpd
 
     # A set of commands to run while building this service
     commands:
@@ -25,7 +25,7 @@ services:
         - rm -rf /var/lib/apt/lists/* /tmp/* /var/tmp/*
 
         # Turn on URL rewriting.
-        - a2enmod rewrite
+        - sed -i -e 's/^#\(LoadModule .*mod_rewrite.so\)/\1/' conf/httpd.conf
 
       build:
         # Check for updates to Jekyll
@@ -39,10 +39,9 @@ services:
         - ln -snf "${TUGBOAT_ROOT}"/_site "${DOCROOT}"
 
         # Find and replace the main site domain.
-        - cd "${TUGBOAT_ROOT}"/_site
-        - grep -RiIl "accessibility\.civicactions\.com" | xargs sed -i 's/accessibility\.civicactions\.com/${TUGBOAT_PREVIEW_REF}-${TUGBOAT_SERVICE_TOKEN}\.tugboatqa\.com/g'
+        - grep -RiIl "accessibility\.civicactions\.com" _site/. | xargs sed -i "s/accessibility\.civicactions\.com/${TUGBOAT_PREVIEW_REF}-${TUGBOAT_SERVICE_TOKEN}\.tugboatqa\.com/g"
 
         # Inject .htaccess file to mimic GitHub pages behavior with URLs.
-        - echo "RewriteEngine On" >> .htaccess
-        - echo "RewriteCond %{DOCUMENT_ROOT}%{REQUEST_URI}.html -f" >> .htaccess
-        - echo "RewriteRule "'!'"\.\w{2,4}$ %{REQUEST_URI}.html [L]" >> .htaccess
+        - echo "RewriteEngine On" > _site/.htaccess
+        - echo "RewriteCond %{DOCUMENT_ROOT}%{REQUEST_URI}.html -f" >> _site/.htaccess
+        - echo "RewriteRule "'!'"\.\w{2,4}$ %{REQUEST_URI}.html [L]" >> _site/.htaccess
