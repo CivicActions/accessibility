@@ -1,6 +1,10 @@
 ---
 layout: page
 title: How to work on the Accessibility site
+permalink: /documentation
+redirect_from:
+- /docs/documentation
+- /docs/documentation.html
 ---
 
 The site is using the [USWDS theme](https://designsystem.digital.gov/) built with [Jekyll](https://jekyllrb.com/).
