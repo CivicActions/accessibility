@@ -25,7 +25,7 @@ services:
         - rm -rf /var/lib/apt/lists/* /tmp/* /var/tmp/*
 
         # Turn on URL rewriting.
-        - sed -i -e 's/^#\(LoadModule .*mod_rewrite.so\)/\1/' conf/httpd.conf
+        #- sed -i -e 's/^#\(LoadModule .*mod_rewrite.so\)/\1/' conf/httpd.conf
 
       build:
         # Check for updates to Jekyll
