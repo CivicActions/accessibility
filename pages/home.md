@@ -26,6 +26,7 @@ graphics:
       src: /assets/img/circles/git-pull-request.png
       alt: "Project board"
     title: Project board
+    # To start description with a link it requires using '|' and new line.
     description: |
       [What we're working on](https://github.com/CivicActions/accessibility/projects/1).
   - image:
