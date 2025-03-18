@@ -19,7 +19,7 @@ hero:
 
 tagline: We're open.
 intro: |
-  CivicActions Accessibility is an open, agile project and community. We work iteratively, in public. [Learn more.](open)
+  CivicActions Accessibility is an open, agile project and community. We work iteratively, in public. [Learn more about our open practices.](open)
 
 graphics:
   - image:
