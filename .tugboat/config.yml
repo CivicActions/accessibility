@@ -24,6 +24,9 @@ services:
         - apt-get clean
         - rm -rf /var/lib/apt/lists/* /tmp/* /var/tmp/*
 
+        # Turn on URL rewriting.
+        - a2enmod rewrite
+
       build:
         # Check for updates to Jekyll
         - bundle update
