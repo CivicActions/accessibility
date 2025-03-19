@@ -19,14 +19,16 @@ hero:
 
 tagline: We're open.
 intro: |
-  CivicActions Accessibility is an open, agile project and community. We work iteratively, in public. [Learn more.](open)
+  CivicActions Accessibility is an open, agile project and community. We work iteratively, in public. [Learn more about our open practices.](open)
 
 graphics:
   - image:
       src: /assets/img/circles/git-pull-request.png
       alt: "Project board"
     title: Project board
-    description: What we're [working on](https://github.com/CivicActions/accessibility/projects/1).
+    # To start description with a link it requires using '|' and new line.
+    description: |
+      [What we're working on](https://github.com/CivicActions/accessibility/projects/1).
   - image:
       src: /assets/img/circles/cpu.png
       alt: "Contribute"
