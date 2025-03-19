@@ -13,6 +13,9 @@ services:
     commands:
       # Commands that set up the basic preview infrastructure
       init:
+        # Turn on URL rewriting.
+        - sed -i 's/#LoadModule rewrite_module modules\/mod_rewrite\.so/LoadModule rewrite_module modules\/mod_rewrite\.so/' /usr/local/apache2/conf/httpd.conf
+
         # Check for updates to apt-get, and then use it to install Ruby
         - apt-get update
         - apt-get install ruby ruby-dev
@@ -23,9 +26,6 @@ services:
         # Clean up apt artifacts to keep the Preview small
         - apt-get clean
         - rm -rf /var/lib/apt/lists/* /tmp/* /var/tmp/*
-
-        # Turn on URL rewriting.
-        #- sed -i -e 's/^#\(LoadModule .*mod_rewrite.so\)/\1/' conf/httpd.conf
 
       build:
         # Check for updates to Jekyll
