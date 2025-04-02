@@ -42,8 +42,9 @@ services:
         # Find and replace the main site domain.
         - grep -RiIl "accessibility\.civicactions\.com" _site/. | xargs sed -i "s/accessibility\.civicactions\.com/${TUGBOAT_PREVIEW_REF}-${TUGBOAT_SERVICE_TOKEN}\.tugboatqa\.com/g"
 
-        # Inject .htaccess file to mimic GitHub pages behavior with URLs.
-        # Solution from https://serverfault.com/questions/989333/using-apache-rewrite-rules-in-htaccess-to-remove-html-causing-a-500-error.
+        # Error occurred when implementing Tugboat preview. 
+        # Solution: Inject .htaccess file to mimic GitHub pages behavior with URLs.
+        # Solution from: https://serverfault.com/questions/989333/using-apache-rewrite-rules-in-htaccess-to-remove-html-causing-a-500-error.
         - echo "RewriteEngine On" > _site/.htaccess
         - echo "RewriteCond %{DOCUMENT_ROOT}%{REQUEST_URI}.html -f" >> _site/.htaccess
         - echo "RewriteRule "'!'"\.\w{2,4}$ %{REQUEST_URI}.html [L]" >> _site/.htaccess
