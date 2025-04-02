@@ -12,7 +12,7 @@ Ryan](https://www.linkedin.com/in/emilycryan/)
 ### What 21st Century IDEA Means to CivicActions
 
 Our team has embraced many of the key elements of [The 21st Century Integrated
-Digital Experience Act (IDEA)](https://digital.gov/resources/delivering-digital-first-public-experience/#what-does-it-mean-to-modernize-websites-2),
+Digital Experience Act (IDEA)](https://digital.gov/resources/delivering-digital-first-public-experience/),
 which became a US law 5 years ago (December 2018). This was a bipartisan act
 to encourage government agencies to build a framework and requirements for a
 digital-first public experience, with an emphasis on accessibility, building
@@ -32,7 +32,7 @@ is a handful of strategic goals calling on agencies to:
 
 Additionally, the Office of Management and Budget (OMB) Memo M-23–22,
 [Delivering a Digital-First Public
-Experience](https://www.whitehouse.gov/omb/management/ofcio/delivering-a-digital-first-public-experience/), came out this past fall (September 2023),
+Experience](https://web.archive.org/web/20231216185448/https://www.whitehouse.gov/omb/management/ofcio/delivering-a-digital-first-public-experience/), came out this past fall (September 2023),
 which expanded on the 21st Century IDEA act. The OMB memo clarified what the
 21st Century IDEA act meant by the concept of _modernization_. The OMB memo
 affords greater insight into what OMB and the federal government expects
@@ -90,8 +90,7 @@ gathering is done in an accessible and usable manner, creating time-saving
 data collection methods for agencies and reducing mistakes and processing
 time.
 
-### Transitioning to standardized and centralized shared services (including
-open source)
+### Transitioning to standardized and centralized shared services (including open source)
 
 CivicActions has extensive experience in open source communities, like the
 USWDS. We are connected into the USWDS community, and our teams contribute to
@@ -154,7 +153,7 @@ encouraged to do the following:
 
 The guidance from the OMB re-enforces the need for government agencies to
 focus more on accessibility. The [Spring 2023 Section 508 Program Maturity
-Report](https://assets.section508.gov/files/reports/2023%20Spring%20Section%20508%20Program%20Maturity%20Report%20-%20Executive%20Summary.pdf),
+Report](https://web.archive.org/web/20240604232050/https://assets.section508.gov/files/reports/2023%20Spring%20Section%20508%20Program%20Maturity%20Report%20-%20Executive%20Summary.pdf),
 demonstrated accessibility is not being consistently well managed across
 government agencies. Citizens with disabilities should be able to expect that
 they can engage with government agencies. This has been understood as a right

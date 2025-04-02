@@ -53,7 +53,7 @@ standards and our plan is to work on reported issues in quarterly epics (an
 epic is a large chunk of work that is segmented into smaller tasks, used to
 organize tasks and create hierarchy in the development process). While
 automation only catches about 33% — 50% issues, those are still important to
-fix. Following the[ axe issue impact](https://github.com/dequelabs/axe-core/blob/develop/doc/issue_impact.md), the team focused first on critical and
+fix. Following the [axe issue impact](https://github.com/dequelabs/axe-core/blob/develop/doc/issue_impact.md), the team focused first on critical and
 serious issues. The team also focused on moderate/minor issues that are common
 to many pages where possible.
 
@@ -218,7 +218,7 @@ coding and design process, success can also be measured by what we are not
 hearing; namely bug reports and complaints regarding usability. In that
 regard, to date, our efforts have proven to be successful.
 
-* _Zero accessibility automated issues doesn't mean the site is without barriers, but it does mean 30% to 50% of potential issues on the URLs we test are clear._
+\* _Zero accessibility automated issues doesn't mean the site is without barriers, but it does mean 30% to 50% of potential issues on the URLs we test are clear._
 
 ![](https://medium.com/_/stat?event=post.clientViewed&referrerSource=full_rss&postId=38e7cf3cc52a)
 
