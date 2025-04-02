@@ -6,16 +6,13 @@ author: civicactions
 ---
 By Maggie Wachs
 
-![a person types on a laptop](https://cdn-
-images-1.medium.com/max/1024/1*-OsVJ4EdFbrGjd9fM344OQ.jpeg)
+![a person types on a laptop](https://cdn-images-1.medium.com/max/1024/1*-OsVJ4EdFbrGjd9fM344OQ.jpeg)
 
 When we talk about testing websites for accessibility, one of the most
 frequently cited statistics is that automated testing discovers
-[30%](https://www.levelaccess.com/blog/automated-accessibility-testing-tools-
-how-much-do-scans-catch/) to 60% of the errors we need to address. (Aside:
+[30%](https://www.levelaccess.com/blog/automated-accessibility-testing-tools-how-much-do-scans-catch/) to 60% of the errors we need to address. (Aside:
 that discrepancy seems to be due to how you define the number of errors, [by
-type or frequency](https://www.deque.com/automated-accessibility-testing-
-coverage/).) No matter which number is cited, this means a significant number
+type or frequency](https://www.deque.com/automated-accessibility-testing-coverage/).) No matter which number is cited, this means a significant number
 of accessibility violations, around 40–70%, still require an actual human user
 to verify.
 
@@ -25,8 +22,7 @@ the Centers for Medicare and Medicaid (CMS), has increased our manual testing
 efforts. With all of this in mind, I thought it would be interesting to
 quantify how much effort we spent verifying accessibility issues via automated
 testing, manual testing, or a combination of both — especially as this relates
-to concerns raised in the recently published [Government-wide Section 508
-Assessment](https://www.section508.gov/manage/section-508-assessment/#fn2). A
+to concerns raised in the recently published [Government-wide Section 508 Assessment](https://www.section508.gov/manage/section-508-assessment/#fn2). A
 few of the
 [criteria](https://www.section508.gov/manage/section-508-assessment/criteria-01/)
 directly address manual testing efforts:
@@ -64,13 +60,10 @@ process. So, win-win.
 
 Then I mapped the testing method to each criterion in this matrix (see
 Appendix A: Required testing methods by WCAG criteria), based on a [similar
-matrix published by Usablenet](https://blog.usablenet.com/automated-wcag-
-testing-is-not-enough-for-web-accessibility-ada-compliance) and the [axe-core
-rule definitions](https://github.com/dequelabs/axe-core/blob/develop/doc/rule-
-descriptions.md). Each axe-core rule is assigned an Issue Type, which notes
+matrix published by Usablenet](https://blog.usablenet.com/automated-wcag-testing-is-not-enough-for-web-accessibility-ada-compliance) and the [axe-core
+rule definitions](https://github.com/dequelabs/axe-core/blob/develop/doc/rule-descriptions.md). Each axe-core rule is assigned an Issue Type, which notes
 whether a rule can result in failure (a clear accessibility violation), or if
-it needs review, which [Deque defines as](https://docs.deque.com/devtools-
-html/4.0.0/en/needs-review-incomplete), "there may or not be an accessibility
+it needs review, which [Deque defines as](https://docs.deque.com/devtools-html/4.0.0/en/needs-review-incomplete), "there may or not be an accessibility
 issue and more investigation is required." If an axe-core rule's issue type
 includes "needs review," that rule, and by extension the WCAG criteria tested,
 may require manual testing.
@@ -87,8 +80,7 @@ Of those:
 
 ![Pie chart with accessibility issues by testing method, Manual tests
 \(31.3%\), Automated tests \(5.2%\) and manual + automated tests
-\(63.5%\)](https://cdn-
-images-1.medium.com/max/1024/1*UbQcDJBrMWtb4wgBqxv2gA.jpeg)
+\(63.5%\)](https://cdn-images-1.medium.com/max/1024/1*UbQcDJBrMWtb4wgBqxv2gA.jpeg)
 
 ### Summary
 
@@ -114,8 +106,7 @@ continue to be a top goal for our accessibility practice.
 * * *
 
 [Measuring the Impact of Manual Accessibility
-Testing](https://medium.com/civicactions/measuring-the-impact-of-manual-
-accessibility-testing-e052a58d9d16) was originally published in
+Testing](https://medium.com/civicactions/measuring-the-impact-of-manual-accessibility-testing-e052a58d9d16) was originally published in
 [CivicActions](https://medium.com/civicactions) on Medium, where people are
 continuing the conversation by highlighting and responding to this story.
 

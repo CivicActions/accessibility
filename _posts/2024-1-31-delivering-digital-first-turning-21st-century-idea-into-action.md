@@ -7,14 +7,12 @@ author: civicactions
 By [Mike Gifford](https://www.linkedin.com/in/mgifford/) and [Emily
 Ryan](https://www.linkedin.com/in/emilycryan/)
 
-![Capitol building with American flag](https://cdn-
-images-1.medium.com/max/1024/1*Gjq0z86HnUQR33ezNnxFog.jpeg)
+![Capitol building with American flag](https://cdn-images-1.medium.com/max/1024/1*Gjq0z86HnUQR33ezNnxFog.jpeg)
 
 ### What 21st Century IDEA Means to CivicActions
 
 Our team has embraced many of the key elements of [The 21st Century Integrated
-Digital Experience Act (IDEA)](https://digital.gov/resources/delivering-
-digital-first-public-experience/#what-does-it-mean-to-modernize-websites-2),
+Digital Experience Act (IDEA)](https://digital.gov/resources/delivering-digital-first-public-experience/#what-does-it-mean-to-modernize-websites-2),
 which became a US law 5 years ago (December 2018). This was a bipartisan act
 to encourage government agencies to build a framework and requirements for a
 digital-first public experience, with an emphasis on accessibility, building
@@ -34,8 +32,7 @@ is a handful of strategic goals calling on agencies to:
 
 Additionally, the Office of Management and Budget (OMB) Memo M-23–22,
 [Delivering a Digital-First Public
-Experience](https://www.whitehouse.gov/omb/management/ofcio/delivering-a-
-digital-first-public-experience/), came out this past fall (September 2023),
+Experience](https://www.whitehouse.gov/omb/management/ofcio/delivering-a-digital-first-public-experience/), came out this past fall (September 2023),
 which expanded on the 21st Century IDEA act. The OMB memo clarified what the
 21st Century IDEA act meant by the concept of _modernization_. The OMB memo
 affords greater insight into what OMB and the federal government expects
@@ -186,8 +183,7 @@ opportunity to talk about what we can do together.
 * * *
 
 [Delivering Digital First: Turning 21st Century IDEA into
-Action](https://medium.com/civicactions/delivering-digital-first-turning-21st-
-century-idea-into-action-f6aea8e3a6f0) was originally published in
+Action](https://medium.com/civicactions/delivering-digital-first-turning-21st-century-idea-into-action-f6aea8e3a6f0) was originally published in
 [CivicActions](https://medium.com/civicactions) on Medium, where people are
 continuing the conversation by highlighting and responding to this story.
 

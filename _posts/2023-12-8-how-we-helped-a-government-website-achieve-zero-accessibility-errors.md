@@ -4,12 +4,10 @@ title: "How We Helped a Government Website Achieve Zero Accessibility Errors*"
 date: 2023-12-8 08:00:00 -0800
 author: civicactions
 ---
-![Blue abstract fiberoptics](https://cdn-
-images-1.medium.com/max/1024/1*qqsBbdQRCiCDw8Kr5GKu9w.jpeg)
+![Blue abstract fiberoptics](https://cdn-images-1.medium.com/max/1024/1*qqsBbdQRCiCDw8Kr5GKu9w.jpeg)
 
 At CivicActions we have
-[pledged](https://accessibility.civicactions.com/posts/CivicActions-
-Accessibility-Pledge) to advance our accessibility maturity to provide
+[pledged](https://accessibility.civicactions.com/posts/CivicActions-Accessibility-Pledge) to advance our accessibility maturity to provide
 critical human services to as many people as possible so that they can get the
 help they need, as well allowing service providers to readily engage with
 their users. The commitment here is twofold (at least). Firstly, allow users
@@ -55,8 +53,7 @@ standards and our plan is to work on reported issues in quarterly epics (an
 epic is a large chunk of work that is segmented into smaller tasks, used to
 organize tasks and create hierarchy in the development process). While
 automation only catches about 33% — 50% issues, those are still important to
-fix. Following the[ axe issue impact](https://github.com/dequelabs/axe-
-core/blob/develop/doc/issue_impact.md), the team focused first on critical and
+fix. Following the[ axe issue impact](https://github.com/dequelabs/axe-core/blob/develop/doc/issue_impact.md), the team focused first on critical and
 serious issues. The team also focused on moderate/minor issues that are common
 to many pages where possible.
 
@@ -122,8 +119,8 @@ to fix them, we identified the following issues that went unaddressed:
   * [Color-contrast](https://dequeuniversity.com/rules/axe/4.6/color-contrast): we skipped this because the system theme uses background images in CSS. So we get a lot of reports of color contrast reports requiring manual review from both tools.
   * [Nested-interactive](https://dequeuniversity.com/rules/axe/4.6/nested-interactive): we skipped this because of the use of jQuery UI tabs that rely on nested implementation to work. We did confirm manually that the tabs are accessible with a keyboard.
   * [Aria-required-children](https://dequeuniversity.com/rules/axe/4.7/aria-required-children?application=AxeChrome): similar to the previous one, jQuery UI accordions creates HTML elements with non-standard aria roles, throwing this error. We did confirm manually that the tabs are accessible with a keyboard.
-  * [Duplicate-](https://dequeuniversity.com/rules/axe/4.7/duplicate-id?application=AxeChrome)ID, [duplicate-id-active](https://dequeuniversity.com/rules/axe/4.7/duplicate-id-active?application=AxeChrome),[ duplicate-id-aria](https://dequeuniversity.com/rules/axe/4.7/duplicate-id-aria?application=AxeChrome): we skipped these on a few pages because in some cases making the ids unique caused existing features to not work as expected.
-  * [Heading-order](https://dequeuniversity.com/rules/axe/4.7/heading-order?application=AxeChrome): in[ ](https://globalnet.atlassian.net/browse/RD-7667)a future ticket, we will tackle adjusting header order for multiple pages (see challenges for details).
+  * [Duplicate-ID](https://dequeuniversity.com/rules/axe/4.7/duplicate-id?application=AxeChrome), [duplicate-id-aria](https://dequeuniversity.com/rules/axe/4.7/duplicate-id-aria?application=AxeChrome): we skipped these on a few pages because in some cases making the ids unique caused existing features to not work as expected.
+  * [Heading-order](https://dequeuniversity.com/rules/axe/4.7/heading-order?application=AxeChrome): in a future ticket, we will tackle adjusting header order for multiple pages (see challenges for details).
   * We also skipped checking accessibility of third-party widgets such as Google Translate as we cannot control the HTML they render.
 
 ### Challenges
@@ -228,8 +225,7 @@ regard, to date, our efforts have proven to be successful.
 * * *
 
 [How We Helped a Government Website Achieve Zero Accessibility
-Errors*](https://medium.com/civicactions/how-we-helped-a-government-website-
-achieve-zero-accessibility-errors-38e7cf3cc52a) was originally published in
+Errors*](https://medium.com/civicactions/how-we-helped-a-government-website-achieve-zero-accessibility-errors-38e7cf3cc52a) was originally published in
 [CivicActions](https://medium.com/civicactions) on Medium, where people are
 continuing the conversation by highlighting and responding to this story.
 
