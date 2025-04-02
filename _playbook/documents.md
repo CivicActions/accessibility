@@ -107,7 +107,7 @@ For publishing accessible electronic documents.
 *   [Create Accessible Documents](https://www.section508.gov/create/documents) (U.S. General Services Administration)
 *   [Publishing accessible documents](https://www.gov.uk/guidance/publishing-accessible-documents) (UK Government Digital Service)
 *   [How to Create Accessible Documents](https://www.torontomu.ca/accessibility/guides-resources/accessible-documents/) (Toronto Metropolitan University)
-*   [Understanding Document Accessibility](https://de.torontomu.ca/wa/documents/) (Toronto Metropolitan University)
+*   [Understanding Document Accessibility](https://de.torontomu.ca/wa/documents.html) (Toronto Metropolitan University)
 *   [SCULPT - Shaping documents and content for everyday accessible and inclusive practice](https://www.worcestershire.gov.uk/WCCSculpt) (Worcestershire County Council, UK)
 
 ## See also
