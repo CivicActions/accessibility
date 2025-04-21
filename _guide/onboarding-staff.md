@@ -88,7 +88,7 @@ Our accessibility workshop is one hour long and covers the basics of accessibili
 Each role in a company may need additional support in how they can best do their job. Our team has built role based documentation that can be viewed on [our Roles page](https://accessibility.civicactions.com/roles/). For more inspiration, we recommend these websites:
 
 * [UK's DWP Guidance for your job role](https://accessibility-manual.dwp.gov.uk/guidance-for-your-job-role)
-* [Digital.gov's Accessibility for Teams](https://accessibility.digital.gov/)
+* [Digital.gov's Accessibility for Teams](https://digital.gov/guides/accessibility-for-teams)
 
 ## Take a quiz
 After watching videos, reviewing company materials, and attending the accessibility workshop, we encourage new team members to take an accessibility quiz to help gauge their understanding of our training. Our goal is for them to score 80% or higher on this quiz or to reach out to the accessibility team with any questions they may have. To see an example of an accessibility quiz, view the quiz that we've created for new team members. 
