@@ -138,3 +138,5 @@ exclude:
   - public
   - medium-posts-script
   - .tugboat
+  - SECURITY.md
+  - Onboarding.md
