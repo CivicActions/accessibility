@@ -73,7 +73,7 @@ Accessibility related podcasts we recommend.
 ## Government-developed accessibility resources {#government-developed-accessibility-resources}
 
 *   [Accessibility Guide by 18F](https://accessibility.18f.gov/) -[18F Guide on GitHub](https://github.com/18F/accessibility)
-*   [Accessibility for Teams USA Gov](https://accessibility.digital.gov/) -[Accessibility for Teams on GitHub](https://github.com/GSA/accessibility-for-teams)
+*   [Accessibility for Teams USA Gov](https://digital.gov/guides/accessibility-for-teams) -[Accessibility for Teams on GitHub](https://github.com/GSA/accessibility-for-teams)
 *   [Accessibility Manual by UK's DWP](https://accessibility-manual.dwp.gov.uk/) -[Accessibility Manual on GitHub](https://github.com/dwp/accessibility-manual)
 *   [Accessibility Posters by UK's Home Office Digital](https://accessibility.blog.gov.uk/2016/09/02/dos-and-donts-on-designing-for-accessibility/) -[Posters on GitHub](https://github.com/UKHomeOffice/posters)
 *   [Digital Accessibility Toolkit by the Government of Canada](https://canada-ca.github.io/a11y/index.html) -[Digital Accessibility Toolkit on GitHub](https://github.com/canada-ca/a11y/)
