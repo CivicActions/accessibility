@@ -59,7 +59,7 @@ Currently CivicActions uses the following approaches that are open source.
 
 [Pa11y CI](https://github.com/pa11y/pa11y-ci) is a continuous integration (CI) runner that can test a few pages or an entire site for accessibility issues. Our projects include Pa11y CI in their CI pipelines and generate reports as artifacts or comments with the results of the testing.
 
-We are currently testing this [accessibility site using Pa11y CI](https://github.com/CivicActions/accessibility/tree/main/.github/workflows#pa11yyml) and [we blogged about it here](/posts/automated-accessibility-testing-leveraging-github-actions-and-pa11y-ci-with-axe) and [on opensource.com](https://opensource.com/article/23/2/automated-accessibility-testing).
+We are currently testing this [accessibility site using Pa11y CI](https://github.com/CivicActions/accessibility/blob/main/.github/workflows/pa11y.yml) and [we blogged about it here](/posts/automated-accessibility-testing-leveraging-github-actions-and-pa11y-ci-with-axe) and [on opensource.com](https://opensource.com/article/23/2/automated-accessibility-testing).
 
 Pa11y by default uses the [HTML_CodeSniffer](https://squizlabs.github.io/HTML_CodeSniffer/) accessibility engine, but it is recommended to switch to Pa11y with axe, which is [described in this UK Government Accessibility Manual](https://accessibility-manual.dwp.gov.uk/best-practice/automated-testing-using-axe-core-and-pa11y).  
 

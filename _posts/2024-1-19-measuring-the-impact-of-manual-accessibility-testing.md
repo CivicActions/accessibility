@@ -22,7 +22,7 @@ the Centers for Medicare and Medicaid (CMS), has increased our manual testing
 efforts. With all of this in mind, I thought it would be interesting to
 quantify how much effort we spent verifying accessibility issues via automated
 testing, manual testing, or a combination of both — especially as this relates
-to concerns raised in the recently published [Government-wide Section 508 Assessment](https://www.section508.gov/manage/section-508-assessment/#fn2). A
+to concerns raised in the recently published [Government-wide Section 508 Assessment](https://www.section508.gov/manage/section-508-assessment/). A
 few of the
 [criteria](https://www.section508.gov/manage/section-508-assessment/criteria-01/)
 directly address manual testing efforts:
