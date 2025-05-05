@@ -15,7 +15,7 @@ gitlab:
 drupal:
 speakerdeck:
 website: https://www.niradatta.info/
-external: false
+external: true
 ---
 
 Nira Datta is a team member of CivicActions Accessibility.
