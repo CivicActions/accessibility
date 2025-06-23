@@ -99,7 +99,7 @@ we:
   * Maintain an accessibility[ playbook](https://accessibility.civicactions.com/playbook/) and [guide](https://accessibility.civicactions.com/guide/) with a focus on open source solutions serving government
   * Promote and educate about solutions that are relevant, scalable, and reliable
   * Treat accessibility questions within the organization like a [customer support ticket](https://accessibility.civicactions.com/help), making it easy for our colleagues to ask questions and get help
-  * Run an [accessibility study group](https://learning.edx.org/course/course-v1:W3Cx+WAI0.1x+3T2019/home) within the organization to develop professional skills in accessibility (and work towards certification)
+  * Run an accessibility study group within the organization to develop professional skills in accessibility (and work towards certification)
   * Host a Slack channel to discuss current events and articles on accessibility
 
 ![](https://cdn-images-1.medium.com/max/1024/1*M9uci1WHOY320G5Zyd45FQ.png)The
