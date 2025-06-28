@@ -22,7 +22,8 @@ An authoring tool is software that can be used to create or modify content for u
 Automated accessibility testing should occur at different stages when creating digital content, from design to development. We recommend getting started with these tools and learning more about how to [implement automated testing](https://accessibility.civicactions.com/playbook/automated-testing). 
 
 * [Cypress with axe core](https://github.com/component-driven/cypress-axe): This combines the JavaScript testing framework of Cypress with the popular accessibility testing engine, axe core. 
-* [Pa11y CI](https://github.com/pa11y/pa11y-ci): This is a continuous integration (CI) runner that can test a few pages or an entire site for accessibility issues. 
+* [wick-a11y](https://github.com/sclavijosuero/wick-a11y): A Cypress plugin that enhances accessibility testing by providing detailed violation reports, HTML documentation with screenshots, and audible feedback. It builds on axe-core to offer better visualization and reporting of accessibility issues directly in the Cypress test interface.
+* [Pa11y CI](https://github.com/pa11y/pa11y-ci): This is a continuous integration (CI) runner that can test a few pages or an entire site for accessibility issues.
 
 ## Bookmarklets
 Bookmarklets provide quick, automated checks for accessibility issues. They can test for a wide variety of issues, such as testing interactive elements, focus, touch events, and reading order. These are some of the bookmarklets that we recommend, but there are many more out there! 
