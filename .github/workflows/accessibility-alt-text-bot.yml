@@ -1,6 +1,4 @@
 name: Accessibility-alt-text-bot
-permissions:
-  contents: read
 on: 
   issues:
     types: [opened, edited]
