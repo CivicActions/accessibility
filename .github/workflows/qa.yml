@@ -1,4 +1,6 @@
 name: QA pull request
+permissions:
+  contents: write
 
 on:
   pull_request:

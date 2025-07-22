@@ -1,4 +1,6 @@
 name: Checking links
+permissions:
+  contents: read
 
 on:
   # Automatic check weekly
