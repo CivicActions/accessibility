@@ -1,4 +1,6 @@
 name: Updating branch that is configured to auto-merge
+permissions:
+  contents: write
 on:
   push:
     branches:
