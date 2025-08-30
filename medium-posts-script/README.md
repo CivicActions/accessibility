@@ -1,4 +1,4 @@
-# Download and CivicActions medium accessibility posts
+# Download CivicActions Medium Accessibility Posts
 
 Use the script `rss2md.py` to download CivicActions medium accessibility posts using https://medium.com/feed/civicactions/tagged/Accessibility and save them as posts in this site.
 
