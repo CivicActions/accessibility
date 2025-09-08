@@ -60,7 +60,7 @@ Worldwide, government website design is being led by open source initiatives.
 *   [Intuit's Design-systems-cli](https://intuit.github.io/design-systems-cli/) — [Intuit on GitHub](https://github.com/intuit/design-systems-cli) [Quickbooks' Accessibility](https://designsystem.quickbooks.com/bolt/accessibility/)
 *   [Spark Design System](https://sparkdesignsystem.com/) — [Spark on GitHub](https://github.com/sparkdesignsystem/spark-design-system) [Spark's Accessibility](https://sparkdesignsystem.com/principles/accessibility-guidelines/#accessibility-guidelines)
 *   [Redhat's Patternfly](https://www.patternfly.org/) — [Patternfly on GitHub](https://github.com/patternfly/patternfly)
-*   [SAP's UI5](https://sap.github.io/ui5-webcomponents/) — [UI5 on GitHub](https://github.com/SAP/ui5-webcomponents) (uses Web Components)
+*   [SAP's UI5](http://ui5.github.io/webcomponents/) — [UI5 on GitHub](https://github.com/UI5/webcomponents) (uses Web Components)
 *   [Phase2's Outline](https://outline.phase2tech.com/) — [Outline on GitHub](https://github.com/phase2/outline) (uses Web Components)
 *   [Washington Post's Design System (UiKit)](https://build.washingtonpost.com)
 *   [GitHub's Primer](https://primer.style/) — [Primer on GitHub](https://github.com/primer)
