@@ -102,7 +102,7 @@ Accessibility onboarding is key to ensuring that all team members have a basic u
 ## Resources
 
 * [Microsoft's Accessibility Fundamentals Workshop](https://docs.microsoft.com/en-us/learn/paths/accessibility-fundamentals/)
-* [Disability:In's Disability Fundamentals Training for Managers](https://disabilityin.org/resource/disability-fundamentals-training-for-managers/)
+* [Disability:In's Disability Fundamentals Training for Managers](https://web.archive.org/web/20250806094735/https://disabilityin.org/resource/disability-fundamentals-training-for-managers/)
 
 ## Next Steps
 
