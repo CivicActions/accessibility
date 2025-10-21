@@ -40,7 +40,7 @@ Browser extensions can provide powerful tools for analyzing page accessibility.
 * [Deque's axe Browser extension](https://www.deque.com/axe/browser-extensions/): Test web applications and identify accessibility issues.
 
 ## Color contrast checker
-Color contrast is an important part of accessibility. Text and background colors must have enough contrast so that the content on the page can be easily seen. Web Content Accessibility Guidelines (WCAG) 2 suggest a minimum contrast of 4:5:1. W3C has an [Understanding SC 1.4.3 page](https://www.w3.org/TR/UNDERSTANDING-WCAG20/visual-audio-contrast-contrast.html) that explains this in greater detail. These tools can help quickly check if the colors on a page meet these guidelines.
+Color contrast is an important part of accessibility. Text and background colors must have enough contrast so that the content on the page can be easily seen. Web Content Accessibility Guidelines (WCAG) 2 suggest a minimum contrast of 4:5:1. W3C has an [Understanding SC 1.4.3 page](https://www.w3.org/TR/UNDERSTANDING-WCAG20/visual-audio-contrast-contrast.html) that explains this in greater detail, if you are new to accessibility [WebAim has great resources](https://webaim.org/articles/contrast/). These tools can help quickly check if the colors on a page meet these guidelines.
 
 * [Colour Contrast Analyser (CCA)](https://www.tpgi.com/color-contrast-checker/) - Best open source desktop application for color contrast (Windows/Mac). 
 * [ColorZilla for Chrome](https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp) or [ColorZilla for Firefox](https://addons.mozilla.org/en-US/firefox/addon/colorzilla/): Best open source browser extension/plugin for Chrome or Firefox browsers.
