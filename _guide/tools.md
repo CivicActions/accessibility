@@ -40,11 +40,18 @@ Browser extensions can provide powerful tools for analyzing page accessibility.
 * [Deque's axe Browser extension](https://www.deque.com/axe/browser-extensions/): Test web applications and identify accessibility issues.
 
 ## Color contrast checker
-Color contrast is an important part of accessibility. Text and background colors must have enough contrast so that the content on the page can be easily seen. Web Content Accessibility Guidelines (WCAG) 2 suggest a minimum contrast of 4:5:1. W3C has an [Understanding SC 1.4.3 page](https://www.w3.org/TR/UNDERSTANDING-WCAG20/visual-audio-contrast-contrast.html) that explains this in greater detail. These tools can help quickly check if the colors on a page meet these guidelines.
+Color contrast is an important part of accessibility. Text and background colors must have enough contrast so that the content on the page can be easily seen. Web Content Accessibility Guidelines (WCAG) 2 suggest a minimum contrast of 4:5:1. W3C has an [Understanding SC 1.4.3 page](https://www.w3.org/TR/UNDERSTANDING-WCAG20/visual-audio-contrast-contrast.html) that explains this in greater detail, if you are new to accessibility [WebAim has great resources](https://webaim.org/articles/contrast/). These tools can help quickly check if the colors on a page meet these guidelines.
 
-* [WebAIM contrast checker](https://webaim.org/resources/contrastchecker/): Colors can be checked on this webpage, using a bookmarklet, or using their API. 
-* [ColorZilla for Chrome](https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp) or [ColorZilla for Firefox](https://addons.mozilla.org/en-US/firefox/addon/colorzilla/): A color picker that can be used in Chrome or Firefox browsers.
-* [Coolors Color Contrast Checker](https://coolors.co/contrast-checker/112a46-acc8e5): Check colors on the webpage.
+* [Colour Contrast Analyser (CCA)](https://www.tpgi.com/color-contrast-checker/) - Best open source desktop application for color contrast (Windows/Mac). 
+* [ColorZilla for Chrome](https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp) or [ColorZilla for Firefox](https://addons.mozilla.org/en-US/firefox/addon/colorzilla/): Best open source browser extension/plugin for Chrome or Firefox browsers.
+* [Contrast Report](https://contrast.report/) - Innovative site which has a pop-out function that allows for building collections of different color combinations.
+* [tanaguru contrast finder](https://contrast-finder.tanaguru.com/) - Best tool for proposing alternative colors when a combination fails WCAG.
+* [Color Contrast Checker](https://color-contrast.incluud.dev/?fg=521b92&bg=fefc78) - Great for designers who want to see the implications for charts, a sample color palette and design tokens.
+
+Other options include:
+* [Coolors Color Contrast Checker](https://coolors.co/contrast-checker)
+* [Colour contrast checker](https://colourcontrast.cc/)
+* [ColorContrast.dev](https://colorcontrast.dev/)
 
 ## Design tool integrations
 Different design tools can be added to Figma, Sketch, and Storybook to ensure that accessibility criteria is being met. There are plenty of different integrations available, but these are the ones we recommend to start with. 
