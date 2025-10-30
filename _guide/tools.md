@@ -52,6 +52,8 @@ Other options include:
 * [Coolors Color Contrast Checker](https://coolors.co/contrast-checker)
 * [Colour contrast checker](https://colourcontrast.cc/)
 * [ColorContrast.dev](https://colorcontrast.dev/)
+* [OddContrast](https://www.oddcontrast.com/)
+* [Accessible Color Palette Generator](https://thisisfranciswu.com/enterprise-ui-palette-generator/)
 
 ## Design tool integrations
 Different design tools can be added to Figma, Sketch, and Storybook to ensure that accessibility criteria is being met. There are plenty of different integrations available, but these are the ones we recommend to start with. 
