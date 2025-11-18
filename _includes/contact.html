@@ -1,3 +1,4 @@
+<script src="https://www.google.com/recaptcha/api.js" async defer></script>
 <form action="https://usebasin.com/f/9cbe63444dee" method="POST">
     <div class="form-input">
         <label for="email-address">Email address<abbr title="required" class="usa-hint usa-hint--required">*</abbr></label>
@@ -6,6 +7,9 @@
     <div class="form-input">
         <label for="text-area">How can we help you?<abbr title="required" class="usa-hint usa-hint--required">*</abbr></label>
         <textarea id="text-area" name="text-area"></textarea>
+    </div>
+    <div class="form-input">
+        <div class="g-recaptcha" data-sitekey="6Lew3SMUAAAAAJ82QoS7gqOTkRI_dhYrFy1f7Sqy"></div>
     </div>
     <button class="usa-button" type="submit">Submit</button>
 </form>
