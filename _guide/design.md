@@ -49,7 +49,6 @@ Worldwide, government website design is being led by open source initiatives.
 *   [Impact Design System](https://demos.creative-tim.com/impact-design-system/index.html) — [Impact Desigh System on GitHub](https://github.com/creativetimofficial/impact-design-system)
 *   [VMWare's Clarity Design System](https://clarity.design/) — [Clarity on GitHub](https://github.com/vmware/clarity) [Clarity's Accessibility](https://clarity.design/get-started/support/) (uses Web Components)
 *   [Emulsify](https://www.emulsify.info/) — [Emulsify on GitHub](https://github.com/emulsify-ds) [Emulsify's Accessibility](https://docs.emulsify.info/usage/accessibility-testing)
-*   [ING's Lion Design System](https://lion-web-components.netlify.app/?path=/story/*) — [Lion on GitHub](https://github.com/ing-bank/lion) [Lion's Accessibility](https://lion-web.netlify.app/blog/ing-open-sources-lion/#accessibility) (uses Web Components)
 *   [Talend's Coral Design System](https://design.talend.com/) — [Coral on GitHub](https://github.com/Talend/ui/) (uses React Components)
 *   [Orange Digital Accessibility](https://a11y-guidelines.orange.com/en/) — [Orange a11y-guidelines on GitHub](https://github.com/Orange-OpenSource/a11y-guidelines)
 *   [Google's Material Design](https://material.io/) — [Material on GitHub](https://github.com/material-components) [Material's Accessibility](https://material.io/design/usability/accessibility.html) (uses Web Components)
