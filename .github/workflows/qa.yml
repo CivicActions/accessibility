@@ -32,7 +32,7 @@ jobs:
         run: bundle exec jekyll build
 
       - name: Replace contents of robots.txt.
-        uses: jacobtomlinson/gha-find-replace@master
+        uses: jacobtomlinson/gha-find-replace@v3
         with:
           find: "Sitemap: https://accessibility-qa.civicactions.com/sitemap.xml"
           replace: |
@@ -41,7 +41,7 @@ jobs:
           include: "robots.txt"
 
       - name: Push _site directory to QA repository.
-        uses: cpina/github-action-push-to-another-repository@main
+        uses: cpina/github-action-push-to-another-repository@v1.7.3
         env:
           API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
         with:
