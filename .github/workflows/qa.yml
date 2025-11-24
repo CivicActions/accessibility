@@ -1,6 +1,7 @@
 name: QA pull request
 permissions:
   contents: write
+  pull-requests: write
 
 on:
   pull_request:
@@ -17,10 +18,19 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Find and replace the main site domain.
-        uses: jacobtomlinson/gha-find-replace@master
+        uses: jacobtomlinson/gha-find-replace@v3
         with:
           find: "accessibility.civicactions.com"
           replace: "accessibility-qa.civicactions.com"
+
+      - name: Replace contents of `_includes/meta.html`.
+        uses: jacobtomlinson/gha-find-replace@v3
+        with:
+          find: '<meta http-equiv="X-UA-Compatible" content="IE=edge">'
+          replace: |
+            <meta http-equiv="X-UA-Compatible" content="IE=edge">
+            <meta name="robots" content="noindex">
+          include: "_includes/meta.html"
 
       - name: Install jekyll site dependencies.
         uses: ruby/setup-ruby@v1
@@ -31,17 +41,8 @@ jobs:
       - name: Build jekyll site.
         run: bundle exec jekyll build
 
-      - name: Replace contents of robots.txt.
-        uses: jacobtomlinson/gha-find-replace@master
-        with:
-          find: "Sitemap: https://accessibility-qa.civicactions.com/sitemap.xml"
-          replace: |
-            User-agent: *
-            Disallow: /
-          include: "robots.txt"
-
       - name: Push _site directory to QA repository.
-        uses: cpina/github-action-push-to-another-repository@main
+        uses: cpina/github-action-push-to-another-repository@v1.7.3
         env:
           API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
         with:
