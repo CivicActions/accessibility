@@ -26,7 +26,7 @@ Sometimes, you don't need to reinvent the wheel. If there's already an existing 
 
 * [W3C's Web Accessibility Initiative (WAI)](https://www.w3.org/WAI/test-evaluate/preliminary/)
   * Basic checklist, not designed to be fully robust but rather to give you a starting point 
-* [18F - USA Government](https://accessibility.18f.gov/checklist/)
+* [18F.org - Previously USA Government](https://guides.18f.org/accessibility/checklist/)
   * Checklist geared toward US federal websites
 * [A11yProject](https://www.a11yproject.com/checklist/)
   * Robust checklist using WCAG criteria and broken update into element categories (e.g. Content, Images, etc.) with understandable action items
