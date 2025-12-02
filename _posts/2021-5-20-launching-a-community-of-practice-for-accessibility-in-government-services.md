@@ -68,8 +68,7 @@ and best practices. It serves as a digital hub for our growing community.
 We're already seeing a growing interest in the conversation on improving the
 accessibility of government services. We've presented at the General Services
 Administration (GSA) Accessibility Guild and the GSA has incorporated our
-[automated testing solution](https://engineering.18f.gov/accessibility-
-scanning/) on their website.
+automated testing solution on their website.
 
 We're also talking about:
 
