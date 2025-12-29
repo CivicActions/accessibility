@@ -21,7 +21,7 @@
   "devDependencies": {
     "axe-core": "^4.4.3",
     "cached-path-relative": "^1.1.0",
-    "cypress": "^15.7.0",
+    "cypress": "^15.8.1",
     "cypress-axe": "^1.7.0",
     "cypress-real-events": "^1.15.0",
     "junit-report-builder": "^3.0.1",
