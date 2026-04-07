@@ -8,7 +8,7 @@ categories:
  - 
 sidenav: docs
 permalink: /about/people/nira-datta
-linkedin: https://www.linkedin.com/in/niradatta/
+linkedin:
 twitter:
 github:
 gitlab:
