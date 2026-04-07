@@ -4,8 +4,8 @@ title: "Delivering Digital First: Turning 21st Century IDEA into Action"
 date: 2024-1-31 08:00:00 -0800
 author: civicactions
 ---
-By [Mike Gifford](https://www.linkedin.com/in/mgifford/) and [Emily
-Ryan](https://www.linkedin.com/in/emilycryan/)
+By [Mike Gifford](https://www.linkedin.com/in/mgifford/) and Emily
+Ryan
 
 ![Capitol building with American flag](https://cdn-images-1.medium.com/max/1024/1*Gjq0z86HnUQR33ezNnxFog.jpeg)
 
