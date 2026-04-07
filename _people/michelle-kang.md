@@ -8,7 +8,7 @@ categories:
  - 
 sidenav: docs
 permalink: /about/people/michelle-kang
-linkedin: https://www.linkedin.com/in/mikang/
+linkedin:
 twitter: 
 github: https://github.com/mikang
 gitlab: 
