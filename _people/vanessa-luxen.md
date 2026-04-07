@@ -8,7 +8,7 @@ categories:
  - 
 sidenav: docs
 permalink: /about/people/vanessa-luxen
-linkedin: https://www.linkedin.com/in/vanessa-luxen/?locale=fr_FR
+linkedin:
 twitter: 
 github: 
 gitlab: 
@@ -18,4 +18,4 @@ website:
 external: true
 ---
 
-Vanessa Luxen is a team member of CivicActions Accessibility.
+Vanessa Luxen was a team member of CivicActions Accessibility.

@@ -8,7 +8,7 @@ categories:
  - 
 sidenav: docs
 permalink: /about/people/nira-datta
-linkedin: https://www.linkedin.com/in/niradatta/
+linkedin:
 twitter:
 github:
 gitlab:
@@ -18,4 +18,4 @@ website: https://www.niradatta.info/
 external: true
 ---
 
-Nira Datta is a team member of CivicActions Accessibility.
+Nira Datta was a team member of CivicActions Accessibility.

@@ -60,7 +60,6 @@ look!
 
  **Connect with Jennifer**
 
-  * [LinkedIn](https://www.linkedin.com/in/jennifer-aube-81119a91/)
   * [GitHub](https://github.com/jaube05)
   * [Drupal](https://www.drupal.org/u/jenniferaube)
 
