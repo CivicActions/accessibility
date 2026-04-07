@@ -18,4 +18,4 @@ website: https://www.niradatta.info/
 external: true
 ---
 
-Nira Datta is a team member of CivicActions Accessibility.
+Nira Datta was a team member of CivicActions Accessibility.
