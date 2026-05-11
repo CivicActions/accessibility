@@ -67,7 +67,6 @@ widespread.
 
  **Connect with Mike**
 
-  * [LinkedIn](https://www.linkedin.com/in/mgifford/?originalSubdomain=ca)
   * [GitHub](https://github.com/mgifford)
   * [Drupal](https://www.drupal.org/u/mgifford)
   * [Medium](https://medium.com/@mgifford)
