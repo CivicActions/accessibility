@@ -185,7 +185,6 @@ too.
 
 ####  **Connect with Mike**
 
-  * [LinkedIn](https://www.linkedin.com/in/mgifford/)
   * [GitHub](https://github.com/mgifford)
   * [Medium](https://mgifford.medium.com/)
   * [Twitter](https://twitter.com/mgifford)
