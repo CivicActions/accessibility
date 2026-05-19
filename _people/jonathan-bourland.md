@@ -13,7 +13,7 @@ linkedin: https://www.linkedin.com/in/jonathan-bourland-6896334/
 twitter:
 github: https://github.com/jonbot
 gitlab:
-drupal:
+drupal: https://www.drupal.org/u/majorrobot
 speakerdeck:
 website:
 external: false
