@@ -76,7 +76,6 @@ Automated readability tools won't catch everything. You'll need to test your con
 ## Resources
 
 * [Federal Plain Language guidelines](https://www.plainlanguage.gov/guidelines/)
-* [Plain Language Association International guidelines](https://plainlanguagenetwork.org/plain-language/what-is-plain-language/)
 * [WCAG 2.1 Reading level success criterion](https://www.w3.org/WAI/WCAG21/Understanding/reading-level.html)
 
 ## Next steps
@@ -86,4 +85,3 @@ When you are ready to learn more, here are some further guides and resources tha
 * [Accessible documents](https://accessibility.civicactions.com/guide/documents)
 * [Social media guidelines](https://accessibility.civicactions.com/guide/social-media)
 * [Additional tools](https://accessibility.civicactions.com/guide/tools)
-
