@@ -137,8 +137,8 @@ For the White House team, and for all of us working to create digital services
 that are usable by the greatest number of people, there are guidelines to
 help. If any team is looking to start with a robust accessibility statement,
 they may start with the advice of accessibility expert Denis Boudreau, who
-summarized [the four essential elements of an accessibility
-statement](https://twitter.com/dboudreau/status/1191780846501584899). It
+summarized the four essential elements of an accessibility
+statement. It
 should have:
 
   * Statement of intention to best serve people with disabilities
