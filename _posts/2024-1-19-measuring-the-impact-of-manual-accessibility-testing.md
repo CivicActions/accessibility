@@ -63,7 +63,7 @@ Appendix A: Required testing methods by WCAG criteria), based on a [similar
 matrix published by Usablenet](https://blog.usablenet.com/automated-wcag-testing-is-not-enough-for-web-accessibility-ada-compliance) and the [axe-core
 rule definitions](https://github.com/dequelabs/axe-core/blob/develop/doc/rule-descriptions.md). Each axe-core rule is assigned an Issue Type, which notes
 whether a rule can result in failure (a clear accessibility violation), or if
-it needs review, which Deque defines as "there may or not be an accessibility
+it needs review, which [Deque defines as](https://docs.deque.com/devtools-for-web/4/en/glossary#needs-review), "there may or not be an accessibility
 issue and more investigation is required." If an axe-core rule's issue type
 includes "needs review," that rule, and by extension the WCAG criteria tested,
 may require manual testing.
