@@ -50,6 +50,11 @@ jobs:
           JIRA_PROJECT_KEY: ${{ secrets.JIRA_PROJECT_KEY }}
           PROOFER_OUTPUT: ${{ steps.link-checker.outputs.output }}
         run: |
+          if [ -z "$JIRA_BASE_URL" ] || [ -z "$JIRA_API_TOKEN" ] || [ -z "$JIRA_PROJECT_KEY" ]; then
+            echo "Skipping Jira ticket creation: One or more required Jira variables (JIRA_BASE_URL, JIRA_API_TOKEN, JIRA_PROJECT_KEY) are not configured."
+            exit 0
+          fi
+
           jira_url="${JIRA_BASE_URL%/}"
           if [[ ! "$jira_url" =~ ^https?:// ]]; then
             jira_url="https://$jira_url"
