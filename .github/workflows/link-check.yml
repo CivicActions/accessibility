@@ -43,7 +43,7 @@ jobs:
           exit $exit_code
 
       - name: Create Jira ticket on failure
-        if: steps.link-checker.outcome == 'failure'
+        if: github.event_name == 'schedule' && steps.link-checker.outcome == 'failure'
         env:
           JIRA_BASE_URL: ${{ secrets.JIRA_BASE_URL }}
           JIRA_API_TOKEN: ${{ secrets.JIRA_API_TOKEN }}
@@ -117,3 +117,9 @@ jobs:
             --header "Content-Type: application/json" \
             --header "Accept: application/json" \
             --data "$payload"
+
+      - name: Check for link checker failures
+        if: steps.link-checker.outcome == 'failure'
+        run: |
+          echo "::error::Link check failed. See the 'Run HTML proofer' step for details."
+          exit 1
