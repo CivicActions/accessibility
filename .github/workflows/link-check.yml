@@ -3,10 +3,11 @@ permissions:
   contents: read
 
 on:
-  # Automatic check weekly
+  # Automatic check monthly
   schedule:
-    - cron: "0 9 * * 1"
+    - cron: "0 9 1 * *"
   pull_request:
+  workflow_dispatch:
 
 jobs:
   build:
@@ -26,5 +27,100 @@ jobs:
       - name: Build site
         run: npm run build
 
-      - name: Run HTML proofer.
-        run: npm run link-checker
+      - name: Run HTML proofer
+        id: link-checker
+        continue-on-error: true
+        run: |
+          set +e
+          output=$(npm run link-checker 2>&1)
+          exit_code=$?
+          echo "$output"
+          delimiter="$(openssl rand -hex 8)"
+          {
+            echo "output<<${delimiter}"
+            echo "$output"
+            echo "${delimiter}"
+          } >> "$GITHUB_OUTPUT"
+          exit $exit_code
+
+      - name: Create Jira ticket on failure
+        if: (github.event_name == 'schedule' || github.event_name == 'workflow_dispatch') && steps.link-checker.outcome == 'failure'
+        env:
+          JIRA_BASE_URL: ${{ secrets.JIRA_BASE_URL }}
+          JIRA_API_TOKEN: ${{ secrets.JIRA_API_TOKEN }}
+          JIRA_PROJECT_KEY: ${{ secrets.JIRA_PROJECT_KEY }}
+          PROOFER_OUTPUT: ${{ steps.link-checker.outputs.output }}
+        run: |
+          if [ -z "$JIRA_BASE_URL" ] || [ -z "$JIRA_API_TOKEN" ] || [ -z "$JIRA_PROJECT_KEY" ]; then
+            echo "Skipping Jira ticket creation: One or more required Jira variables (JIRA_BASE_URL, JIRA_API_TOKEN, JIRA_PROJECT_KEY) are not configured."
+            exit 0
+          fi
+
+          jira_url="${JIRA_BASE_URL%/}"
+          if [[ ! "$jira_url" =~ ^https?:// ]]; then
+            jira_url="https://$jira_url"
+          fi
+
+          run_url="${GITHUB_SERVER_URL}/${GITHUB_REPOSITORY}/actions/runs/${GITHUB_RUN_ID}"
+
+          payload=$(jq -n \
+            --arg project "$JIRA_PROJECT_KEY" \
+            --arg summary "Link check workflow failed" \
+            --arg run_url "$run_url" \
+            --arg logs "${PROOFER_OUTPUT:-No output captured}" \
+            '{
+              fields: {
+                project: { key: $project },
+                summary: $summary,
+                issuetype: { name: "Bug" },
+                description: {
+                  type: "doc",
+                  version: 1,
+                  content: [
+                    {
+                      type: "paragraph",
+                      content: [
+                        {
+                          type: "text",
+                          text: "Workflow run logs: "
+                        },
+                        {
+                          type: "text",
+                          text: $run_url,
+                          marks: [
+                            {
+                              type: "link",
+                              attrs: {
+                                href: $run_url
+                              }
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      type: "codeBlock",
+                      content: [
+                        {
+                          type: "text",
+                          text: $logs
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            }')
+
+          curl --request POST \
+            --url "${jira_url}/rest/api/3/issue" \
+            --header "Authorization: ******" \
+            --header "Content-Type: application/json" \
+            --header "Accept: application/json" \
+            --data "$payload"
+
+      - name: Check for link checker failures
+        if: steps.link-checker.outcome == 'failure'
+        run: |
+          echo "::error::Link check failed. See the 'Run HTML proofer' step for details."
+          exit 1
