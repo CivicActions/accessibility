@@ -95,6 +95,7 @@ A portable document format (PDF) is a file format that helps share and print doc
 When working to make content accessible, it can be helpful to learn how people with disabilities experience the web. These simulators help develop an understanding of how to make content accessible. 
 
 * [A11Y: Color blindness empathy test](https://vinceumo.github.io/A11Y-Color-Blindness-Empathy-Test/): A web-based tool created to help designers and developers better understand color blindness and visual imparity.
+* [Color Blindness Simulator](https://colorvisionsimulator.com/): Free browser-based image review with original/simulated comparison and a grayscale difference view for locating color-dependent interface cues. Images are processed locally; this is a design approximation, not a clinical test.
 * [Funkify Chrome Extension](https://www.funkify.org/): Not open source, but a free version is available which simulates dyslexia, different cognitive conditions, and vision impairments.
 * [Metamatrix Web Disability Simulator Chrome Extension](https://chrome.google.com/webstore/detail/web-disability-simulator/olioanlbgbpmdlgjnnampnnlohigkjla): Simulates color blindness, low vision, dyslexia and more.
 
