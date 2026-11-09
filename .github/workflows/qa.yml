@@ -15,7 +15,7 @@ jobs:
 
     steps:
       - name: Checkout source.
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
 
       - name: Find and replace the main site domain.
         uses: jacobtomlinson/gha-find-replace@v3
