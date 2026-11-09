@@ -53,7 +53,7 @@ Worldwide, government website design is being led by open source initiatives.
 *   [Orange Digital Accessibility](https://a11y-guidelines.orange.com/en/) — [Orange a11y-guidelines on GitHub](https://github.com/Orange-OpenSource/a11y-guidelines)
 *   [Google's Material Design](https://material.io/) — [Material on GitHub](https://github.com/material-components) [Material's Accessibility](https://material.io/design/usability/accessibility.html) (uses Web Components)
 *   [Adobe's Spectrum](https://spectrum.adobe.com/) — [Spectrum's Inclusive Design](https://spectrum.adobe.com/page/inclusive-design/) (uses Web Components)
-*   [Microsoft's Fluent](https://www.microsoft.com/design/fluent/) [Fluent UI on GitHub](https://github.com/microsoft/fluentui)
+*   [Microsoft's Fluent](https://fluent2.microsoft.design/) [Fluent UI on GitHub](https://github.com/microsoft/fluentui)
 *   [Bridge Lab's Bold](https://bold.bridge.ufsc.br/en/) — [Bold on GitHub](https://github.com/laboratoriobridge/bold) [Bold's Accessibility](https://bold.bridge.ufsc.br/en/design-guidelines/accessibility/)
 *   [Shopify's Polaris](https://polaris.shopify.com/) — [Polaris on GitHub](https://github.com/topics/shopify-polaris) [Polaris' Accessibility](https://polaris.shopify.com/foundations/accessibility)
 *   [Intuit's Design-systems-cli](https://intuit.github.io/design-systems-cli/) — [Intuit on GitHub](https://github.com/intuit/design-systems-cli) [Quickbooks' Accessibility](https://designsystem.quickbooks.com/bolt/accessibility/)
