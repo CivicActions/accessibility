@@ -48,7 +48,7 @@ jobs:
         if: (github.event_name == 'schedule' || github.event_name == 'workflow_dispatch') && steps.link-checker.outcome == 'failure'
         env:
           PROOFER_OUTPUT: ${{ steps.link-checker.outputs.output }}
-        uses: actions/github-script@v7
+        uses: actions/github-script@v9
         with:
           script: |
             const title = 'Link check workflow failed';
