@@ -23,7 +23,7 @@
     "cached-path-relative": "^1.1.0",
     "cypress": "^15.15.0",
     "cypress-axe": "^1.7.0",
-    "cypress-real-events": "^1.15.0",
+    "cypress-real-events": "^1.15.1",
     "junit-report-builder": "^3.0.1",
     "pa11y-ci": "^5.0.0",
     "uswds": "^2.11.2",
